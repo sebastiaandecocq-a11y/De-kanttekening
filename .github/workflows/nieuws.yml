@@ -1,0 +1,106 @@
+name: Nieuws ophalen
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  haal-nieuws:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Nieuws ophalen via RSS feeds
+        run: |
+          python3 << 'PYTHON'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import json
+          import re
+          from datetime import datetime, timezone
+
+          FEEDS = [
+            {"naam": "Reuters",        "url": "https://feeds.reuters.com/reuters/worldNews"},
+            {"naam": "BBC World",      "url": "http://feeds.bbci.co.uk/news/world/rss.xml"},
+            {"naam": "Al Jazeera",     "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+            {"naam": "AP News",        "url": "https://feeds.apnews.com/apnews/worldnews"},
+            {"naam": "Guardian",       "url": "https://www.theguardian.com/world/rss"},
+            {"naam": "Foreign Policy", "url": "https://foreignpolicy.com/feed/"},
+          ]
+
+          TREFWOORDEN = ['war','conflict','military','troops','attack','missile','sanction','nato','ukraine','russia','gaza','israel','iran','china','taiwan','nuclear','coup','election','diplomat','treaty','alliance','minister','president','summit','ceasefire','offensive','strike','rebel','bomb','refugee','peace','talks','invasion','army','navy']
+
+          def regio(t, d):
+            s = (t+' '+(d or '')).lower()
+            if any(w in s for w in ['ukraine','russia','zelenskyy','putin','kyiv','donbas']): return 'Oekraïne'
+            if any(w in s for w in ['gaza','hamas','palestine','netanyahu','west bank','hezbollah']): return 'Gaza/Israël'
+            if any(w in s for w in ['iran','tehran','khamenei','irgc']): return 'Iran'
+            if any(w in s for w in ['china','beijing','taiwan','xi jinping']): return 'China/Taiwan'
+            if any(w in s for w in ['north korea','kim jong','pyongyang']): return 'Noord-Korea'
+            if any(w in s for w in ['usa','united states','washington','trump','pentagon']): return 'VS'
+            if any(w in s for w in ['nato','european','brussels','germany','france']): return 'Europa'
+            if any(w in s for w in ['syria','iraq','lebanon','saudi','yemen','turkey']): return 'Midden-Oosten'
+            if any(w in s for w in ['africa','sudan','somalia','ethiopia','congo']): return 'Afrika'
+            return 'Wereld'
+
+          def urgentie(t):
+            t = t.lower()
+            if any(w in t for w in ['killed','attack','missile','strike','bomb','coup','nuclear','invasion']): return 'hoog'
+            if any(w in t for w in ['military','sanction','ceasefire','summit','election']): return 'midden'
+            return 'laag'
+
+          def clean(s):
+            if not s: return ''
+            return re.sub(r'\s+',' ',re.sub(r'<[^>]+>','',s)).strip()[:300]
+
+          def tijdgeleden(ds):
+            try:
+              from email.utils import parsedate_to_datetime
+              diff = int((datetime.now(timezone.utc)-parsedate_to_datetime(ds)).total_seconds()/60)
+              if diff<60: return f'{diff} min geleden'
+              if diff<1440: return f'{diff//60} uur geleden'
+              return f'{diff//1440} dagen geleden'
+            except: return ''
+
+          artikelen = []
+          for feed in FEEDS:
+            try:
+              req = urllib.request.Request(feed['url'],headers={'User-Agent':'Mozilla/5.0'})
+              with urllib.request.urlopen(req,timeout=10) as r: content=r.read()
+              root = ET.fromstring(content)
+              for item in (root.findall('.//item') or [])[:8]:
+                titel = clean(item.findtext('title') or '')
+                desc  = clean(item.findtext('description') or '')
+                url   = (item.findtext('link') or '').strip()
+                datum = item.findtext('pubDate') or ''
+                if not titel: continue
+                if not any(w in (titel+' '+desc).lower() for w in TREFWOORDEN): continue
+                artikelen.append({'titel':titel,'beschrijving':desc,'url':url,'datum':tijdgeleden(datum),'regio':regio(titel,desc),'urgentie':urgentie(titel),'bron':feed['naam'],'quote':''})
+            except Exception as e: print(f"Fout {feed['naam']}: {e}")
+
+          volgorde = {'hoog':0,'midden':1,'laag':2}
+          artikelen.sort(key=lambda a:volgorde.get(a['urgentie'],2))
+
+          gezien,uniek=[],[]
+          for a in artikelen:
+            woorden=set(a['titel'].lower().split())
+            if not any(len(woorden&g)/max(len(woorden),1)>0.6 for g in gezien):
+              gezien.append(woorden); uniek.append(a)
+
+          with open('nieuws.json','w',encoding='utf-8') as f:
+            json.dump({'bijgewerkt':datetime.now(timezone.utc).strftime('%d %b %Y %H:%M UTC'),'artikelen':uniek[:20],'osint':[],'ticker':[a['titel'] for a in uniek[:10]]},f,ensure_ascii=False,indent=2)
+          print(f"✅ {len(uniek)} artikelen")
+          PYTHON
+
+      - name: Commit nieuws.json
+        run: |
+          git config user.name "Kanttekening Bot"
+          git config user.email "bot@kanttekening.nl"
+          git add nieuws.json
+          git diff --staged --quiet || git commit -m "📰 Nieuws $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
