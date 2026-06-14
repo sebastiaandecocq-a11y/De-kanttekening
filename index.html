@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>De Kanttekening — Wereld</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --zwart: #0A0A0A; --donker: #141414; --grijs: #252525;
+      --lichtgrijs: #777; --wit: #F0EEE8; --rood: #C8281E;
+      --oranje: #D4610A; --geel: #B8960C; --accent: #E0D8C8;
+    }
+    body { background: var(--zwart); color: var(--wit); font-family: 'Inter', sans-serif; font-size: 15px; line-height: 1.6; }
+
+    header { border-bottom: 1px solid #222; padding: 0 24px; }
+    .header-top { display: flex; justify-content: space-between; align-items: center; padding: 8px 0; border-bottom: 1px solid #1A1A1A; font-family: 'Space Mono', monospace; font-size: 10px; color: var(--lichtgrijs); letter-spacing: 0.06em; }
+    .logo-wrap { text-align: center; padding: 20px 0 16px; }
+    .logo { font-family: 'Playfair Display', serif; font-size: clamp(36px, 7vw, 72px); font-weight: 900; letter-spacing: -0.03em; color: var(--wit); line-height: 1; }
+    .logo span { color: var(--rood); }
+    .tagline { font-family: 'Space Mono', monospace; font-size: 10px; color: var(--lichtgrijs); letter-spacing: 0.2em; text-transform: uppercase; margin-top: 6px; }
+    nav { display: flex; justify-content: center; gap: 0; border-top: 1px solid #1A1A1A; }
+    nav a { color: var(--lichtgrijs); text-decoration: none; font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; padding: 10px 20px; border-right: 1px solid #1A1A1A; transition: all 0.15s; }
+    nav a:first-child { border-left: 1px solid #1A1A1A; }
+    nav a:hover { background: #1A1A1A; color: var(--wit); }
+    nav a.actief { color: var(--wit); background: var(--rood); }
+
+    .ticker { background: #111; border-bottom: 1px solid #222; padding: 7px 0; font-family: 'Space Mono', monospace; font-size: 10px; overflow: hidden; white-space: nowrap; display: flex; align-items: center; }
+    .ticker-label { background: var(--rood); padding: 4px 14px; font-size: 9px; letter-spacing: 0.15em; color: white; min-width: fit-content; margin-right: 20px; }
+    .ticker-inner { display: inline-block; animation: ticker 50s linear infinite; color: #999; }
+    .ticker span { margin-right: 60px; }
+    @keyframes ticker { from { transform: translateX(100vw); } to { transform: translateX(-100%); } }
+
+    .bron { display: inline-block; font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.08em; padding: 1px 5px; }
+    .bron-Reuters { background: #E85D04; color: white; }
+    .bron-BBC { background: #BB1919; color: white; }
+    .bron-AP { background: #1A1A6E; color: white; }
+    .bron-AlJazeera { background: #006C35; color: white; }
+    .bron-Guardian { background: #004B87; color: white; }
+    .bron-ForeignPolicy { background: #0A3055; color: white; }
+
+    .urgentie { display: inline-block; width: 6px; height: 6px; border-radius: 50%; margin-right: 5px; vertical-align: middle; }
+    .u-hoog { background: var(--rood); box-shadow: 0 0 5px var(--rood); }
+    .u-midden { background: var(--oranje); }
+    .u-laag { background: var(--geel); }
+
+    main { max-width: 1280px; margin: 0 auto; padding: 20px; }
+    .status-bar { display: flex; justify-content: space-between; padding: 7px 12px; background: var(--donker); border: 1px solid #222; margin-bottom: 14px; font-family: 'Space Mono', monospace; font-size: 10px; color: var(--lichtgrijs); }
+    .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--geel); display: inline-block; margin-right: 6px; animation: pulse 2s infinite; }
+    .live-dot.ok { background: #4CAF50; animation: none; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.2} }
+
+    .hero-grid { display: grid; grid-template-columns: 1.6fr 1fr 1fr; gap: 2px; margin-bottom: 2px; }
+    .kaart { background: var(--donker); padding: 22px; text-decoration: none; display: block; transition: background 0.12s; position: relative; overflow: hidden; border-left: 3px solid transparent; }
+    .kaart:hover { background: var(--grijs); }
+    .kaart.r-Oekraïne { border-color: #4A9EFF; }
+    .kaart.r-Gaza { border-color: #E8A020; }
+    .kaart.r-Iran { border-color: #E8A020; }
+    .kaart.r-China { border-color: #E85D04; }
+    .kaart.r-VS { border-color: #CC4444; }
+    .kaart.r-Europa { border-color: #44AA88; }
+    .kaart.r-Wereld { border-color: #555; }
+    .kaart-meta { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; flex-wrap: wrap; }
+    .regio-tag { font-family: 'Space Mono', monospace; font-size: 9px; color: var(--lichtgrijs); letter-spacing: 0.1em; text-transform: uppercase; }
+    .kaart h2 { font-family: 'Playfair Display', serif; font-weight: 900; line-height: 1.2; color: var(--wit); margin-bottom: 8px; }
+    .kaart.groot h2 { font-size: clamp(18px, 2.2vw, 28px); }
+    .kaart.middel h2 { font-size: clamp(14px, 1.6vw, 18px); }
+    .kaart p { font-size: 13px; color: #AAA8A0; line-height: 1.5; }
+    .kaart .tijd { font-family: 'Space Mono', monospace; font-size: 9px; color: #444; margin-top: 10px; }
+
+    .sectie-kop { font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--lichtgrijs); padding: 10px 0 5px; border-top: 1px solid #1E1E1E; margin-top: 2px; margin-bottom: 2px; }
+
+    .feed-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; }
+    .feed-2col { display: grid; grid-template-columns: 2fr 1fr; gap: 2px; }
+
+    .lijst-item { background: var(--donker); padding: 14px 18px; text-decoration: none; display: flex; gap: 12px; transition: background 0.12s; border-left: 3px solid transparent; }
+    .lijst-item:hover { background: var(--grijs); border-left-color: var(--rood); }
+    .lijst-nr { font-family: 'Playfair Display', serif; font-size: 26px; font-weight: 900; color: #222; line-height: 1; min-width: 28px; }
+    .lijst-content h3 { font-family: 'Playfair Display', serif; font-size: 14px; font-weight: 700; line-height: 1.3; color: var(--wit); margin: 5px 0 3px; }
+    .lijst-content p { font-size: 12px; color: #777; line-height: 1.4; }
+    .lijst-content .tijd { font-family: 'Space Mono', monospace; font-size: 9px; color: #444; margin-top: 5px; }
+
+    .sidebar { display: flex; flex-direction: column; gap: 2px; }
+    .osint-blok { background: #0C0818; border: 1px solid #231540; padding: 18px; }
+    .osint-blok h4 { font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: #9966CC; margin-bottom: 12px; padding-bottom: 7px; border-bottom: 1px solid #231540; }
+    .osint-item { padding: 9px 0; border-bottom: 1px solid #160F28; }
+    .osint-item:last-child { border-bottom: none; }
+    .osint-bron { font-family: 'Space Mono', monospace; font-size: 9px; color: #9966CC; margin-bottom: 3px; }
+    .osint-tekst { font-size: 12px; color: #AAA; line-height: 1.4; }
+    .osint-tijd { font-family: 'Space Mono', monospace; font-size: 9px; color: #333; margin-top: 3px; }
+
+    .nl-blok { background: var(--rood); padding: 18px; }
+    .nl-blok h4 { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 900; margin-bottom: 5px; }
+    .nl-blok p { font-size: 11px; opacity: 0.8; margin-bottom: 10px; }
+    .nl-blok input { width: 100%; padding: 8px 10px; background: rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.25); color: white; font-family: 'Space Mono', monospace; font-size: 10px; margin-bottom: 6px; outline: none; }
+    .nl-blok input::placeholder { color: rgba(255,255,255,0.4); }
+    .nl-blok button { width: 100%; padding: 8px; background: #0A0A0A; color: var(--wit); border: none; font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; cursor: pointer; }
+
+    .legenda { display: flex; gap: 16px; padding: 8px 0; font-family: 'Space Mono', monospace; font-size: 9px; color: var(--lichtgrijs); flex-wrap: wrap; border-top: 1px solid #1A1A1A; margin-top: 2px; }
+    .leg-item { display: flex; align-items: center; gap: 4px; }
+    .leg-kleur { width: 8px; height: 8px; border-radius: 50%; }
+
+    footer { border-top: 1px solid #1A1A1A; padding: 18px 24px; display: flex; justify-content: space-between; align-items: center; font-family: 'Space Mono', monospace; font-size: 9px; color: #444; }
+    .footer-logo { font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 900; color: var(--wit); }
+    footer a { color: #555; text-decoration: none; }
+    footer a:hover { color: var(--wit); }
+
+    .leeg { text-align: center; padding: 40px; font-family: 'Space Mono', monospace; font-size: 11px; color: var(--lichtgrijs); }
+
+    @media (max-width: 900px) { .hero-grid, .feed-grid, .feed-2col { grid-template-columns: 1fr; } }
+    @media (max-width: 600px) { .header-top { display: none; } nav { overflow-x: auto; } footer { flex-direction: column; gap: 10px; text-align: center; } }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-top">
+    <span id="datum-tijd">—</span>
+    <span>GEOPOLITIEK · CONFLICTEN · INTERNATIONALE BETREKKINGEN · OSINT</span>
+  </div>
+  <div class="logo-wrap">
+    <div class="logo">De Kanttekening<span>.</span></div>
+    <div class="tagline">Wereldnieuws zonder omwegen</div>
+  </div>
+  <nav>
+    <a href="#" class="actief">Wereld</a>
+    <a href="#">Conflicten</a>
+    <a href="#">Geopolitiek</a>
+    <a href="#">OSINT</a>
+    <a href="#">Analyses</a>
+    <a href="#">Archief</a>
+  </nav>
+</header>
+
+<div class="ticker">
+  <div class="ticker-label">LIVE</div>
+  <span class="ticker-inner" id="ticker">Nieuws laden...</span>
+</div>
+
+<main>
+  <div class="status-bar">
+    <div><span class="live-dot" id="sdot"></span><span id="stekst">Nieuws ophalen...</span></div>
+    <div id="sbijgewerkt"></div>
+  </div>
+  <div id="content"><div class="leeg">Nieuws laden...</div></div>
+  <div class="legenda">
+    <span>Regiokleuren:</span>
+    <div class="leg-item"><div class="leg-kleur" style="background:#4A9EFF"></div>Oekraïne/Rusland</div>
+    <div class="leg-item"><div class="leg-kleur" style="background:#E8A020"></div>Gaza/Iran</div>
+    <div class="leg-item"><div class="leg-kleur" style="background:#E85D04"></div>China/Azië</div>
+    <div class="leg-item"><div class="leg-kleur" style="background:#CC4444"></div>VS</div>
+    <div class="leg-item"><div class="leg-kleur" style="background:#44AA88"></div>Europa</div>
+    <div class="leg-item"><div class="leg-kleur" style="background:#555"></div>Wereld</div>
+  </div>
+</main>
+
+<footer>
+  <div class="footer-logo">De Kanttekening.</div>
+  <div style="display:flex;gap:18px;"><a href="#">Over</a><a href="#">Bronnen</a><a href="#">Contact</a><a href="#">Privacy</a></div>
+  <div>Reuters · BBC · AP · Al Jazeera · Foreign Policy · Guardian</div>
+</footer>
+
+<script>
+  // Datum
+  const d = new Date();
+  const dg = ['zo','ma','di','wo','do','vr','za'];
+  const mn = ['jan','feb','mrt','apr','mei','jun','jul','aug','sep','okt','nov','dec'];
+  document.getElementById('datum-tijd').textContent =
+    `${dg[d.getDay()]} ${d.getDate()} ${mn[d.getMonth()]} ${d.getFullYear()} · ${d.toLocaleTimeString('nl-NL',{hour:'2-digit',minute:'2-digit'})} CET`;
+
+  function regio2class(r) {
+    if (!r) return 'r-Wereld';
+    if (r.includes('Oekraïne') || r.includes('Rusland')) return 'r-Oekraïne';
+    if (r.includes('Gaza') || r.includes('Israël') || r.includes('Hamas')) return 'r-Gaza';
+    if (r.includes('Iran')) return 'r-Iran';
+    if (r.includes('China') || r.includes('Taiwan')) return 'r-China';
+    if (r.includes('VS') || r.includes('Amerika')) return 'r-VS';
+    if (r.includes('Europa') || r.includes('NAVO')) return 'r-Europa';
+    return 'r-Wereld';
+  }
+
+  function bronClass(b) {
+    return 'bron bron-' + (b||'').replace(/\s/g,'').replace('AlJazeera','AlJazeera');
+  }
+
+  function urgBadge(u) {
+    const cls = u === 'hoog' ? 'u-hoog' : u === 'midden' ? 'u-midden' : 'u-laag';
+    return `<span class="urgentie ${cls}"></span>`;
+  }
+
+  function meta(a) {
+    return `<div class="kaart-meta">${urgBadge(a.urgentie)}<span class="regio-tag">${a.regio||'Wereld'}</span><span class="${bronClass(a.bron)}">${a.bron||''}</span></div>`;
+  }
+
+  function kaart(a, groot=false) {
+    return `<a class="kaart ${groot?'groot':'middel'} ${regio2class(a.regio)}" href="${a.url||'#'}" target="_blank" rel="noopener">
+      ${meta(a)}
+      <h2>${a.titel}</h2>
+      <p>${(a.beschrijving||'').substring(0,groot?220:140)}…</p>
+      <div class="tijd">${a.datum||''}</div>
+    </a>`;
+  }
+
+  function lijstItem(a, nr) {
+    return `<a class="lijst-item ${regio2class(a.regio)}" href="${a.url||'#'}" target="_blank" rel="noopener">
+      <div class="lijst-nr">0${nr}</div>
+      <div class="lijst-content">
+        ${meta(a)}
+        <h3>${a.titel}</h3>
+        <p>${(a.beschrijving||'').substring(0,100)}…</p>
+        <div class="tijd">${a.datum||''}</div>
+      </div>
+    </a>`;
+  }
+
+  function render(data) {
+    const art = data.artikelen || [];
+    if (!art.length) {
+      document.getElementById('content').innerHTML = '<div class="leeg">Nog geen artikelen — de workflow draait elk uur. Klik op Actions → Run workflow om nu te starten.</div>';
+      return;
+    }
+
+    document.getElementById('sdot').classList.add('ok');
+    document.getElementById('stekst').textContent = `${art.length} artikelen geladen`;
+    document.getElementById('sbijgewerkt').textContent = `Bijgewerkt: ${data.bijgewerkt||''}`;
+
+    // Ticker
+    document.getElementById('ticker').innerHTML =
+      (data.ticker || art.slice(0,8).map(a=>a.titel)).map(t=>`<span>🔴 ${t}</span>`).join('');
+
+    const [h, s1, s2] = art;
+    const rest = art.slice(3);
+    const osint = data.osint || [];
+
+    document.getElementById('content').innerHTML = `
+      <div class="hero-grid">
+        ${kaart(h, true)}
+        ${s1 ? kaart(s1) : ''}
+        ${s2 ? kaart(s2) : ''}
+      </div>
+
+      <div class="sectie-kop">🔴 Conflicten & Fronten</div>
+      <div class="feed-grid">
+        ${rest.slice(0,3).map((a,i) => lijstItem(a, i+1)).join('')}
+      </div>
+
+      <div class="sectie-kop">🌐 Geopolitiek & Betrekkingen</div>
+      <div class="feed-2col">
+        <div class="feed-grid" style="gap:2px;">
+          ${rest.slice(3,6).map((a,i) => lijstItem(a, i+1)).join('')}
+        </div>
+        <div class="sidebar">
+          <div class="osint-blok">
+            <h4>🛰 OSINT Signalen</h4>
+            ${osint.length ? osint.map(o=>`
+              <div class="osint-item">
+                <div class="osint-bron">${o.handle||'OSINT'} · ${o.platform||'X'}</div>
+                <div class="osint-tekst">${o.tekst||''}</div>
+                <div class="osint-tijd">${o.tijd||''}</div>
+              </div>`).join('') : '<div class="osint-tekst" style="padding:8px 0;color:#444">OSINT signalen worden automatisch toegevoegd.</div>'}
+          </div>
+          <div class="nl-blok">
+            <h4>Dagelijkse briefing</h4>
+            <p>Geopolitiek, conflicten, OSINT. Geen reclame.</p>
+            <input type="email" placeholder="email@adres.nl">
+            <button>Aanmelden →</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="sectie-kop">📰 Breed Internationaal</div>
+      <div class="feed-grid">
+        ${rest.slice(6,9).map((a,i) => kaart(a)).join('')}
+      </div>
+    `;
+  }
+
+  // Nieuws.json laden (uit dezelfde repo, geen CORS issue!)
+  fetch('nieuws.json?t=' + Date.now())
+    .then(r => r.json())
+    .then(render)
+    .catch(() => {
+      document.getElementById('stekst').textContent = 'Kon nieuws.json niet laden.';
+      document.getElementById('content').innerHTML = '<div class="leeg">Start de GitHub Action via Actions → Run workflow om het eerste nieuws te laden.</div>';
+    });
+</script>
+</body>
+</html>
