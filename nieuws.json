@@ -1,22 +1,32 @@
 {
-  "bijgewerkt": "14 Jun 2026 20:40 UTC",
+  "bijgewerkt": "14 Jun 2026 23:57 UTC",
   "artikelen": [
     {
-      "titel": "Israeli military says Hezbollah targets struck in Beirut",
-      "beschrijving": "Israel says it targeted the Iran-backed armed group Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
-      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+      "titel": "Gaza mourns four killed in Israeli strike",
+      "beschrijving": "Cries of grief echoed through Gaza City for four Palestinians killed near the Jabalia refugee camp in northern Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera",
+      "quote": ""
+    },
+    {
+      "titel": "Protesters clash with police ahead of G7 summit in Geneva",
+      "beschrijving": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
+      "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World",
       "quote": ""
     },
     {
-      "titel": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
-      "beschrijving": "AJ probe: Israel expands military control by 1,000sq km on three fronts, using land grabs to mask strategic failures.",
-      "url": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
+      "titel": "BREAKING: US, Iran announce ceasefire agreement",
+      "beschrijving": "US President Donald Trump has announced a ceasefire agreement with Iran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Iran",
       "urgentie": "midden",
       "bron": "Al Jazeera",
       "quote": ""
@@ -25,27 +35,27 @@
       "titel": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
       "beschrijving": "He promised Israelis “total victory” but has fallen short on three fronts.",
       "url": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
-      "datum": "1 dagen geleden",
+      "datum": "2 dagen geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "Foreign Policy",
       "quote": ""
     },
     {
-      "titel": "The president, the billionaires and the news",
-      "beschrijving": "A media industry weakened by marauding billionaires is dealing with a US president eager to bend it further.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/14/the-president-the-billionaires-and-the-news?traffic_source=rss",
+      "titel": "US-Iran ‘peace deal’ announced, Trump says Strait of Hormuz reopening",
+      "beschrijving": "Trump announces that a ceasefire deal with Iran has been agreed, and that the Strait of Hormuz will reopen for shipping.",
+      "url": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera",
       "quote": ""
     },
     {
-      "titel": "Israel welcomes Somaliland president in ‘historic’ visit",
-      "beschrijving": "Israel hosted Somaliland&#039;s President on a landmark visit to Jerusalem after recognising it as an independent state.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-welcomes-somaliland-president-in-historic-visit?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "LIVE: Ilia Topuria vs Justin Gaethje title fight at Trump’s UFC Freedom 250",
+      "beschrijving": "Title fights, Topuria-Gaethje and Pereira-Gane, to be staged in front of US President Donald Trump at the White House.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/14/live-ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "Al Jazeera",
@@ -85,7 +95,7 @@
       "titel": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
       "beschrijving": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police sayArmed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negotiations, authorities and residents said on Monday, highlighting ",
       "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
-      "datum": "5 dagen geleden",
+      "datum": "6 dagen geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Guardian",
@@ -144,15 +154,15 @@
   ],
   "osint": [],
   "ticker": [
-    "Israeli military says Hezbollah targets struck in Beirut",
-    "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
+    "Gaza mourns four killed in Israeli strike",
+    "Protesters clash with police ahead of G7 summit in Geneva",
+    "BREAKING: US, Iran announce ceasefire agreement",
     "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
-    "The president, the billionaires and the news",
-    "Israel welcomes Somaliland president in ‘historic’ visit",
+    "US-Iran ‘peace deal’ announced, Trump says Strait of Hormuz reopening",
+    "LIVE: Ilia Topuria vs Justin Gaethje title fight at Trump’s UFC Freedom 250",
     "London council seizes social housing flat rented by Sierra Leone first lady",
     "Trump targeting immigrants from countries hit most by climate shocks",
     "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
-    "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
-    "Trump’s Big Weekend Could Derail the G-7"
+    "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks"
   ]
 }
