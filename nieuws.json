@@ -1,47 +1,101 @@
 {
-  "bijgewerkt": "16 Jun 2026 13:16 UTC",
+  "bijgewerkt": "16 Jun 2026 22:22 UTC",
   "artikelen": [
     {
-      "titel": "Trump says ‘hell will rain down’ if Iran gets nuclear weapons",
-      "beschrijving": "Trump says ‘hell will rain down’ if Iran gets nuclear weapons",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-says-hell-will-rain-down-if-iran-gets-nuclear-weapons?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
+      "titel": "FBI claimt voorkomen van terreuraanslag bij kooigevecht Witte Huis",
+      "beschrijving": "De FBI heeft een terreuraanslag voorkomen die had moeten plaatsvinden tijdens het kooigevecht in de tuin van het Witte Huis. Dat zegt FBI-directeur Kash Patel. Het UFC-gevecht was afgelopen weekend ter ere van de 80e verjaardag van de Amerikaanse president. Waar de dreiging precies uit bestond, is niet bekendgemaakt. Volgens de Amerikaanse nieuwszender Fox News hadden drones met explosieven gebouw",
+      "url": "https://nos.nl/l/2618853",
+      "datum": "8 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
       "titel": "Eight dead after US Air Force B-52 bomber crashes in California",
       "beschrijving": "The incident occurred on Monday morning while the aircraft had been on a routine test mission.",
       "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
+      "datum": "20 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Wekdienst 16/6: Tweede dag van G7-top • Frankrijk speelt eerste WK-pot tegen Senegal",
-      "beschrijving": "Goedemorgen! Het is de tweede dag van de G7-top in Frankrijk en de Oekraïense president Zelensky is te gast. In Luxemburg wordt gediscussieerd over de meerjarenbegroting van de EU, en Frankrijk speelt in New Jersey tegen Senegal op het WK. Eerst het weer: vanochtend komen wolkenvelden voor maar is er ook ruimte voor af en toe zon. Verder komt lokaal eerst een enkele bui voor. Vanmiddag steeds meer",
-      "url": "https://nos.nl/l/2618787",
-      "datum": "8 uur geleden",
+      "titel": "Vier Nederlandse militairen gewond door botsing in Duitsland",
+      "beschrijving": "Tijdens een militaire oefening in Duitsland zijn vier Nederlandse militairen gewond geraakt. Ze zaten in twee militaire voertuigen die op elkaar botsten. De oorzaak van het ongeluk wordt door de Koninklijke Marechaussee onderzocht. Het viertal verkeert niet in levensgevaar. De militairen zijn ter plekke behandeld en daarna naar een ziekenhuis gebracht. Er zijn geen verdere details over hun verwond",
+      "url": "https://nos.nl/l/2618899",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Families return to shattered towns as fragile ceasefire holds in Lebanon",
-      "beschrijving": "Southern Lebanon’s displaced face dire conditions as they return to salvaged belongings amid ceasefire uncertainties.",
-      "url": "https://www.aljazeera.com/gallery/2026/6/16/families-return-to-shattered-towns-as-fragile-ceasefire-holds-in-lebanon?traffic_source=rss",
-      "datum": "52 min geleden",
-      "regio": "Wereld",
+      "titel": "Trump spreekt Zelensky en hint op hervatting sancties tegen Russische olie",
+      "beschrijving": "De VS gaat mogelijk de handel in Russische olie weer aan banden leggen. \"We zijn in een positie om dat snel te kunnen doen\", zei de Amerikaanse president Trump tegen journalisten op de G7-top in Frankrijk. Hij had kort daarvoor een \"heel goed\" gesprek gehad met zijn Oekraïense ambtgenoot Zelensky. Amerikaanse bedrijven mogen inmiddels drie maanden weer Russische olie kopen van tankers op zee, tot ",
+      "url": "https://nos.nl/l/2618892",
+      "datum": "4 uur geleden",
+      "regio": "VS",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Iran, Ukraine dominate G7 summit",
+      "beschrijving": "Here’s what came out of the G7 summit in France.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-ukraine-dominate-g7-summit?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Vier jaar cel voor Zweed die zijn vrouw dwong tot seks met tientallen mannen",
+      "beschrijving": "Een 61-jarige man uit Zweden is veroordeeld tot vier jaar en vijf maanden celstraf omdat hij zijn vrouw dwong tot (online) prostitutie. Hij werd veroordeeld voor onder meer poging tot verkrachting, mishandeling en bedreigingen. Ook moet hij een schadevergoeding van 200.000 kronen (omgerekend ruim 18.000 euro) betalen, meldt de Zweedse omroep SVT. De rechtbank acht bewezen dat de man zijn echtgenot",
+      "url": "https://nos.nl/l/2618897",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Premier Aruba kondigt vertrek aan, maar houdt regie over opvolging",
+      "beschrijving": "De Arubaanse premier Mike Eman stapt per 1 januari 2027 op. De aankondiging kwam onverwacht en zorgde direct voor politieke beroering op het eiland. Zelfs coalitiepartner Futuro liet weten niet vooraf op de hoogte te zijn geweest van het besluit. De 64-jarige Eman maakte bekend dat hij in september eerst het leiderschap van zijn partij, de Arubaanse Volkspartij (AVP), overdraagt aan een nieuwe gen",
+      "url": "https://nos.nl/l/2618895",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Russisch fregat vuurt in Kanaal waarschuwingsschoten af voor Engels jacht",
+      "beschrijving": "Een Russisch oorlogsschip heeft in de buurt van een Engels jacht in het Kanaal waarschuwingsschoten afgevuurd. Het jacht was volgens de Russen te dicht bij hun schip gekomen. De schoten werden rond het middaguur afgevuurd door matrozen van het fregat Admiraal Grigorovitsj, ruim 30 kilometer ten zuiden van het Isle of Wight, buiten de Britse territoriale wateren. Het Russische schip voer tussen het",
+      "url": "https://nos.nl/l/2618878",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Afspraken tussen de VS en Iran zetten Netanyahu in eigen land onder druk",
+      "beschrijving": "\"We hebben Israël gered van complete vernietiging\", zei premier Netanyahu gisteren in een speech over de oorlog tegen Iran. \"Maar de strijd is nog niet voorbij. We moeten sterk en strijdbaar blijven.\" Daarna volgde een opsomming van overwinningen: over de schade die Israël samen met de Amerikanen heeft aangericht aan het Iraanse kernprogramma en aan de voorraad ballistische raketten en de fabrieke",
+      "url": "https://nos.nl/l/2618870",
+      "datum": "6 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Podcast De Dag: deze journalisten infiltreerden in het Motherless-verkrachtingsnetwerk",
+      "beschrijving": "Twee Duitse journalisten stuitten jaren geleden, ver voor de zaak van Gisèle Pelicot, al via de pornosite Motherless op een groot, internationaal netwerk van gebruikers die vrouwen drogeren en seksueel misbruiken. Maar met hun meldingen daarover aan de Duitse politie werd lange tijd niets gedaan. In de podcast vertellen ze hun verhaal. Hoe kan het dat er niet eerder is ingegrepen? En dat Motherles",
+      "url": "https://nos.nl/l/2618850",
+      "datum": "8 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Twee Belarussen aangehouden voor betrokkenheid bij dood Russische Poetin-criticus",
       "beschrijving": "In Polen zijn twee mannen aangehouden in verband met de aanslag waarbij de Poetin-kritische Russische performancekunstenaar Semjon Skrepetski werd gedood. De twee mannen komen uit Belarus en zijn 33 en 37 jaar oud, maakte de Poolse aanklager bekend. Gisteren even na 10.00 uur kregen de autoriteiten een melding dat iemand op straat was neergeschoten op een parkeerplaats in de stad Biala Podlaska, d",
       "url": "https://nos.nl/l/2618847",
-      "datum": "4 min geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,125 +104,62 @@
       "titel": "Zevental opgepakt voor sabotage op het spoor tijdens Winterspelen in Italië",
       "beschrijving": "De Italiaanse politie heeft zeven mensen gearresteerd voor het saboteren van het spoor tijdens de Olympische Winterspelen in februari. Ze worden onder meer beschuldigd van lidmaatschap van een anarchistische militante groepering en ondermijning van de democratische orde. Vijf verdachten zitten in voorlopige hechtenis, twee zijn onder huisarrest geplaatst. Zij hebben op 14 februari een aanslag gepl",
       "url": "https://nos.nl/l/2618837",
-      "datum": "1 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Uitwerking cruciaal bij Iran-akkoord van 1,5 kantje: 'Nog veel uit te vogelen'",
-      "beschrijving": "159 pagina's was het laatste atoomakkoord dat Iran tekende, in 2015. De nieuwe overeenkomst met de Verenigde Staten is volgens vicepresident Vance anderhalf kantje. Er valt dus nog veel uit te onderhandelen, geven beide zijden toe. En details over wat er wel is afgesproken, zijn spaarzaam. De Iraanse president Pezeshkian noemde het document \"een belangrijke stap\", maar waarschuwde dat een volledig",
-      "url": "https://nos.nl/l/2618800",
+      "titel": "Somaliland president visits Israeli Knesset on tour",
+      "beschrijving": "Somaliland’s President is on a ‘historic’ tour of Israel, where he’s opened an embassy and visited the Knesset.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_somaliland-president-visits-israeli-knesset-on-tour-160626?traffic_source=rss",
+      "datum": "30 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Palestinian Bedouin villagers demolish homes after Israeli orders",
+      "beschrijving": "Palestinian Bedouins in Beersheba are demolishing their own homes after Israel issued demolition orders.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/palestinian-bedouin-villagers-demolish-homes-after-israeli-orders?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iranian fans honour Minab victims at World Cup match",
+      "beschrijving": "Iranian fans turned their World Cup match against New Zealand into a moment of remembrance, raising ‘Minab 168’ banners.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iranian-fans-honour-minab-victims-at-world-cup-match?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+      "beschrijving": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
+      "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
       "datum": "6 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "BBC World"
     },
     {
-      "titel": "Spanning en druk rond G7 in Frankrijk, Macron verleidt Trump met Versailles",
-      "beschrijving": "Voor de G7-top in Évian aan het Meer van Genève heeft Frankrijk zware veiligheidsmaatregelen genomen. Met 16.000 man veiligheidspersoneel is het kuuroord nu een van de zwaarst beveiligde plekken ter wereld. Emmanuel Macron ontving Donald Trump voor het openingsdiner. De relatie tussen beide presidenten is in Trumps tweede termijn naar een dieptepunt gezakt. In een interview met de Franse zender TF",
-      "url": "https://nos.nl/l/2618788",
-      "datum": "8 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Rode Kruis slaat alarm over dreigende voedsel- en watertekorten door El Niño",
-      "beschrijving": "Het Rode Kruis slaat alarm over de wereldwijde gevolgen die El Niño kan hebben, eind dit jaar en in 2027. De hulporganisatie vreest dat het weerfenomeen de komende tijd in meerdere regio's in de wereld tegelijk grote problemen kan veroorzaken, zoals voedseltekorten, overstromingen, droogte en gevaarlijke hittegolven. Daarom worden nu al hulpgoederen zoals voedsel, water en hygiënepakketten naar ri",
-      "url": "https://nos.nl/l/2618786",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nederlandse motorrijder omgekomen bij ongeval op Belgisch circuit",
-      "beschrijving": "Op het circuit van Zolder in België is een 53-jarige Nederlandse motorrijder omgekomen. De man kwam zwaar ten val op het circuit. Dat melden Belgische media. De medische hulpdiensten waren snel ter plaatse, maar ze konden de man niet meer redden. Het ongeval gebeurde maandagmiddag tijdens een oefening 'vrij rijden', meldt VRT Nieuws. De directeur van het circuit zei dat het misging bij een manoeuv",
-      "url": "https://nos.nl/l/2618784",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Acht doden bij crash B-52-bommenwerper in Californië",
-      "beschrijving": "Bij een crash met een B-52-bommenwerper in Californië zijn alle acht bemanningsleden omgekomen, meldt de Amerikaanse luchtmacht. Het toestel verongelukte kort na het opstijgen vanaf Edwards Air Force Base, ten noordoosten van Los Angeles. De B-52 was om 11.20 uur lokale tijd opgestegen voor een routinevlucht. Er zou een test met het radarsysteem worden gedaan. Over de oorzaak van de crash is nog n",
-      "url": "https://nos.nl/l/2618776",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hongaars parlement stemt in met maximale ambtstermijn premier",
-      "beschrijving": "Het parlement van Hongarije heeft voor een grondwetswijziging gestemd die ervoor zorgt dat de premier een maximale ambtstermijn van acht jaar heeft. Volgens de grondwetswijziging moet de premier na twee ambtstermijnen vertrekken. De maatregel geldt met terugwerkende kracht voor iedereen die na 2 mei 1990 premier is geweest. Dat betekent dat Viktor Orbán nooit meer premier kan worden. De grondwetsw",
-      "url": "https://nos.nl/l/2618768",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dissidente Russische performancekunstenaar doodgeschoten in Polen",
-      "beschrijving": "Poolse media melden dat de Poetin-kritische Russische performancekunstenaar Semjon Skrepetski vanochtend is doodgeschoten in de stad Biala Podlaska. Lokale autoriteiten kregen iets voor 10.00 uur een melding dat er iemand op straat was neergeschoten. Vanmiddag maakten de autoriteiten bekend dat het slachtoffer een 44-jarige Rus is die in Biala Podlaska woonde. Naar de schutter wordt nog gezocht. H",
-      "url": "https://nos.nl/l/2618764",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Red Cross warns Ebola outbreak in DRC not yet peaked, could last a year",
-      "beschrijving": "The Red Cross says it is &#039;very difficult&#039; to know the extent at which the epidemic is spreading.",
-      "url": "https://www.aljazeera.com/news/2026/6/16/red-cross-warns-ebola-outbreak-in-drc-not-yet-peaked-could-last-a-year?traffic_source=rss",
-      "datum": "46 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Gaza children running out of time to treat blast-induced hearing loss",
-      "beschrijving": "Gaza children increasingly developing hearing impairments due to repeated exposure to blasts.",
-      "url": "https://www.aljazeera.com/news/2026/6/16/gaza-hearing-loss-running-out-of-time?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+      "beschrijving": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
+      "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+      "datum": "6 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
-      "titel": "Trump tells Netanyahu to be ‘more responsible with respect to Lebanon’",
-      "beschrijving": "US president also made unusually critical comments about Israel&#039;s military offensive in Lebanon.",
-      "url": "https://www.aljazeera.com/news/2026/6/16/trump-warns-all-hell-will-rain-down-if-iran-tries-to-get-a-nuclear-weapon?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Will a US-Iran deal unlock $300bn in investment fund for Tehran?",
-      "beschrijving": "The Trump administration has been adamant the investment fund is not a payout for Iranian enriched uranium.",
-      "url": "https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Qatar’s Emir hails Iran deal and touts US investments in Trump meeting",
-      "beschrijving": "Qatar’s Emir hails Iran deal and touts US investments in Trump meeting.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/qatars-emir-hails-iran-deal-and-touts-us-investments-in-trump-meeting?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iran deal presents political nightmare for Netanyahu",
-      "beschrijving": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
-      "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "beschrijving": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course before the shots were fired.",
+      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "datum": "37 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -176,22 +167,22 @@
       "titel": "Russian artist and Putin critic shot dead in Poland",
       "beschrijving": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
       "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Trump says ‘hell will rain down’ if Iran gets nuclear weapons",
+    "FBI claimt voorkomen van terreuraanslag bij kooigevecht Witte Huis",
     "Eight dead after US Air Force B-52 bomber crashes in California",
-    "Wekdienst 16/6: Tweede dag van G7-top • Frankrijk speelt eerste WK-pot tegen Senegal",
-    "Families return to shattered towns as fragile ceasefire holds in Lebanon",
-    "Twee Belarussen aangehouden voor betrokkenheid bij dood Russische Poetin-criticus",
-    "Zevental opgepakt voor sabotage op het spoor tijdens Winterspelen in Italië",
-    "Uitwerking cruciaal bij Iran-akkoord van 1,5 kantje: 'Nog veel uit te vogelen'",
-    "Spanning en druk rond G7 in Frankrijk, Macron verleidt Trump met Versailles",
-    "Rode Kruis slaat alarm over dreigende voedsel- en watertekorten door El Niño",
-    "Nederlandse motorrijder omgekomen bij ongeval op Belgisch circuit"
+    "Vier Nederlandse militairen gewond door botsing in Duitsland",
+    "Trump spreekt Zelensky en hint op hervatting sancties tegen Russische olie",
+    "Iran, Ukraine dominate G7 summit",
+    "Vier jaar cel voor Zweed die zijn vrouw dwong tot seks met tientallen mannen",
+    "Premier Aruba kondigt vertrek aan, maar houdt regie over opvolging",
+    "Russisch fregat vuurt in Kanaal waarschuwingsschoten af voor Engels jacht",
+    "Afspraken tussen de VS en Iran zetten Netanyahu in eigen land onder druk",
+    "Podcast De Dag: deze journalisten infiltreerden in het Motherless-verkrachtingsnetwerk"
   ]
 }
