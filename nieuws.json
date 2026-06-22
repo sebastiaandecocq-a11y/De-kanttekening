@@ -1,197 +1,188 @@
 {
-  "bijgewerkt": "21 Jun 2026 22:00 UTC",
+  "bijgewerkt": "22 Jun 2026 17:17 UTC",
   "artikelen": [
     {
-      "titel": "Onderhandelingen VS en Iran in Zwitserland begonnen, Trump dreigt met nieuwe aanval",
-      "beschrijving": "De gesprekken tussen de Amerikaanse en Iraanse delegaties in Zwitserland zijn begonnen. Afgelopen week tekenden de VS en Iran een tussentijds akkoord. Binnen zestig dagen moet er een definitief akkoord liggen. De eerste gespreksronde duurde bijna anderhalf uur. Aan dat gesprek deden de VS, Iran, Qatar en Pakistan mee. Volgens de Iraanse staatstelevisie zijn Iran en Qatar daarna samen in gesprek ge",
-      "url": "https://nos.nl/l/2619657",
+      "titel": "Zes doden bij nieuwe reeks van Amerikaanse luchtaanvallen op 'drugsboten'",
+      "beschrijving": "De Amerikaanse krijgsmacht heeft een nieuwe reeks van aanvallen uitgevoerd op boten die drugs zouden smokkelen in het oostelijke deel van de Stille Oceaan. Gisteren werden daarbij twee mensen gedood, zes anderen overleefden de aanval. Bewijs voor de claim dat zij drugs smokkelden, leveren de Amerikanen niet. De VS beroept zich, zoals het land vaker doet bij dit soort aanvallen, op inlichtingen en ",
+      "url": "https://nos.nl/l/2619760",
       "datum": "7 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Drie doden en zeven gewonden bij aanslag op middelbare school in Filipijnen",
+      "beschrijving": "Bij een aanslag op een middelbare school in de Filipijnen zijn drie scholieren gedood, zeven anderen raakten gewond. Er zijn twee verdachten aangehouden, meldt de politie. Zij zijn 14 en 15 jaar en zijn beiden leerling op de school. De slachtoffers zijn voornamelijk meisjes, zegt de regionale politiechef. Beide verdachten waren bewapend met een pistool en drongen rond 09.00 uur twee klaslokalen va",
+      "url": "https://nos.nl/l/2619734",
+      "datum": "11 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Lebanon Latest: Israeli attacks surge despite ceasefire efforts",
+      "beschrijving": "Israeli attacks intensify across southern Lebanon despite ongoing diplomatic efforts.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/aje-onl-aje_onl_lebanon_wrap-220626?traffic_source=rss",
+      "datum": "57 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Vance says Iran will allow nuclear inspectors back into the country",
+      "beschrijving": "The US vice-president says a great deal of progress has been made after the first round of talks between the US and Iran.",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Mourners gather to remember Lebanese conservationist killed by Israel",
-      "beschrijving": "People gathered in Beirut in memory of beloved turtle conservationist Mona Khalil, killed in Israeli attack.",
-      "url": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
-      "beschrijving": "Displaced residents returned to Nabatieh after Israel ordered a halt to fighting in southern Lebanon.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Militair vliegtuig neergestort in Bolivia, zes doden",
-      "beschrijving": "In Bolivia is een militair toestel neergestort. Alle zes inzittenden zijn om het leven gekomen. Het Boliviaanse ministerie van Defensie zegt dat het om vier militairen en twee burgers gaat. Het vliegtuig was vanochtend lokale tijd opgestegen vanaf een luchthaven in de bestuurlijke hoofdstad La Paz voor een vlucht naar Cochabamba in Centraal-Bolivia. Halverwege de vlucht ging het contact met de luc",
-      "url": "https://nos.nl/l/2619701",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Topambtenaar Cai Qi in China steeds belangrijker, wie is de man achter Xi?",
-      "beschrijving": "Cai Qi is in China al jaren een bekend politicus, maar sinds kort verschijnt hij steeds vaker op het internationale toneel. Hij opereerde decennia in de schaduw van Xi Jinping en geldt inmiddels als een van de belangrijkste vertrouwelingen van de Chinese president. Onlangs kreeg hij nog een verantwoordelijkheid bij zijn toch al veelomvattende takenpakket: het leiden van de Partijschool. Hoe groeid",
-      "url": "https://nos.nl/l/2619628",
-      "datum": "10 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Colombia elections take place as Abelardo de la Espriella leads polls",
-      "beschrijving": "Colombians are voting in an election where senator Ivan Cepeda is racing against Abelardo de la Espriella.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/colombia-elections-take-place-as-abelardo-de-la-espriella-leads-polls?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Europa",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Colombia's escalating, brutal internal conflict is defining its presidential election",
-      "beschrijving": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
-      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
-      "datum": "22 uur geleden",
-      "regio": "VS",
-      "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Meer baby's nodig? Franse obsessie met geboortepolitiek terug van weggeweest",
-      "beschrijving": "De statistieken voorspelden het al, toch sloeg het nieuws in Frankrijk in als een bom: voor het eerst sinds de Tweede Wereldoorlog zijn er vorig jaar meer mensen overleden dan er baby's werden geboren. Een historisch kantelpunt voor het land dat zich lang trots op de borst klopte voor zijn relatief hoge geboortecijfer. Maar sinds 2011 is het aantal geboortes er met bijna een kwart gekelderd. Daarm",
-      "url": "https://nos.nl/l/2619693",
+      "titel": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "beschrijving": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
+      "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Myanmar army killed over 700 civilians in six months, UN says",
+      "beschrijving": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
+      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "US partially lifts Iran oil sanctions amid ‘encouraging’ talks",
+      "beschrijving": "The move, expected under the MoU, comes as Vice President JD Vance says there&#039;s a &#039;good foundation&#039; for a final deal.",
+      "url": "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Taliban op korte termijn in Brussel verwacht voor gesprek met Europese Commissie",
+      "beschrijving": "België heeft vandaag visa afgegeven voor het bezoek van vijf leden van de Taliban aan Brussel. Dat meldt het Belgische ministerie van Buitenlandse Zaken. De Taliban-delegatie komt naar Brussel op uitnodiging van de Europese Commissie om te spreken over de terugkeer van uitgeprocedeerde Afghaanse asielzoekers. De verwachting is dat zij zich deze week al in de Belgische hoofdstad melden. Mogelijk mo",
+      "url": "https://nos.nl/l/2619805",
+      "datum": "7 min geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "13 doden en 66 gewonden bij explosie aardgasterminal Qatar",
+      "beschrijving": "Bij de explosie in een aardgasterminal in Qatar zijn zeker 13 mensen gekomen. Zij hadden de Indiase en Pakistaanse nationaliteit. Daarnaast zijn 66 mensen gewond geraakt, geen van hen is in levensgevaar. Dat heeft energieminister Saad al-Kaab bekendgemaakt. De minister van Energie herhaalt dat het om een ongeval gaat en er geen sprake is van een aanval of sabotage. Eerder op de dag sprak de minist",
+      "url": "https://nos.nl/l/2619791",
       "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "'Trump-protest' in Albanië blijft doorgaan, gaat ook over corruptie",
-      "beschrijving": "De massale protesten in Albanië blijven aanhouden. Al ruim twintig dagen lang gaan boze Albaniërs getooid met flamingo-borden de straat op. Directe aanleiding: plannen om een 'Trump-resort' te bouwen. Maar de onvrede heeft een dieperliggende oorsprong. De luxeresorts van Ivanka Trump en Jared Kushner, dochter en schoonzoon van de Amerikaanse president, moeten komen in beschermd natuurgebied dat be",
-      "url": "https://nos.nl/l/2619679",
-      "datum": "5 uur geleden",
-      "regio": "VS",
+      "titel": "Zuid-Koreaanse oud-minister krijgt 25 jaar cel voor rol in noodtoestand",
+      "beschrijving": "De voormalige minister van Justitie van Zuid-Korea, Park Sung-jae, is door de rechtbank in Seoul veroordeeld tot 25 jaar cel. De rechter ziet voldoende bewijs dat hij in december 2024 een belangrijke rol speelde bij de afkondiging van de staat van beleg door president Yoon Suk-yeol. Yoon probeerde met die noodmaatregel het parlement buitenspel te zetten. De oppositie, met een meerderheid in het pa",
+      "url": "https://nos.nl/l/2619786",
+      "datum": "4 uur geleden",
+      "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Hittegolf treft Europa, mogelijk \"warmste dag ooit\" in Frankrijk morgen",
-      "beschrijving": "Een geannuleerde WK-vertoning, gesloten scholen en een alcoholverbod: Frankrijk en Spanje nemen maatregelen voor de hoge temperaturen van dit weekend en de komende dagen. Voor delen van de landen geldt vandaag en morgen code rood. In Frankrijk, waar de temperaturen vandaag opliepen tot 41 graden, is het code rood in 35 departementen. Daar komen vanaf morgenmiddag nog 14 departementen bij. Volgens ",
-      "url": "https://nos.nl/l/2619664",
+      "titel": "Starmers vermoedelijke opvolger hakt knopen liefst door in de pub",
+      "beschrijving": "De Britse politiek is genadeloos: twee jaar nadat Keir Starmer de verkiezingen voor Labour won met een grote meerderheid, wordt hij afgezet door zijn eigen partij. Hij moet plaatsmaken voor een betere kandidaat. Waarschijnlijk is dat Andy Burnham (56), de charismatische politicus uit het Noorden die na Starmers bekendmaking weinig tijd nodig had zich officieel kandidaat te stellen. Starmer heeft g",
+      "url": "https://nos.nl/l/2619774",
       "datum": "6 uur geleden",
-      "regio": "Europa",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "21/6 in Nieuwsuur: Einde Starmer dreigt • Te laat ingrijpen na misbruikmelding op school • Frankrijk wil meer baby's",
-      "beschrijving": "Einde tijdperk-Starmer? De Britse premier Keir Starmer gaat naar verwachting morgen aftreden. Volgens de Britse krant The Observer is Starmer tot de conclusie gekomen dat zijn positie onhoudbaar is. Starmer kwam onder meer onder vuur te liggen vanwege het aanstellen van de omstreden Peter Mandelson als ambassadeur in Amerika. Afgelopen week boekte zijn rivaal Andy Burnham een lokale verkiezingswin",
-      "url": "https://nos.nl/l/2619653",
+      "titel": "Aantal ebola-besmettingen Congo boven de 1000, bron nog steeds niet gevonden",
+      "beschrijving": "Het aantal gevallen van ebola in Oost-Congo is gestegen tot meer dan duizend. Het gaat om bevestigde besmettingen. Het aantal staat nu op 1003, meldt de regering in Kinshasa, inclusief 254 sterfgevallen. Zo'n honderd mensen zijn genezen sinds het begin van de uitbraak in de provincie Ituri half mei. Nog 365 mensen liggen volgens het ministerie van Gezondheid in het ziekenhuis of zitten in quaranta",
+      "url": "https://nos.nl/l/2619761",
+      "datum": "7 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "De val van Mr Rules: hoe het premierschap van Starmer nooit van de grond kwam",
+      "beschrijving": "De Britse premier Keir Starmer stopt ermee, zo kondigde hij vanmorgen aan. Daarmee komt een einde aan zijn premierschap, dat een kleine twee jaar duurde. Hij is altijd een atypische politicus geweest. Hij maakte pas op relatief late leeftijd zijn intrede in de Britse politiek. Hij was 52 jaar toen hij in 2015 een zetel in het Lagerhuis veroverde. Hij had toen al een lange carrière als mensenrechte",
+      "url": "https://nos.nl/l/2619757",
       "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Heikel punt in 'Tehrangeles': juichen of niet juichen voor het Iraanse elftal?",
-      "beschrijving": "In bijna ieder gebouw van de wijk Westwood in het westen van Los Angeles zit een Iraans bedrijfje: een bakkerij vol Iraanse lekkernijen, een boekenwinkel met leeswerk in het Farsi, een tapijtenverkoper. Je kunt hier alles vinden. In de stad aan de Amerikaanse westkust leeft de grootste Iraanse gemeenschap buiten Iran. Er wonen hier zo'n 150.000 Amerikanen met een Iraanse achtergrond, is de schatti",
-      "url": "https://nos.nl/l/2619645",
+      "titel": "Keir Starmer stapt na toenemende druk op als premier van Verenigd Koninkrijk",
+      "beschrijving": "De Britse premier Keir Starmer treedt af, heeft hij bekendgemaakt voor zijn ambtswoning 10 Downing Street. De beslissing komt niet geheel onverwacht: de Britse krant The Observer meldde zaterdag al dat hij tot de conclusie was gekomen dat zijn positie onhoudbaar is. Starmer heeft vanochtend telefonisch zijn ontslag bij koning Charles ingediend. In een korte toespraak zei Starmer dat hij premier en",
+      "url": "https://nos.nl/l/2619755",
       "datum": "8 uur geleden",
-      "regio": "Iran",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Moddergooien Trump en Meloni gaat door: 'Bemoei je met je eigen zaken'",
-      "beschrijving": "Het klinkt meer als een ruzie tussen twee middelbare scholieren dan een conflict tussen twee wereldleiders. Toch zijn de Amerikaanse president Trump en Italiaanse premier Meloni al dagenlang verwikkeld in hoogoplopend gekibbel over een fotoverzoek. De kwestie gaat over een bewering van de Amerikaanse president, die deze week in gesprek met een Italiaanse nieuwszender beweerde dat de Italiaanse pre",
-      "url": "https://nos.nl/l/2619627",
+      "titel": "Australische politie vindt grootste partij cocaïne ooit",
+      "beschrijving": "De politie in Australië heeft 2700 kilo cocaïne gevonden. Het gaat volgens de autoriteiten om de grootste cokevangst ooit in het land. De drugs werden vrijdag ontdekt in Londonderry, een voorstad van Sydney. De cocaïne zat verstopt in plastic bakken in ondergrondse containers. Volgens de Australische politie had de lading een straatwaarde van zo'n 816 miljoen Australische dollar, omgerekend bijna ",
+      "url": "https://nos.nl/l/2619742",
       "datum": "10 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Drama aan de Spaanse kust, drie jonge zwemmers omgekomen na sprong in zee",
-      "beschrijving": "In het noordoosten van Spanje zijn drie jonge zwemmers van 12 en 13 jaar oud omgekomen. De drie maakten deel uit van een groep van zes jongeren die vrijdag in de Middellandse Zee bij de stad Tarragona waren gaan zwemmen. Ze sprongen vanaf de rotsen in zee en kwamen toen door de sterke stroming in de problemen. Drie zwemmers konden zelf naar het strand komen. De anderen werden door de hulpdiensten ",
-      "url": "https://nos.nl/l/2619623",
-      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "What are the end goals of Iran-US negotiations?",
-      "beschrijving": "Professor and political analyst Mahjoub Zweiri breaks down what intentions behind US-Iran talks will result in.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Will a US-Iran deal transform the Iranian economy?",
+      "beschrijving": "A US-Iran deal could unlock frozen assets, oil exports, and investment, reshaping Iran&#039;s economic future.",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/22/will-a-us-iran-deal-transform-the-iranian-economy?traffic_source=rss",
+      "datum": "10 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work",
-      "beschrijving": "Al Jazeera cameraman Ahmed Wishah dedicated his life to documenting life in Gaza before he was killed by Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/remembering-al-jazeera-cameraman-ahmed-wishahs-lifes-work?traffic_source=rss",
+      "titel": "Marco Rubio heads to Middle East to address Iran MoU, Hormuz",
+      "beschrijving": "Rubio to visit UAE, Kuwait and Bahrain for talks on Iran and Hormuz priorities from June 23 to June 25.",
+      "url": "https://www.aljazeera.com/news/2026/6/22/marco-rubio-heads-to-middle-east-to-address-iran-mou-hormuz?traffic_source=rss",
+      "datum": "12 min geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
+      "beschrijving": "Football fans in Gaza showed overwhelming support for Spain against Saudi Arabia during Sunday&#039;s World Cup clash.",
+      "url": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
-      "beschrijving": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
-      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-      "beschrijving": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
-      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
+      "titel": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+      "beschrijving": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
+      "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+      "datum": "17 uur geleden",
       "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Ethiopia PM's party wins landslide as fears grow of new conflict",
-      "beschrijving": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
-      "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Half of France under red heat alert as alcohol banned at street music festival",
-      "beschrijving": "Temperatures are forecast to peak on Monday, and authorities warn they could match historic highs.",
-      "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Onderhandelingen VS en Iran in Zwitserland begonnen, Trump dreigt met nieuwe aanval",
-    "Mourners gather to remember Lebanese conservationist killed by Israel",
-    "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
-    "Militair vliegtuig neergestort in Bolivia, zes doden",
-    "Topambtenaar Cai Qi in China steeds belangrijker, wie is de man achter Xi?",
-    "Colombia elections take place as Abelardo de la Espriella leads polls",
-    "Colombia's escalating, brutal internal conflict is defining its presidential election",
-    "Meer baby's nodig? Franse obsessie met geboortepolitiek terug van weggeweest",
-    "'Trump-protest' in Albanië blijft doorgaan, gaat ook over corruptie",
-    "Hittegolf treft Europa, mogelijk \"warmste dag ooit\" in Frankrijk morgen"
+    "Zes doden bij nieuwe reeks van Amerikaanse luchtaanvallen op 'drugsboten'",
+    "Drie doden en zeven gewonden bij aanslag op middelbare school in Filipijnen",
+    "Lebanon Latest: Israeli attacks surge despite ceasefire efforts",
+    "Vance says Iran will allow nuclear inspectors back into the country",
+    "At least 13 killed and dozens injured after Qatar gas explosion",
+    "Myanmar army killed over 700 civilians in six months, UN says",
+    "US partially lifts Iran oil sanctions amid ‘encouraging’ talks",
+    "Taliban op korte termijn in Brussel verwacht voor gesprek met Europese Commissie",
+    "13 doden en 66 gewonden bij explosie aardgasterminal Qatar",
+    "Zuid-Koreaanse oud-minister krijgt 25 jaar cel voor rol in noodtoestand"
   ]
 }
