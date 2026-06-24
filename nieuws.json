@@ -1,47 +1,101 @@
 {
-  "bijgewerkt": "24 Jun 2026 10:36 UTC",
+  "bijgewerkt": "24 Jun 2026 18:13 UTC",
   "artikelen": [
+    {
+      "titel": "Aanvallen gemeld in Libanon, ondanks optimisme over overleg Israël-Hezbollah",
+      "beschrijving": "Israël heeft een nieuwe aanval uitgevoerd op Hezbollah in het zuiden van Libanon. Twee leden van de militante beweging waren doelwit, zegt het Israëlische leger. Daarmee is \"een dreiging afgewend\". Maar Libanon meldt dat Israëlische militairen twee burgervoertuigen hebben beschoten in de buurt van de stad Nabatija. Er zou niemand gewond zijn geraakt. Ook worden er Israëlische drones gemeld boven d",
+      "url": "https://nos.nl/l/2620110",
+      "datum": "3 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Held terreuraanslag Bondi Beach voor de rechter: ontkent mishandeling vader",
       "beschrijving": "De man die wereldwijd werd geprezen voor zijn optreden tijdens de terreuraanslag op Bondi Beach in Sydney heeft gezegd onschuldig te zijn aan mishandeling en intimidatie van zijn vader. Ahmed Al Ahmed (44) verscheen vandaag voor de rechtbank in Bankstown, een voorstad van Sydney. Hij wordt ervan beschuldigd zijn vader in maart te hebben mishandeld en geïntimideerd in een woning in Bankstown. Over ",
       "url": "https://nos.nl/l/2620021",
-      "datum": "4 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Belangrijke havenstad op de Krim zonder stroom door Oekraïense aanvallen",
-      "beschrijving": "De stroom in Sevastopol op de Krim is uitgevallen door Oekraïense aanvallen op energie-infrastructuur. Dat meldt de Russische gouverneur van de stad op Telegram. Het schiereiland is door Rusland geannexeerd. Commandant Robert Brovdi van de Oekraïense eenheden voor onbemande systemen, meldt op Telegram dat bij de aanval het belangrijkste onderstation van de energiecentrale in Sevastopol is geraakt.",
-      "url": "https://nos.nl/l/2620004",
-      "datum": "7 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
-      "beschrijving": "The largest city on the Russia-controlled peninsula has been left without power after an attack on energy facilities.",
-      "url": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss",
-      "datum": "33 min geleden",
-      "regio": "Oekraïne",
+      "titel": "Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks",
+      "beschrijving": "Israeli defence minister says troops won’t withdraw from southern Lebanon as attacks slow but do not stop.",
+      "url": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-kill-2-in-southern-lebanon-despite-ongoing-washington-talks?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "beschrijving": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "datum": "41 min geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "BBC World"
     },
     {
       "titel": "Sydney woman wakes from induced coma more than a week after shark attack",
       "beschrijving": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.",
       "url": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Rechtse Fujimori stevent af op winst bij presidentsverkiezingen in Peru",
+      "beschrijving": "Bij de verkiezingen in Peru lijkt de rechtse presidentskandidaat Fujimori voldoende voorsprong te hebben behaald op haar tegenstander Roberto Sánchez. Daarmee lijkt ze zeker te zijn van een overwinning. Het is de vierde keer dat Fujimori meedoet aan de presidentsverkiezingen. Volgens Peruaanse media zijn na de stembusgang van ruim twee weken geleden meer dan 99 procent van alle stemmen geteld, en ",
+      "url": "https://nos.nl/l/2620078",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Ministers op bezoek in Syrië: ook werken aan gedwongen terugkeer",
+      "beschrijving": "Een hoge kabinetsdelegatie heeft vandaag een bezoek gebracht aan Syrië. Vicepremier Van den Brink (minister van Asiel en Migratie) en minister Berendsen (Buitenlandse Zaken) hebben in hoofdstad Damascus gesproken met onder anderen president Sharaa over de wederopbouw van het land na de val van het Assad-regime en het terugnemen van Syriërs die nu nog in Nederland zijn. Nederland draagt al bij aan ",
+      "url": "https://nos.nl/l/2620108",
+      "datum": "27 min geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Simpeler Europese belastingregels moeten bedrijven 8 miljard euro opleveren",
+      "beschrijving": "De Europese Commissie presenteert vandaag maatregelen om de belastingregels in de EU te versimpelen en administratieve lasten voor bedrijven te verlagen. Het zou bedrijven in de Europese Unie een besparing opleveren van ongeveer 8 miljard euro. Met het voorstel wil de Europese Commissie grensoverschrijdend beleggen binnen de Europese Unie stimuleren en daarmee de concurrentiekracht van de hele EU ",
+      "url": "https://nos.nl/l/2620103",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "33 mannen opgepakt in Frankrijk voor downloaden kindermisbruikmateriaal",
+      "beschrijving": "Verspreid over heel Frankrijk zijn de afgelopen dagen 33 mannen opgepakt tussen de 37 en 79 jaar. Ze worden verdacht van het downloaden van een kinderpornografisch bestand op het internet, dat is gemaakt door de beruchte Australische pedoseksueel Peter Scully. Op de gedownloade bestanden zijn beelden te zien van de marteling en verkrachting van drie kinderen. Het gaat om twee meisjes van destijds ",
+      "url": "https://nos.nl/l/2620095",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "WK-koorts in Marokko trekt ook Nederlandse 'Justin Biebers'",
+      "beschrijving": "\"Dima Maghreb\", schreeuwen drie blonde jongens in voetbalshirts van de Marokkaanse nationale ploeg in de microfoon van een televisiezender. Na afloop van de gewonnen WK-wedstrijd van Marokko tegen Schotland (1-0) gingen de Nederlandse studenten Casper, Alex, Tim en Adil viraal in het Noord-Afrikaanse land. Zij zijn lang niet de enigen die tijdens het WK een bezoek brengen aan het voetbalgekke Maro",
+      "url": "https://nos.nl/l/2620068",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Belgische presentator Ben Crabbé vertrekt na 33 jaar bij quizprogramma Blokken",
-      "beschrijving": "De Belgische presentator Ben Crabbé (63) begint in augustus aan zijn laatste seizoen van het bekende Vlaamse televisieprogramma Blokken, heeft de VRT bekendgemaakt. Crabbé presenteert Blokken sinds 1994 en zal na meer dan 7.000 afleveringen in juni 2027 stoppen bij het dagelijkse quizprogramma. \"We zijn ontzettend dankbaar dat Ben zich al die jaren zo ingezet heeft voor de VRT\", vertelt Olivier Go",
+      "beschrijving": "De Belgische presentator Ben Crabbé (63) begint in augustus aan zijn laatste seizoen van het bekende Vlaamse televisieprogramma Blokken, heeft omroep VRT bekendgemaakt. Crabbé presenteert Blokken sinds 1994 en zal na meer dan 7000 afleveringen in juni 2027 stoppen bij het dagelijkse quizprogramma. \"We zijn ontzettend dankbaar dat Ben zich al die jaren zo ingezet heeft voor de VRT\", vertelt Olivier",
       "url": "https://nos.nl/l/2620053",
-      "datum": "14 min geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +104,7 @@
       "titel": "Van artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief",
       "beschrijving": "Afslankmiddelen als Ozempic, Mounjaro en Wegovy hebben een revolutie teweeggebracht in de medische wereld. Niet alleen vanwege de resultaten die obesitaspatiënten boeken met de medicijnen, maar ook vanwege de positieve effecten bij andere aandoeningen. Oók bij ziektes die niet direct worden gelinkt aan overgewicht. De middelen werden ooit ontwikkeld als medicijn tegen diabetes, maar bleken ook zee",
       "url": "https://nos.nl/l/2620048",
-      "datum": "1 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,139 +113,85 @@
       "titel": "Eerste ebolageval in Frankrijk vastgesteld bij uit Congo teruggekeerde arts",
       "beschrijving": "In Frankrijk is een eerste ebola-besmetting vastgesteld. Het gaat om een arts die recent is teruggekeerd uit de Democratische Republiek Congo (DRC), melden de Franse autoriteiten. In dat land is een grote uitbraak van de ziekte gaande. Het Franse ministerie van Volksgezondheid zegt dat het gaat om \"het eerste positieve geval van ebola op het nationale grondgebied\". Het kantoor van de Franse premie",
       "url": "https://nos.nl/l/2620046",
-      "datum": "1 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Wekdienst 24/6: Staking in het openbaar vervoer • Code oranje voor hitte gaat in",
-      "beschrijving": "Goedemorgen! Vakbond FNV houdt vanochtend een staking in het openbaar vervoer en vanaf 12.00 uur geldt code oranje voor negen provincies vanwege extreme hitte. Het weer: Het is vandaag zonnig en heet zomerweer, de temperatuur stijgt naar 30 tot lokaal 36 graden. Het blijft droog en de zwakke tot hooguit matige wind is variabel van richting. Ga je vandaag op pad? Hier vind je het overzicht van de f",
-      "url": "https://nos.nl/l/2620011",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zelensky: Oekraïne dient nieuwe aanvraag voor OESO-lidmaatschap in",
-      "beschrijving": "Oekraïne heeft een nieuwe aanvraag ingediend om lid te worden van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO). President Zelensky laat dat via een Telegram-bericht weten na een ontmoeting met Mathias Cormann, de secretaris-generaal van de OESO. De OESO is een internationaal samenwerkingsverband van 38 voornamelijk economisch voortvarende landen, waaronder ook Nederland. Oek",
-      "url": "https://nos.nl/l/2619999",
-      "datum": "9 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Treinverkeer DB in heel Duitsland plat door storing",
-      "beschrijving": "In heel Duitsland is het treinverkeer van Deutsche Bahn (DB) gisteravond stilgelegd vanwege een storing in het communicatiesysteem GSM-R. Inmiddels is de dienstregeling hervat, meldt de Duitse spoorwegmaatschappij. Het kan tot 06.00 uur 's ochtends duren tot de treinen weer volgens planning rijden, aldus DB. Reizigers dienen tot die tijd rekening te houden met \"aanzienlijke vertragingen en kortsto",
-      "url": "https://nos.nl/l/2619990",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Senaat fluit Trump voor het eerst terug over oorlog in Iran",
-      "beschrijving": "De Amerikaanse Senaat geeft president Trump voor het eerst een klein beetje tegengas in de oorlog met Iran. In een grotendeels symbolische stemming eiste het Hogerhuis dat Trump toestemming van het Congres vraagt om de oorlog voort te zetten. Democraten hadden deze wettelijke eis al negen keer eerder voorgelegd aan de Senaat, maar elke keer wist de Republikeinse meerderheid de verklaring weg te st",
-      "url": "https://nos.nl/l/2619984",
-      "datum": "13 uur geleden",
+      "titel": "Iran’s president awarded honorary doctorate in Pakistan",
+      "beschrijving": "Iran’s President Masoud Pezeshkian was awarded an honorary medical fellowship in cardiac surgery.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/irans-president-awarded-honorary-doctorate-in-pakistan?traffic_source=rss",
+      "datum": "39 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Van Brexit naar Breturn? Tien jaar na referendum wil meerderheid Britten terug",
-      "beschrijving": "Vandaag tien jaar geleden stemden de Britten vóór vertrek uit de EU. Dat dit jubileum samenvalt met het vertrek van de vijfde premier in zeven jaar tijd, is tekenend voor de politieke instabiliteit in de jaren sinds Brexit. Inmiddels wil het merendeel van de Britten weer terug naar hoe het was. Uit recente peilingen blijkt dat 60 procent vóór heraansluiting bij de EU is. Hoogleraar Europees recht ",
-      "url": "https://nos.nl/l/2619971",
-      "datum": "15 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Four Gaza aid flotilla activists released from Libya detention",
-      "beschrijving": "Global Sumud Flotilla group says six others remain in detention and are expected to be released within 24 hours.",
-      "url": "https://www.aljazeera.com/news/2026/6/24/four-gaza-aid-flotilla-activists-released-from-libya-detention?traffic_source=rss",
-      "datum": "56 min geleden",
+      "titel": "The children Gaza lost",
+      "beschrijving": "What does a new UN report documenting the killing and suffering of Palestinian children in Gaza reveal?",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/24/the-children-gaza-lost?traffic_source=rss",
+      "datum": "53 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family’s home",
-      "beschrijving": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family&#039;s home",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/israeli-soldiers-celebrate-inside-displaced-lebanese-familys-home?traffic_source=rss",
+      "titel": "Amid Israeli incursions, this mother demands the return of her son",
+      "beschrijving": "Many Lebanese civilians have gone missing amid continuous Israeli incursions in the south.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/amid-israeli-incursions-this-mother-demands-the-return-of-her-son?traffic_source=rss",
       "datum": "58 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "North Korea commissions largest-ever warship",
-      "beschrijving": "North Korea commissions largest-ever warship",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/north-korea-commissions-largest-ever-warship?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Noord-Korea",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Ukraine strikes strategic Russian bridge in Crimea",
-      "beschrijving": "Ukraine strikes strategic Russian bridge in Crimea",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ukraine-strikes-strategic-russian-bridge-in-crimea?traffic_source=rss",
+      "titel": "What The Elephant Knows | Ep 7 – Sri Lanka",
+      "beschrijving": "In rural Sri Lanka, families face deadly human-elephant conflict while seeking a fragile path to co-existence.",
+      "url": "https://www.aljazeera.com/video/making-peace/2026/6/24/what-the-elephant-knows-ep-7-sri?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Ukraine’s recovery to be deliberated in Poland amid Kyiv-Warsaw spat",
-      "beschrijving": "Amid a brewing row that tests Poland&#039;s alliance with Ukraine, President Zelenskyy will skip a key conference.",
-      "url": "https://www.aljazeera.com/news/2026/6/24/ukraines-recovery-to-be-deliberated-in-poland-amid-kyiv-warsaw-spat?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "France braces for another day of sweltering heat as Europe heatwave spreads",
-      "beschrijving": "The heatwave is expected to spread to other parts of western Europe on Wednesday, before extending eastwards over the weekend.",
-      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-      "beschrijving": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Iran",
+      "titel": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "beschrijving": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
+      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "beschrijving": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
-      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
-      "regio": "Iran",
+      "titel": "Biggest city in Crimea without power after Ukraine strikes",
+      "beschrijving": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+      "datum": "8 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Colombia's left-wing presidential candidate concedes defeat",
+      "beschrijving": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Europa",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Aanvallen gemeld in Libanon, ondanks optimisme over overleg Israël-Hezbollah",
     "Held terreuraanslag Bondi Beach voor de rechter: ontkent mishandeling vader",
-    "Belangrijke havenstad op de Krim zonder stroom door Oekraïense aanvallen",
-    "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
+    "Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks",
+    "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
     "Sydney woman wakes from induced coma more than a week after shark attack",
-    "Belgische presentator Ben Crabbé vertrekt na 33 jaar bij quizprogramma Blokken",
-    "Van artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief",
-    "Eerste ebolageval in Frankrijk vastgesteld bij uit Congo teruggekeerde arts",
-    "Wekdienst 24/6: Staking in het openbaar vervoer • Code oranje voor hitte gaat in",
-    "Zelensky: Oekraïne dient nieuwe aanvraag voor OESO-lidmaatschap in",
-    "Treinverkeer DB in heel Duitsland plat door storing"
+    "Rechtse Fujimori stevent af op winst bij presidentsverkiezingen in Peru",
+    "Ministers op bezoek in Syrië: ook werken aan gedwongen terugkeer",
+    "Simpeler Europese belastingregels moeten bedrijven 8 miljard euro opleveren",
+    "33 mannen opgepakt in Frankrijk voor downloaden kindermisbruikmateriaal",
+    "WK-koorts in Marokko trekt ook Nederlandse 'Justin Biebers'"
   ]
 }
