@@ -1,20 +1,101 @@
 {
-  "bijgewerkt": "23 Jun 2026 23:38 UTC",
+  "bijgewerkt": "24 Jun 2026 10:36 UTC",
   "artikelen": [
+    {
+      "titel": "Held terreuraanslag Bondi Beach voor de rechter: ontkent mishandeling vader",
+      "beschrijving": "De man die wereldwijd werd geprezen voor zijn optreden tijdens de terreuraanslag op Bondi Beach in Sydney heeft gezegd onschuldig te zijn aan mishandeling en intimidatie van zijn vader. Ahmed Al Ahmed (44) verscheen vandaag voor de rechtbank in Bankstown, een voorstad van Sydney. Hij wordt ervan beschuldigd zijn vader in maart te hebben mishandeld en geïntimideerd in een woning in Bankstown. Over ",
+      "url": "https://nos.nl/l/2620021",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Belangrijke havenstad op de Krim zonder stroom door Oekraïense aanvallen",
+      "beschrijving": "De stroom in Sevastopol op de Krim is uitgevallen door Oekraïense aanvallen op energie-infrastructuur. Dat meldt de Russische gouverneur van de stad op Telegram. Het schiereiland is door Rusland geannexeerd. Commandant Robert Brovdi van de Oekraïense eenheden voor onbemande systemen, meldt op Telegram dat bij de aanval het belangrijkste onderstation van de energiecentrale in Sevastopol is geraakt.",
+      "url": "https://nos.nl/l/2620004",
+      "datum": "7 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
+      "beschrijving": "The largest city on the Russia-controlled peninsula has been left without power after an attack on energy facilities.",
+      "url": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss",
+      "datum": "33 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Sydney woman wakes from induced coma more than a week after shark attack",
+      "beschrijving": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+      "datum": "8 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Belgische presentator Ben Crabbé vertrekt na 33 jaar bij quizprogramma Blokken",
+      "beschrijving": "De Belgische presentator Ben Crabbé (63) begint in augustus aan zijn laatste seizoen van het bekende Vlaamse televisieprogramma Blokken, heeft de VRT bekendgemaakt. Crabbé presenteert Blokken sinds 1994 en zal na meer dan 7.000 afleveringen in juni 2027 stoppen bij het dagelijkse quizprogramma. \"We zijn ontzettend dankbaar dat Ben zich al die jaren zo ingezet heeft voor de VRT\", vertelt Olivier Go",
+      "url": "https://nos.nl/l/2620053",
+      "datum": "14 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Van artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief",
+      "beschrijving": "Afslankmiddelen als Ozempic, Mounjaro en Wegovy hebben een revolutie teweeggebracht in de medische wereld. Niet alleen vanwege de resultaten die obesitaspatiënten boeken met de medicijnen, maar ook vanwege de positieve effecten bij andere aandoeningen. Oók bij ziektes die niet direct worden gelinkt aan overgewicht. De middelen werden ooit ontwikkeld als medicijn tegen diabetes, maar bleken ook zee",
+      "url": "https://nos.nl/l/2620048",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Eerste ebolageval in Frankrijk vastgesteld bij uit Congo teruggekeerde arts",
+      "beschrijving": "In Frankrijk is een eerste ebola-besmetting vastgesteld. Het gaat om een arts die recent is teruggekeerd uit de Democratische Republiek Congo (DRC), melden de Franse autoriteiten. In dat land is een grote uitbraak van de ziekte gaande. Het Franse ministerie van Volksgezondheid zegt dat het gaat om \"het eerste positieve geval van ebola op het nationale grondgebied\". Het kantoor van de Franse premie",
+      "url": "https://nos.nl/l/2620046",
+      "datum": "1 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 24/6: Staking in het openbaar vervoer • Code oranje voor hitte gaat in",
+      "beschrijving": "Goedemorgen! Vakbond FNV houdt vanochtend een staking in het openbaar vervoer en vanaf 12.00 uur geldt code oranje voor negen provincies vanwege extreme hitte. Het weer: Het is vandaag zonnig en heet zomerweer, de temperatuur stijgt naar 30 tot lokaal 36 graden. Het blijft droog en de zwakke tot hooguit matige wind is variabel van richting. Ga je vandaag op pad? Hier vind je het overzicht van de f",
+      "url": "https://nos.nl/l/2620011",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zelensky: Oekraïne dient nieuwe aanvraag voor OESO-lidmaatschap in",
+      "beschrijving": "Oekraïne heeft een nieuwe aanvraag ingediend om lid te worden van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO). President Zelensky laat dat via een Telegram-bericht weten na een ontmoeting met Mathias Cormann, de secretaris-generaal van de OESO. De OESO is een internationaal samenwerkingsverband van 38 voornamelijk economisch voortvarende landen, waaronder ook Nederland. Oek",
+      "url": "https://nos.nl/l/2619999",
+      "datum": "9 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
     {
       "titel": "Treinverkeer DB in heel Duitsland plat door storing",
       "beschrijving": "In heel Duitsland is het treinverkeer van Deutsche Bahn (DB) gisteravond stilgelegd vanwege een storing in het communicatiesysteem GSM-R. Inmiddels is de dienstregeling hervat, meldt de Duitse spoorwegmaatschappij. Het kan tot 06.00 uur 's ochtends duren tot de treinen weer volgens planning rijden, aldus DB. Reizigers dienen tot die tijd rekening te houden met \"aanzienlijke vertragingen en kortsto",
       "url": "https://nos.nl/l/2619990",
-      "datum": "2 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Senaat fluit Trump voor het eerst terug over oorlog in Iran",
-      "beschrijving": "De Amerikaanse Senaat biedt president Trump voor het eerst een klein beetje tegengas in de oorlog met Iran. In een grotendeels symbolische stemming eiste het hogerhuis dat Trump toestemming van het Congres vraagt om de oorlog voort te zetten. Democraten hadden deze wettelijke eis al negen keer eerder voorgelegd aan de Senaat, maar elke keer wist de Republikeinse meerderheid daar de verklaring weg ",
+      "beschrijving": "De Amerikaanse Senaat geeft president Trump voor het eerst een klein beetje tegengas in de oorlog met Iran. In een grotendeels symbolische stemming eiste het Hogerhuis dat Trump toestemming van het Congres vraagt om de oorlog voort te zetten. Democraten hadden deze wettelijke eis al negen keer eerder voorgelegd aan de Senaat, maar elke keer wist de Republikeinse meerderheid de verklaring weg te st",
       "url": "https://nos.nl/l/2619984",
-      "datum": "2 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -23,166 +104,94 @@
       "titel": "Van Brexit naar Breturn? Tien jaar na referendum wil meerderheid Britten terug",
       "beschrijving": "Vandaag tien jaar geleden stemden de Britten vóór vertrek uit de EU. Dat dit jubileum samenvalt met het vertrek van de vijfde premier in zeven jaar tijd, is tekenend voor de politieke instabiliteit in de jaren sinds Brexit. Inmiddels wil het merendeel van de Britten weer terug naar hoe het was. Uit recente peilingen blijkt dat 60 procent vóór heraansluiting bij de EU is. Hoogleraar Europees recht ",
       "url": "https://nos.nl/l/2619971",
-      "datum": "4 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Schedels, onderbeen en hart in potje gevonden bij Hongaarse grafrover",
-      "beschrijving": "In Hongarije is een man opgepakt die een collectie menselijke resten had verzameld. Bij doorzoeking van zijn appartement vond de politie schedels, een compleet onderbeen, een hand en een hart in een potje. Van dat laatste wordt nog onderzocht of het menselijk is. De politie was de 30-jarige man via een tip op het spoor gekomen. Hij was blijkbaar enthousiast over zijn verzameling en sprak er gerege",
-      "url": "https://nos.nl/l/2619965",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
+      "titel": "Four Gaza aid flotilla activists released from Libya detention",
+      "beschrijving": "Global Sumud Flotilla group says six others remain in detention and are expected to be released within 24 hours.",
+      "url": "https://www.aljazeera.com/news/2026/6/24/four-gaza-aid-flotilla-activists-released-from-libya-detention?traffic_source=rss",
+      "datum": "56 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Tientallen jaren cel voor neerschieten agent bij uitzetcentrum in Texas",
-      "beschrijving": "Een man die vorig jaar een agent neerschoot bij een uitzetcentrum voor migranten in de Amerikaanse staat Texas, is veroordeeld tot honderd jaar cel. Zeven medestanders kregen ook lange straffen vanwege hulp aan een terrorist, van vijftig tot zeventig jaar. De 32-jarige Benjamin Song trok vorig jaar op de nationale feestdag 4 juli met een groepje medestanders naar het centrum bij de plaats Alvarado",
-      "url": "https://nos.nl/l/2619963",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
+      "titel": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family’s home",
+      "beschrijving": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family&#039;s home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/israeli-soldiers-celebrate-inside-displaced-lebanese-familys-home?traffic_source=rss",
+      "datum": "58 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Oekraïne vernietigt belangrijke spoorbrug op bezette Krim",
-      "beschrijving": "Het Oekraïense leger heeft een spoorbrug opgeblazen op de door Rusland bezette Krim. De strijdkrachten hebben beelden van de drone-aanval gedeeld op sociale media. De NOS heeft de locatie van de aanval vastgesteld aan de hand van openbare bronnen. Het gaat om een logistiek belangrijke spoorbrug over een kanaal in het oosten van het schiereiland. De spoorweg is een van de weinige treinverbindingen ",
-      "url": "https://nos.nl/l/2619940",
-      "datum": "7 uur geleden",
+      "titel": "North Korea commissions largest-ever warship",
+      "beschrijving": "North Korea commissions largest-ever warship",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/north-korea-commissions-largest-ever-warship?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Noord-Korea",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ukraine strikes strategic Russian bridge in Crimea",
+      "beschrijving": "Ukraine strikes strategic Russian bridge in Crimea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ukraine-strikes-strategic-russian-bridge-in-crimea?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Gesprek Taliban en EU afgelopen, ook Nederland zat aan tafel",
-      "beschrijving": "Een delegatie van de Taliban was vandaag op uitnodiging van de Europese Commissie in Brussel voor een gesprek. Daarbij zaten ook ambtenaren van vijftien EU-landen aan tafel, waaronder Nederland. Doel van het gesprek achter gesloten deuren was voor de lidstaten en de Commissie om de terugkeer van uitgeprocedeerde Afghaanse asielzoekers mogelijk te maken. Op dit moment lukt het EU-landen vrijwel nie",
-      "url": "https://nos.nl/l/2619936",
-      "datum": "7 uur geleden",
-      "regio": "Europa",
+      "titel": "Ukraine’s recovery to be deliberated in Poland amid Kyiv-Warsaw spat",
+      "beschrijving": "Amid a brewing row that tests Poland&#039;s alliance with Ukraine, President Zelenskyy will skip a key conference.",
+      "url": "https://www.aljazeera.com/news/2026/6/24/ukraines-recovery-to-be-deliberated-in-poland-amid-kyiv-warsaw-spat?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Levenslang geëist in Haags proces over stadionbloedbad tijdens genocide Rwanda",
-      "beschrijving": "Het Openbaar Ministerie heeft levenslang geëist tegen een man uit Ede die wordt verdacht van betrokkenheid bij de Rwandese genocide in 1994. Volgens de aanklager had de 66-jarige Eugène N. een leidende rol bij een bloedbad in een sportstadion. \"Als deze misdrijven geen levenslange gevangenisstraf verdienen, welke feiten dan wel?\", vroeg aan aanklager zich retorisch af. N. was een regionaal leider ",
-      "url": "https://nos.nl/l/2619935",
-      "datum": "7 uur geleden",
+      "titel": "France braces for another day of sweltering heat as Europe heatwave spreads",
+      "beschrijving": "The heatwave is expected to spread to other parts of western Europe on Wednesday, before extending eastwards over the weekend.",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "BBC World"
     },
     {
-      "titel": "Na 50 jaar geen Playmobil meer gemaakt in Duitsland om aanhoudende verliezen",
-      "beschrijving": "Na ruim een halve eeuw is er een einde gekomen aan de productie van Playmobil in Duitsland. Het verlieslijdende speelgoedbedrijf sloot vandaag zijn productielijn in het Beierse Dietenhofen. Het resterende personeel krijgt betaald verlof tot eind van de maand; er wordt nog besproken hoe hun toekomst eruit zal zien. De fabrikant nam het besluit vanwege de hoge loon- en energiekosten. Het speelgoedbe",
-      "url": "https://nos.nl/l/2619929",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Meer schepen door Straat van Hormuz, evacuatieplan voor gestrande schippers",
-      "beschrijving": "Het verkeer door de Straat van Hormuz is de afgelopen dagen toegenomen na de intentieverklaring tussen de VS en Iran. Gisteren voeren er zeker 36 vrachtschepen door de zeestraat. Van afgelopen vrijdag tot zondag waren het er zeker 71. Dat blijkt uit gegevens van databedrijf Kpler, dat met dochterbedrijf MarineTraffic wereldwijd de bewegingen van schepen volgt. Nog altijd honderden schepen met naar",
-      "url": "https://nos.nl/l/2619924",
-      "datum": "8 uur geleden",
+      "titel": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "beschrijving": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "datum": "6 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Israel’s deliberate targeting of Palestinian children",
-      "beschrijving": "New UN report documents the toll of Israel&#039;s war on Gaza and its occupation of the West Bank on Palestinian children.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
-      "datum": "48 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "UN: Israel committed genocide by targeting Gaza children",
-      "beschrijving": "Israel deliberately targeted Palestinian children in Gaza, resulting in genocide.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Trump allies reassure Israelis amid tensions on US-Iran deal",
-      "beschrijving": "Trump allies reassure Israelis amid tensions on US-Iran deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
-      "beschrijving": "Following the start of the US-Israel war on Iran on February 28, Tehran had effectively closed off the vital waterway.",
-      "url": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
       "beschrijving": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
       "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-      "beschrijving": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
-      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-      "beschrijving": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
-      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-      "beschrijving": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "E-commerce giant Alibaba sues US government over defence blacklist",
-      "beschrijving": "The e-commerce giant is suing the US defence department after it was added to a blacklist of firms with ties to the Chinese military.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
-      "datum": "13 min geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Treinverkeer DB in heel Duitsland plat door storing",
-    "Senaat fluit Trump voor het eerst terug over oorlog in Iran",
-    "Van Brexit naar Breturn? Tien jaar na referendum wil meerderheid Britten terug",
-    "Schedels, onderbeen en hart in potje gevonden bij Hongaarse grafrover",
-    "Tientallen jaren cel voor neerschieten agent bij uitzetcentrum in Texas",
-    "Oekraïne vernietigt belangrijke spoorbrug op bezette Krim",
-    "Gesprek Taliban en EU afgelopen, ook Nederland zat aan tafel",
-    "Levenslang geëist in Haags proces over stadionbloedbad tijdens genocide Rwanda",
-    "Na 50 jaar geen Playmobil meer gemaakt in Duitsland om aanhoudende verliezen",
-    "Meer schepen door Straat van Hormuz, evacuatieplan voor gestrande schippers"
+    "Held terreuraanslag Bondi Beach voor de rechter: ontkent mishandeling vader",
+    "Belangrijke havenstad op de Krim zonder stroom door Oekraïense aanvallen",
+    "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
+    "Sydney woman wakes from induced coma more than a week after shark attack",
+    "Belgische presentator Ben Crabbé vertrekt na 33 jaar bij quizprogramma Blokken",
+    "Van artritis tot hiv: afslankmiddelen lijken ook bij deze ziektes effectief",
+    "Eerste ebolageval in Frankrijk vastgesteld bij uit Congo teruggekeerde arts",
+    "Wekdienst 24/6: Staking in het openbaar vervoer • Code oranje voor hitte gaat in",
+    "Zelensky: Oekraïne dient nieuwe aanvraag voor OESO-lidmaatschap in",
+    "Treinverkeer DB in heel Duitsland plat door storing"
   ]
 }
