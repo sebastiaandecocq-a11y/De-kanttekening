@@ -1,20 +1,74 @@
 {
-  "bijgewerkt": "25 Jun 2026 10:24 UTC",
+  "bijgewerkt": "25 Jun 2026 18:35 UTC",
   "artikelen": [
     {
-      "titel": "Tsjechische president mag van hoogste rechter toch naar NAVO-top",
-      "beschrijving": "De Tsjechische president Pavel mag afreizen naar de NAVO-top in Turkije volgende maand. Dat heeft het Constitutioneel Hof in Tsjechië bepaald. Pavel stapte naar het hof omdat de regering hem niet had opgenomen in de officiële delegatie voor de top. De regering onder leiding van de rechts-populistische premier Babis, een rivaal van Pavel, maakte maandag bekend dat de onafhankelijke president niet z",
-      "url": "https://nos.nl/l/2620138",
-      "datum": "13 uur geleden",
+      "titel": "Ukrainian attack on Crimea kills five, Russian officials say",
+      "beschrijving": "Attacks continue on the ground as Moscow expels Romania’s consul general in a tit-for-tat move.",
+      "url": "https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Een goal, een punt, straks eerste overwinning? Hoe Curaçao grenzen verlegt",
+      "beschrijving": "Curaçao speelt vanavond op het WK tegen Ivoorkust. Een eerste zege voor het land kan, afhankelijk van de andere uitslag in de groep, de volgende ronde betekenen. Curaçao, onder leiding van bondscoach Dick Advocaat, staat als kleinste natie ooit op het grootste voetbalpodium ter wereld. Het eerste Curaçaose WK-doelpunt kwam er, tegen Duitsland, net als het eerste WK-punt, tegen Ecuador. Vanavond ka",
+      "url": "https://nos.nl/l/2620274",
+      "datum": "1 uur geleden",
       "regio": "Europa",
-      "urgentie": "midden",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "‘Historische’ hittegolf in Frankrijk vergroot risico op bosbranden",
+      "beschrijving": "Een 'historische hittegolf', zo omschrijft het Franse weerinstituut de uitzonderlijk hoge temperaturen die Frankrijk nu al ruim een week in zijn greep houden. Met een gemiddelde van 30 graden Celsius beleefde het land gisteren de warmste dag ooit gemeten; vandaag geldt in 72 departementen code rood. De gevolgen zullen de rest van de zomer merkbaar blijven, vooral door het verhoogde risico op bosbr",
+      "url": "https://nos.nl/l/2620261",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Rechters Internationaal Strafhof beginnen rechtszaak tegen Amerikaanse regering",
+      "beschrijving": "Drie rechters van het Internationaal Strafhof in Den Haag spannen een rechtszaak aan tegen de Amerikaanse regering. Die heeft hen en andere medewerkers van het Hof vorig jaar sancties opgelegd vanwege rechterlijke besluiten die zij hadden genomen. Die sancties, zoals financiële straffen en visumrestricties, noemen de rechters onrechtmatig. Het Internationaal Strafhof onderzoekt en vervolgt oorlogs",
+      "url": "https://nos.nl/l/2620254",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Weer Europese actie tegen Russische schaduwvloot: Frankrijk onderschept tanker",
+      "beschrijving": "Frankrijk heeft opnieuw een schip van de Russische schaduwvloot onderschept. De olietanker Deliver voer op de Middellandse Zee in de buurt van Sicilië, toen militairen van de Franse marine de controle overnamen. Dat gebeurde dinsdag, maar is nu pas bekendgemaakt. De Franse president Macron heeft op X beelden van de actie gepost. Daarop is te zien dat zwaarbewapende militairen vanuit een helikopter",
+      "url": "https://nos.nl/l/2620237",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Materieel van Groningse gasvelden gebruikt voor herstel energiesector Oekraïne",
+      "beschrijving": "De Nederlandse Aardolie Maatschappij (NAM) gaat materiaal van voormalige gaslocaties leveren aan het Oekraïense staatsolie- en gasbedrijf Naftogaz. Dat heeft minister Sjoerdsma van Buitenlandse Handel en Ontwikkelingssamenwerking bekendgemaakt op een wederopbouwconferentie in Polen. Het gaat onder meer om gascompressoren en pompen van locaties als het Groningse gasveld. Eind vorig jaar diende Naft",
+      "url": "https://nos.nl/l/2620225",
+      "datum": "7 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Tegenstrijdige berichten over onderhandelingen tussen Israël en Libanon",
+      "beschrijving": "De onderhandelingen tussen Libanon en Israël, die sinds dinsdag in Washington D.C. plaatsvinden, verlopen stroef. Dat blijkt uit wat er uitlekt: Amerikaanse bronnen meldden dat Israël bereid zou zijn zich terug te trekken uit bepaalde delen van Zuid-Libanon, iets dat Israëlische en Libanese autoriteiten niet veel later ontkenden. De aanwezigheid van Israël in dat gebied is het grote pijnpunt in de",
+      "url": "https://nos.nl/l/2620224",
+      "datum": "8 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Vijf mensen in isolatie na contact Franse arts met ebola",
       "beschrijving": "Vijf mensen die in hetzelfde vliegtuig zaten als de Franse arts bij wie gisteren ebola is vastgesteld, zitten uit voorzorg in isolatie. Dat meldt de Franse minister van Gezondheid. De arts met ebola kwam net terug van een missie in de Democratische Republiek Congo (DRC), waar een grote uitbraak van de besmettelijke ziekte is. De personen moeten 21 dagen in isolatie blijven. Hun nationaliteit is ni",
       "url": "https://nos.nl/l/2620212",
-      "datum": "2 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -23,7 +77,7 @@
       "titel": "Reddingsteams zoeken in puin Venezuela, internationale hulp komt op gang",
       "beschrijving": "In Venezuela komt een massale reddingsoperatie op gang na de zware aardbevingen van vannacht. Tientallen gebouwen zijn ingestort en op beelden is te zien hoe reddingswerkers onder het puin op zoek zijn naar mensen. Het officiële dodental staat momenteel op 164, maar de verwachting is dat dat verder zal oplopen. Meer dan 970 mensen raakten gewond. Op X en via een onofficiële website meldden mensen ",
       "url": "https://nos.nl/l/2620200",
-      "datum": "2 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -32,7 +86,7 @@
       "titel": "Trump bekvecht met weerbarstige partijgenoten in Senaat en krijgt zijn zin",
       "beschrijving": "Een lunch van president Trump met Republikeinse partijgenoten is gisteren uitgelopen op een schreeuwpartij over de oorlog in Iran. Zowel de president als kritisch Senator Cassidy verhief daarbij zijn stem, zeggen ingewijden. De Senaat bood deze week voor het eerst voorzichtig tegengas in een stemming over de Iran-oorlog. Het hogerhuis herinnerde de president er officieel aan dat toestemming van he",
       "url": "https://nos.nl/l/2620196",
-      "datum": "3 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,125 +95,62 @@
       "titel": "Wekdienst 25/6: Snikhete dag • Kamerdebat over toekomst Moerdijk",
       "beschrijving": "Goedemorgen! Opnieuw gelden allerlei maatregelen vanwege de hitte. Er is een Kamerdebat over de toekomst van Moerdijk en Oranje speelt komende nacht zijn laatste WK-poulewedstrijd tegen Tunesië. Eerst het weer: het wordt een snikhete dag. Bij een matige noordoostelijke wind wordt het 29 graden in het noorden tot 36 graden in het zuiden. Ga je vandaag op pad? Hier vind je het overzicht van de files",
       "url": "https://nos.nl/l/2620178",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "NAVO-chef Rutte probeert op bezoek bij Trump plooien glad te strijken",
-      "beschrijving": "NAVO-chef Mark Rutte heeft bij een bezoek aan het Witte Huis geprobeerd de relatie met de Amerikaanse president Trump weer een beetje vlot te trekken. Rutte zei begrip te hebben voor de \"irritaties\" van Trump, maar benadrukte dat NAVO-landen hem wel degelijk hebben gesteund in zijn oorlog tegen Iran. Rutte gebruikte zelfs een presentatie om Trump te loven voor zijn aanpak bij de NAVO: Trump is al ",
-      "url": "https://nos.nl/l/2620173",
-      "datum": "6 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Twee zware aardbevingen in Venezuela, vrees voor duizenden slachtoffers",
-      "beschrijving": "In Venezuela zijn kort achter elkaar twee aardbevingen geweest. In de hoofdstad Caracas zijn meerdere gebouwen ingestort. De Amerikaanse geologische dienst USGS zegt te vrezen voor veel slachtoffers. Interim-president Rodríguez heeft de noodtoestand uitgeroepen. Het epicentrum van de eerste beving, met een kracht van 7,2, bevond zich in zee, 53 kilometer ten westen van Puerto Cabello in Venezuela.",
-      "url": "https://nos.nl/l/2620160",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Musk nog steeds rijkste mens op aarde, maar na 12 dagen alweer biljonair af",
-      "beschrijving": "Nog geen twee weken nadat hij zich de eerste biljonair ooit mocht noemen, is Elon Musk die status weer kwijt. De beurswaarde van zijn bedrijf SpaceX is kort na de beursgang fors gedaald, waardoor zijn vermogen nu uitkomt op 957 miljard dollar, meldt het Amerikaanse financiële nieuwsmedium Bloomberg. Volgens de Britse krant Financial Times kampte niet alleen SpaceX, maar de hele technologiesector m",
-      "url": "https://nos.nl/l/2620134",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "60 miljoen sterren, 26 uur sluitertijd: zo ziet het hart van de Melkweg eruit",
-      "beschrijving": "Goed nieuws voor mensen die zich weleens afvragen hoe het centrum van de Melkweg eruitziet: de goudgele gloed van tientallen miljoenen sterren in het midden van ons sterrenstelsel kun je nu zien op een foto vanuit de ruimte. Het is de grootste en meest gedetailleerde foto die ooit van het hart van de Melkweg is gemaakt, zegt de Europese ruimtevaartorganisatie ESA. Hun ruimtetelescoop Euclid heeft ",
-      "url": "https://nos.nl/l/2620124",
       "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Bij voetbalclub Dutch FC in Dallas staat niet winnen maar speelplezier voorop",
-      "beschrijving": "Op een groot stuk gras tussen een kerk en een Starbucks staan honderden kinderen in oranje shirtjes, compleet met het logo van een brullende leeuw. Een ongebruikelijk gezicht hier in de buitenwijken van Dallas, Texas. Dit is niet het Oranjelegioen, maar de jeugdvoetbalclub Dutch FC, opgericht door Wilco Ravestijn uit Vlaardingen. Na 30 jaar in de Verenigde Staten heeft hij een sterk Amerikaans acc",
-      "url": "https://nos.nl/l/2620116",
-      "datum": "14 uur geleden",
-      "regio": "VS",
+      "titel": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
+      "beschrijving": "A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy.",
+      "url": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Oil prices back to pre-war levels on rising Middle East supply",
-      "beschrijving": "The price of Brent crude has reached its lowest since February 27, before the war started.",
-      "url": "https://www.aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss",
-      "datum": "19 min geleden",
+      "titel": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
+      "beschrijving": "The deaths come amid escalating Israeli military raids and settler attacks across the occupied territories.",
+      "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "France warns even young people's health at risk as Europe's heatwave shifts east",
+      "beschrijving": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "datum": "22 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US says Iran will buy its goods: What could US-Iran trade look like?",
-      "beschrijving": "Before the 1979 revolution in Iran, Washington and Tehran had close trade ties. Could a peace deal revive them?",
-      "url": "https://www.aljazeera.com/features/2026/6/25/us-says-iran-will-buy-its-goods-what-could-us-iran-trade-look-like?traffic_source=rss",
-      "datum": "41 min geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iran warns against Hormuz crossings without authorisation",
-      "beschrijving": "An oil tanker navigates the strait, reportedly hugging the western coast, despite threats from Revolutionary Guards.",
-      "url": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Magnitude 6.9 earthquake strikes northern Japan",
-      "beschrijving": "Magnitude 6.9 earthquake strikes northern Japan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/magnitude-6-9-earthquake-strikes-northern-japan?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Moments of panic as earthquakes strike Venezuela",
-      "beschrijving": "Video captured the first moments of two earthquakes striking Venezuela, triggering panic as people fled for safety.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/moments-of-panic-as-earthquakes-strike-venezuela?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
-      "beschrijving": "Iran&#039;s Revolutionary Guard warns against alternative route in Strait of Hormuz as top US diplomat to meet Gulf leaders.",
-      "url": "https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "Trump asks Congress for billions for Iran war, after tension with Republicans",
       "beschrijving": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
       "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Oil price falls to levels not seen since before Iran war",
-      "beschrijving": "Energy prices have been on a wild ride since Iran responded to US and Israeli attacks by effectively closing the Strait of Hormuz.",
+      "titel": "Oil price falls back to pre-Iran war levels",
+      "beschrijving": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
       "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "datum": "3 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
+      "beschrijving": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
+      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -167,31 +158,22 @@
       "titel": "Philippines bans video game played by alleged high school shooter",
       "beschrijving": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
       "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
-      "beschrijving": "Protesters demand justice for more than 80 people killed during the 2024 demonstrations and last year's anniversary protests.",
-      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-      "datum": "42 min geleden",
+      "datum": "20 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Tsjechische president mag van hoogste rechter toch naar NAVO-top",
+    "Ukrainian attack on Crimea kills five, Russian officials say",
+    "Een goal, een punt, straks eerste overwinning? Hoe Curaçao grenzen verlegt",
+    "‘Historische’ hittegolf in Frankrijk vergroot risico op bosbranden",
+    "Rechters Internationaal Strafhof beginnen rechtszaak tegen Amerikaanse regering",
+    "Weer Europese actie tegen Russische schaduwvloot: Frankrijk onderschept tanker",
+    "Materieel van Groningse gasvelden gebruikt voor herstel energiesector Oekraïne",
+    "Tegenstrijdige berichten over onderhandelingen tussen Israël en Libanon",
     "Vijf mensen in isolatie na contact Franse arts met ebola",
     "Reddingsteams zoeken in puin Venezuela, internationale hulp komt op gang",
-    "Trump bekvecht met weerbarstige partijgenoten in Senaat en krijgt zijn zin",
-    "Wekdienst 25/6: Snikhete dag • Kamerdebat over toekomst Moerdijk",
-    "NAVO-chef Rutte probeert op bezoek bij Trump plooien glad te strijken",
-    "Twee zware aardbevingen in Venezuela, vrees voor duizenden slachtoffers",
-    "Musk nog steeds rijkste mens op aarde, maar na 12 dagen alweer biljonair af",
-    "60 miljoen sterren, 26 uur sluitertijd: zo ziet het hart van de Melkweg eruit",
-    "Bij voetbalclub Dutch FC in Dallas staat niet winnen maar speelplezier voorop"
+    "Trump bekvecht met weerbarstige partijgenoten in Senaat en krijgt zijn zin"
   ]
 }
