@@ -1,47 +1,29 @@
 {
-  "bijgewerkt": "26 Jun 2026 18:13 UTC",
+  "bijgewerkt": "26 Jun 2026 22:55 UTC",
   "artikelen": [
+    {
+      "titel": "VS voert aanvallen uit op Iran als reactie op aanval op schip",
+      "beschrijving": "De Verenigde Staten hebben luchtaanvallen uitgevoerd op Iran, zegt het Amerikaanse militaire commando voor het Midden-Oosten (Centcom). De aanval is volgens Centcom een reactie op de aanval op een vrachtschip gisteren, waar de Amerikaanse president Iran voor verantwoordelijk houdt. Amerikaanse gevechtsvliegtuigen zouden Iraanse opslagplaatsen voor raketten en drones hebben gebombardeerd. Ook radar",
+      "url": "https://nos.nl/l/2620483",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Chemische fabriek Rusland geraakt bij Oekraïense aanval, ook Krim bestookt",
       "beschrijving": "Bij een grote droneaanval vannacht heeft Oekraïne een chemische fabriek ten zuiden van Moskou geraakt, melden Russische en Oekraïense Telegramkanalen. Het zou gaan om de Azot-fabriek in de stad Novomoskovsk in de westelijke regio Toela, waar volgens Oekraïne explosieven voor het Russische leger worden gemaakt. De aanval zou de grootste droneaanval van Oekraïne zijn sinds de Russische invasie van d",
       "url": "https://nos.nl/l/2620395",
-      "datum": "8 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Levenslang voor dader aanslag kerstmarkt Maagdenburg",
-      "beschrijving": "De man die in 2024 zes mensen doodde bij een aanslag op de kerstmarkt van Maagdenburg moet levenslang de gevangenis in. De rechter acht Taleb al-Abdulmohsen (51) onder meer schuldig aan moord. Abdulmohsen reed op 20 december 2024 met een auto in op bezoekers van de kerstmarkt in de Oost-Duitse stad. Hij gebruikte daarbij een zware huurauto en reed zeker 48 kilometer per uur. Zes bezoekers kwamen o",
-      "url": "https://nos.nl/l/2620386",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Israeli prosecutors charge six settlers after West Bank mosque attack",
-      "beschrijving": "Israeli attacks on Palestinian villages have increased in the occupied West Bank, even as settlers charged.",
-      "url": "https://www.aljazeera.com/news/2026/6/26/israeli-prosecutors-charge-six-settlers-after-west-bank-mosque-attack?traffic_source=rss",
-      "datum": "12 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Nine people killed in building collapse in Lagos, Nigeria",
-      "beschrijving": "Twenty seven people were rescued with injuries of varying severity; governor orders safety checks on surrounding area.",
-      "url": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss",
-      "datum": "32 min geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-      "beschrijving": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 min geleden",
+      "titel": "US conducts strikes on Iran after attack on cargo ship",
+      "beschrijving": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "datum": "22 min geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -50,34 +32,34 @@
       "titel": "Christmas market attacker jailed for life for murdering six in Germany",
       "beschrijving": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
       "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "How did Colombia’s election split a nation in two?",
-      "beschrijving": "Colombia elected its first right-wing president in years by a razor-thin margin.",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/26/how-did-colombias-election-split-a-nation-in-two?traffic_source=rss",
+      "titel": "17-jarige jongen overleden na mishandeling door groep in Frankrijk",
+      "beschrijving": "Een 17-jarige jongen die vorige week in het Zuid-Franse Narbonne door meerdere leeftijdgenoten werd mishandeld, is aan zijn verwondingen overleden. Vijf jongeren zitten sinds dinsdag vast en zijn aangeklaagd voor poging tot moord. In Frankrijk maakt de zaak rond slachtoffer Louis veel los. Het slachtoffer is een jongen die sinds mei op verzoek van zijn ouders in een jeugdzorginstelling verbleef. D",
+      "url": "https://nos.nl/l/2620475",
       "datum": "1 uur geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
-      "titel": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-      "beschrijving": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
-      "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "titel": "Wie gered is uit het puin in Venezuela is daarna volledig op zichzelf aangewezen",
+      "beschrijving": "\"Het was een kinderfeestje\", zegt een jonge reddingswerker. Hij barst in tranen uit. \"We haalden lichamen van een kinderfeestje uit het puin. Je kan het je niet voorstellen\", zegt hij. \"Maar we moeten nu sterk zijn.\" Met een motorhelm op en dunne handschoenen aan zegt hij dat er mensen nodig zijn, vrijwilligers. \"Wie dan ook, met wat dan ook. We hebben alles nodig\", deelt hij op zijn Instagram-acc",
+      "url": "https://nos.nl/l/2620468",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Tot 18 jaar cel voor vergiftiging Duits gezin in Turks hotel",
       "beschrijving": "In Turkije zijn vier verdachten tot lange celstraffen veroordeeld voor de dood van een Turks-Duits gezin tijdens een vakantie. De ouders en hun twee jonge kinderen overleden vorig jaar door het gebruik van bestrijdingsmiddelen in hun hotel. De eigenaar van het hotel kreeg meer dan 13 jaar cel. De eigenaar van het bestrijdingsbedrijf en zijn zoon kregen elk een celstraf van 18 jaar. Een medewerker ",
       "url": "https://nos.nl/l/2620456",
-      "datum": "14 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +68,7 @@
       "titel": "Sportvliegtuig vliegt in hoogste wolkenkrabber van Peking",
       "beschrijving": "In Peking is een klein vliegtuig tegen een wolkenkrabber gevlogen, schrijven Chinese media. Het is niet bekend of er doden zijn gevallen en of er sprake is van opzet. Op beelden die op sociale media zijn verspreid is een gat te zien in een van de bovenste etages van de 528 meter hoge CITIC-toren. Ook valt puin naar beneden. De wolkenkrabber staat in het financiële district van Peking en is de hoog",
       "url": "https://nos.nl/l/2620423",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +77,7 @@
       "titel": "Van (het naspelen van) de Slag bij Waterloo tot festivals: veel afgelastingen",
       "beschrijving": "Naast hardstylefestival Defqon.1 en het Nationaal Defilé op Veteranendag worden ook andere festivals en evenementen afgelast vanwege de hitte. Zo is een actiebijeenkomst van vakbonden CNV en FNV tegen de kabinetsplannen over sociale zekerheid geannuleerd. De actie stond voor morgen in Nijmegen gepland, maar de vakbonden vinden het niet verantwoord om de straat op te gaan tijdens de extreme hitte. ",
       "url": "https://nos.nl/l/2620417",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +86,7 @@
       "titel": "Dodental aardbevingen Venezuela boven de 900, duizenden vermist",
       "beschrijving": "Het dodental na de zware aardbevingen in Venezuela is opgelopen tot 920. Dat heeft interim-president Rodríguez bekendgemaakt. 3360 mensen zijn gewond geraakt. De verwachting is dat het aantal slachtoffers nog zal oplopen want er zijn duizenden mensen vermist. Het Zuid-Amerikaanse land werd woensdag rond 18.00 uur lokale tijd getroffen door twee aardbevingen, kort na elkaar. De eerste beving had ee",
       "url": "https://nos.nl/l/2620410",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +95,7 @@
       "titel": "Podcast De Dag: berichten uit een verwoest Venezuela",
       "beschrijving": "Na twee uitzonderlijk zware aardbevingen zoeken veel Venezolanen naar vermiste familieleden en vrienden. Onder het puin, of online. Journalist en Latijns-Amerika-kenner Edwin Koopman laat een website zien die door vrijwilligers wordt gerund en waar mensen vermiste vrienden of familie kunnen opgeven of terugvinden. Deze vrijdag staan ruim 50.000 namen nog geregistreerd als vermist. Dit burgerinitia",
       "url": "https://nos.nl/l/2620409",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,76 +104,85 @@
       "titel": "Europa gebukt onder hitte: Pride Parijs afgezegd en stookverbod in Basel",
       "beschrijving": "Deze week kampt Europa met extreem hoge temperaturen. In Nederland geldt sinds middernacht code rood vanwege de hitte en dat gebeurde nooit eerder. Ook in andere Europese landen zijn maatregelen genomen tegen de hitte: zo gaat in Parijs de jaarlijkse Pride-viering niet door en in het Zwitserse kanton Basel-Stadt geldt sinds 12.00 uur een stookverbod. Vanwege de \"rode alarmfase door de extreme hitt",
       "url": "https://nos.nl/l/2620408",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Porsche-telg zet villa in de verkoop na kritiek op plan voor privétunnel",
-      "beschrijving": "Wolfgang Porsche heeft zijn villa in het Oostenrijkse Salzburg in de verkoop gezet na aanhoudende kritiek op een plan om een privétunnel aan te leggen. Die tunnel moest volgens Oostenrijkse media dwars door een berg lopen richting de villa van de voorzitter van de raad van commissarissen van automerk Porsche. De 83-jarige automiljardair kocht het Paschinger Schlössl, zoals de villa heet, in 2020 v",
-      "url": "https://nos.nl/l/2620388",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Voormalige first lady Zuid-Korea veroordeeld tot zeven jaar cel voor omkoping",
-      "beschrijving": "Kim Keon Hee, de vrouw van de afgezette Zuid-Koreaanse president Yoon Suk Yeol, is veroordeeld tot zeven jaar cel voor omkoping. De voormalige first lady werd in augustus 2025 gearresteerd. Ze werd beschuldigd van aandelenfraude, omkoping en het illegaal beïnvloeden van ondernemers, religieuze personen en politieke machthebbers. Chanel-tassen en een ketting De rechter acht bewezen dat Kim twee Cha",
-      "url": "https://nos.nl/l/2620381",
-      "datum": "10 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Why did these World Cup ads strike a nerve in Egypt?",
-      "beschrijving": "A viral World Cup campaign tapped into a familiar conversation among Egyptian football fans, prompting debate.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt-2?traffic_source=rss",
-      "datum": "18 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US announces framework agreement between Israel and Lebanon",
-      "beschrijving": "US Secretary of State Marco Rubio has announced the deal after talks unfolded in Washington, DC.",
-      "url": "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss",
-      "datum": "19 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Hezbollah: Israel must ‘unconditionally’ leave Lebanon",
-      "beschrijving": "Hezbollah says Israel has &quot;no option&quot; but to “unconditionally” withdraw from southern Lebanon and other occupied areas.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah_israel-must-unconditionally-leave-lebanon-260626?traffic_source=rss",
+      "titel": "Burkina Faso cuts diplomatic ties with former colonial ruler France",
+      "beschrijving": "The military government, in power since 2022 coup, accused France of having &#039;neo-colonial ambitions&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france?traffic_source=rss",
       "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US strikes Iran in response to drone strike on commercial ship",
+      "beschrijving": "The new strikes come in response to an Iranian drone attack on the Ever Lovely in the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Hezbollah will not support Israel-Lebanon framework deal",
+      "beschrijving": "Al Jazeera brings you the latest from Beirut as the US announces a framework agreement between Israel and Lebanon.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah-rejects-israel-lebanon-framework-deal-260626?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
       "titel": "Mother dies saving daughter in Venezuela earthquakes",
-      "beschrijving": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 589 people.",
+      "beschrijving": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
       "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "DR Congo takes Rwanda to international court over decades of conflict",
+      "beschrijving": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "beschrijving": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+      "beschrijving": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+      "datum": "12 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "VS voert aanvallen uit op Iran als reactie op aanval op schip",
     "Chemische fabriek Rusland geraakt bij Oekraïense aanval, ook Krim bestookt",
-    "Levenslang voor dader aanslag kerstmarkt Maagdenburg",
-    "Israeli prosecutors charge six settlers after West Bank mosque attack",
-    "Nine people killed in building collapse in Lagos, Nigeria",
-    "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+    "US conducts strikes on Iran after attack on cargo ship",
     "Christmas market attacker jailed for life for murdering six in Germany",
-    "How did Colombia’s election split a nation in two?",
-    "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+    "17-jarige jongen overleden na mishandeling door groep in Frankrijk",
+    "Wie gered is uit het puin in Venezuela is daarna volledig op zichzelf aangewezen",
     "Tot 18 jaar cel voor vergiftiging Duits gezin in Turks hotel",
-    "Sportvliegtuig vliegt in hoogste wolkenkrabber van Peking"
+    "Sportvliegtuig vliegt in hoogste wolkenkrabber van Peking",
+    "Van (het naspelen van) de Slag bij Waterloo tot festivals: veel afgelastingen",
+    "Dodental aardbevingen Venezuela boven de 900, duizenden vermist"
   ]
 }
