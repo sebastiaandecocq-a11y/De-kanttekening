@@ -1,21 +1,12 @@
 {
-  "bijgewerkt": "27 Jun 2026 09:14 UTC",
+  "bijgewerkt": "27 Jun 2026 15:04 UTC",
   "artikelen": [
     {
-      "titel": "VS voert aanvallen uit op Iran als reactie op aanval op schip",
-      "beschrijving": "De Verenigde Staten hebben luchtaanvallen uitgevoerd op Iran, zegt het Amerikaanse militaire commando voor het Midden-Oosten (Centcom). De aanval is volgens Centcom een reactie op de aanval op een vrachtschip, waar de Amerikaanse president Iran voor verantwoordelijk houdt. Amerikaanse gevechtsvliegtuigen zouden Iraanse opslagplaatsen voor raketten en drones hebben gebombardeerd. Ook radarposten la",
-      "url": "https://nos.nl/l/2620483",
-      "datum": "11 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran and US trade blame for attacks, threatening fragile ceasefire",
-      "beschrijving": "Vance warned &#039;violence will be met with violence&#039; while the IRGC says future responses to aggression will be &#039;broader&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
+      "titel": "Three killed as Ukraine and Russia trade attacks overnight",
+      "beschrijving": "Moscow&#039;s attacks are reported to have killed two, while Kyiv&#039;s attacks on Russia killed one.",
+      "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -23,25 +14,52 @@
       "titel": "US strikes Iran after attack on cargo ship",
       "beschrijving": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
       "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "datum": "48 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Christmas market attacker jailed for life for murdering six in Germany",
-      "beschrijving": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-      "datum": "22 uur geleden",
+      "titel": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
+      "beschrijving": "Hezbollah chief calls the deal &#039;null and void&#039;, raising questions if the latest agreement can lead to peace in Lebanon.",
+      "url": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Drukke Fernpas in Oostenrijk dicht door demonstratie van omwonenden",
+      "beschrijving": "In Oostenrijk is de Fernpas vanochtend korte tijd afgesloten geweest vanwege een betoging van omwonenden. De Fernpas is een belangrijke route in de Alpen, ten westen van Innsbruck, die zeker in vakantietijd druk bereden wordt. Op drukke reisdagen kunnen er wel 32.000 voertuigen op de Fernpass rijden. Juist vanwege die enorme drukte namen zo'n 700 omwonenden deel aan twee demonstraties. Ze liepen t",
+      "url": "https://nos.nl/l/2620566",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nederlands reddingsteam geland in Venezuela, tijd dringt voor overlevenden",
+      "beschrijving": "Een Nederlands reddingsteam is geland in Venezuela om te helpen bij de zoektocht naar overlevenden van de twee zware aardbevingen. Tienduizenden mensen worden nog vermist. De bevingen waren zo'n 2,5 dag geleden en daarmee begint de tijd te dringen om mensen nog levend onder het puin vandaan te halen. Het officiële dodental staat op 920 en er zijn zeker 3360 gewonden. Die aantallen zijn naar verwac",
+      "url": "https://nos.nl/l/2620555",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Lichaam van meisje (17) in koffer gevonden in Thailand, Australiër opgepakt",
+      "beschrijving": "In Thailand is een Australische toerist gearresteerd in verband met de vondst van het lichaam van een tienermeisje in een koffer. De man van 45 is opgepakt op de internationale luchthaven van Bangkok en wordt verdacht van moord. De zaak speelt zich af in Pattaya, een bekende badplaats zo'n 100 kilometer ten zuidoosten van Bangkok. De politie vermoedt dat het meisje van 17 jaar donderdagochtend vro",
+      "url": "https://nos.nl/l/2620554",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Onderzoek in Frankrijk na meldingen over mogelijke kinderhandel op Vinted",
       "beschrijving": "In Frankrijk is justitie een onderzoek begonnen naar meldingen van mogelijke kinderhandel op verkoopplatform Vinted. Het Litouwse bedrijf weerspreekt de beschuldigingen. Politie in Duitsland liet eerder deze week aan journalisten weten dat er geen bewijs was gevonden voor kinderhandel via Vinted. De meldingen hebben veel stof doen opwaaien op sociale media. Influencers deelden screenshots van verd",
       "url": "https://nos.nl/l/2620530",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +68,7 @@
       "titel": "NASA stuurt reddingsmissie naar langzaam neerstortende ruimtetelescoop",
       "beschrijving": "Een ruimtetelescoop van NASA dreigt langzaam terug in de atmosfeer van de aarde te vallen, maar redding is nabij. Komende week moet een ruimtevaartuigje op weg gaan om de telescoop een zetje te geven. Ruimtetelescoop Swift werd in 2004 gelanceerd om astronomische fenomenen als gammaflitsen vast te leggen, de meest krachtige explosies in het heelal. De Swift-telescoop doet het na 22 jaar nog prima,",
       "url": "https://nos.nl/l/2620525",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +77,7 @@
       "titel": "Podcast De Dag: de bijvangst van middelen als Ozempic",
       "beschrijving": "De kilo's vliegen eraf bij mensen die afvallen met middelen als Ozempic, Mounjaro en Wegovy. Door de spuiten te zetten heb je minder honger en val je af. Maar mensen die het gebruiken zeggen ook andere dingen te merken. Zo zouden de middelen ook effect hebben op hart en vaten, op slaapapneu en zelfs kunnen helpen voor hiv-patienten. Online gaan mensen nog verder: bijvoorbeeld ook migraine zou verh",
       "url": "https://nos.nl/l/2620515",
-      "datum": "3 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "Rusland roept noodtoestand uit op de Krim: doorbraak in Oekraïens offensief?",
       "beschrijving": "De afgelopen maanden slaagt Oekraïne er steeds vaker in om Rusland pijn te doen op zijn eigen grondgebied, ver van het front. Vrijdag leidde dit tot een volgende klap: de Russische autoriteiten riepen de noodtoestand uit voor de Krim, het Oekraïense schiereiland dat sinds 2014 door Rusland wordt bezet. De regionale leider van de Krim, Sergej Aksonjov, geeft aan dat er in het gebied sprake is van \"",
       "url": "https://nos.nl/l/2620512",
-      "datum": "4 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Wekdienst 27/6: Code rood in Limburg, Brabant, Gelderland en Overijssel • Pride Boedapast",
       "beschrijving": "Goedemorgen! Het is opnieuw code rood vanwege de hitte in een deel van Nederland. En in Den Haag wordt Veteranendag gehouden, maar met een aangepast programma. Ook vandaag eerst het weer: het wordt opnieuw heel erg heet. In het westen kan het tot 29 graden worden, in het oosten 38 graden. Aan het einde van de dag neemt vanuit het zuiden de kans toe op zware onweersbuien. Lees hier hoe je je huis k",
       "url": "https://nos.nl/l/2620509",
-      "datum": "4 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +104,7 @@
       "titel": "Libanon en Israël tekenen akkoord dat 'eerste stap richting vrede' moet zijn",
       "beschrijving": "Libanon en Israël hebben een akkoord getekend dat volgens de ondertekenaars \"een eerste stap richting vrede is\". De 'raamwerkovereenkomst' werd in Washington ondertekend door de Israëlische en de Libanese ambassadeur in de Verenigde Staten in aanwezigheid van de Amerikaanse minister Rubio van Buitenlandse Zaken. Hezbollah, de door Iran gesteunde groep die in Libanon actief is, was niet betrokken b",
       "url": "https://nos.nl/l/2620494",
-      "datum": "8 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,94 +113,67 @@
       "titel": "Burkina Faso verbreekt diplomatieke banden met Frankrijk",
       "beschrijving": "Burkina Faso heeft de diplomatieke banden met Frankrijk verbroken. De verhoudingen tussen Burkina Faso en voormalig kolonisator Frankrijk waren de afgelopen jaren al verslechterd. Het militaire regime van het land stelt dat Frankrijk zich te veel \"mengt in binnenlandse aangelegenheden\". Ook beschuldigt het Frankrijk ervan \"openlijk neokoloniale ambities te koesteren en actief subversieve netwerken",
       "url": "https://nos.nl/l/2620493",
-      "datum": "9 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "17-jarige jongen overleden na mishandeling door groep in Frankrijk",
-      "beschrijving": "Een 17-jarige jongen die vorige week in het Zuid-Franse Narbonne door meerdere leeftijdgenoten werd mishandeld, is aan zijn verwondingen overleden. Vijf jongeren zitten sinds dinsdag vast en zijn aangeklaagd voor poging tot moord. In Frankrijk maakt de zaak rond slachtoffer Louis veel los. Het slachtoffer is een jongen die sinds mei op verzoek van zijn ouders in een jeugdzorginstelling verbleef. D",
-      "url": "https://nos.nl/l/2620475",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wie gered is uit het puin in Venezuela is daarna volledig op zichzelf aangewezen",
-      "beschrijving": "\"Het was een kinderfeestje\", zegt een jonge reddingswerker. Hij barst in tranen uit. \"We haalden lichamen van een kinderfeestje uit het puin. Je kan het je niet voorstellen\", zegt hij. \"Maar we moeten nu sterk zijn.\" Met een motorhelm op en dunne handschoenen aan zegt hij dat er mensen nodig zijn, vrijwilligers. \"Wie dan ook, met wat dan ook. We hebben alles nodig\", deelt hij op zijn Instagram-acc",
-      "url": "https://nos.nl/l/2620468",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-      "beschrijving": "US says it targeted Iranian missile and drone storage locations while IRGC said it hit US military sites in the region.",
-      "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+      "titel": "‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’",
+      "beschrijving": "Iran&#039;s IRGC appears to have rejected US claims of a military hotline will operate between the two countries.",
+      "url": "https://www.aljazeera.com/news/2026/6/27/pick-up-the-phone-irgc-appears-to-rebuff-us-strait-of-hormuz-hotline?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Belgium reach World Cup knockouts as New Zealand exit tournament",
-      "beschrijving": "A double strike from Arsenal&#039;s Leandro Trossard against New Zealand carried Belgium to top of Group G, ahead of Egypt.",
-      "url": "https://www.aljazeera.com/news/2026/6/27/belgium-new-zealand-fifa-world-cup-2026-trossard-lukaku-de-bruyne-saelemaekers?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "No school, living in a tent, but it’s exam time in Gaza",
+      "beschrijving": "Dana Shabat, 18, has to walk an hour every day to go to a cafe to take her high school exams in the Gaza Strip.",
+      "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Mother dies saving daughter in Venezuela earthquakes",
-      "beschrijving": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
     },
     {
       "titel": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
       "beschrijving": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
       "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "DR Congo takes Rwanda to international court over decades of conflict",
-      "beschrijving": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
-      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
-      "regio": "Afrika",
+      "titel": "Burkina Faso severs diplomatic ties with France",
+      "beschrijving": "The West African country's junta accused the former colonial power of undermining its national interests.",
+      "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+      "datum": "42 min geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "beschrijving": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
-      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Mother dies saving daughter in Venezuela earthquakes",
+      "beschrijving": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "datum": "20 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "VS voert aanvallen uit op Iran als reactie op aanval op schip",
-    "Iran and US trade blame for attacks, threatening fragile ceasefire",
+    "Three killed as Ukraine and Russia trade attacks overnight",
     "US strikes Iran after attack on cargo ship",
-    "Christmas market attacker jailed for life for murdering six in Germany",
+    "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
+    "Drukke Fernpas in Oostenrijk dicht door demonstratie van omwonenden",
+    "Nederlands reddingsteam geland in Venezuela, tijd dringt voor overlevenden",
+    "Lichaam van meisje (17) in koffer gevonden in Thailand, Australiër opgepakt",
     "Onderzoek in Frankrijk na meldingen over mogelijke kinderhandel op Vinted",
     "NASA stuurt reddingsmissie naar langzaam neerstortende ruimtetelescoop",
     "Podcast De Dag: de bijvangst van middelen als Ozempic",
-    "Rusland roept noodtoestand uit op de Krim: doorbraak in Oekraïens offensief?",
-    "Wekdienst 27/6: Code rood in Limburg, Brabant, Gelderland en Overijssel • Pride Boedapast",
-    "Libanon en Israël tekenen akkoord dat 'eerste stap richting vrede' moet zijn"
+    "Rusland roept noodtoestand uit op de Krim: doorbraak in Oekraïens offensief?"
   ]
 }
