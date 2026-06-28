@@ -1,65 +1,101 @@
 {
-  "bijgewerkt": "28 Jun 2026 08:33 UTC",
+  "bijgewerkt": "28 Jun 2026 14:59 UTC",
   "artikelen": [
     {
       "titel": "VS voert opnieuw aanvallen uit in Iran, Teheran valt Amerikaanse bases aan",
       "beschrijving": "De Verenigde Staten hebben opnieuw doelen in Iran aangevallen. Iran zegt als vergelding Amerikaanse militaire doelen in Koeweit en Bahrein te hebben aangevallen. Het is de tweede dag op rij dat de VS aanvallen uitvoert op Iran, nadat beide landen vorige week een staakt-het-vuren overeenkwamen. Volgens het Amerikaanse militaire commando in het Midden-Oosten (Centcom) zijn de aanvallen een reactie o",
       "url": "https://nos.nl/l/2620626",
-      "datum": "9 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
-      "beschrijving": "Suffering of Gaza&#039;s children continues unabated due to Israeli attacks despite &#039;ceasefire&#039; reached in October 2025.",
-      "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
-      "datum": "54 min geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Ukraine says it attacked two Russian oil refineries",
+      "beschrijving": "At least two killed in drone attacks, Russian authorities say, as Ukraine continues to target energy facilities.",
+      "url": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-      "beschrijving": "US strikes Iran for a second day near Strait of Hormuz as Bahrain sounds sirens and Kuwait activates air defences.",
-      "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Servische president Vucic treedt vroegtijdig af en kondigt vervroegde verkiezingen aan",
-      "beschrijving": "De Servische president Vucic heeft aangekondigd dat hij binnen enkele weken aftreedt en vervroegde presidents- en parlementsverkiezingen uitschrijft. De conservatieve Vucic heeft zijn aftreden op een bijeenkomst van zijn SNS-partij in Belgrado bekendgemaakt. Hij is sinds 2017 president van Servië en de tweede en laatste termijn van zijn presidentschap loopt volgend jaar af. Vucic zei ook dat hij z",
-      "url": "https://nos.nl/l/2620606",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Polls open in New Caledonia’s first provincial elections since 2019",
-      "beschrijving": "The New Zealand public broadcaster reports that about 2,500 police officers were deployed to secure and monitor polling stations.",
-      "url": "https://www.aljazeera.com/news/2026/6/28/polls-open-in-new-caledonias-first-provincial-elections-since-2019?traffic_source=rss",
+      "titel": "Eleven killed after plane carrying skydivers crashes in eastern France",
+      "beschrijving": "The pilot and 10 passengers died in the incident, local officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Corruptiezaken stapelen zich op, partijtop houdt vast aan Spaanse premier",
+      "beschrijving": "De Spaanse Socialistische Partij (PSOE) van premier Sánchez bevindt zich in zwaar weer. Onderzoeken naar mogelijke corruptie en belangenverstrengeling raken de partij en zelfs de directe omgeving van de premier. Hoewel veel zaken juridisch nog niet zijn afgerond en mogelijk niet allemaal tot rechtszaken leiden, neemt de politieke druk op Sánchez toe. Zijn positie was dan ook het belangrijkste onde",
+      "url": "https://nos.nl/l/2620696",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
+    },
+    {
+      "titel": "Russische ex-militair en blogger opgepakt na kritiek op leger en oproep aan Poetin",
+      "beschrijving": "Een Russische ex-militair en blogger is vermoedelijk opgepakt nadat hij president Poetin in een veelbekeken video had opgeroepen hem live op televisie te ontvangen. De man, Alexander Loenin, zei dat hij met Poetin wilde praten om misstanden binnen het Russische leger aan de kaak te stellen. Het Duitse persbureau DPA meldt dat Loenin elf dagen in administratieve hechtenis is gezet. DPA baseert zich",
+      "url": "https://nos.nl/l/2620687",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
     },
     {
       "titel": "US and Iran exchange strikes and accuse each other of violating ceasefire",
       "beschrijving": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
       "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Oud-president Biden haalt in toespraak uit naar Trump: 'Wow, wat een loser'",
+      "beschrijving": "In een toespraak heeft de Amerikaanse oud-president Biden zijn opvolger Trump zwaar bekritiseerd. De 83-jarige Biden noemde zijn politieke rivaal een narcist, corrupt en een loser. Hij deed de uitspraken op een evenement waar geld werd ingezameld voor de Democratische Partij. Biden somde een lange reeks kwesties op waar Trump volgens hem de plank misslaat. \"En dat is niet alleen zijn bewuste verst",
+      "url": "https://nos.nl/l/2620714",
+      "datum": "5 min geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "​​​​​​​BBC: Infantino maakte tijdens WK 27 vluchten met privéjet",
+      "beschrijving": "FIFA-voorzitter Gianni Infantino heeft tijdens de groepsfase van het WK voetbal in Noord-Amerika zeker 27 vluchten gemaakt met een privéjet. Dat meldt de BBC op basis van een analyse van de vliegbewegingen van een toestel dat aan de wereldvoetbalbond wordt gelinkt. Volgens de BBC was Infantino in zestien dagen tijd bij 24 wedstrijden in de Verenigde Staten, Canada en Mexico. Daarbij zou het vliegt",
+      "url": "https://nos.nl/l/2620700",
+      "datum": "2 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vliegtuig vol parachutisten stort neer in Frankrijk: elf doden",
+      "beschrijving": "Bij de noordelijke Franse stad Nancy is een klein vliegtuig met parachutespringers neergestort. Alle elf inzittenden zijn daarbij omgekomen. Het gaat om de piloot, vijf instructeurs en vijf leerlingen. Het toestel stortte rond 11.00 uur neer in een straat in Tomblaine, een voorstad van Nancy. Even daarvoor was het vertrokken van het nabijgelegen vliegveld Nancy-Essey. Het vliegtuig kwam terecht op",
+      "url": "https://nos.nl/l/2620694",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Broodjes uitdelen na bevingen in Caracas: 'Ik wil niet thuis blijven zitten'",
+      "beschrijving": "Op Plaza Altamira in Caracas slapen mensen in tentjes of soms op een matras onder de straatlampen. Ze zijn hun appartementencomplex ontvlucht na de zware aardbevingen eerder deze week. Zussen Wendy en Winifred Velazquez lopen met een koelbox langs de tenten in de Venezolaanse hoofdstad. Ze delen arepa's en pasteitjes met kaas uit. \"We willen ons steentje bijdragen en de mensen in nood helpen\", zeg",
+      "url": "https://nos.nl/l/2620683",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Wekdienst 28/6: Onafhankelijkheidsfeest VS in Brussel • Eerste knock-outwedstrijd op WK voetbal",
       "beschrijving": "Goedemorgen! Vandaag wordt in het Brusselse Jubelpark een groot feest gevierd rond 250 jaar onafhankelijkheid van de VS. Op het WK voetbal wordt de eerste wedstrijd in de knock-outfase gespeeld tussen Canada en Zuid-Afrika. Eerst het weer: veel zon en enkele wolkenvelden wisselen elkaar af. Bij een matige westenwind wordt het maximaal 25 tot 31 graden. Daarmee is het minder heet dan de afgelopen d",
       "url": "https://nos.nl/l/2620666",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +104,7 @@
       "titel": "De Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken",
       "beschrijving": "Deel 1: Ultiem wondermiddel? Uit nieuwe onderzoeken blijkt dat medicijnen als Ozempic, Wegovy en Mounjaro uitstekend helpen bij obesitas. Tegelijkertijd stoppen veel gebruikers met de middelen vanwege de kosten of bijwerkingen. We spreken twee vrouwen die met afslankmedicatie willen beginnen, maar eerst een jaar een gecombineerde leefstijlinterventie moeten volgen voordat ze in aanmerking komen vo",
       "url": "https://nos.nl/l/2620617",
-      "datum": "11 uur geleden",
+      "datum": "17 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,103 +113,85 @@
       "titel": "Dodental in Venezuela opgelopen tot 1430, ook weer nieuwe aardbeving",
       "beschrijving": "In Venezuela heeft een nieuwe aardbeving plaatsgevonden in de buurt van La Guaira. De nieuwe beving had een kracht van 5,6, meldt het Europees-Mediterraans Seismologisch Centrum (EMSC). Het is nog niet duidelijk of er slachtoffers zijn. Parlementsvoorzitter Jorge Rodriguez zegt dat de autoriteiten de naschokken in de gaten houden. De Venezolaanse regering meldt ondertussen dat het aantal mensen da",
       "url": "https://nos.nl/l/2620615",
-      "datum": "11 uur geleden",
+      "datum": "18 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "In Zuid-Afrika laait anti-immigratiegeweld op, migranten slaan op de vlucht",
-      "beschrijving": "In Zuid-Afrika lopen de spanningen over illegale immigratie hoog op. Een nieuwe protestbeweging eist dat migranten zonder geldige papieren het land uiterlijk dinsdag 30 juni verlaten. Nu die datum dichterbij komt, worden huizen van migranten in brand gestoken en winkels geplunderd. De regering van Mozambique zegt dat vijf van zijn burgers zijn vermoord. Afgelopen week werd een 29-jarige man uit Ma",
-      "url": "https://nos.nl/l/2620600",
-      "datum": "15 uur geleden",
-      "regio": "Wereld",
+      "titel": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
+      "beschrijving": "Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait.",
+      "url": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss",
+      "datum": "58 min geleden",
+      "regio": "Iran",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Australië scherpt regels socialemediaverbod voor kinderen aan: boete verdubbeld",
-      "beschrijving": "De boete voor techbedrijven die te weinig doen om het socialemediaverbod voor kinderen in Australië te handhaven, wordt verdubbeld. Het verbod heeft tot nu toe weinig effect gehad, stelt de Australische regering. De maximale boete wordt verhoogd van 45,5 miljoen naar 99 miljoen Australische dollar, omgerekend bijna 60 miljoen euro. Ook krijgt de Australische internetwaakhond eSafety Commission mee",
-      "url": "https://nos.nl/l/2620591",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
+      "titel": "The US-Iran MoU: A mirage of an agreement",
+      "beschrijving": "Both Washington and Tehran know that current deal will not lead to lasting peace. It is merely a strategic pause",
+      "url": "https://www.aljazeera.com/opinions/2026/6/28/the-us-iran-mou-a-mirage-of-an-agreement?traffic_source=rss",
+      "datum": "59 min geleden",
+      "regio": "Iran",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Drukke Fernpas in Oostenrijk dicht door demonstratie van omwonenden",
-      "beschrijving": "In Oostenrijk is de Fernpas vanochtend korte tijd afgesloten geweest vanwege een betoging van omwonenden. De Fernpas is een belangrijke route in de Alpen, ten westen van Innsbruck, die zeker in vakantietijd druk bereden wordt. Op drukke reisdagen kunnen er wel 32.000 voertuigen op de Fernpass rijden. Juist vanwege die enorme drukte namen zo'n 700 omwonenden deel aan twee demonstraties. Ze liepen t",
-      "url": "https://nos.nl/l/2620566",
-      "datum": "20 uur geleden",
-      "regio": "Wereld",
+      "titel": "Adam Johnson on how US corporate media sold Israel’s genocide in Gaza",
+      "beschrijving": "Marc Lamont Hill speaks with author Adam Johnson on US corporate media’s role in enabling the genocide in Gaza.",
+      "url": "https://www.aljazeera.com/video/upfront/2026/6/28/adam-johnson-on-how-us-corporate-media-sold-israels-genocide-in-gaza?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Nederlands reddingsteam geland in Venezuela, tijd dringt voor overlevenden",
-      "beschrijving": "Een Nederlands reddingsteam is geland in Venezuela om te helpen bij de zoektocht naar overlevenden van de twee zware aardbevingen. Tienduizenden mensen worden nog vermist. De bevingen waren zo'n 2,5 dag geleden en daarmee begint de tijd te dringen om mensen nog levend onder het puin vandaan te halen. Het officiële dodental staat op 920 en er zijn zeker 3360 gewonden. Die aantallen zijn naar verwac",
-      "url": "https://nos.nl/l/2620555",
-      "datum": "22 uur geleden",
-      "regio": "Wereld",
+      "titel": "Paradise lost: How Israel is making war on West Bank farmers",
+      "beschrijving": "Israel is attacking West Bank agriculture in an attempt to drive Palestinian farmers off their land.",
+      "url": "https://www.aljazeera.com/economy/2026/6/28/paradise-lost-how-israel-is-making-war-on-west-bank-farmers?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Lichaam van meisje (17) in koffer gevonden in Thailand, Australiër opgepakt",
-      "beschrijving": "In Thailand is een Australische toerist gearresteerd in verband met de vondst van het lichaam van een tienermeisje in een koffer. De man van 45 is opgepakt op de internationale luchthaven van Bangkok en wordt verdacht van moord. De zaak speelt zich af in Pattaya, een bekende badplaats zo'n 100 kilometer ten zuidoosten van Bangkok. De politie vermoedt dat het meisje van 17 jaar donderdagochtend vro",
-      "url": "https://nos.nl/l/2620554",
-      "datum": "22 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream",
-      "beschrijving": "Austria&#039;s 3-3 draw with Algeria ultimately decides Iran&#039;s fate as Team Melli crash out of the 2026 World Cup.",
-      "url": "https://www.aljazeera.com/sports/2026/6/28/late-drama-ends-irans-hopes-of-reaching-world-cup-knockouts-for-first-time?traffic_source=rss",
+      "titel": "What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?",
+      "beschrijving": "Iran and the US trade attacks over navigation through the Strait of Hormuz, which has emerged as a major sticking point.",
+      "url": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-      "beschrijving": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
+      "beschrijving": "Iran’s foreign minister has urged ‘all parties not to interfere’ in the management of the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Burkina Faso severs diplomatic ties with France",
-      "beschrijving": "The West African country's junta accused the former colonial power of undermining its national interests.",
-      "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
-      "datum": "18 uur geleden",
+      "titel": "‘Digging with a needle’: Generals stall peace as Sudan’s el-Obeid burns",
+      "beschrijving": "The battle for el-Obeid exposes the foreign arms and polarised narratives stalling peace in Sudan’s grinding war.",
+      "url": "https://www.aljazeera.com/news/2026/6/28/digging-with-a-needle-generals-stall-peace-as-sudans-el-obeid-burns?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-      "beschrijving": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
-      "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 dagen geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     }
   ],
   "ticker": [
     "VS voert opnieuw aanvallen uit in Iran, Teheran valt Amerikaanse bases aan",
-    "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
-    "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-    "Servische president Vucic treedt vroegtijdig af en kondigt vervroegde verkiezingen aan",
-    "Polls open in New Caledonia’s first provincial elections since 2019",
+    "Ukraine says it attacked two Russian oil refineries",
+    "Eleven killed after plane carrying skydivers crashes in eastern France",
+    "Corruptiezaken stapelen zich op, partijtop houdt vast aan Spaanse premier",
+    "Russische ex-militair en blogger opgepakt na kritiek op leger en oproep aan Poetin",
     "US and Iran exchange strikes and accuse each other of violating ceasefire",
-    "Wekdienst 28/6: Onafhankelijkheidsfeest VS in Brussel • Eerste knock-outwedstrijd op WK voetbal",
-    "De Afvalrevolutie: een serie over baanbrekende medicijnen die ons dunner maken",
-    "Dodental in Venezuela opgelopen tot 1430, ook weer nieuwe aardbeving",
-    "In Zuid-Afrika laait anti-immigratiegeweld op, migranten slaan op de vlucht"
+    "Oud-president Biden haalt in toespraak uit naar Trump: 'Wow, wat een loser'",
+    "​​​​​​​BBC: Infantino maakte tijdens WK 27 vluchten met privéjet",
+    "Vliegtuig vol parachutisten stort neer in Frankrijk: elf doden",
+    "Broodjes uitdelen na bevingen in Caracas: 'Ik wil niet thuis blijven zitten'"
   ]
 }
