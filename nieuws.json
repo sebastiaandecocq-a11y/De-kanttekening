@@ -1,29 +1,83 @@
 {
-  "bijgewerkt": "29 Jun 2026 21:10 UTC",
+  "bijgewerkt": "30 Jun 2026 10:42 UTC",
   "artikelen": [
     {
-      "titel": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
-      "beschrijving": "Israeli rights group B’Tselem has condemned the &#039;unprecedented killing of Palestinian children and teenagers&quot;",
-      "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Drie gewonden bij bomaanslag in Monaco, 'Oekraïense zakenman doelwit'",
+      "beschrijving": "Bij een explosie in Monaco zijn drie mensen gewond geraakt, van wie twee ernstig. De explosie was in de lobby van een appartementencomplex vlak bij de grens met Frankrijk. Rond 21.00 uur was een luide knal te horen. Volgens de procureur-generaal van Monaco heeft iemand een tas achtergelaten in de ingang van het gebouw. De verdachte is op de vlucht geslagen. De slachtoffers zijn een echtpaar van tu",
+      "url": "https://nos.nl/l/2620914",
+      "datum": "12 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
+      "beschrijving": "An Israeli attack on the al-Mawasi camp in Khan Younis has killed several people, including a mother and her child.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israel launches attacks and incursions inside southern Syria",
-      "beschrijving": "Israeli forces have shelled a village in southern Syria, firing artillery and illumination flares overnight.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco",
+      "beschrijving": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "What to know about the Colorado primary elections in the US",
+      "beschrijving": "The western state is the latest to see fierce contests between the Democratic Party&#039;s progressive and centrist wings.",
+      "url": "https://www.aljazeera.com/news/2026/6/30/what-to-know-about-the-colorado-primary-elections-in-the-us?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Schlager-popster Helene Fischer doet met stadiontour Nederland aan: 'Jullie zijn luid!'",
+      "beschrijving": "Tienduizenden schlagerfans komen vanavond bijeen in Arnhem om atemlos naar Helene Fischer te kijken. De Duitse megaster is bezig met haar grootste stadiontour tot nu toe. De bedoeling was oorspronkelijk dat Fischer als eerste Duitser de Johan Cruijff Arena zou vullen, maar dat bleek net een maatje te groot. Het werd daarom de Gelredome, met plaats voor ruim 40.000 bezoekers. Fischer blijft zich ve",
+      "url": "https://nos.nl/l/2620990",
+      "datum": "51 min geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Prins Albert van Monaco spreekt steun uit voor slachtoffers van explosie",
+      "beschrijving": "Prins Albert van Monaco heeft zijn \"medeleven en onvoorwaardelijke steun\" betuigd aan de slachtoffers, hun naasten en de omwonenden\" van de explosie gisteravond in een appartementencomplex in het vorstendom. Hij noemt het een schok voor de hele Monegaskische gemeenschap. \"Meer dan ooit zal Monaco verenigd en vastberaden blijven in de strijd tegen geweld en criminaliteit. De veiligheid van onze gem",
+      "url": "https://nos.nl/l/2620971",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 30/6: Afscheid Thom de Graaf van Raad van State • Helene Fischer komt naar Arnhem",
+      "beschrijving": "Goedemorgen! Bijna zes jaar na het verkeersongeval waarbij een meisje uit Marken om het leven kwam, moet de automobilist voor de rechter verschijnen. En de Raad van State neemt afscheid van zijn topman Thom de Graaf. Eerst het weer: vanochtend in het midden en oosten eerst flink wat zon, maar vanuit het westen neemt de bewolking toe. Het blijft vandaag op de meeste plaatsen droog bij maximaal 21 t",
+      "url": "https://nos.nl/l/2620945",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Frankrijk verbiedt reclame voor ultrafastfashionwinkels als Shein en Temu",
+      "beschrijving": "Ultrafastfashionwinkels zoals Shein, Temu en AliExpress mogen in Frankrijk binnenkort geen reclame meer maken. De Franse politiek heeft een wet aangenomen die dat per 1 januari verbiedt. Ook voor influencers geldt een verbod om deze merken te promoten, bij overtreding riskeren zij boetes. Het plan was om de hele industrie van goedkope, niet-duurzame mode aan te pakken, maar de wet is nu specifiek ",
+      "url": "https://nos.nl/l/2620936",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Mensenrechtenorganisatie: meer dode minderjarigen door schietbeleid Israël",
-      "beschrijving": "Het tempo waarin minderjarige Palestijnen worden gedood door Israël op de Westelijke Jordaanoever was sinds 1967 niet zo hoog, zegt de Israëlische mensenrechtenorganisatie B'Tselem. De groep noemt dit een direct gevolg van versoepeld Israëlisch beleid voor militairen om het vuur te openen. In het rapport zijn in 2025 54 dodelijke aanvallen op kinderen en tieners in het door Israël bezette gebied g",
+      "beschrijving": "Het tempo waarin minderjarige Palestijnen worden gedood door Israël op de Westelijke Jordaanoever was sinds het begin van de Israëlische bezetting in 1967 niet zo hoog, zegt de Israëlische mensenrechtenorganisatie B'Tselem. De groep noemt dit een direct gevolg van versoepeld Israëlisch beleid voor militairen om het vuur te openen. In het rapport zijn in 2025 54 dodelijke aanvallen op kinderen en t",
       "url": "https://nos.nl/l/2620907",
-      "datum": "12 min geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -32,7 +86,7 @@
       "titel": "Tweelingzusjes (1) dood door uitdroging in Noord-Frankrijk, ouders aangehouden",
       "beschrijving": "In een woning in Noord-Frankrijk zijn twee zusjes van 15 maanden dood aangetroffen in hun bed, schrijft de Franse zender BFMTV. De ouders vonden de meisjes in de middag en alarmeerden de hulpdiensten. Die constateerden dat de tweeling door uitdroging om het leven is gekomen, aldus de zender. De ouders zijn na de vondst aangehouden en meegenomen naar het politiekantoor in Valenciennes. De hulpdiens",
       "url": "https://nos.nl/l/2620905",
-      "datum": "59 min geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +95,7 @@
       "titel": "Dodental aardbevingen Venezuela opgelopen tot 1700, duizenden mensen gewond",
       "beschrijving": "Het dodental na de twee verwoestende aardbevingen in Venezuela is opgelopen tot ruim 1700. Dat heeft parlementsvoorzitter Jorge Rodriguez bekendgemaakt, de broer van interim-president Delcy Rodriguez. Ook zijn er zeker 5000 gewonden. Ruim 700 gebouwen zijn helemaal of deels ingestort door de bevingen. Hoewel de eerste 72 uur volgens reddingswerkers cruciaal zijn voor het vinden van overlevenden, b",
       "url": "https://nos.nl/l/2620903",
-      "datum": "1 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +104,7 @@
       "titel": "Bestuurder centrale bank mag blijven, andere ontslagen door Trump legitiem",
       "beschrijving": "Het Amerikaanse Hooggerechtshof heeft bepaald dat Lisa Cook, bestuurder van het stelsel van centrale banken (de Fed), voorlopig haar werk mag blijven doen. President Trump deed vorig jaar een poging om haar te ontslaan, maar Cook vocht dat aan bij de rechter. Het Hooggerechtshof stelt dat de Fed een onafhankelijke organisatie is met een unieke positie. De president mag een bestuurder daarom niet z",
       "url": "https://nos.nl/l/2620898",
-      "datum": "1 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,71 +113,35 @@
       "titel": "Dader moordpartij Stade was vader van kind uit instelling",
       "beschrijving": "De man die in een jeugdinstelling in het Duitse Stade zes mensen heeft doodgeschoten, is de vader van een kind dat daar was ondergebracht. Het is een man van 45, heeft de politie bekendgemaakt. Op een persconferentie kwamen de autoriteiten met details over de zaak. Het kind, een meisje van drie maanden, was uit huis geplaatst en zou met de moeder in de instelling in Stade gaan wonen. Vanmiddag sto",
       "url": "https://nos.nl/l/2620889",
-      "datum": "2 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Net gedeporteerd uit de VS verdwijnen 146 Venezolanen onder het bevingspuin",
-      "beschrijving": "Terwijl in Venezuela vijf dagen na de aardbevingen nog steeds overlevenden onder het puin vandaan worden gehaald, komen ook tragische verhalen naar buiten. Zo is van een groep van 146 Venezolanen die precies op de dag van de bevingen door de VS waren uitgezet naar hoofdstad Caracas weinig meer vernomen, schrijft Spaanse krant El País. Ze zijn nog te zien op beelden die zijn gemaakt van hun aankoms",
-      "url": "https://nos.nl/l/2620881",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Burnham wil als premier grotere rol lokale overheden: 'In Manchester gelukt'",
-      "beschrijving": "\"Het Verenigd Koninkrijk heeft behoefte aan een nieuwe manier van besturen. We moeten de politiek veranderen.\" Dat zei Labour-parlementariër Andy Burnham in een toespraak in Manchester, waarin hij zijn toekomstplannen uiteenzette. Burnham wordt naar verwachting de nieuwe premier, als opvolger van Keir Starmer, die vorige week zijn vertrek aankondigde. Burnham wil het vertrouwen in de politiek teru",
-      "url": "https://nos.nl/l/2620846",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Podcast De Dag: operatie de Krim (en hoe Oekraïne de druk op Poetin opvoert)",
-      "beschrijving": "President Poetin erkent openlijk dat Rusland het zwaar heeft als gevolg van Oekraïense aanvallen. Dit weekend werd op de illegaal geannexeerde Krim de noodtoestand uitgeroepen. Luisteren? Deze aflevering kun je beluisteren via NPO Luister en alle andere podcastkanalen. Bevalt het? Vergeet je dan niet te abonneren! Eerder deze maand bestookte Oekraïne infrastructuur op de Krim. Het leger blies een ",
-      "url": "https://nos.nl/l/2620842",
-      "datum": "8 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zes doden door schietpartij bij Duitse jeugdinstelling, slachtoffers zijn volwassenen",
-      "beschrijving": "In het Duitse stadje Stade zijn zes doden gevallen bij een schietpartij. Er werd geschoten nabij een jeugdinstelling. De politie heeft een hoofdverdachte gearresteerd, de vermoedelijke schutter. Twee andere mensen worden verhoord over hun mogelijke betrokkenheid bij het incident. Het onderzoek naar het motief voor de schietpartij op klaarlichte dag is nog in volle gang. Om 19.30 uur staat een pers",
-      "url": "https://nos.nl/l/2620835",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Uniek bot van enorme dino uit Antarctica blijkt al 40 jaar in een la te liggen",
-      "beschrijving": "Een stuk bot dat meer dan veertig jaar in een lade lag te verstoffen, blijkt nu het eerste dinosaurusbot te zijn dat ooit in Antarctica is gevonden. Onderzoekers ontdekten dat het niet zoals gedacht van een zeereptiel was, maar dat het fossiel onderdeel was van de enorme staart van een titanosaurus, een dinosoort die tot de grootste op aarde behoorde. Volgens de BBC werd het bot al in 1985 opgegra",
-      "url": "https://nos.nl/l/2620823",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Pakistani strikes kill dozens of Afghan villagers",
-      "beschrijving": "Afghan villagers inspected destroyed homes after overnight Pakistani strikes targeting Taliban-allied fighters.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/pakistani-strikes-kill-dozens-of-afghan-villagers?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "Man in Gaza survives double tap Israeli strike on vehicle",
+      "beschrijving": "Man in Gaza survives double tap Israeli strike on vehicle",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss",
+      "datum": "32 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
-      "beschrijving": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
-      "regio": "VS",
+      "titel": "EU gets tough on China as trade imbalance stokes deindustrialisation fears",
+      "beschrijving": "Talks between EU trade commissioner and Chinese commerce minister come as bloc seeks to limit influx of Chinese imports.",
+      "url": "https://www.aljazeera.com/economy/2026/6/30/eu-gets-tough-on-china-as-trade-imbalance-stokes-deindustrialisation-fears?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Chinese tycoon sentenced to 30 years in US jail",
+      "beschrijving": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+      "datum": "8 uur geleden",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -131,7 +149,7 @@
       "titel": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
       "beschrijving": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
       "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "19 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -140,40 +158,22 @@
       "titel": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
       "beschrijving": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
       "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "18 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "beschrijving": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-      "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
-      "beschrijving": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
-    "Israel launches attacks and incursions inside southern Syria",
+    "Drie gewonden bij bomaanslag in Monaco, 'Oekraïense zakenman doelwit'",
+    "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
+    "Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco",
+    "What to know about the Colorado primary elections in the US",
+    "Schlager-popster Helene Fischer doet met stadiontour Nederland aan: 'Jullie zijn luid!'",
+    "Prins Albert van Monaco spreekt steun uit voor slachtoffers van explosie",
+    "Wekdienst 30/6: Afscheid Thom de Graaf van Raad van State • Helene Fischer komt naar Arnhem",
+    "Frankrijk verbiedt reclame voor ultrafastfashionwinkels als Shein en Temu",
     "Mensenrechtenorganisatie: meer dode minderjarigen door schietbeleid Israël",
-    "Tweelingzusjes (1) dood door uitdroging in Noord-Frankrijk, ouders aangehouden",
-    "Dodental aardbevingen Venezuela opgelopen tot 1700, duizenden mensen gewond",
-    "Bestuurder centrale bank mag blijven, andere ontslagen door Trump legitiem",
-    "Dader moordpartij Stade was vader van kind uit instelling",
-    "Net gedeporteerd uit de VS verdwijnen 146 Venezolanen onder het bevingspuin",
-    "Burnham wil als premier grotere rol lokale overheden: 'In Manchester gelukt'",
-    "Podcast De Dag: operatie de Krim (en hoe Oekraïne de druk op Poetin opvoert)"
+    "Tweelingzusjes (1) dood door uitdroging in Noord-Frankrijk, ouders aangehouden"
   ]
 }
