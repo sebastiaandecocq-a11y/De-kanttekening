@@ -1,38 +1,83 @@
 {
-  "bijgewerkt": "01 Jul 2026 10:58 UTC",
+  "bijgewerkt": "01 Jul 2026 18:25 UTC",
   "artikelen": [
     {
-      "titel": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
-      "beschrijving": "President Zelenskyy says Ukraine is expanding its long-range drone campaign with new strikes deep inside Russia.",
-      "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Afghaanse vergeldingsactie na bloedige aanvallen door Pakistan",
+      "beschrijving": "Het Afghaanse Taliban-bewind heeft luchtaanvallen uitgevoerd op doelen in Pakistan. Het is een reactie op Pakistaanse aanvallen die afgelopen weekend in Afghanistan het leven kostten aan tientallen mensen. Volgens het Afghaanse ministerie van Defensie werden doelen in de provincies Khyber en Beloetsjistan aangevallen. Het zou onder meer gaan om een complex van de terroristische organisatie IS. Mee",
+      "url": "https://nos.nl/l/2621160",
+      "datum": "7 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Sony stopt vanaf 2028 met productie van fysieke PlayStation-spellen",
+      "beschrijving": "Sony stopt vanaf januari 2028 met de productie van PlayStation-games op fysieke schijven. Nieuwe spellen voor PlayStation-consoles zijn vanaf dat moment alleen nog digitaal verkrijgbaar via de PlayStation Store of als downloadcode bij winkels. Volgens Sony past het besluit bij de veranderende voorkeuren van consumenten en de entertainmentindustrie. Het bedrijf zegt in een bericht dat de voorkeur v",
+      "url": "https://nos.nl/l/2621197",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Duits topoverleg over hervormingen: stemming (voor nu) zowaar positief",
+      "beschrijving": "Geen crisisberaad, maar juist teken van hoop. Voor de verandering zijn er voorzichtig positieve berichten over de bijeenkomst van kopstukken van de Duitse regeringspartijen, die vandaag over grote hervormingsplannen spreken. Terwijl de regering tot nu toe steeds verder gebukt leek te gaan onder onderlinge strijd en slechte peilingen, lijken de christendemocraten en sociaaldemocraten nu bereid om c",
+      "url": "https://nos.nl/l/2621181",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "What military capabilities does Iran possess as it negotiates with US?",
+      "beschrijving": "US and Israel claim extensive damage, Iran projects defiance, and satellite images show fast attempts at recovery.",
+      "url": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Three killed in Mexico City World Cup celebrations",
-      "beschrijving": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "datum": "45 min geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
+      "titel": "NAVO neemt omstreden AI-systeem van Amerikaans bedrijf Palantir in gebruik",
+      "beschrijving": "Het defensieplatform Maven Smart System is klaar voor gebruik door de NAVO. Daarmee zet het bondgenootschap een grote stap in zijn digitale transformatie, zo zegt de NAVO op haar site. Maar Palantir, de leverancier van Maven Smart System (MSS), is omstreden. Software van Palantir wordt door Israël ingezet in de oorlog in Gaza. In de VS gebruikt ICE diensten van Palantir bij het opsporen van immigr",
+      "url": "https://nos.nl/l/2621210",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
-      "titel": "Drie doden in Mexico bij WK-feest na overwinning op Ecuador",
-      "beschrijving": "Zeker drie Mexicanen zijn in het centrum van Mexico-Stad door verdrukking om het leven gekomen. Het zijn een 44-jarige man en twee vrouwen van 19 en 48 jaar, meldt het ministerie van Volksgezondheid. Miljoenen mensen gingen de straat op om te vieren dat hun land de volgende ronde op het WK had bereikt. Mexico versloeg Ecuador met 2-0 in het Azteca-stadion in Mexico-Stad. In feestgedruis na de wins",
-      "url": "https://nos.nl/l/2621151",
-      "datum": "29 min geleden",
+      "titel": "Bisschoppen gewijd zonder toestemming Vaticaan, leidt tot breuk met de kerk",
+      "beschrijving": "In een drukbezochte ceremonie in het Zwitserse bergdorp Écône zijn vier priesters tot bisschop gewijd. De wijding is omstreden, omdat het gaat om leden van de ultraconservatieve Priesterbroederschap Sint Pius X. Die hangt de traditionele waarden van de Rooms-Katholieke Kerk aan en wijst hervormingen in de kerk af. Paus Leo XIV heeft geen toestemming gegeven voor de bisschopswijding. Integendeel, h",
+      "url": "https://nos.nl/l/2621171",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Doden en gewonden bij grote brand in flat Antwerpen, 'evacuatie volop bezig'",
-      "beschrijving": "Bij een grote brand in Antwerpen zijn mensen overleden en zwaargewond geraakt, meldt de Vlaamse omroep VRT. Even voor 10.00 uur vanochtend zou de brand zijn uitgebroken op de achtste verdieping van een flat van tien verdiepingen. De flat staat op de linkeroever van de Schelde. De rook is van grote afstand te zien. Hoe het vuur is ontstaan, is nog niet duidelijk. Er wordt gezocht naar meer slachtof",
+      "titel": "Zuid-Korea breekt exportrecord, grote winnaar van wereldwijde AI-race",
+      "beschrijving": "Zuid-Korea exporteerde nog nooit zo veel als vorige maand. Het land voerde voor ruim honderd miljard dollar aan goederen uit, vooral door de explosief gestegen vraag naar geheugenchips voor kunstmatige intelligentie (AI). Het is een stijging van ruim 70 procent ten opzichte van een jaar eerder en de snelste groei in bijna een halve eeuw. Volgens het Zuid-Koreaanse ministerie van Handel is het daar",
+      "url": "https://nos.nl/l/2621159",
+      "datum": "7 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Drie doden in Mexico-Stad bij WK-feest na overwinning op Ecuador",
+      "beschrijving": "Zeker drie Mexicanen zijn in het centrum van Mexico-Stad door verdrukking om het leven gekomen. Het zijn een 44-jarige man en twee vrouwen, van 19 en 48 jaar, meldt het ministerie van Volksgezondheid. Miljoenen mensen gingen de straat op om te vieren dat hun land de volgende ronde op het WK had bereikt. Mexico versloeg Ecuador met 2-0 in het Azteca-stadion in Mexico-Stad. In het feestgedruis na de",
+      "url": "https://nos.nl/l/2621151",
+      "datum": "7 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vijf doden bij flatbrand in Antwerpen, oorzaak lijkt technisch probleem",
+      "beschrijving": "Bij een grote brand die vanochtend in een flat in Antwerpen uitbrak, zijn vijf mensen om het leven gekomen. De brand is inmiddels onder controle. Er zijn 16 gewonden, meldt de Vlaamse omroep VRT. Eerder meldde de politie nog zes doden. Dat aantal werd later bijgesteld naar vijf. De brand brak rond 10.00 uur uit op de begane grond van de flat van tien verdiepingen op de linkeroever van de Schelde. ",
       "url": "https://nos.nl/l/2621148",
-      "datum": "57 min geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +86,7 @@
       "titel": "Village People-leadzanger Victor Willis overleden, van YMCA en In The Navy",
       "beschrijving": "Victor Willis, de zanger en oprichter van de Amerikaanse discogroep Village People is gisteren op 74-jarige leeftijd overleden, dat heeft de band op Facebook bekendgemaakt. De band is onder meer bekend geworden met het nummer YMCA. \"Met groot verdriet melden we het overlijden van Victor Willis, leadzanger van Village People.\" Volgens de band overleed Willis na een \"korte maar agressieve ziekte\", m",
       "url": "https://nos.nl/l/2621143",
-      "datum": "1 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,121 +95,94 @@
       "titel": "Japan legt rekening van recordtoerisme bij buitenlandse bezoekers",
       "beschrijving": "Japan maakt reizen vanaf vandaag goedkoper voor eigen burgers, maar duurder voor buitenlandse bezoekers. Het land vervijfvoudigt de visumprijzen en verhoogt de toeristenbelasting. Voor Japanners zelf gaan de kosten van een paspoort juist omlaag. Daarmee probeert het land de kosten van het massatoerisme bij bezoekers neer te leggen. In 2003 ontving Japan nog slechts 5 miljoen buitenlandse bezoekers",
       "url": "https://nos.nl/l/2621140",
-      "datum": "1 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Geavanceerde AI van Anthropic weer beschikbaar, regering VS heft blokkade op",
-      "beschrijving": "Geavanceerde AI-modellen van het Amerikaanse bedrijf Anthropic zijn vanaf vandaag weer beschikbaar voor gebruikers buiten de Verenigde Staten. Anthropic heeft bekendgemaakt dat de regering-Trump de beperkingen voor de AI-modellen heeft opgeheven. Half juni werden op last van het Amerikaanse handelsministerie de zogenoemde super-AI's Mythos 5 en Fable 5 uitgeschakeld voor overheden, bedrijven en pe",
-      "url": "https://nos.nl/l/2621120",
-      "datum": "4 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'FBI denkt dat losgeldmails in Nancy Guthrie-ontvoering nep zijn'",
-      "beschrijving": "De FBI is ervan overtuigd dat mails die zijn binnengekomen over de ontvoering van de Amerikaanse Nancy Guthrie nep zijn. Een bron meldt aan het Britse persbureau Reuters dat onderzoekers ervan uitgaan dat de verzender niets met de ontvoering te maken heeft. Een tweede politiebron bevestigt die lezing. De 84-jarige Guthrie werd op 31 januari ontvoerd uit haar huis in Tucson, Arizona. Op beelden die",
-      "url": "https://nos.nl/l/2621115",
-      "datum": "5 uur geleden",
+      "titel": "Can Sudan’s Rapid Support Forces take control of el-Obeid?",
+      "beschrijving": "The RSF wants to seize the strategic southern city from the Sudanese military.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss",
+      "datum": "46 min geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Abdul Ahad Momand overleden, eerste (en enige) Afghaanse kosmonaut",
-      "beschrijving": "De eerste en tot nu toe enige Afghaanse kosmonaut is overleden: Abdul Ahad Momand is 67 jaar geworden. Hij ging in 1988 als 29-jarige luchtmachtpiloot mee op een missie naar het ruimtestation Mir, van de Sovjet-Unie. Momand was uitgenodigd mee te gaan omdat de regering van zijn geboorteland destijds een bondgenoot was van de USSR. Samen met twee Russische kosmonauten bracht hij negen dagen door in",
-      "url": "https://nos.nl/l/2621113",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nederlandse USAR-hulpverleners weg uit Venezuela, dodental op 1943",
-      "beschrijving": "Het Nederlandse USAR-team (Urban Search And Rescue) dat de afgelopen dagen in Venezuela zocht naar overlevenden van de aardbeving, keert weer terug naar Nederland. Dat meldt de hulpverleningsorganisatie. \"De kans dat wij nu nog levende mensen vinden, is al heel erg klein geworden\", zegt Jorg van Waardhuizen van het USAR-team. \"En de nood aan andere hulp is op dit moment veel hoger, denk aan tenten",
-      "url": "https://nos.nl/l/2621112",
-      "datum": "5 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 1/7: Ketikoti en herdenking slavernijverleden • Tweede Kamer praat over stikstofplannen",
-      "beschrijving": "Goedemorgen! Vandaag is het Ketikoti, in Amsterdam wordt de Nationale Herdenking Slavernijverleden gehouden. En voor het WK voetbal spelen onze zuiderburen tegen Senegal. Eerst het weer: vanochtend zijn er naast zonnige perioden ook enkele wolkenvelden. In het noordoosten is er kans op een bui. Vanmiddag wisselen zon, stapelwolken en een enkele bui in het binnenland elkaar af bij 20 tot 25 graden.",
-      "url": "https://nos.nl/l/2621109",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Twee doden bij Griekse bosbranden, vuur nog niet onder controle",
-      "beschrijving": "Een bosbrand heeft in het noorden van Griekenland aan zeker twee mensen het leven gekost. Het vuur brak gisteren door nog onbekende oorzaak uit en is nog niet onder controle. Het eerste slachtoffer werd gevonden in de buurt van het dorpje Liti, enkele kilometers van de stad Thessaloniki. De echtgenote van deze man is met brandwonden opgenomen in het ziekenhuis, maar zou inmiddels stabiel zijn. De ",
-      "url": "https://nos.nl/l/2621103",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "US-Iran negotiations: What’s the latest?",
-      "beschrijving": "Iranian officials are expected in Doha for talks with Qatari mediators, a day after US negotiators arrived there.",
-      "url": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "The Lebanon-Israel agreement is paving the way for the next war",
-      "beschrijving": "And the agreement has ensured that Lebanon will be blamed for it.",
-      "url": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
+      "beschrijving": "Displaced Lebanese face a void as war annihilates the physical and emotional anchors of their past and identity.",
+      "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
+      "datum": "49 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "A plane crashed into a tower in Beijing but China is not saying what happened",
-      "beschrijving": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
-      "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "China/Taiwan",
+      "titel": "The Iran talks expose the collapse of US diplomacy",
+      "beschrijving": "In the Trump era, American diplomacy is being led not by impartial diplomats, but by real estate investors.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
-      "beschrijving": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
-      "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
+      "titel": "Warmest June on record for England, second-warmest for UK, says Met Office",
+      "beschrijving": "A punishing heatwave affected many parts of the country during the last week of the month.",
+      "url": "https://www.aljazeera.com/news/2026/7/1/warmest-june-on-record-for-england-second-warmest-for-uk-says-met-office?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Amnesty says RSF committed ethnic cleansing in Sudan’s el-Fasher",
+      "beschrijving": "Rights group accuses the paramilitary of &#039;crimes against humanity&#039; for attacks in and around North Darfur State capital.",
+      "url": "https://www.aljazeera.com/news/2026/7/1/amnesty-says-rsf-committed-ethnic-cleansing-in-sudans-el-fasher?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
+      "beschrijving": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
-      "beschrijving": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
-      "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Iran",
+      "titel": "Ukrainian charged in Germany over Nord Stream blasts",
+      "beschrijving": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+      "datum": "6 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
+      "beschrijving": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
+      "url": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
-    "Three killed in Mexico City World Cup celebrations",
-    "Drie doden in Mexico bij WK-feest na overwinning op Ecuador",
-    "Doden en gewonden bij grote brand in flat Antwerpen, 'evacuatie volop bezig'",
-    "Village People-leadzanger Victor Willis overleden, van YMCA en In The Navy",
-    "Japan legt rekening van recordtoerisme bij buitenlandse bezoekers",
-    "Geavanceerde AI van Anthropic weer beschikbaar, regering VS heft blokkade op",
-    "'FBI denkt dat losgeldmails in Nancy Guthrie-ontvoering nep zijn'",
-    "Abdul Ahad Momand overleden, eerste (en enige) Afghaanse kosmonaut",
-    "Nederlandse USAR-hulpverleners weg uit Venezuela, dodental op 1943"
+    "Afghaanse vergeldingsactie na bloedige aanvallen door Pakistan",
+    "Sony stopt vanaf 2028 met productie van fysieke PlayStation-spellen",
+    "Duits topoverleg over hervormingen: stemming (voor nu) zowaar positief",
+    "What military capabilities does Iran possess as it negotiates with US?",
+    "NAVO neemt omstreden AI-systeem van Amerikaans bedrijf Palantir in gebruik",
+    "Bisschoppen gewijd zonder toestemming Vaticaan, leidt tot breuk met de kerk",
+    "Zuid-Korea breekt exportrecord, grote winnaar van wereldwijde AI-race",
+    "Drie doden in Mexico-Stad bij WK-feest na overwinning op Ecuador",
+    "Vijf doden bij flatbrand in Antwerpen, oorzaak lijkt technisch probleem",
+    "Village People-leadzanger Victor Willis overleden, van YMCA en In The Navy"
   ]
 }
