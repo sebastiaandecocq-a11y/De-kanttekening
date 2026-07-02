@@ -1,147 +1,174 @@
 {
-  "bijgewerkt": "02 Jul 2026 10:16 UTC",
+  "bijgewerkt": "02 Jul 2026 17:14 UTC",
   "artikelen": [
     {
-      "titel": "Oekraïense drone-aanvallen leiden tot acute brandstofcrisis in Rusland",
-      "beschrijving": "Steeds meer Russische sectoren komen in de problemen door het tekort aan brandstof als gevolg van de aanhoudende Oekraïense drone-aanvallen op olieraffinaderijen. Maar ook landen in Centraal-Azië die afhankelijk zijn van Russische olieproducten, beginnen last te krijgen van de crisis. Moskou is lang buiten schot gebleven. Alleen de Russen in de provincie hadden last van de brandstoftekorten. Maar ",
-      "url": "https://nos.nl/l/2621295",
+      "titel": "Dodental aanval Kyiv loopt op, EU wil druk op Rusland opvoeren",
+      "beschrijving": "Het dodenaantal van de grote Russische aanval op Kyiv van afgelopen nacht is opgelopen tot zeker 21. Dat zeggen de lokale autoriteiten in Oekraïne. Daarnaast zouden 85 mensen gewond zijn geraakt, onder wie kinderen. Volgens de burgemeester van Kyiv zijn het de grootste aanvallen op de Oekraïense hoofdstad tot nu toe. President Zelensky waarschuwde gisteren al op basis van inlichtingen dat er een g",
+      "url": "https://nos.nl/l/2621346",
       "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Zeker 17 doden bij zware Russische luchtaanvallen op Kyiv",
-      "beschrijving": "Rusland heeft vannacht een grote aanval met drones en raketten uitgevoerd op de Oekraïense hoofdstad Kyiv. Daarbij zijn volgens de lokale autoriteiten zeker zeventien mensen gedood. Nog eens tientallen mensen zijn gewond geraakt, onder wie kinderen. Door de aanvallen werden onder meer appartementengebouwen geraakt en vloog een hotel in brand. In het noorden van de stad stortte een flatgebouw van n",
-      "url": "https://nos.nl/l/2621259",
-      "datum": "7 uur geleden",
+      "titel": "German prosecutors allege Ukraine ordered Nord Stream pipeline attack",
+      "beschrijving": "Former Ukrainian soldier accused of &#039;war crime&#039; and leading a team of divers to blow up Nord Stream pipelines.",
+      "url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-allege-ukraine-ordered-nord-stream-pipeline-attack?traffic_source=rss",
+      "datum": "27 min geleden",
       "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Two reported killed, dozens hurt in hospital fire in Germany",
-      "beschrijving": "At least 34 injured after fire at the only hospital in the town of Ludwigslust; probe into the blaze is ongoing.",
-      "url": "https://www.aljazeera.com/news/2026/7/2/two-reported-killed-dozens-hurt-in-hospital-fire-in-germany?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "At least 13 killed in 'most massive' Russian attack on Kyiv",
-      "beschrijving": "Kyiv's mayor declares a day of mourning after the 'most massive attack on the capital' by Russia.",
+      "titel": "'Most massive' Russian attack on Kyiv kills at least 21",
+      "beschrijving": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
       "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "58 min geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Jongen (11) rijdt in op groep monniken in Thailand, acht doden",
-      "beschrijving": "In Thailand is een kind met een auto ingereden op een groep monniken. Acht monniken kwamen om het leven, melden lokale media. Zeker veertien anderen raakten gewond. De monniken waren net begonnen aan een pelgrimstocht. Ze maakten deel uit van een groep van 35 en liepen in de provincie Mukdahan, in het noordoosten van Thailand. Op beelden van een beveiligingscamera is te zien dat de mannen langs ee",
-      "url": "https://nos.nl/l/2621304",
-      "datum": "18 min geleden",
+      "titel": "Nine Thai monks killed after 11-year-old driver collides with procession",
+      "beschrijving": "The group of 35 monks and five lay followers were walking by the roadside when the truck ploughed into them.",
+      "url": "https://www.bbc.co.uk/news/articles/c23y90lygpzo?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "'Ruim 2 miljoen militairen Rusland en Oekraïne gesneuveld, vermist of gewond'",
+      "beschrijving": "In de oorlog tussen Oekraïne en Rusland zijn in vier jaar tijd ruim 2 miljoen militairen omgekomen, gewond geraakt of vermist, schrijft denktank Center for Strategic and International Studies (CSIS). Aan de Russische kant zijn de zwaarste verliezen geleden, namelijk 1,4 miljoen militairen die gewond, gedood of vermist zijn geraakt. Van dat totaal kwamen 450.000 militairen om. Het aantal van 1,4 mi",
+      "url": "https://nos.nl/l/2621308",
+      "datum": "6 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Google moet definitief Europese miljardenboete betalen",
+      "beschrijving": "Het Europese Hof van Justitie heeft het hoger beroep van Google tegen de miljardenboete uit 2018 verworpen. Google maakt volgens het hof misbruik van de machtspositie van Android, het besturingsysteem voor telefoons, tablets en smartwatches. De boete werd in 2018 opgelegd door het Gerecht van de Europese Unie in Luxemburg. De rechter achtte bewezen dat Google sinds 2011 illegale beperkingen oplegd",
+      "url": "https://nos.nl/l/2621357",
+      "datum": "17 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Ruim 150 slachtoffers en daders van 'drogeerverkrachtingen' geïdentificeerd",
-      "beschrijving": "In een grootschalig onderzoek naar zogenoemde drogeerverkrachtingen zijn meer dan 150 slachtoffers en daders geïdentificeerd, meldt de Europese politiedienst Europol. Bij deze vorm van misbruik worden slachtoffers eerst bedwelmd met drugs waarna ze aangerand of verkracht worden. Hoe de verdeling tussen de 156 geïdentificeerde slachtoffers en daders is, zegt Europol niet vanwege de lopende onderzoe",
-      "url": "https://nos.nl/l/2621291",
+      "titel": "Oostenrijkse scholen maken zich op voor hoofddoekverbod: bescherming of onderdrukking?",
+      "beschrijving": "Na jaren discussie voert Oostenrijk het komende schooljaar een hoofddoekverbod voor jonge meisjes in. Tot 14 jaar wordt het dragen van een hoofddoek in het onderwijs verboden. Scholen bereiden zich daar nu, kort voor de zomervakantie, al op voor. \"Sommige meisjes geven aan dat ze de hoofddoek zullen afdoen, bij andere moeten we het afwachten\", vertelt Gerd Bauer. Hij is directeur van een Mittelsch",
+      "url": "https://nos.nl/l/2621350",
+      "datum": "58 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Campings ontruimd om bosbranden Zuid-Frankrijk, 1000 mensen geëvacueerd",
+      "beschrijving": "Door de grote bosbranden die woeden in Zuid-Frankrijk zijn meerdere campings ontruimd. De campings liggen onder meer in Canet-en-Roussillon, een gemeente en badplaats in het Franse departement Pyrénées-Orientale. Volgens Franse media zijn meer dan duizend mensen geëvacueerd. Vanwege de branden in het zuiden van het land heeft de Franse regering inmiddels een crisisteam samengesteld, geleid door pr",
+      "url": "https://nos.nl/l/2621342",
       "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Vermoedelijke schutter Duitse jeugdinstelling 'kocht wapen voor 4000 euro'",
-      "beschrijving": "De man die wordt verdacht zes mensen te hebben doodgeschoten bij een jeugdinstelling in het Noord-Duitse Stade, zou de aanslag van afgelopen maandag hebben gepland. Dat schrijft de regionale omroep NDR op basis van eigen onderzoek. Een week voor de aanslag zou de verdachte een wapen hebben gekocht in Berlijn. Volgend NDR gaat het om een Beretta 70, waarvoor de man samen met 21 patronen 4000 euro b",
-      "url": "https://nos.nl/l/2621282",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dode bij brand in ebolacentrum Congo, patiënten gevlucht",
-      "beschrijving": "In het oosten van de Democratische Republiek Congo is een ebolacentrum in brand gestoken. Een politieagent kwam daarbij om het leven, twee mensen raakten gewond. De brand in het behandelcentrum in de provincie Ituri is waarschijnlijk aangestoken door een groep jongeren, meldt persbureau DPA. Zij wilden mogelijk voorkomen dat een overleden ebolapatiënt begraven zou worden. Om diezelfde reden werd e",
-      "url": "https://nos.nl/l/2621281",
-      "datum": "3 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Doden en tientallen gewonden bij brand in ziekenhuis Duitsland",
-      "beschrijving": "In een ziekenhuis in het noorden van Duitsland heeft een grote brand gewoed. Twee mensen kwamen om het leven en zeker 34 anderen raakten gewond, meldt het Duitse persbureau DPA. De brand brak vanochtend rond 04.30 uur uit in het ziekenhuis van Ludwigslust, op zo'n 100 kilometer ten oosten van Hamburg. Het vuur ontstond door nog onbekende oorzaak in een patiëntenkamer, meldt een verslaggever van om",
-      "url": "https://nos.nl/l/2621280",
+      "titel": "Kip en chocola in Japan straks onbetaalbaar? Yen op laagste punt in 40 jaar",
+      "beschrijving": "De yen staat in Japan op een historisch laag niveau en dat is overal merkbaar. In maaltijdwinkel Manpukuya Tateishi in Tokio kost de gefrituurde kip weliswaar nog altijd 350 yen (ongeveer 2 euro), maar de Braziliaanse kippendij die daarvoor werd gebruikt, is twee keer zo duur geworden. \"De zwakke yen zet onze inkoop behoorlijk onder druk\", zegt winkelmanager Ryosuke Kosaka tegen een journalist van",
+      "url": "https://nos.nl/l/2621327",
       "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Wekdienst 2/7: Debat over kerncentrales • Bruno Mars start concertreeks Amsterdam",
-      "beschrijving": "Goedemorgen! In de Tweede Kamer wordt gedebatteerd over twee mogelijk nieuwe kerncentrales, Bruno Mars begint aan zijn concertreeks in de Johan Cruijff Arena en op het WK staat titelfavoriet Spanje tegenover Oostenrijk. Eerst het weer: vanochtend vanuit het westen bewolkt en af en toe regen. Vanmiddag breekt de zon weer door. Het wordt 20 tot 24 graden. Het waait soms stevig door uit het noordwest",
-      "url": "https://nos.nl/l/2621269",
+      "titel": "Verdachte opblazen Nord Stream in Duitsland aangeklaagd wegens oorlogsmisdaden",
+      "beschrijving": "Oekraïner Serhii K. is in Duitsland vanwege sabotage van de Nord Stream-pijpleidingen aangeklaagd voor medeplichtigheid aan oorlogsmisdrijven. In zijn vermoedelijk coördinerende rol wordt de militair beschuldigd van \"ontregeling van openbare diensten, met een explosie tot gevolg en het vernietigen van infrastructuur\". K. zou de actie samen met andere Oekraïense militairen hebben uitgevoerd namens ",
+      "url": "https://nos.nl/l/2621318",
       "datum": "5 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "106 mensen besmet met salmonella na eten van noedels, ook in Nederland",
+      "beschrijving": "In Europa zijn 106 mensen besmet geraakt met salmonella na het eten van instantnoedels. Volgens de EFSA, de Europese waakhond voor voedselveiligheid, gaat het om besmettingen in veertien landen, waaronder Nederland. Hoeveel mensen in Nederland ziek zijn geworden, wordt niet gemeld. Ook het Europees Centrum voor Ziektepreventie en -bestrijding (ECDC) maakt melding van ruim honderd besmettingen. De ",
+      "url": "https://nos.nl/l/2621315",
+      "datum": "5 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Koppel in Indonesië veroordeeld tot stokslagen vanwege zoenen in TikTok-video",
+      "beschrijving": "Een koppel in de conservatieve regio Atjeh in Indonesië is door een shariarechtbank veroordeeld tot stokslagen nadat ze zoenend te zien waren tijdens een TikTok-livestream. Het hoofd van de shariapolitie zegt tegen persbureau AFP dat het voor het eerst is dat mensen zijn gestraft voor het overtreden van de islamitische wetten op sociale media. De 22-jarige man en een 25-jarige vrouw kregen 21 stok",
+      "url": "https://nos.nl/l/2621312",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Alleen nog les in het Mandarijn: China perkt ruimte voor minderheden verder in",
-      "beschrijving": "Volgens de Chinese overheid moet het de 'eenheid', 'sociale harmonie' en een 'gedeelde nationale identiteit' promoten, volgens experts is dit de volgende stap in steeds verdergaande onderdrukking van Chinese etnische minderheden: de nieuwe 'eenheidswet' van China die gisteren is ingegaan. De wet werd afgelopen maart met een overweldigende meerderheid aangenomen door het Chinese Nationale Volkscong",
-      "url": "https://nos.nl/l/2621266",
-      "datum": "6 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zestien verwaarloosde kinderen gered uit huis in VS: 'Leken wel wilde dieren'",
-      "beschrijving": "De Amerikaanse politie heeft op het platteland van de staat Ohio zestien verwaarloosde kinderen uit een woning gehaald. De jongens en meisjes van tussen de 1,5 en 18 jaar oud zaten mogelijk vier jaar lang het grootste deel van de tijd bij elkaar opgesloten in een kamer van 3,5 bij 3,5 meter, zeggen de autoriteiten. Twee ouders en twee grootouders zijn opgepakt. Ze worden verdacht van kindermishand",
-      "url": "https://nos.nl/l/2621264",
+      "titel": "Medici in Venezuela vrezen langdurige zorgcrisis na aardbevingen",
+      "beschrijving": "Vooraanstaande medici in Venezuela vrezen dat de twee aardbevingen van vorige week tot langdurige problemen gaan leiden in de toch al zwakke gezondheidszorg van het land. Het hoofd van de trauma-afdeling van een van de belangrijkste ziekenhuizen sluit niet uit dat er door onbehandelde infecties op korte termijn nog duizenden doden vallen. Tot nog toe kwamen volgens functionarissen in Venezuela min",
+      "url": "https://nos.nl/l/2621306",
       "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "US-Iran talks in Doha: What were the outcomes and what’s next?",
-      "beschrijving": "Qatar says the next meeting will take place after funeral processions for Iran&#039;s former supreme leader.",
-      "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next?traffic_source=rss",
+      "titel": "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
+      "beschrijving": "Israel has rejected a UN Commission report that says its army deliberately targets Palestinian children.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/collateral-damage-73-palestinian-children-israel-shot-in-the-head?traffic_source=rss",
+      "datum": "47 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why is Prada facing pro-Israeli backlash?",
+      "beschrijving": "Prada is facing boycott calls after appointing Palestinian singer Saint Levant as a brand ambassador.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss",
+      "datum": "59 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Into the Darkness",
+      "beschrijving": "Fault Lines investigates allegations of systematic torture of Palestinian prisoners and detainees in Israeli custody.",
+      "url": "https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss",
       "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
+      "beschrijving": "Iranian oil shipping magnate Mohammad Hossein Shamkhani has been sanctioned by the West over his shadow fleet.",
+      "url": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Billions flow between EU institutions and Israel, despite Gaza genocide",
-      "beschrijving": "EU departments and some universities, including in Spain, are still spending on Israeli companies.",
-      "url": "https://www.aljazeera.com/news/2026/7/2/billions-flow-between-eu-institutions-and-israel-despite-gaza-genocide?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+      "beschrijving": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
+      "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
+      "datum": "7 uur geleden",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
-      "titel": "‘The crisis is deep’: The view from Russia as fuel shortages worsen",
-      "beschrijving": "Officials are rationing fuel as Ukrainian strikes on refineries imperil supply.",
-      "url": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-      "beschrijving": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
+      "beschrijving": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
+      "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -149,31 +176,22 @@
       "titel": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
       "beschrijving": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
       "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-      "beschrijving": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
-      "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Oekraïense drone-aanvallen leiden tot acute brandstofcrisis in Rusland",
-    "Zeker 17 doden bij zware Russische luchtaanvallen op Kyiv",
-    "Two reported killed, dozens hurt in hospital fire in Germany",
-    "At least 13 killed in 'most massive' Russian attack on Kyiv",
-    "Jongen (11) rijdt in op groep monniken in Thailand, acht doden",
-    "Ruim 150 slachtoffers en daders van 'drogeerverkrachtingen' geïdentificeerd",
-    "Vermoedelijke schutter Duitse jeugdinstelling 'kocht wapen voor 4000 euro'",
-    "Dode bij brand in ebolacentrum Congo, patiënten gevlucht",
-    "Doden en tientallen gewonden bij brand in ziekenhuis Duitsland",
-    "Wekdienst 2/7: Debat over kerncentrales • Bruno Mars start concertreeks Amsterdam"
+    "Dodental aanval Kyiv loopt op, EU wil druk op Rusland opvoeren",
+    "German prosecutors allege Ukraine ordered Nord Stream pipeline attack",
+    "'Most massive' Russian attack on Kyiv kills at least 21",
+    "Nine Thai monks killed after 11-year-old driver collides with procession",
+    "'Ruim 2 miljoen militairen Rusland en Oekraïne gesneuveld, vermist of gewond'",
+    "Google moet definitief Europese miljardenboete betalen",
+    "Oostenrijkse scholen maken zich op voor hoofddoekverbod: bescherming of onderdrukking?",
+    "Campings ontruimd om bosbranden Zuid-Frankrijk, 1000 mensen geëvacueerd",
+    "Kip en chocola in Japan straks onbetaalbaar? Yen op laagste punt in 40 jaar",
+    "Verdachte opblazen Nord Stream in Duitsland aangeklaagd wegens oorlogsmisdaden"
   ]
 }
