@@ -1,35 +1,26 @@
 {
-  "bijgewerkt": "02 Jul 2026 21:53 UTC",
+  "bijgewerkt": "03 Jul 2026 09:45 UTC",
   "artikelen": [
     {
-      "titel": "Dodental aanval Kyiv loopt op, EU wil druk op Rusland opvoeren",
-      "beschrijving": "Het dodenaantal van de grote Russische aanval op Kyiv van afgelopen nacht is opgelopen tot zeker 21. Dat zeggen de lokale autoriteiten in Oekraïne. Daarnaast zouden 85 mensen gewond zijn geraakt, onder wie kinderen. Volgens de burgemeester van Kyiv zijn het de grootste aanvallen op de Oekraïense hoofdstad tot nu toe. President Zelensky waarschuwde gisteren al op basis van inlichtingen dat er een g",
-      "url": "https://nos.nl/l/2621346",
-      "datum": "5 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nine Buddhist monks killed by child driving truck in Thailand",
-      "beschrijving": "Nine Buddhist monks were killed after a truck driven by an 11-year-old boy struck a pilgrimage procession in Thailand.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/nine-buddhist-monks-killed-by-child-driving-truck-in-thailand?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "'Most massive' Russian attack on Kyiv kills at least 27",
+      "titel": "'Most massive' Russian attack on Kyiv kills at least 30",
       "beschrijving": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
       "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+      "titel": "Iran begins public mourning for Ayatollah killed in February",
+      "beschrijving": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "datum": "54 min geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
       "beschrijving": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
       "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
       "datum": "3 uur geleden",
@@ -38,142 +29,169 @@
       "bron": "BBC World"
     },
     {
-      "titel": "Killers of British couple in South Africa sentenced to life",
-      "beschrijving": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
+      "titel": "F-16's op het Oekraïense slagveld: politieke symboliek boven militaire logica?",
+      "beschrijving": "Nederland en andere bondgenoten hebben Oekraïne de afgelopen jaren tientallen F-16 gevechtsvliegtuigen geschonken. Maar over de inzet van de F16's hebben militaire experts bedenkingen. Ze zijn het erover eens dat de gevechtsvliegtuigen niet hebben gezorgd voor een militaire doorbraak op het slagveld. Van de F-16's is maar een klein aantal inzetbaar. Er is een groot tekort aan raketten voor het gev",
+      "url": "https://nos.nl/l/2621415",
+      "datum": "5 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "NOS"
     },
     {
-      "titel": "Populaire Turkse komiek aangehouden die president uitdaagt in show",
-      "beschrijving": "De populaire Turkse stand-upcomedian Deniz Göktas is aangehouden en vastgezet voor verhoor. Volgens de Turkse krant Hürriyet is dat vanwege \"het openlijk beledigen van de religieuze waarden die door een deel van de samenleving worden aangehangen\". De Turkse versie van BBC stelt dat hij ook wordt beschuldigd van het beledigen van president Erdogan en het aanzetten tot haat. De komiek werd vandaag o",
-      "url": "https://nos.nl/l/2621391",
-      "datum": "30 min geleden",
+      "titel": "Passagiersbus stort in ravijn in Pakistan, 40 doden",
+      "beschrijving": "Bij een busongeluk in Pakistan zijn veertig mensen omgekomen, acht personen raakten gewond. Dat meldt persbureau AP op basis van lokale bronnen. De passagiersbus was overvol en reedt met hoge snelheid toen het in een kloof stortte. De bus had passagiers meegenomen van een andere bus die pech had gekregen in Quetta, daardoor raakte het voertuig overvol. Niet veel later raakte de buschauffeur de con",
+      "url": "https://nos.nl/l/2621459",
+      "datum": "10 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Vaticaan breekt met priesters en bisschoppen om wijding zonder toestemming",
-      "beschrijving": "Het Vaticaan heeft zoals verwacht bisschoppen van de ultraconservatieve Priesterbroederschap Sint Pius X (SSPX) geëxcommuniceerd. Dat is gebeurd vanwege de wijding van vier bisschoppen zonder pauselijke toestemming. De afdeling voor de geloofsleer van het Vaticaan heeft dat in een verklaring bevestigd. Hiermee is een scheuring (schisma) binnen de Rooms-Katholieke Kerk een feit. De bisschoppen werd",
-      "url": "https://nos.nl/l/2621382",
+      "titel": "Ruim 2000 extra doden in Frankrijk tijdens 'historische' hittegolf",
+      "beschrijving": "In Frankrijk zijn tijdens de hittegolf vorige maand zeker 2025 mensen meer gestorven dan normaal. Dat heeft de Franse minister van Volksgezondheid Stéphanie Rist bekendgemaakt. In het weekend gingen de Franse autoriteiten nog uit van 1000 extra doden door de hitte. Tijdens de hittegolf, die officieel van 22 tot 28 juni duurde, lag vooral onder mensen boven de 45 jaar het aantal doden hoger. \"We zi",
+      "url": "https://nos.nl/l/2621452",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Pakket maatregelen moet Duitse economie redden: ziek melden wordt veel moeilijker",
-      "beschrijving": "Niet in de gebruikelijke blauwgrijze zaal, maar buiten in de zonnige groene tuin van het kantoor van de bondskanselier presenteert de Duitse regering vandaag een pakket aan maatregelen dat het land weer vooruit moet helpen. In negen pagina's staan 34 punten, van belastinghervormingen tot versoepelingen van het arbeidsrecht. Hoewel een deel van de stappen kleiner is dan vooraf rondging, telt voor d",
-      "url": "https://nos.nl/l/2621363",
-      "datum": "3 uur geleden",
+      "titel": "Venezolanen boos dat overheid tekortschiet, Rodriguez wijst kritiek van de hand",
+      "beschrijving": "De Venezolaanse interim-leider Delcy Rodriguez wijst kritiek op de trage hulpverlening na de aardbevingen van de hand. Op een persconferentie voor buitenlandse journalisten verwierp ze ook de beschuldiging dat de enorme schade is verergerd door gebrekkig gebouwde sociale huurwoningen. Bij de zware aardbevingen in Venezuela kwamen acht dagen geleden zeker 2595 mensen om het leven, meer dan 11.000 m",
+      "url": "https://nos.nl/l/2621451",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Binnen de muren van het Witte Huis: hoe Trump regeert vanuit chaos en angst",
-      "beschrijving": "\"Lachwekkend\", oordeelt CIA-directeur John Ratcliffe nadat Benjamin Netanyahu in februari in het Witte Huis een aanval op Iran aan Donald Trump pitcht. \"Lulkoek\", zegt minister van Buitenlandse Zaken Marco Rubio over de rooskleurige verwachtingen van de Israëlische premier. Hun scepsis is onverbloemd, maar Trump slaat de adviezen in de wind en laat zich door Netanyahu de oorlog met Iran in manoeuv",
-      "url": "https://nos.nl/l/2621361",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Amerikaanse piloot doodgeschoten door rebellen in Papoea, Indonesië bergt lichaam",
+      "beschrijving": "Een Amerikaanse piloot is gisteren in de Indonesische regio Papoea doodgeschoten door separatistische rebellen. Zijn lichaam is nu op het westelijke deel van het eiland Nieuw-Guinea geborgen door het Indonesische leger. Een woordvoerder van het West-Papoea Nationaal Bevrijdingsleger (TPNPB), een gewapende separatistische groepering, meldde gisteren dat de Amerikaanse piloot Nicholas Gosselin was g",
+      "url": "https://nos.nl/l/2621450",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Google moet definitief Europese miljardenboete betalen",
-      "beschrijving": "Het Europese Hof van Justitie heeft het hoger beroep van Google tegen de miljardenboete uit 2018 verworpen. Google maakt volgens het hof misbruik van de machtspositie van Android, het besturingsysteem voor telefoons, tablets en smartwatches. De boete werd in 2018 opgelegd door het Gerecht van de Europese Unie in Luxemburg. De rechter achtte bewezen dat Google sinds 2011 illegale beperkingen oplegd",
-      "url": "https://nos.nl/l/2621357",
+      "titel": "Tibetaanse man overleden die zichzelf in brand stak voor VN-hoofdkwartier",
+      "beschrijving": "Voor het VN-hoofdgebouw in New York heeft een Tibetaanse man zichzelf in brand gestoken uit protest tegen de Chinese bezetting van Tibet. De man overleed aan zijn verwondingen. De man werd gisteravond rond 18.30 uur plaatselijke tijd zwaar verbrand aangetroffen door de politie. Hij werd naar het ziekenhuis gebracht, waar hij later dood werd verklaard. De politie onderzoekt de zaak en heeft niets g",
+      "url": "https://nos.nl/l/2621417",
       "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Oostenrijkse scholen maken zich op voor hoofddoekverbod: bescherming of onderdrukking?",
-      "beschrijving": "Na jaren discussie voert Oostenrijk het komende schooljaar een hoofddoekverbod voor jonge meisjes in. Tot 14 jaar wordt het dragen van een hoofddoek in het onderwijs verboden. Scholen bereiden zich daar nu, kort voor de zomervakantie, al op voor. \"Sommige meisjes geven aan dat ze de hoofddoek zullen afdoen, bij andere moeten we het afwachten\", vertelt Gerd Bauer. Hij is directeur van een Mittelsch",
-      "url": "https://nos.nl/l/2621350",
+      "titel": "Wekdienst 3/7: Sail Harlingen van start • Laatste wedstrijden eerste knock-outronde",
+      "beschrijving": "Goedemorgen! Het vierjaarlijkse evenement Sail Harlingen begint en Madonna brengt haar nieuwe studio-album uit. Eerst het weer: in het noordoosten kan eerst nog een bui vallen. Verder geregeld zon, vooral in het zuiden, maar hier en daar ook wat bewolking. Het wordt 18 tot lokaal 25 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamheden en hier alles over de situ",
+      "url": "https://nos.nl/l/2621416",
       "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Campings ontruimd vanwege bosbranden Zuid-Frankrijk, 3000 mensen geëvacueerd",
-      "beschrijving": "Vanwege de grote bosbranden die woeden in Zuid-Frankrijk zijn meerdere campings ontruimd. De campings liggen onder meer in Canet-en-Roussillon, een gemeente en badplaats in het Franse departement Pyrénées-Orientales, en in buurgemeente Sainte-Marie-la-Mer. Volgens Franse media zijn meer dan 3000 mensen uit het gebied geëvacueerd. Ongeveer de helft van de evacuees verbleef op campings in de omgevin",
-      "url": "https://nos.nl/l/2621342",
-      "datum": "6 uur geleden",
+      "titel": "WHO-baas Tedros: uitbraak hantavirus voorbij",
+      "beschrijving": "De Wereldgezondheidsorganisatie (WHO) zegt dat de uitbraak van het hantavirus voorbij is. In april was er een hantavirusuitbraak op het Nederlandse cruiseschip MV Hondius op de Atlantische Oceaan. Dertien mensen raakten besmet. Drie van hen, onder wie een Nederlands echtpaar, zijn overleden. Het ging om de Andesvariant die vooral voorkomt in Zuid-Amerika. Dit is een van de weinige hantavirussen di",
+      "url": "https://nos.nl/l/2621398",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Kip en chocola in Japan straks onbetaalbaar? Yen op laagste punt in 40 jaar",
-      "beschrijving": "De yen staat in Japan op een historisch laag niveau en dat is overal merkbaar. In maaltijdwinkel Manpukuya Tateishi in Tokio kost de gefrituurde kip weliswaar nog altijd 350 yen (ongeveer 2 euro), maar de Braziliaanse kippendij die daarvoor werd gebruikt, is twee keer zo duur geworden. \"De zwakke yen zet onze inkoop behoorlijk onder druk\", zegt winkelmanager Ryosuke Kosaka tegen een journalist van",
-      "url": "https://nos.nl/l/2621327",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Verdachte opblazen Nord Stream in Duitsland aangeklaagd wegens oorlogsmisdaden",
-      "beschrijving": "Oekraïner Serhii K. is in Duitsland vanwege sabotage van de Nord Stream-pijpleidingen aangeklaagd voor medeplichtigheid aan oorlogsmisdrijven. In zijn vermoedelijk coördinerende rol wordt de militair beschuldigd van \"ontregeling van openbare diensten, met een explosie tot gevolg en het vernietigen van infrastructuur\". K. zou de actie samen met andere Oekraïense militairen hebben uitgevoerd namens ",
-      "url": "https://nos.nl/l/2621318",
+      "titel": "Franse zanger Patrick Bruel opnieuw beschuldigd van verkrachting en aanranding",
+      "beschrijving": "De Franse zanger Patrick Bruel is opnieuw beschuldigd van verkrachting en aanranding. Dat melden Franse media. Drie vrouwen hebben aangifte gedaan tegen de 67-jarige zanger. Vorige maand werd hij al aangeklaagd voor verkrachting, een poging tot verkrachting, aanranding en seksuele intimidatie. Bruel weerspreekt de beschuldigingen. Twee vrouwen beschuldigen de zanger van verkrachting en een vrouw v",
+      "url": "https://nos.nl/l/2621397",
       "datum": "10 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Could water become a flashpoint between Islamabad and New Delhi?",
-      "beschrijving": "Pakistan has warned India over the Indus Water Treaty.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss",
-      "datum": "51 min geleden",
+      "titel": "Bewaker overleeft acht dagen onder puin na aardbeving Venezuela",
+      "beschrijving": "Een man die ruim een week onder het puin zat door de aardbeving in Venezuela, is gered. Dat melden diverse media. De 43-jarige bewaker werd donderdagochtend lokale tijd door reddingswerkers uit een ingestort winkelcentrum in de kustplaats La Guaira gehaald. Hij zat daar sinds de aardbevingen op 24 juni. De man, Hernán Gil, werkte als bewaker in het winkelcentrum. Op het moment dat de aardbeving pl",
+      "url": "https://nos.nl/l/2621394",
+      "datum": "11 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "UN warns likelihood of ‘extreme weather events’ as El Nino set to intensify",
+      "beschrijving": "World Meteorological Organization forecasts more likelihood of heatwaves, droughts and heavy rainfall due to El Nino.",
+      "url": "https://www.aljazeera.com/news/2026/7/3/un-warns-likelihood-of-extreme-weather-events-as-el-nino-set-to-intensify?traffic_source=rss",
+      "datum": "58 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump administration renews pressure on International Criminal Court",
-      "beschrijving": "The US says it will reject any effort by court to assert authority over citizens, days after judges sue over sanctions.",
-      "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-renews-pressure-on-international-criminal-court?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "$500m for Trump, access for Pakistan: How a crypto-diplomatic bet paid off",
+      "beschrijving": "The crypto firm that brought Trump a windfall has also allowed Pakistan to gain clout with US administration.",
+      "url": "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
-      "beschrijving": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
-      "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "China/Taiwan",
+      "titel": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says",
+      "beschrijving": "Greek former parliamentarian Stelios Kouloglou targeted with Pegasus software, Citizen Lab analysis finds.",
+      "url": "https://www.aljazeera.com/economy/2026/7/3/eu-lawmaker-investigating-surveillance-hacked-by-israeli-spyware-report-says?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
-      "beschrijving": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
-      "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
+      "titel": "Iran’s Khamenei funeral: Which world leaders are attending?",
+      "beschrijving": "Several heads of state and other government officials will gather in Tehran for Khamenei&#039;s state funeral.",
+      "url": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Seven pro-Palestine protesters convicted of misdemeanour charges in US",
+      "beschrijving": "Activists found guilty of misdemeanour counts after blocking San Francisco&#039;s Golden Gate Bridge in a 2024 Gaza protest.",
+      "url": "https://www.aljazeera.com/news/2026/7/3/seven-pro-palestine-protesters-convicted-of-misdemeanour-charges-in-us?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ukraine strike hits Belgorod, causing fire and power outages",
+      "beschrijving": "Ukraine strike hits Belgorod, causing fire and power outages",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/ukraine-strike-hits-belgorod-causing-fire-and-power-outages?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "beschrijving": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "datum": "10 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Dodental aanval Kyiv loopt op, EU wil druk op Rusland opvoeren",
-    "Nine Buddhist monks killed by child driving truck in Thailand",
-    "'Most massive' Russian attack on Kyiv kills at least 27",
-    "Bomb blast at Damascus cafe kills six, Syrian state media say",
-    "Killers of British couple in South Africa sentenced to life",
-    "Populaire Turkse komiek aangehouden die president uitdaagt in show",
-    "Vaticaan breekt met priesters en bisschoppen om wijding zonder toestemming",
-    "Pakket maatregelen moet Duitse economie redden: ziek melden wordt veel moeilijker",
-    "Binnen de muren van het Witte Huis: hoe Trump regeert vanuit chaos en angst",
-    "Google moet definitief Europese miljardenboete betalen"
+    "'Most massive' Russian attack on Kyiv kills at least 30",
+    "Iran begins public mourning for Ayatollah killed in February",
+    "Bomb blast at Damascus cafe kills nine, Syrian state media say",
+    "F-16's op het Oekraïense slagveld: politieke symboliek boven militaire logica?",
+    "Passagiersbus stort in ravijn in Pakistan, 40 doden",
+    "Ruim 2000 extra doden in Frankrijk tijdens 'historische' hittegolf",
+    "Venezolanen boos dat overheid tekortschiet, Rodriguez wijst kritiek van de hand",
+    "Amerikaanse piloot doodgeschoten door rebellen in Papoea, Indonesië bergt lichaam",
+    "Tibetaanse man overleden die zichzelf in brand stak voor VN-hoofdkwartier",
+    "Wekdienst 3/7: Sail Harlingen van start • Laatste wedstrijden eerste knock-outronde"
   ]
 }
