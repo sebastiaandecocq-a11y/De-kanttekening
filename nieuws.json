@@ -1,47 +1,20 @@
 {
-  "bijgewerkt": "03 Jul 2026 20:42 UTC",
+  "bijgewerkt": "04 Jul 2026 07:30 UTC",
   "artikelen": [
     {
-      "titel": "Verdachte bomaanslag Monaco is Oekraïense vrouw vermomd als man",
-      "beschrijving": "Een Oekraïense vrouw wordt verdacht van de bomaanslag in Monaco maandagavond, waarbij een Oekraïense zakenman, zijn vrouw en een kind gewond raakten. De dader had zich vermomd als een man, meldt de officier van justitie van Monaco aan persbureau Reuters. Het gaat om de 39-jarige Anastasiia Berezovska, een Oekraïense burger die woonachtig is in Duitsland. De internationale politieorganisatie Interp",
-      "url": "https://nos.nl/l/2621475",
-      "datum": "9 uur geleden",
+      "titel": "Doden na Russische aanval op appartementsgebouwen in Oekraïense stad Soemy",
+      "beschrijving": "Bij een Russische aanval op het centrum van de Oekraïense stad Soemy zijn zeker vier mensen gedood. 27 anderen raakten gewond, meldt de regionale gouverneur. Het Russische leger gebruikte zware glijbommen om Soemy te raken. Bij de aanval werden meerdere appartementsgebouwen en winkels in een drukke straat geraakt, zegt de militaire leiding van de stad. Onder de doden zijn onder meer een kind van 5",
+      "url": "https://nos.nl/l/2621561",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Settlers attack activists, Palestinians trying to access their land",
-      "beschrijving": "Israeli settlers attacked a foreign activist and another man as they blocked access to Palestinian farmland.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/settlers-attack-activists-palestinians-trying-to-access-their-land?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
-      "beschrijving": "The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks.",
-      "url": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Ukrainian woman identified as main suspect in Monaco bombing",
-      "beschrijving": "Interpol has identified 39-year-old Anastasiia Berezovska as the main suspect in Monday’s bombing in Monaco.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/ukrainian-woman-identified-as-main-suspect-in-monaco-bombing?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
       "titel": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
       "beschrijving": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
       "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -50,7 +23,7 @@
       "titel": "Iran begins public mourning for Ayatollah killed in February",
       "beschrijving": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
       "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -59,16 +32,43 @@
       "titel": "EU zet zes Russen op sanctielijst vanwege betrokkenheid bij dood Navalny",
       "beschrijving": "De Europese lidstaten hebben zes Russen op de sanctielijst geplaatst voor hun betrokkenheid bij het ontwikkelen van chemische wapens. Het gaat in het bijzonder om de gifstof epibatidine, de stof die werd aangetroffen in het lichaam van Aleksej Navalny. De Russische oppositieleider werd in 2024 met die stof vergiftigd in zijn cel in een strafkolonie, concludeerden Nederland, het Verenigd Koninkrijk",
       "url": "https://nos.nl/l/2621528",
-      "datum": "3 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zesdaagse uitvaart ayatollah Khamenei begonnen in Teheran",
+      "beschrijving": "In de Iraanse hoofdstad Teheran hebben duizenden mensen zich verzameld bij de Mosalla-moskee. Daar begint vandaag de - zwaar geregisseerde - uitvaart van ayatollah Ali Khamenei. De hoogste Iraanse leider werd eind februari gedood bij Amerikaans-Israëlische luchtaanvallen, aan het begin van de oorlog. De staatsbegrafenis duurt in totaal zes dagen. Dit weekend ligt het lichaam van Khamenei opgebaard",
+      "url": "https://nos.nl/l/2621581",
+      "datum": "40 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 4/7: Marokko treft Canada op WK • VS viert 250-jarig bestaan",
+      "beschrijving": "Goedemorgen! De Tour de France gaat vandaag van start in Barcelona. En het Marokkaanse elftal maakt zich op voor de wedstrijd tegen Canada. Eerst het weer: Zon en wolken wisselen elkaar vandaag af en het blijft op de meeste plaatsen droog. De meeste zon is voor het zuiden weggelegd. Het kwik stijgt naar 21 tot 26 graden van noord naar zuid en er waait een matige westenwind. Ook de komende dagen ve",
+      "url": "https://nos.nl/l/2621577",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Drie mannen vrijgesproken in zaak spraakmakende dood Noord-Ierse journaliste",
+      "beschrijving": "Drie mannen die verdacht werden van betrokkenheid bij de moord op de Noord-Ierse journaliste Lyra McKee zijn vrijgesproken. Na zeven jaar is er nog altijd niemand veroordeeld voor de spraakmakende dood van McKee. De destijds 29-jarige vrouw overleed nadat ze door een gemaskerde schutter was neergeschoten bij rellen in Londonderry. Ze stond dicht bij een politiewagen toen ze de rellen aan het filme",
+      "url": "https://nos.nl/l/2621564",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "'NAVO-landen geven komende twee jaar 140 miljard aan Oekraïne'",
       "beschrijving": "De NAVO-landen gaan hun \"ijzersterke toewijding\" aan het bondgenootschap en de steun aan Oekraïne opnieuw vastleggen in hun slotverklaring van de NAVO-top volgende week. Dat melden ingewijden aan persbureau Reuters. Ook willen de bondgenoten volgend jaar 70 miljard euro geven aan Oekraïne voor militaire uitgaven. Voor het jaar daarna zou het om een soortgelijk bedrag gaan. De definitieve tekst moe",
       "url": "https://nos.nl/l/2621542",
-      "datum": "26 min geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +77,7 @@
       "titel": "Zeldzame druk van onafhankelijkheidsverklaring VS gevonden in Brits archief",
       "beschrijving": "Amerikaanse historici hadden zich geen beter verjaardagscadeau kunnen wensen voor de viering van het 250-jarige bestaan van hun land. In het Verenigd Koninkrijk is een zeldzame druk van de Amerikaanse onafhankelijkheidsverklaring gevonden. Het gaat om een exemplaar dat is gedrukt in Exeter in de Amerikaanse staat New Hampshire. Van de Exeter-versie zijn tot nu toe elf exemplaren bewaard gebleven. ",
       "url": "https://nos.nl/l/2621541",
-      "datum": "30 min geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +86,7 @@
       "titel": "Hoe Trump de 250ste verjaardag van de Verenigde Staten kaapte",
       "beschrijving": "Het had een feest voor alle Amerikanen moeten worden, maar uit alles blijkt dat president Trump vooral zichzelf de hoofdrol heeft gegeven bij de viering van 250 jaar Verenigde Staten. Zo warmde Trumps huiszanger Lee Greenwood vorige week het publiek op met zijn jaren 80-hit God Bless the USA, terwijl de menigte wachtte op de komst van Trump bij de grote openingsavond van de jubileumviering. Het wa",
       "url": "https://nos.nl/l/2621534",
-      "datum": "2 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +95,7 @@
       "titel": "Grote natuurbrand aan de Costa Brava, meerdere Spaanse gemeenten in lockdown",
       "beschrijving": "Aan de Costa Brava in het oosten van Spanje is een grote bosbrand uitgebroken. In meerdere gemeenten in de kuststrook van de Middellandse Zee is daarom een lockdown aangekondigd door de autoriteiten. Inwoners van het gebied hebben een waarschuwing gekregen om binnen te blijven vanwege de hevige rook die vrijkomt bij de brand. Volgens Spaanse media brak er vanochtend in La Bisbal d'Empordà een grot",
       "url": "https://nos.nl/l/2621511",
-      "datum": "4 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,92 +104,56 @@
       "titel": "Teheran bereidt zich voor op miljoenen mensen bij rouwstoet Khamenei",
       "beschrijving": "De aankomende dagen kunnen Iraniërs na ruim vier maanden afscheid nemen van ayatollah Ali Khamenei. Het lichaam van de hoogste Iraanse leider, die in de eerste dagen van de oorlog werd gedood, is overgebracht naar de hoofdstad Teheran. Morgen gaat de openbare rouwplechtigheid van start, meldt de Iraanse staatsnieuwszender. Het lichaam van Khamenei wordt dit weekend opgebaard in de belangrijke Mosa",
       "url": "https://nos.nl/l/2621503",
-      "datum": "5 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Na misbruikschandaal teruggetreden ex-bisschop van Brugge overleden",
-      "beschrijving": "Voormalig bisschop van Brugge Roger Vangheluwe is overleden. Hij raakte in 2010 in opspraak toen bekend werd dat hij jarenlang zijn minderjarige neefje had verkracht. Sindsdien leefde hij een teruggetrokken bestaan. Vangheluwe was 89 jaar. Roger Vangheluwe werd in 1984 benoemd tot bisschop van Brugge. 25 jaar lang was hij geliefd onder de katholieke bevolking, ook omdat hij progressieve standpunte",
-      "url": "https://nos.nl/l/2621484",
-      "datum": "8 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Franse autoriteiten: natuurbrand bij Perpignan onder controle",
-      "beschrijving": "De brandweer heeft een natuurbrand in de buurt van de Zuid-Franse stad Perpignan onder controle, laten de plaatselijke autoriteiten weten. Vanwege de brand zijn gisteravond 3000 mensen geëvacueerd uit het gebied, onder wie 1700 vakantiegangers. Het vuur woedt tussen de kustplaatsen Sainte-Marie-la-Mer en Canet-en-Roussillon. Acht mensen zijn lichtgewond geraakt, onder wie een kind en twee brandwee",
-      "url": "https://nos.nl/l/2621464",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Passagiersbus stort in ravijn in Pakistan, 40 doden",
-      "beschrijving": "Bij een busongeluk in Pakistan zijn veertig mensen omgekomen, acht personen raakten gewond. Dat meldt persbureau AP op basis van lokale bronnen. De passagiersbus was overvol en reed met hoge snelheid toen die in een kloof stortte. De bus had passagiers meegenomen van een andere bus die pech had gekregen in Quetta, daardoor raakte het voertuig overvol. Niet veel later raakte de buschauffeur de cont",
-      "url": "https://nos.nl/l/2621459",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Is China’s new ethnic unity law a step towards forced assimilation?",
-      "beschrijving": "The government says the law will help forge a shared national identity.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss",
-      "datum": "42 min geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
-      "beschrijving": "Human rights and media freedom organisations warned that the agreement prevents &#039;recourse to international courts&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
+      "titel": "Could Israel really build settlements in Gaza?",
+      "beschrijving": "After a genocidal war and famine, leading Israeli politicians say they are now ready to settle Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
-      "beschrijving": "Top Iranian officials and foreign dignitaries pay respects to late leader killed in joint US-Israeli strike in February.",
-      "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
+      "beschrijving": "Mukesh Kapila, ex-UN Humanitarian Coordinator for Sudan warns that, &#039;El Obeid crisis could be worse than El Fasher&#039;.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
+      "datum": "5 uur geleden",
+      "regio": "Europa",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Polish PM warns critical months ahead in face of Russian threat",
-      "beschrijving": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
     },
     {
       "titel": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
       "beschrijving": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
       "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "21 uur geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Polish PM warns critical months ahead in face of Russian threat",
+      "beschrijving": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "datum": "14 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Verdachte bomaanslag Monaco is Oekraïense vrouw vermomd als man",
-    "Settlers attack activists, Palestinians trying to access their land",
-    "Israeli settlers intensify attacks in West Bank, targeting water supplies",
-    "Ukrainian woman identified as main suspect in Monaco bombing",
+    "Doden na Russische aanval op appartementsgebouwen in Oekraïense stad Soemy",
     "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
     "Iran begins public mourning for Ayatollah killed in February",
     "EU zet zes Russen op sanctielijst vanwege betrokkenheid bij dood Navalny",
+    "Zesdaagse uitvaart ayatollah Khamenei begonnen in Teheran",
+    "Wekdienst 4/7: Marokko treft Canada op WK • VS viert 250-jarig bestaan",
+    "Drie mannen vrijgesproken in zaak spraakmakende dood Noord-Ierse journaliste",
     "'NAVO-landen geven komende twee jaar 140 miljard aan Oekraïne'",
     "Zeldzame druk van onafhankelijkheidsverklaring VS gevonden in Brits archief",
     "Hoe Trump de 250ste verjaardag van de Verenigde Staten kaapte"
