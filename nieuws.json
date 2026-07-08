@@ -1,65 +1,146 @@
 {
-  "bijgewerkt": "08 Jul 2026 07:56 UTC",
+  "bijgewerkt": "08 Jul 2026 15:54 UTC",
   "artikelen": [
     {
-      "titel": "Rusland valt Kyiv opnieuw aan, ook doden bij aanvallen elders in Oekraïne",
-      "beschrijving": "Rusland heeft vannacht opnieuw ballistische raketten afgevuurd op Kyiv. Een vrouw kwam om en twee mensen raakten gewond, meldt het hoofd van het militaire bestuur van de Oekraïense hoofdstad. Ook andere Oekraïense steden werden getroffen, met doden tot gevolg. Het is de derde Russische aanval op Kyiv in minder dan een week. Deze maand zijn er 60 mensen omgekomen bij Russische aanvallen op de Oekra",
-      "url": "https://nos.nl/l/2622144",
-      "datum": "6 uur geleden",
+      "titel": "Trump belooft Zelensky licentie om zelf Patriot-raketten te maken",
+      "beschrijving": "De Verenigde Staten gaan een licentie verlenen aan Oekraïne zodat het land zelf Patriot-onderscheppingsraketten kan maken. Dat heeft president Trump toegezegd aan zijn Oekraïense collega Zelensky in een overleg op de NAVO-top in Ankara. Zelensky had op de NAVO-top nog eens herhaald dat zijn land dringend meer Patriot-raketten nodig heeft. De Patriot-onderscheppingsraket, geproduceerd in de VS, is ",
+      "url": "https://nos.nl/l/2622214",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "VS voert luchtaanvallen uit op Iraanse doelen, Iran bestookt Amerikaanse bases",
-      "beschrijving": "De VS heeft luchtaanvallen uitgevoerd op Iran. Na afloop maakte het Amerikaanse leger bekend dat het meer dan tachtig doelen heeft geraakt. Iran bestookte op zijn beurt als vergelding Amerikaanse bases in Bahrein en Koeweit. Reden voor de Amerikaanse acties zijn drie recente Iraanse aanvallen op commerciële schepen die door de Straat van Hormuz voeren, zegt het Amerikaanse Centrale Commando. Die a",
-      "url": "https://nos.nl/l/2622139",
-      "datum": "9 uur geleden",
-      "regio": "Iran",
+      "titel": "Zeker twee meisjes gewond bij aanval op middelbare school in Beieren",
+      "beschrijving": "Op een middelbare school in de Duitse deelstaat Beieren zijn twee meisjes van 13 jaar ernstig gewond geraakt. Inmiddels verkeren ze niet meer in levensgevaar, meldt een woordvoerder aan het Duitse persbureau DPA. Waarschijnlijk zijn het twee leerlingen van de school. Hun verwondingen zijn het gevolg van een aanval op de school, maar het is nog niet duidelijk of het om een schietincident of steekpa",
+      "url": "https://nos.nl/l/2622194",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
+    },
+    {
+      "titel": "Zelenskyy seeks NATO support as Russia continues attacks",
+      "beschrijving": "At the NATO summit, Ukrainian President Volodymyr Zelenskyy had urged European allies to build missiles.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/zelenskyy-seeks-nato-support-as-russia-continues-attacks?traffic_source=rss",
+      "datum": "35 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+      "beschrijving": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
+      "datum": "45 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
     },
     {
       "titel": "Nato allies announce £37bn for new missile project",
       "beschrijving": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
       "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Europa",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Britse partijen doen niet mee aan 'nepverkiezing' voor zetel Farage",
-      "beschrijving": "De politieke concurrenten van Nigel Farage doen niet mee aan de verkiezingen voor zijn vrijgekomen Britse parlementszetel. Stuk voor stuk zeggen de partijen dat ze niet willen meewerken aan wat ze \"een circus\" en \"een nepverkiezing\" noemen. Reform-leider Farage ligt onder vuur vanwege een onderzoek naar zijn financiën en nam gisteren de vlucht naar voren. In een tv-toespraak ontkende hij minutenla",
-      "url": "https://nos.nl/l/2622155",
+      "titel": "Eight killed after landslide hits girls' school in Bangladesh",
+      "beschrijving": "Rescuers pull bodies from the mud after heavy monsoon rains batter the south-eastern coast.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "NOS"
+      "urgentie": "hoog",
+      "bron": "BBC World"
     },
     {
-      "titel": "NATO summit live: Trump, world leaders meet in Turkiye’s Ankara",
-      "beschrijving": "The second and final day of the key gathering is under way in Turkiye&#039;s capital.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/8/nato-summit-live-trump-world-leaders-meet-in-turkiyes-ankara?traffic_source=rss",
-      "datum": "51 min geleden",
-      "regio": "VS",
+      "titel": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+      "beschrijving": "A chronological look at key milestones from Hamas&#039;s 2006 election victory to its 2026 exit from governing Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation",
-      "beschrijving": "Graham Platner denied the allegation, calling it \"categorically false\" but said he was \"taking the time to reflect on the best path forward\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
+      "titel": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+      "beschrijving": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Iran",
       "urgentie": "midden",
       "bron": "BBC World"
+    },
+    {
+      "titel": "US strikes target Iranian military boats",
+      "beschrijving": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+      "datum": "10 uur geleden",
+      "regio": "Iran",
+      "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Wrakstukken vermist Pakistaans vrachtvliegtuig gevonden, bemanning spoorloos",
+      "beschrijving": "Voor de kust van Pakistan zijn wrakstukken gevonden van het vrachtvliegtuig dat dinsdagavond van de radar verdween. De zoektocht naar de vijf vermiste bemanningsleden wordt voortgezet. Reddingsdiensten van de Pakistaanse marine en de burgerluchtvaart vonden de wrakstukken na ongeveer twaalf uur zoeken in de Arabische Zee, meldt de Pakistaanse luchthavenautoriteit op X. Bronnen melden aan persburea",
+      "url": "https://nos.nl/l/2622218",
+      "datum": "31 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Duitse palliatief arts veroordeeld tot levenslang voor vijftien moorden",
+      "beschrijving": "Een Duitse palliatief arts is veroordeeld tot een levenslange gevangenisstraf voor vijftien moorden, melden Duitse media. De rechtbank van Berlijn oordeelt dat Johannes M. tussen 2021 en 2024 een dodelijke mix van verschillende medicijnen toediende aan twaalf vrouwen en drie mannen. Zij waren allemaal terminaal ziek. Het jongste slachtoffer was een 25-jarige vrouw, het oudste slachtoffer was 94 ja",
+      "url": "https://nos.nl/l/2622206",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Australië maakt vaart met veiligheidsdeals voor tegenwicht tegen China",
+      "beschrijving": "Australië is druk bezig nieuwe allianties te smeden in de Stille Oceaan. Verschillende deals over vergaande samenwerking op het gebied van veiligheid en defensie zijn gericht tegen de groeiende invloed van China in de regio. De Australische regering probeert op die manier de buurlanden zo veel mogelijk buiten de Chinese invloedssfeer te houden. Premier Albanese ontving vandaag de leiders van Tonga",
+      "url": "https://nos.nl/l/2622175",
+      "datum": "5 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vuilstort bij Indonesische hoofdstad Jakarta staat al ruim een week in brand",
+      "beschrijving": "Een enorme afvalberg in Indonesië staat al ruim acht dagen in brand. Het gaat om een vuilstortplaats aan de rand van de hoofdstad Jakarta. De brand heeft zich verspreid over een gebied van meer dan 15 hectare. Helikopters, watertankwagens, bulldozers en drones zijn al ingezet om de brand te blussen, melden lokale autoriteiten. Toch lukt het de brandweer nog niet om het vuur onder controle te krijg",
+      "url": "https://nos.nl/l/2622173",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Dodelijke flatbrand Antwerpen werd veroorzaakt door kortsluiting na lek",
+      "beschrijving": "De dodelijke brand in een Antwerpse flat vorige week is veroorzaakt door een kapotte waterleiding die kortsluiting veroorzaakte. Dat meldt het Antwerpse Openbaar Ministerie. Van opzet was volgens het OM geen sprake. De koperen waterleiding werd geraakt bij het ophangen van een nieuwe elektriciteitskast in de schacht met nutsvoorzieningen. Die schacht loopt van de kelder tot de tiende verdieping va",
+      "url": "https://nos.nl/l/2622171",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Trump verklaart overeenkomst met Iran voorbij: 'Het is tuig'",
+      "beschrijving": "Volgens de Amerikaanse president Trump is de overeenkomst tussen Iran en de Verenigde Staten verleden tijd. Hij reageerde op de NAVO-top in Ankara op de recente vijandelijkheden tussen de landen. \"Ik denk dat het voorbij is\", antwoordde hij op een vraag van een journalist, zittend naast NAVO-secretaris-generaal Rutte. \"Het is tuig. Het zijn zieke mensen. Wat mij betreft is het gewoon tijdverspilli",
+      "url": "https://nos.nl/l/2622169",
+      "datum": "7 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Vrachtvliegtuig met vijf bemanningsleden vermist voor kust Pakistan",
       "beschrijving": "Voor de kust van Pakistan wordt gezocht naar een Boeing 737-400-vrachtvliegtuig met vijf bemanningsleden aan boord. Het toestel van de Pakistaanse maatschappij K2 Airways was onderweg van Sharjah, in de Verenigde Arabische Emiraten, naar Karachi in Pakistan toen het contact met de luchtverkeersleiding verloren ging. Volgens de Pakistaanse luchtvaartautoriteit meldde de bemanning gisteravond om 21.",
       "url": "https://nos.nl/l/2622159",
-      "datum": "25 min geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,130 +149,49 @@
       "titel": "Woontoren in New York gestabiliseerd, deel omwonenden kan terug naar huis",
       "beschrijving": "De woontoren in New York die dreigde in te storten is gestabiliseerd. Dat melden de lokale autoriteiten. Voor de veiligheid waren ook zeven gebouwen in de omgeving geëvacueerd. Bij een deel hiervan kunnen de bewoners weer terug naar huis. \"We houden het gebouw al uren in de gaten en hebben geen beweging gezien\", zei de lokale functionaris Ahmed Tigani. Daarom was het mogelijk om de beschadigde del",
       "url": "https://nos.nl/l/2622156",
-      "datum": "57 min geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Terugtrekking Afrikaanse landen zet Internationaal Strafhof verder onder druk",
-      "beschrijving": "De voorgenomen terugtrekking van Niger, Mali en Burkina Faso uit het Internationaal Strafhof (ICC) leidt internationaal tot bezorgdheid. De drie West-Afrikaanse landen worden geteisterd door aanhoudend terreurgeweld; mensenrechtenorganisaties rapporteren ernstige misstanden waar burgers slachtoffers van zijn. Na een eerdere aankondiging afgelopen najaar zijn de landen onlangs officieel een procedu",
-      "url": "https://nos.nl/l/2622148",
-      "datum": "2 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 8/7: Vergadering leiders NAVO-landen • Mona Keijzer bij coronaverhoren",
-      "beschrijving": "Goedemorgen! Vandaag hoort de parlementaire enquêtecommissie Corona Mona Keijzer en de leiders van de NAVO-landen komen officieel bijeen voor de top in Ankara. Eerst het weer: De dag begint bewolkt en lokaal valt motregen. In de middag breekt de zon steeds beter door en bij een matige noordwestenwind wordt het 22 tot 26 graden. De komende dagen verlopen vrij zonnig en de temperatuur loopt geleidel",
-      "url": "https://nos.nl/l/2622147",
-      "datum": "3 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "ICE-agent schiet man dood in Houston en claimt zelfverdediging",
-      "beschrijving": "Een agent van de Amerikaanse immigratiedienst (ICE) heeft dinsdag in Houston een man doodgeschoten. Dat meldt de dienst in een verklaring, waarover Amerikaanse media berichten. Volgens ICE was het slachtoffer een Mexicaans staatsburger die illegaal in de Verenigde Staten was. ICE zegt dat agenten zouden hebben geprobeerd de auto van de man te stoppen, maar de man ramde vervolgens een voertuig van ",
-      "url": "https://nos.nl/l/2622146",
-      "datum": "3 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'AIVD en MIVD zaten mis bij analyse over inval Rusland'",
-      "beschrijving": "De Nederlandse inlichtingendiensten AIVD en MIVD bleven er tot het laatste moment van overtuigd dat Rusland Oekraïne waarschijnlijk niet zou binnenvallen. Dat kwam door een analyse die gebaseerd was op een \"unieke bron\" binnen het Russische veiligheidsapparaat. Dat schrijft de Volkskrant in een reconstructie over de laatste maanden voor de grootschalige invasie die op 24 februari 2022 begon. De kr",
-      "url": "https://nos.nl/l/2622145",
-      "datum": "4 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Briljante zet of wanhoopsstunt? 'Farage speelt politiek Stratego'",
-      "beschrijving": "\"Dit is een kans om een middelvinger op te steken naar de hele gevestigde orde.\" Met die woorden maakte de Britse politicus Nigel Farage zijn aftreden bekend. En hij riep kiezers direct op om zich in verkiezingen uit te spreken over de fraude-aantijgingen aan zijn adres. Hij speelt een politiek spel waar zijn tegenstanders niet aan mee lijken te doen. \"Ik heb niets misdaan\", zei Farage in zijn tv-",
-      "url": "https://nos.nl/l/2622138",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran’s economy faces long road to recovery as fragile truce tested",
-      "beschrijving": "The devastation that industrial facilities have taken from two wars in a year might take years to reverse, say analysts.",
-      "url": "https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss",
+      "titel": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
+      "beschrijving": "US President Donald Trump says the US will ‘probably’ carry out another round of strikes on Iran on Wednesday night.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
-      "beschrijving": "Diplomatic tensions between Washington and Havana have widened in recent months.",
-      "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
+      "titel": "Why has UK Reform’s Nigel Farage resigned as MP? What happens next?",
+      "beschrijving": "Farage faces intense scrutiny over undeclared donations before 2024 elections as he says he&#039;ll run in by-election.",
+      "url": "https://www.aljazeera.com/news/2026/7/8/why-has-uk-reforms-nigel-farage-resigned-as-mp-what-happens-next?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "VS",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Childhood on hold: How Gaza’s children spend a summer without play",
-      "beschrijving": "Gaza mothers describe a third wartime summer where children carry adult burdens, deprived of play and art.",
-      "url": "https://www.aljazeera.com/features/2026/7/8/childhood-on-hold-how-gazas-children-spend-a-summer-without-play?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Argentina fan waves Israeli flag at World Cup match with Egypt",
-      "beschrijving": "An Argentina fan waves the Israeli flag during his team’s Round of 16 match against Egypt.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/argentina-fan-waves-israeli-flag-at-world-cup-match-with-egypt?traffic_source=rss",
+      "titel": "UN inquiry urges release of Palestinian doctor jailed by Israel",
+      "beschrijving": "The inquiry commission urges Israel to release Hussam Abu Safia, citing credible reports he has suffered &#039;severe abuse&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/7/8/un-inquiry-urges-release-of-palestinian-doctor-jailed-by-israel?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Khamenei’s coffin arrives in Iraq as US strikes hit Iran",
-      "beschrijving": "The coffin carrying Iran’s late Supreme Leader Ali Khamenei has arrived in one of Shia Islam’s holiest cities, Najaf.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/khameneis-coffin-arrives-in-iraq-as-us-strikes-hit-iran?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
-      "beschrijving": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
-      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-      "beschrijving": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Rusland valt Kyiv opnieuw aan, ook doden bij aanvallen elders in Oekraïne",
-    "VS voert luchtaanvallen uit op Iraanse doelen, Iran bestookt Amerikaanse bases",
+    "Trump belooft Zelensky licentie om zelf Patriot-raketten te maken",
+    "Zeker twee meisjes gewond bij aanval op middelbare school in Beieren",
+    "Zelenskyy seeks NATO support as Russia continues attacks",
+    "Teenager arrested after two girls, 13, seriously injured in German school attack",
     "Nato allies announce £37bn for new missile project",
-    "Britse partijen doen niet mee aan 'nepverkiezing' voor zetel Farage",
-    "NATO summit live: Trump, world leaders meet in Turkiye’s Ankara",
-    "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation",
-    "Vrachtvliegtuig met vijf bemanningsleden vermist voor kust Pakistan",
-    "Woontoren in New York gestabiliseerd, deel omwonenden kan terug naar huis",
-    "Terugtrekking Afrikaanse landen zet Internationaal Strafhof verder onder druk",
-    "Wekdienst 8/7: Vergadering leiders NAVO-landen • Mona Keijzer bij coronaverhoren"
+    "Eight killed after landslide hits girls' school in Bangladesh",
+    "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+    "Trump says ceasefire is 'over' after US and Iran trade strikes",
+    "US strikes target Iranian military boats",
+    "Wrakstukken vermist Pakistaans vrachtvliegtuig gevonden, bemanning spoorloos"
   ]
 }
