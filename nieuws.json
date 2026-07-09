@@ -1,197 +1,188 @@
 {
-  "bijgewerkt": "08 Jul 2026 20:40 UTC",
+  "bijgewerkt": "09 Jul 2026 08:55 UTC",
   "artikelen": [
     {
-      "titel": "VS voert luchtaanvallen uit op Iran, na nieuwe dreigementen Trump",
-      "beschrijving": "Het Amerikaanse leger voert opnieuw aanvallen uit op Iran. Dat meldt het leger zelf. Een Iraans staatsnieuwsmedium meldt explosies bij de Iraanse kuststeden Konarak en Chabahar. Een ander Iraans nieuwsmedium meldt dat in die steden in sommige delen de stroom is uitgevallen. Ook in de havenstad Bandar Abbas zouden explosies zijn gehoord. Volgens het leger zijn nieuwe aanvallen nodig voor vrije door",
-      "url": "https://nos.nl/l/2622264",
-      "datum": "4 min geleden",
+      "titel": "Iran meldt 14 doden en tientallen gewonden bij aanvallen VS",
+      "beschrijving": "Bij Amerikaanse aanvallen op Iran zijn volgens de Iraanse autoriteiten zeker veertien mensen gedood. Er raakten zo'n 78 mensen gewond door de luchtaanvallen van gisteren en vandaag, van wie 47 mensen nog worden behandeld in het ziekenhuis. Vannacht sloeg Iran terug met aanvallen op Bahrein, Koeweit en Qatar. Er lijkt steeds minder over van het staakt-het-vuren dat de VS en Iran kort geleden overee",
+      "url": "https://nos.nl/l/2622279",
+      "datum": "4 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Meerdere doden in Gaza en Libanon na nieuwe Israëlische luchtaanvallen",
-      "beschrijving": "Bij Israëlische luchtaanvallen in Gaza zijn negen Palestijnen gedood, onder wie twee kinderen van 10 en 6 jaar. Dat melden de Palestijnse autoriteiten. Twaalf anderen raakten gewond. Volgens hulpverleners viel bij een aanval in de buurt van een school bij Gaza-Stad één dode. In de buurt Zeitoun, in het zuiden van Gaza-Stad, kwam het 6-jarige kind om door Israëlische beschietingen. Bij een Israëlis",
-      "url": "https://nos.nl/l/2622255",
+      "titel": "VS voert luchtaanvallen uit op Iran, na nieuwe dreigementen Trump",
+      "beschrijving": "Het Amerikaanse leger voert opnieuw aanvallen uit op Iran. Dat meldt het leger zelf. Een Iraans staatsnieuwsmedium meldt explosies bij de Iraanse kuststeden Konarak en Chabahar. Een ander Iraans nieuwsmedium meldt dat in die steden in sommige delen de stroom is uitgevallen. Ook in de havenstad Bandar Abbas en in de provincie Bushehr zouden explosies zijn gehoord. Iraanse media melden dat het Iraan",
+      "url": "https://nos.nl/l/2622264",
+      "datum": "12 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
+      "beschrijving": "Israeli air attacks and gunfire kill nine Palestinians in Gaza despite ceasefire, medics say.",
+      "url": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Trump belooft Zelensky licentie om zelf Patriot-raketten te maken",
-      "beschrijving": "De Verenigde Staten gaan een licentie verlenen aan Oekraïne zodat het land zelf Patriot-onderscheppingsraketten kan maken. Dat heeft president Trump toegezegd aan zijn Oekraïense collega Zelensky in een overleg op de NAVO-top in Ankara. Zelensky had op de NAVO-top nog eens herhaald dat zijn land dringend meer Patriot-raketten nodig heeft. De Patriot-onderscheppingsraket, geproduceerd in de VS, is ",
-      "url": "https://nos.nl/l/2622214",
-      "datum": "6 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Twee meisjes gewond bij aanval op Beiers gymnasium, tiener aangehouden",
-      "beschrijving": "Op een middelbare school in de Duitse deelstaat Beieren zijn twee meisjes van 13 jaar ernstig gewond geraakt. Ze verkeren niet meer in levensgevaar, meldt een woordvoerder aan het Duitse persbureau DPA. Waarschijnlijk zijn het twee leerlingen van de school. Hun verwondingen zijn het gevolg van een aanval op de school, waarbij waarschijnlijk zowel is geschoten als gestoken. De politie heeft een 16-",
-      "url": "https://nos.nl/l/2622194",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Ukraine to get licence to produce Patriot missiles, Trump says",
       "beschrijving": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
       "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-      "beschrijving": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Nato allies announce £37bn for new missile project",
-      "beschrijving": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "Europa",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Eight killed after landslide hits girls' school in Bangladesh",
-      "beschrijving": "Rescuers pull bodies from the mud after heavy monsoon rains batter the south-eastern coast.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
-      "beschrijving": "A French court ruling has reopened Marine Le Pen’s path to the 2027 presidential election.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-cleared-to-run-in-frances-2027-presidential-election?traffic_source=rss",
-      "datum": "34 min geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Five key takeaways from the NATO summit in Ankara",
-      "beschrijving": "Trump dominates summit with anti-Europe and Iran diatribes as NATO pledges to expand defence budgets and Ukraine support",
-      "url": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara?traffic_source=rss",
+      "titel": "Erdogan deelt vuurwapens uit op NAVO-top, Jetten laat zijn exemplaar in Ankara",
+      "beschrijving": "Een vuurwapen met zes scherpe kogels en bijbehorend schoonmaaksetje. Met dat relatiegeschenk stuurde de Turkse president Erdogan NAVO-leiders weer naar huis na de top in zijn land. Het leidde tot extra werk voor beveiligers en ambassademedewerkers. De Britse premier Starmer mag zijn exemplaar bijvoorbeeld niet meenemen naar huis, hoewel Erdogan in een begeleidend briefje toestemming gaf voor de ui",
+      "url": "https://nos.nl/l/2622296",
       "datum": "1 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Europa",
       "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
-      "titel": "US strikes target Iranian military boats",
-      "beschrijving": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "Iran",
-      "urgentie": "midden",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "700 jaar verborgen Arthur-manuscript levert ruim 2,5 miljoen euro op",
-      "beschrijving": "Een middeleeuws manuscript met verhalen over koning Arthur, Merlijn en de Ridders van de Ronde Tafel heeft bij veilinghuis Christie's in Londen 2,24 miljoen Britse pond (ruim 2,6 miljoen euro) opgebracht. Daarmee kwam de verkoop uit aan de bovenkant van de geschatte opbrengst van 1,5 tot 2 miljoen pond. Het boek, bekend als de Clermont-Tonnerre Grail, werd tussen 1290 en 1310 vervaardigd en bleef ",
-      "url": "https://nos.nl/l/2622263",
-      "datum": "9 min geleden",
+      "titel": "Italiaanse boer die landarbeider liet doodbloeden krijgt 16 jaar cel",
+      "beschrijving": "Een fruitteler in Italië is veroordeeld tot een gevangenisstraf van 16 jaar omdat hij een van zijn medewerkers heeft laten doodbloeden na een ernstig ongeluk tijdens het werk. In 2024 verloor een Indiase arbeider zijn arm in een landbouwmachine en de boer liet hem bewust achter. Tijdens het werken in de fruitteelt op een boerderij ten zuiden van Rome raakte de 31-jarige Satnam Singh met zijn arm b",
+      "url": "https://nos.nl/l/2622292",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Middeleeuws Tapijt van Bayeux 's nachts en onder strenge beveiliging naar Londen",
-      "beschrijving": "In de nacht en onder politiebegeleiding wordt een dezer dagen het bijna duizend jaar oude Tapijt van Bayeux vanuit Frankrijk naar het British Museum in Londen vervoerd. Het middeleeuwse kunstwerk zal vanaf 10 september voor het eerst in de geschiedenis in Groot-Brittannië te zien zijn. Dat het ergens de komende dagen gaat gebeuren, staat vast, maar uit veiligheidsoverwegingen is niet bekendgemaakt",
-      "url": "https://nos.nl/l/2622245",
+      "titel": "Blije hommels onthullen meer over innerlijk leven insecten",
+      "beschrijving": "Hommels likken instemmend hun mond bij lekker voedsel, maar schudden afwijzend hun hoofd als iets vies is. Die reactie wijst volgens Australische en Chinese onderzoekers op een innerlijk leven bij de bijensoort, misschien wel op emoties. Al sinds Darwin wordt er gespeculeerd in hoeverre dieren emoties hebben zoals mensen. Hoewel inmiddels duidelijk is dat zoogdieren emoties kunnen uitdrukken, is h",
+      "url": "https://nos.nl/l/2622284",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Tropische storm in zuiden van China eist 39 levens",
+      "beschrijving": "In het zuiden van China zijn 39 mensen omgekomen door overstromingen als gevolg van de tropische storm Maysak. De meeste slachtoffers vielen toen een dam doorbrak in de stad Nanning. Daarbij kwamen 26 mensen om het leven, volgens de Chinese autoriteiten. De storm is de eerste die ook het vasteland van China treft dit jaar. Door de grote hoeveelheid regen overstroomden stuwmeren en kwamen mensen da",
+      "url": "https://nos.nl/l/2622282",
       "datum": "3 uur geleden",
-      "regio": "Wereld",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Vrouw die in 1955 werd opgehangen krijgt alsnog lagere straf van koning Charles",
-      "beschrijving": "Koning Charles heeft de straf van de laatste Britse vrouw die de doodstraf kreeg vandaag symbolisch omgezet in een levenslange gevangenisstraf. Ruth Ellis was 28 jaar toen ze in 1955 werd opgehangen, voor het vermoorden van haar partner. Ze werd door hem mishandeld en had te lijden onder zijn dwingende en controlerende gedrag. Dat \"zou vandaag de dag wellicht anders worden beoordeeld\", aldus de Br",
-      "url": "https://nos.nl/l/2622228",
+      "titel": "Wekdienst 9/7: Frankrijk speelt tegen Marokko • Start Wereld Muziek Concours",
+      "beschrijving": "Goedemorgen! Vandaag spelen Frankrijk en Marokko tegen elkaar in de kwartfinale van het WK. En in Kerkrade bestaat het Wereld Muziek Concours 75 jaar. Eerst het weer: in het noorden en midden van het land begint de dag bewolkt. Later vandaag overal zon, met 21 graden in het noorden tot 29 graden in het zuiden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamheden en hie",
+      "url": "https://nos.nl/l/2622277",
       "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Wrakstukken vermist Pakistaans vrachtvliegtuig gevonden, bemanning spoorloos",
-      "beschrijving": "Voor de kust van Pakistan zijn wrakstukken gevonden van het vrachtvliegtuig dat dinsdagavond van de radar verdween. De zoektocht naar de vijf vermiste bemanningsleden wordt voortgezet. Reddingsdiensten van de Pakistaanse marine en de burgerluchtvaart vonden de wrakstukken na ongeveer twaalf uur zoeken in de Arabische Zee, meldt de Pakistaanse luchthavenautoriteit op X. Bronnen melden aan persburea",
-      "url": "https://nos.nl/l/2622218",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Duitse palliatief arts veroordeeld tot levenslang voor vijftien moorden",
-      "beschrijving": "Een Duitse palliatief arts is veroordeeld tot een levenslange gevangenisstraf voor vijftien moorden, melden Duitse media. De rechtbank van Berlijn oordeelt dat Johannes M. tussen 2021 en 2024 een dodelijke mix van verschillende medicijnen toediende aan twaalf vrouwen en drie mannen. Zij waren allemaal terminaal ziek. Het jongste slachtoffer was een 25-jarige vrouw, het oudste slachtoffer was 94 ja",
-      "url": "https://nos.nl/l/2622206",
+      "titel": "Met terugtrekking van rijzende ster Platner zitten Democraten zonder troef",
+      "beschrijving": "Graham Platner was de rijzende ster binnen de Democratische Partij die het verschil zou gaan maken tijdens de tussentijdse verkiezingen van november in de Amerikaanse staat Maine, maar vannacht trok hij zich terug uit de race voor een zetel in de Senaat. Platners kandidatuur bleek onhoudbaar nadat meerdere ex-partners hem beschuldigden van verkrachting en mishandeling. Democraten moeten nu op zoek",
+      "url": "https://nos.nl/l/2622272",
       "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Australië maakt vaart met veiligheidsdeals voor tegenwicht tegen China",
-      "beschrijving": "Australië is druk bezig nieuwe allianties te smeden in de Stille Oceaan. Verschillende deals over vergaande samenwerking op het gebied van veiligheid en defensie zijn gericht tegen de groeiende invloed van China in de regio. De Australische regering probeert op die manier de buurlanden zo veel mogelijk buiten de Chinese invloedssfeer te houden. Premier Albanese ontving vandaag de leiders van Tonga",
-      "url": "https://nos.nl/l/2622175",
-      "datum": "10 uur geleden",
-      "regio": "China/Taiwan",
+      "titel": "Negen jaar na Argentijnse onderzeebootramp krijgt commandant voorwaardelijke straf",
+      "beschrijving": "Jaren na het zinken van de Argentijnse onderzeeboot ARA San Juan heeft de rechter de voormalige commandant van de onderzeebootvloot schuldig bevonden aan plichtsverzuim en het door nalatigheid veroorzaken van een ernstig ongeval met dodelijke afloop. De rechtbank in Río Gallegos heeft Claudio Javier Villamide veroordeeld tot een voorwaardelijke celstraf van drie jaar. Bij de grootste Argentijnse s",
+      "url": "https://nos.nl/l/2622271",
+      "datum": "7 uur geleden",
+      "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Mass cleanup underway after severe flooding in China",
-      "beschrijving": "Residents and volunteers in China’s Guangxi province have begun clearing up their flooded homes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/mass-cleanup-underway-after-severe-flooding-in-china?traffic_source=rss",
+      "titel": "Cel voor man die met lijf vol drugs in Amsterdam op de trein stapte",
+      "beschrijving": "Een 31-jarige man die begin dit jaar met 75 drugszakjes in zijn lijf in Amsterdam op de trein naar Salzburg stapte, is door de rechtbank van Keulen veroordeeld tot drie jaar cel. Dat meldt de Duitse omroep WDR. In totaal droeg de man bijna 450 gram cocaïne en ongeveer 300 gram heroïne mee in zijn lichaam. Hij liep in februari tegen de lamp toen douanebeambten uit Keulen hem tijdens een routinecont",
+      "url": "https://nos.nl/l/2622270",
+      "datum": "9 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Flooding from Tropical Storm Maysak kills 39 in southern China",
+      "beschrijving": "About 130,000 people have been evacuated from the Guangxi region while thousands of rescuers have been deployed.",
+      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump says US ‘may take over Kharg Island’: Here’s what you need to know",
-      "beschrijving": "Kharg Island, pivotal to Iran&#039;s oil exports, becomes focal point as Trump renews threats amid rising Gulf tensions.",
-      "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-us-may-take-over-kharg-island-heres-what-you-need-to-know?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
+      "titel": "UK police arrest activists at Israeli-owned drone engine plant",
+      "beschrijving": "UK police arrest activists at Israeli-owned drone engine plant.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/uk-police-arrest-activists-at-israeli-owned-drone-engine-plant-2?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "War on Gaza draws large crowds to Khamenei’s funeral in Iraq",
-      "beschrijving": "More than a million mourners packed streets in Najaf, Iraq for Iranian Supreme Leader Ali Khamenei’s funeral procession.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/war-on-gaza-draws-large-crowds-to-khameneis-funeral-in-iraq?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "‘Double cross, first class’: Why India’s Modi wins so many foreign awards",
+      "beschrijving": "The prime minister was presented with an award during a visit to the Seychelles, adding to his large trophy collection.",
+      "url": "https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Trump says he will remove Syria from the state sponsor of terrorism list",
+      "beschrijving": "US President Trump said he will remove Syria from the US state sponsor of terrorism list at the NATO summit.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/trump-says-he-will-remove-syria-from-the-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US launches more strikes on Iran with blasts reported in south of country",
+      "beschrijving": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "International court tells BBC of breakthrough in Sudan war crimes probe",
+      "beschrijving": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
+      "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
+      "datum": "5 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Starmer gifted gun and ammunition by Turkish president at Nato",
+      "beschrijving": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
+      "datum": "12 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Iran meldt 14 doden en tientallen gewonden bij aanvallen VS",
     "VS voert luchtaanvallen uit op Iran, na nieuwe dreigementen Trump",
-    "Meerdere doden in Gaza en Libanon na nieuwe Israëlische luchtaanvallen",
-    "Trump belooft Zelensky licentie om zelf Patriot-raketten te maken",
-    "Twee meisjes gewond bij aanval op Beiers gymnasium, tiener aangehouden",
+    "Photos: Israeli attacks kill nine people, including two children, in Gaza",
     "Ukraine to get licence to produce Patriot missiles, Trump says",
-    "Teenager arrested after two girls, 13, seriously injured in German school attack",
-    "Nato allies announce £37bn for new missile project",
-    "Eight killed after landslide hits girls' school in Bangladesh",
-    "Marine Le Pen cleared to run in France’s 2027 Presidential election",
-    "Five key takeaways from the NATO summit in Ankara"
+    "Erdogan deelt vuurwapens uit op NAVO-top, Jetten laat zijn exemplaar in Ankara",
+    "Italiaanse boer die landarbeider liet doodbloeden krijgt 16 jaar cel",
+    "Blije hommels onthullen meer over innerlijk leven insecten",
+    "Tropische storm in zuiden van China eist 39 levens",
+    "Wekdienst 9/7: Frankrijk speelt tegen Marokko • Start Wereld Muziek Concours",
+    "Met terugtrekking van rijzende ster Platner zitten Democraten zonder troef"
   ]
 }
