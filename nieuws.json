@@ -1,56 +1,119 @@
 {
-  "bijgewerkt": "09 Jul 2026 17:25 UTC",
+  "bijgewerkt": "09 Jul 2026 22:51 UTC",
   "artikelen": [
     {
-      "titel": "Duitsland koopt Tomahawk-raketten van VS",
-      "beschrijving": "Duitsland heeft met de Verenigde Staten een overeenkomst gesloten over de aankoop van Tomahawk-raketten. De Amerikaanse kruisraketten zullen worden gestationeerd in Duitsland, maakte bondskanselier Merz bekend in het Duitse parlement. De raketten hebben een bereik van 2500 kilometer en moeten dienen als afschrikking voor met name Rusland. \"Hiermee dichten we een belangrijk strategisch gat in onze ",
-      "url": "https://nos.nl/l/2622323",
-      "datum": "6 uur geleden",
+      "titel": "Weer Oekraïense aanvallen op Russische schaduwvloot bij Krim",
+      "beschrijving": "Oekraïne heeft de afgelopen dagen de aanvallen op Russische schepen bij de bezette Krim opgevoerd. Volgens het Oekraïense leger zijn in de nacht van woensdag op donderdag twaalf Russische tankers geraakt in de Zee van Azov. De Zee van Azov is een binnenzee die via de Straat van Kertsj verbonden is met de Zwarte Zee. Het Oekraïense leger heeft beelden van de aanval naar buiten gebracht. De locatie ",
+      "url": "https://nos.nl/l/2622388",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "At least 28 people killed as fire engulfs shoe factory in China",
-      "beschrijving": "Beijing demands &#039;all-out&#039; effort to extinguish the blaze, search for survivors and treat the injured.",
-      "url": "https://www.aljazeera.com/news/2026/7/9/at-least-28-people-killed-as-fire-engulfs-shoe-factory-in-china?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "China/Taiwan",
+      "titel": "Syria says cell behind ‘terrorist bombings’ in Damascus arrested",
+      "beschrijving": "Explosions rocked the Syrian capital on Tuesday as French President Emmanuel Macron visited the city.",
+      "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "beschrijving": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+      "titel": "Tehran launches more strikes after second round of US attacks in southern Iran",
+      "beschrijving": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "beschrijving": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
       "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Nato allies announce £37bn for new missile project",
-      "beschrijving": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 dagen geleden",
-      "regio": "Europa",
+      "titel": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+      "beschrijving": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
+      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
+    },
+    {
+      "titel": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+      "beschrijving": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
+      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+      "datum": "7 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "NYT-led group asks court to sanction OpenAI in US copyright dispute",
+      "beschrijving": "The news firms allege ChatGPT maker is hiding evidence important to what could be landmark copyright infringement trial.",
+      "url": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US military denies involvement after explosions heard in Iran",
+      "beschrijving": "Iranian media report loud explosions in several locations as Israeli officials say war is &#039;not over&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Venezuela kampt met gevolgen aardbevingen: gebrek aan drinkwater en sanitair",
+      "beschrijving": "In Venezuela liggen uitbraken van infectieziekten op de loer na de aardbevingen waarbij vele duizenden mensen dakloos zijn geworden. In de getroffen gebieden is een gebrek aan schoon drinkwater en sanitaire voorzieningen. In de zwaar getroffen kustplaats La Guaira nemen ontheemden hun toevlucht tot het strand om zich te wassen en hun behoefte te doen. Een arts zegt tegen kinderrechtenorganisatie S",
+      "url": "https://nos.nl/l/2622394",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Strijd VS en Iran terug bij af? 'Patroon van escalatie en de-escalatie'",
+      "beschrijving": "Het begrip werd al flink opgerekt, maar de wapenstilstand tussen de VS en Iran ligt deze week echt even in de prullenbak. Amerika bombardeerde gisteren en afgelopen nacht ruim 170 plekken in Iran. Het Iraanse leger lanceerde raketten en drones richting buurlanden waar militairen van de VS zijn gestationeerd. \"Het is tuig. Het zijn zieke mensen\", zei president Trump gisteren over het Iraanse regime",
+      "url": "https://nos.nl/l/2622385",
+      "datum": "4 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Hond doodt Duits meisje (4) tijdens het spelen, rol moeder en kennis onderzocht",
+      "beschrijving": "Een meisje van 4 is door de hond uit haar gezin doodgebeten. Het ongeluk gebeurde in Drosa, een plaats in deelstaat Saksen-Anhalt in het oosten van Duitsland. Volgens de politie speelde het meisje met de hond in een appartement toen hij haar aanviel. Het gaat vermoedelijk om een Amerikaanse staffordshireterriër, een hondenras dat bekendstaat om zijn gespierde bouw. Aanwezigen hebben geprobeerd de ",
+      "url": "https://nos.nl/l/2622384",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Dodental grote mazelenuitbraak Bangladesh fors gestegen: 750 kinderen overleden",
       "beschrijving": "Het dodental als gevolg van de mazelenuitbraak in Bangladesh is fors opgelopen. Sinds halverwege maart zijn bijna 750 kinderen overleden die mazelen hadden of symptomen van de besmettelijke infectieziekte vertoonden, meldt het Bengaalse ministerie van Volksgezondheid. Het werkelijke dodental ligt volgens Unicef waarschijnlijk nog hoger. Zo zijn ziekenhuizen overbelast en is het moeilijk om alle ge",
       "url": "https://nos.nl/l/2622357",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Brand in schoenfabriek China kost zeker 28 mensen het leven",
-      "beschrijving": "Bij een brand in een schoenfabriek in het zuidoosten van China zijn volgens staatsmedia zeker 28 mensen omgekomen. De brand in de stad Jinjiang in de provincie Fujian ontstond rond het middaguur lokale tijd. Volgens persbureau Reuters is op beelden gedeeld door staatsmedia te zien dat vlammen uit de grote fabriek slaan en een dikke zwarte rookwolk in de lucht hangt. Ook zijn mensen op het dak te z",
+      "beschrijving": "Bij een brand in een schoenfabriek in het zuidoosten van China zijn volgens staatsmedia zeker 28 mensen omgekomen. De brand in de stad Jinjiang in de provincie Fujian ontstond rond het middaguur. Volgens persbureau Reuters is op beelden van de staatsmedia te zien hoe de vlammen uit de grote fabriek sloegen en een dikke zwarte rookwolk in de lucht hing. Ook leken mensen vast te zitten op het dak. N",
       "url": "https://nos.nl/l/2622348",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +122,7 @@
       "titel": "Oekraïne mag eindelijk zelf Patriots maken, wat betekent dit voor de oorlog?",
       "beschrijving": "De Amerikaanse president Donald Trump geeft Oekraïne waar dat land al lange tijd om vraagt: Patriot-raketten. Althans, Trump geeft Oekraïne toestemming om de raketten zelf te produceren. Wat betekent dit voor Oekraïne? Vier vragen en antwoorden. 1. Waarom heeft Oekraïne de Patriot-raketten zo hard nodig? Oekraïne is verwikkeld in een race tegen de klok om zijn luchtafweer te versterken. Deze week ",
       "url": "https://nos.nl/l/2622339",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +131,7 @@
       "titel": "Begrafenis Khamenei straalt eenheid uit, maar Iran is diep verdeeld",
       "beschrijving": "Met de begrafenis van de Iraanse leider Ali Khamenei komt een einde aan een zesdaagse uitvaart bijgewoond door miljoenen volgelingen in Iran en naburig Irak. \"De begrafenis van de eeuw\", zoals het regime de reizende rouwceremonie beschrijft, moet volgens deskundigen eenheid en macht uitstralen. Al helemaal nu er weer gevechten zijn opgelaaid tussen Iran en de VS. Toch laten mensen binnen Iran een ",
       "url": "https://nos.nl/l/2622336",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +140,7 @@
       "titel": "Digitale euro weer een stap dichterbij, Europees Parlement akkoord",
       "beschrijving": "Betalen met de digitale euro is opnieuw een stap dichterbij gekomen. Een flinke meerderheid van het Europees Parlement stemde vandaag voor het starten van de volgende fase in het wetgevingsproces. De digitale versie van de euro wordt ontwikkeld door de Europese Centrale Bank (ECB). De digitale variant van de euro moet een alternatief bieden voor cryptomunten, zoals bijvoorbeeld de bitcoin. Ook moe",
       "url": "https://nos.nl/l/2622334",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,103 +149,49 @@
       "titel": "Italië zet twee Russen uit vanwege spionage",
       "beschrijving": "De Italiaanse regering heeft besloten twee militaire attachés van de Russische ambassade uit te zetten. Dat schrijft de Italiaanse Buitenlandminister Antonio Tajani op X. Volgens Tajani waren de twee betrokken bij spionageactiviteiten. Die kwamen aan het licht in een onderzoek van het Openbaar Ministerie in Rome. Het zou gaan om Ivan Petrovich Gorbatsjov en Michail Vasiljevitsj Astakhov. Zij moete",
       "url": "https://nos.nl/l/2622329",
-      "datum": "4 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Samen voetbal kijken in Gaza 'herinnert mensen eraan dat vreugde mogelijk is'",
-      "beschrijving": "De beelden van Palestijnen in Gaza die naar het WK voetbal kijken, gaan al wekenlang de wereld over. De wedstrijden zorgen ervoor dat inwoners even niet aan de oorlog hoeven te denken. \"Het is natuurlijk onmogelijk om de oorlog helemaal te vergeten\", zegt de 23-jarige Ahmed Halawa. \"Maar het samen naar voetbal kijken zorgt er wel voor dat we beter met de pijn kunnen omgaan en kunnen ontspannen, al",
-      "url": "https://nos.nl/l/2622317",
-      "datum": "7 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Verzet groeit tegen Duitse windmolens vlak over de grens",
-      "beschrijving": "Op steeds meer plekken in Nederland is verzet tegen de bouw van Duitse windmolens. Onze oosterburen zetten die soms op steenworp afstand van de grens en de kritiek is dat ze daarbij onvoldoende rekening houden met de bezwaren van Nederlanders. Een van de voornaamste bezwaren is dat de windturbines te dicht op Nederlandse huizen zouden staan. Ook zijn er zorgen over de natuur en de grootte van somm",
-      "url": "https://nos.nl/l/2622316",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Heetste juni ooit gemeten in West-Europa: 'Hitte blijft maar opbouwen'",
-      "beschrijving": "Afgelopen maand was in West-Europa de heetste juni ooit gemeten. Dat valt op te maken uit de nieuwste temperatuurgegevens van het Europese klimaatbureau Copernicus. In verschillende landen sneuvelde hitterecord na hitterecord en ook de westelijke Middellandse Zee en de wateren aan de Atlantische kust hadden te maken met een zware mariene hittegolf die nog steeds voortduurt. De gemiddelde temperatu",
-      "url": "https://nos.nl/l/2622312",
-      "datum": "7 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Will NATO get involved in securing Strait of Hormuz?",
-      "beschrijving": "Iran war overshadows defence alliance&#039;s summit in Turkiye.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/9/will-nato-get-involved-in-securing-strait-of-hormuz?traffic_source=rss",
-      "datum": "32 min geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
-      "beschrijving": "More than 500 ships have passed through the strait since June 17, but many remain stuck.",
-      "url": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17?traffic_source=rss",
+      "titel": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting",
+      "beschrijving": "Clashing interpretations of vague memorandum of understanding language on Hormuz at heart of escalation, analysts say.",
+      "url": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Erdogan gifts NATO leaders engraved revolvers with live ammunition",
-      "beschrijving": "NATO’s leaders left the Ankara summit with guns and live ammunition gifted to them by Turkiye’s President.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/erdogan-gifts-nato-leaders-engraved-revolvers-with-live-ammunition?traffic_source=rss",
+      "titel": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
+      "beschrijving": "UK&#039;s likely next PM Burnham pushes for ceasefire, tougher sanctions over Gaza violence and settlement trade bans.",
+      "url": "https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Europa",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Tehran launches more strikes after explosions reported in southern Iran",
-      "beschrijving": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-      "beschrijving": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
-      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+      "titel": "South African protesters intimidate migrants as aid group issues warning",
+      "beschrijving": "Doctors Without Borders (MSF) warns of growing humanitarian needs as tens of thousands of African migrants displaced.",
+      "url": "https://www.aljazeera.com/news/2026/7/9/south-african-protesters-intimidate-migrants-as-aid-group-issues-warning?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "regio": "VS",
       "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Starmer gifted gun and ammunition by Turkish president at Nato",
-      "beschrijving": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-      "datum": "20 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Duitsland koopt Tomahawk-raketten van VS",
-    "At least 28 people killed as fire engulfs shoe factory in China",
+    "Weer Oekraïense aanvallen op Russische schaduwvloot bij Krim",
+    "Syria says cell behind ‘terrorist bombings’ in Damascus arrested",
+    "Tehran launches more strikes after second round of US attacks in southern Iran",
+    "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+    "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
     "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-    "Nato allies announce £37bn for new missile project",
-    "Dodental grote mazelenuitbraak Bangladesh fors gestegen: 750 kinderen overleden",
-    "Brand in schoenfabriek China kost zeker 28 mensen het leven",
-    "Oekraïne mag eindelijk zelf Patriots maken, wat betekent dit voor de oorlog?",
-    "Begrafenis Khamenei straalt eenheid uit, maar Iran is diep verdeeld",
-    "Digitale euro weer een stap dichterbij, Europees Parlement akkoord",
-    "Italië zet twee Russen uit vanwege spionage"
+    "NYT-led group asks court to sanction OpenAI in US copyright dispute",
+    "US military denies involvement after explosions heard in Iran",
+    "Venezuela kampt met gevolgen aardbevingen: gebrek aan drinkwater en sanitair",
+    "Strijd VS en Iran terug bij af? 'Patroon van escalatie en de-escalatie'"
   ]
 }
