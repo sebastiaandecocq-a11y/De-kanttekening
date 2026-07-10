@@ -1,47 +1,83 @@
 {
-  "bijgewerkt": "10 Jul 2026 17:29 UTC",
+  "bijgewerkt": "10 Jul 2026 21:39 UTC",
   "artikelen": [
     {
-      "titel": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "beschrijving": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 dagen geleden",
+      "titel": "Ukrainian attacks cause chaos at fuel stations across Russia",
+      "beschrijving": "Ukraine’s targeting of Russia’s major oil refineries has sparked a nationwide fuel shortage.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Trump: gesprekken met Iran gaan door, maar staakt-het-vuren is voorbij",
+      "beschrijving": "De gesprekken tussen Iran en de VS worden voortgezet. Dat schrijft de Amerikaanse president Trump in een bericht op Truth Social. Hij benadrukt daarbij in hoofdletters dat het staakt-het-vuren tussen de twee landen voorbij is. \"Iran heeft ons gevraagd om de 'gesprekken' voort te zetten. We hebben daarmee ingestemd, maar de Verenigde Staten laat er geen twijfel over bestaan dat het staakt-het-vuren",
+      "url": "https://nos.nl/l/2622547",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "midden",
+      "bron": "NOS"
     },
     {
       "titel": "Defensie: Rusland hackte camera's langs militaire routes in Nederland",
       "beschrijving": "Russische diensten hebben \"een klein aantal camera's\" op militaire routes in Nederland gehackt. Dat blijkt uit onderzoek van de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en de Militaire Inlichtingen- en Veiligheidsdienst (MIVD). Volgens de diensten ging het om camera's in particulier gebruik, van onder meer bedrijven, die via het internet toegankelijk zijn, zogenoemde IP-camera's. Die cam",
       "url": "https://nos.nl/l/2622503",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Trump onthoofdt commissie die eerlijk verloop verkiezingen moet stimuleren",
-      "beschrijving": "President Trump heeft vier maanden voor de Amerikaanse parlementsverkiezingen de bestuurders van de Election Assistance Commission (EAC) ontslagen. Die commissie helpt de afzonderlijke Amerikaanse staten bij het organiseren van vrije, eerlijke en veilige verkiezingen. Amerikaanse media zien dit als poging van het Witte Huis om in aanloop naar de midterms meer controle over het verkiezingsproces te",
-      "url": "https://nos.nl/l/2622451",
-      "datum": "6 uur geleden",
+      "titel": "Donald Trump removes final members of independent US election commission",
+      "beschrijving": "The dismissals leave the federal election body vacant as Trump presses for broader changes to US voting rules.",
+      "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why are politicians and sanctioned states embracing crypto?",
+      "beschrijving": "Bitcoin is falling, yet cryptocurrency is spreading beyond investing into politics, sanctions and global finance.",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Britse media vol van 'royal reunion' van prins Harry's gezin met koning Charles",
+      "beschrijving": "Een royal reunion noemen Britse media het. Ze maken vandaag groot nieuws van het zeldzame bezoek van de Britse prins Harry met zijn gezin aan zijn vader, koning Charles. Hoewel de krantenkoppen dikgedrukt zijn en de berichten bovenaan de nieuwssites staan, moest de pers het doen met weinig informatie. Buckingham Palace bevestigde vanavond slechts dat koning Charles en koningin Camilla prins Harry,",
+      "url": "https://nos.nl/l/2622555",
+      "datum": "17 min geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
-      "beschrijving": "Ukraine’s unmanned systems have cut overland routes and begun to target Russian shadow tankers.",
-      "url": "https://www.aljazeera.com/news/2026/7/10/ukraine-chokes-fuel-to-crimea-russian-consumers-targeting-military-supply?traffic_source=rss",
+      "titel": "Slepende rel over potje tennis kost burgemeester Berlijn zijn kandidatuur",
+      "beschrijving": "Een potje tennis heeft grote politieke consequenties voor de burgemeester van Berlijn. Kai Wegner stelt zich niet langer herkiesbaar, omdat het hem blijft achtervolgen dat hij ging tennissen toen in januari grote delen van de Duitse hoofdstad zonder stroom zaten. Hij maakte zijn terugtrekking vanmiddag bekend in een haastig opgetuigde persconferentie. \"Ik kan mijn boodschap niet meer overbrengen, ",
+      "url": "https://nos.nl/l/2622542",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Onzichtbare dreiging in Gaza: onontplofte oorlogsresten maken vele slachtoffers",
+      "beschrijving": "In Gaza dreigt naast de Israëlische bombardementen en besmettelijke ziekten nog een gevaar, eentje dat minder zichtbaar is: onontplofte oorlogsresten. De niet-ontplofte explosieven die na jarenlang oorlog voeren door het hele gebied liggen, hebben al honderden slachtoffers gemaakt. Volgens de VN-organisatie die zich bezighoudt met mijnen en onontplofte explosieven (UNMAS) zijn er sinds het begin v",
+      "url": "https://nos.nl/l/2622540",
       "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Dodelijke cholera-uitbraak in Sudan eist al meer dan 100 levens",
       "beschrijving": "Cholera is in volle hevigheid terug in Sudan en breidt zich uit over het land, meldt de Wereldgezondheidsorganisatie (WHO). De uitbraak heeft inmiddels aan zeker 114 mensen het leven gekost en meer dan 1300 anderen besmet. Die aantallen lopen vermoedelijk nog op. De WHO waarschuwt dat de oorlog, de enorme hoeveelheid mensen op de vlucht en de zware regenval van het regenseizoen de uitbraak kunnen ",
       "url": "https://nos.nl/l/2622518",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +86,7 @@
       "titel": "Vrijwilligers dierenasiel bij brandhaard Zuid-Spanje wachten af: 'Het is doodeng'",
       "beschrijving": "\"Het is angstaanjagend\", zeggen Nederlanders in het gebied bij Los Gallardos in Zuid-Spanje, waar nog altijd brand woedt. Honderden mensen zijn geëvacueerd, anderen moeten afwachten: komt het vuur naar hen toe of niet? De NOS sprak met twee vrijwilligers van een dierenasiel aan de rand van de brandhaard. De Nederlandse Vanessa (51) werkt bij het asiel ten oosten van de bebouwde kom van Los Gallard",
       "url": "https://nos.nl/l/2622512",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +95,7 @@
       "titel": "Hoe bescherm je jezelf tegen steeds grotere natuurbranden? 'Kijk hoe je weg kunt komen'",
       "beschrijving": "Spanje is getroffen door een dodelijke bosbrand. Eerder deze week moesten in Zuid-Frankrijk duizenden mensen worden geëvacueerd vanwege een natuurbrand. Door klimaatverandering komen dit soort branden steeds vaker voor en worden ze heftiger. Vakantiegangers doen er verstandig aan zich goed voor te bereiden als ze naar een bosrijk gebied in Zuid-Europa gaan, vertelt Jelmer Dam, landelijk coördinato",
       "url": "https://nos.nl/l/2622501",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +104,7 @@
       "titel": "Rapport: Rusland hersenspoelt 1,6 miljoen Oekraïense kinderen op systematische wijze",
       "beschrijving": "Zo'n 1,6 miljoen kinderen in de bezette gebieden in Oekraïne worden onderworpen aan Russisch indoctrinatie en militarisering. Dat stellen deskundigen die onderzoek deden in opdracht van de Organisatie voor Veiligheid en Samenwerking in Europa (OVSE). Rusland heeft volgens de onderzoekers een gecoördineerd en systematisch beleid opgezet om de identiteit van Oekraïense kinderen uit te wissen. Het Ru",
       "url": "https://nos.nl/l/2622496",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,79 +113,16 @@
       "titel": "Passagier tot schouders uit vliegtuig RyanAir gezogen tijdens vlucht",
       "beschrijving": "Een toestel van vliegtuigmaatschappij Ryanair moest in Griekenland terugkeren naar het vliegveld nadat een raam tijdens de vlucht was gebroken. Een passagier raakte gewond doordat hij bijna naar buiten werd gezogen, schrijven Griekse media. Het toestel vertrok vanochtend vanuit Thessaloniki naar Memmingen in Duitsland. Volgens passagiers was er enkele minuten na het opstijgen een harde knal te hor",
       "url": "https://nos.nl/l/2622475",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "WO II-bom Keulen succesvol onschadelijk gemaakt, ook kinderziekenhuis geëvacueerd",
-      "beschrijving": "De bom uit de de Tweede Wereldoorlog die in Keulen was gevonden is onschadelijk gemaakt, meldt de gemeente. De bom werd vanochtend tijdens werkzaamheden gevonden. Om het explosief veilig onschadelijk te maken was een gebied met een straal van 500 meter rond het explosief afgezet en moesten ongeveer 4300 mensen evacueren. De wegafsluitingen worden geleidelijk opgeheven, maar de gemeente vraagt auto",
-      "url": "https://nos.nl/l/2622465",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Europese Commissie: verslavend ontwerp Facebook en Instagram in strijd met EU-regels",
-      "beschrijving": "Meta, het bedrijf van Facebook en Instagram, houdt onvoldoende rekening met de invloed die het verslavende ontwerp van hun apps heeft op het welzijn van gebruikers. Daarmee overtreedt het volgens de Europese Commissie de Europese regels. Eindeloos scrollen, pushberichten, gepersonaliseerde berichten zijn allemaal functies die gebruikers verleiden langer de apps te gebruiken. Dat leidt er volgens d",
-      "url": "https://nos.nl/l/2622443",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "België wil verplicht tolvignet volgend jaar mei invoeren, ook dagpas mogelijk",
-      "beschrijving": "Wie gebruikmaakt van de wegen in België moet vanaf volgend jaar mei een tolvignet aanschaffen. Daar wordt mogelijk vandaag in de Vlaamse regering een akkoord over bereikt, schrijven Belgische media die een voorstel van het plan hebben ingezien. Belgen en buitenlanders moeten zo'n vignet aanschaffen. Vanaf 1 mei 2027 wordt een tolvignet voor voertuigen tot 3500 kilo verplicht. Dat kan volgens Belgi",
-      "url": "https://nos.nl/l/2622439",
       "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
-      "beschrijving": "Iran has not responded to Trump&#039;s latest claim, which comes as new attacks threaten the full resumption of war.",
-      "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss",
-      "datum": "59 min geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
-      "beschrijving": "The incident is the latest in a pattern of Israeli measures in the occupied territory since the Gaza genocide began.",
-      "url": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss",
+      "titel": "Lebanon historic sites destroyed by Israeli strikes",
+      "beschrijving": "Israeli air strikes on southern Lebanon have caused catastrophic destruction and damaged historic landmarks.",
+      "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Family mourns baby after Israeli forces blocked journey to hospital",
-      "beschrijving": "Three-month-old Ahmad Zaid’s family received his birth certificate and death certificate on the same day.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "The search for Gaza’s missing brings heartbreak and closure for loved ones",
-      "beschrijving": "Thousands of bodies remain trapped under the rubble of their homes in Gaza, with retrieval a long and difficult task.",
-      "url": "https://www.aljazeera.com/features/2026/7/10/the-search-for-gazas-missing-brings-heartbreak-and-closure-for-loved-ones?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israeli drones strike Lebanon despite US-brokered framework deal",
-      "beschrijving": "The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians.",
-      "url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss",
-      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -158,7 +131,7 @@
       "titel": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
       "beschrijving": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
       "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,22 +140,22 @@
       "titel": "China lands reusable rocket for first time, state media says",
       "beschrijving": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
       "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+    "Ukrainian attacks cause chaos at fuel stations across Russia",
+    "Trump: gesprekken met Iran gaan door, maar staakt-het-vuren is voorbij",
     "Defensie: Rusland hackte camera's langs militaire routes in Nederland",
-    "Trump onthoofdt commissie die eerlijk verloop verkiezingen moet stimuleren",
-    "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
+    "Donald Trump removes final members of independent US election commission",
+    "Why are politicians and sanctioned states embracing crypto?",
+    "Britse media vol van 'royal reunion' van prins Harry's gezin met koning Charles",
+    "Slepende rel over potje tennis kost burgemeester Berlijn zijn kandidatuur",
+    "Onzichtbare dreiging in Gaza: onontplofte oorlogsresten maken vele slachtoffers",
     "Dodelijke cholera-uitbraak in Sudan eist al meer dan 100 levens",
-    "Vrijwilligers dierenasiel bij brandhaard Zuid-Spanje wachten af: 'Het is doodeng'",
-    "Hoe bescherm je jezelf tegen steeds grotere natuurbranden? 'Kijk hoe je weg kunt komen'",
-    "Rapport: Rusland hersenspoelt 1,6 miljoen Oekraïense kinderen op systematische wijze",
-    "Passagier tot schouders uit vliegtuig RyanAir gezogen tijdens vlucht",
-    "WO II-bom Keulen succesvol onschadelijk gemaakt, ook kinderziekenhuis geëvacueerd"
+    "Vrijwilligers dierenasiel bij brandhaard Zuid-Spanje wachten af: 'Het is doodeng'"
   ]
 }
