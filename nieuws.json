@@ -1,38 +1,29 @@
 {
-  "bijgewerkt": "09 Jul 2026 22:51 UTC",
+  "bijgewerkt": "10 Jul 2026 10:36 UTC",
   "artikelen": [
     {
-      "titel": "Weer Oekraïense aanvallen op Russische schaduwvloot bij Krim",
-      "beschrijving": "Oekraïne heeft de afgelopen dagen de aanvallen op Russische schepen bij de bezette Krim opgevoerd. Volgens het Oekraïense leger zijn in de nacht van woensdag op donderdag twaalf Russische tankers geraakt in de Zee van Azov. De Zee van Azov is een binnenzee die via de Straat van Kertsj verbonden is met de Zwarte Zee. Het Oekraïense leger heeft beelden van de aanval naar buiten gebracht. De locatie ",
-      "url": "https://nos.nl/l/2622388",
-      "datum": "4 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Acht verdachten aangeklaagd voor plan aanslag tijdens kooigevecht bij Witte Huis",
+      "beschrijving": "Acht mannen zijn in de Verenigde Staten aangeklaagd voor hun rol bij een plan om een aanslag te plegen tijdens een UFC-kooigevecht bij het Witte Huis. Ze worden onder meer verdacht van samenzwering met een terroristisch oogmerk en van het voorbereiden van moorden op federaal grondgebied. Ter ere van de 80e verjaardag van de Amerikaanse president Trump werd het vechtevenement vorige maand gehouden ",
+      "url": "https://nos.nl/l/2622412",
+      "datum": "10 uur geleden",
+      "regio": "VS",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Syria says cell behind ‘terrorist bombings’ in Damascus arrested",
-      "beschrijving": "Explosions rocked the Syrian capital on Tuesday as French President Emmanuel Macron visited the city.",
-      "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
+      "titel": "Bomb attacks rattle Damascus but for most Syrians, life goes on",
+      "beschrijving": "The Damascus attacks appeared to be attempts to cause instability, but don&#039;t signal total security breakdown in Syria.",
+      "url": "https://www.aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Tehran launches more strikes after second round of US attacks in southern Iran",
-      "beschrijving": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
       "titel": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
       "beschrijving": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
       "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -41,7 +32,7 @@
       "titel": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
       "beschrijving": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
       "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -50,148 +41,157 @@
       "titel": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
       "beschrijving": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
       "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "19 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "NYT-led group asks court to sanction OpenAI in US copyright dispute",
-      "beschrijving": "The news firms allege ChatGPT maker is hiding evidence important to what could be landmark copyright infringement trial.",
-      "url": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Europese Commissie: verslavend ontwerp Facebook en Instagram in strijd met EU-regels",
+      "beschrijving": "Meta, het bedrijf van Facebook en Instagram, houdt onvoldoende rekening met de invloed die het verslavende ontwerp van hun apps heeft op het welzijn van gebruikers. Daarmee overtreedt het volgens de Europese Commissie de Europese regels. Eindeloos scrollen, pushberichten, gepersonaliseerde berichten zijn allemaal functies die gebruikers verleiden langer de apps te gebruiken. Dat leidt er volgens d",
+      "url": "https://nos.nl/l/2622443",
+      "datum": "36 min geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
-      "titel": "US military denies involvement after explosions heard in Iran",
-      "beschrijving": "Iranian media report loud explosions in several locations as Israeli officials say war is &#039;not over&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
+      "titel": "België wil verplicht tolvignet volgend jaar mei invoeren, ook dagpas mogelijk",
+      "beschrijving": "Wie gebruikmaakt van de wegen in België moet vanaf volgend jaar mei een tolvignet aanschaffen. Daar wordt mogelijk vandaag in de Vlaamse regering een akkoord over bereikt, schrijven Belgische media die een voorstel van het plan hebben ingezien. Belgen en buitenlanders moeten zo'n vignet aanschaffen. Vanaf 1 mei 2027 wordt een tolvignet voor voertuigen tot 3500 kilo verplicht. Dat kan volgens Belgi",
+      "url": "https://nos.nl/l/2622439",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zeker 11 doden, 23 vermisten bij natuurbrand Spanje, slachtoffers probeerden te vluchten",
+      "beschrijving": "Er worden nog 23 mensen vermist bij de natuurbrand die woedt bij Los Gallardos in Zuid-Spanje. Inmiddels zijn er zeker 11 doden en acht gewonden gemeld. Vier van de gewonden zijn er ernstig aan toe. De president van de regio Andalusië Moreno sprak ook over een twaalfde dode. \"Er is er nog één die nog niet bevestigd is, maar helaas wijst alles erop dat ook die persoon is gevonden\", aldus Moreno. He",
+      "url": "https://nos.nl/l/2622436",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Operatie voltooid: Tapijt van Bayeux aangekomen in British Museum",
+      "beschrijving": "Het beroemdste en kostbaarste wandkleed ter wereld is na bijna duizend jaar terug op Britse bodem. Het Tapijt van Bayeux is vannacht vanuit Frankrijk overgebracht naar het British Museum in Londen waar het een jaar lang te zien zal zijn. Persbureau Reuters omschrijft het als een omgekeerde meesterkraak: in het holst van de nacht werd het middeleeuwse meesterwerk in het geheim en onder strenge veil",
+      "url": "https://nos.nl/l/2622433",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Oma neemt per ongeluk verkeerd kind mee uit opvang in België",
+      "beschrijving": "Een oma heeft per ongeluk niet haar kleinzoon, maar een ander kind meegenomen uit de kinderopvang in het Belgische Strombeek-Bever. Toen de vergissing werd ontdekt werd er een bericht verstuurd via het buurtinformatienetwerk, een samenwerking tussen buurtbewoners en de politie in België. \"Dringend op te sporen: dame met buggy met daarin kind van 2 jaar. Vermoedelijk te voet richting centrum van St",
+      "url": "https://nos.nl/l/2622432",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Arrestaties vanwege explosies in Damascus tijdens bezoek Macron",
+      "beschrijving": "De Syrische autoriteiten hebben meerdere verdachten gearresteerd die worden verdacht van explosies in de hoofdstad Damascus afgelopen dinsdag. Daarbij viel een dode en raakten 36 mensen gewond volgens het Syrische ministerie van Volksgezondheid. Dinsdag was de Franse president Macron op bezoek in Damascus. De explosies waren in de buurt van het hotel waar hij verbleef. Macron was op dat moment ond",
+      "url": "https://nos.nl/l/2622424",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 10/7: Spanje speelt tegen België • Hugo de Jonge voor corona-enquête",
+      "beschrijving": "Goedemorgen! In de kwartfinale van het WK staan vandaag Europees kampioen Spanje en België tegenover elkaar. En in Rotterdam opent koningin Máxima de vijftigste editie van het North Sea Jazz Festival. Eerst het weer: vandaag is het zonovergoten en bij een matige noordenwind wordt het 24 graden in Noord-Holland en lokaal 30 graden in Limburg. Ga je vandaag op pad? Hier vind je het overzicht van de ",
+      "url": "https://nos.nl/l/2622417",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zeker 12 doden door bosbranden in zuiden van Spanje, nog 23 vermisten",
+      "beschrijving": "Door een grote bosbrand in het zuiden van Spanje zijn zeker twaalf mensen omgekomen. Er worden 23 mensen vermist melden de regionale autoriteiten in de regio Andalusië. De brandhaard is in de buurt van de stad Almería. Zo'n 150 brandweerlieden zijn bezig het vuur te bestrijden. Honderden mensen zijn geëvacueerd. Alle dodelijke slachtoffers vielen in het kleine plaatsje Bédar, op zo'n 50 kilometer ",
+      "url": "https://nos.nl/l/2622414",
+      "datum": "7 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Venezuela kampt met gevolgen aardbevingen: gebrek aan drinkwater en sanitair",
       "beschrijving": "In Venezuela liggen uitbraken van infectieziekten op de loer na de aardbevingen waarbij vele duizenden mensen dakloos zijn geworden. In de getroffen gebieden is een gebrek aan schoon drinkwater en sanitaire voorzieningen. In de zwaar getroffen kustplaats La Guaira nemen ontheemden hun toevlucht tot het strand om zich te wassen en hun behoefte te doen. Een arts zegt tegen kinderrechtenorganisatie S",
       "url": "https://nos.nl/l/2622394",
-      "datum": "3 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Strijd VS en Iran terug bij af? 'Patroon van escalatie en de-escalatie'",
-      "beschrijving": "Het begrip werd al flink opgerekt, maar de wapenstilstand tussen de VS en Iran ligt deze week echt even in de prullenbak. Amerika bombardeerde gisteren en afgelopen nacht ruim 170 plekken in Iran. Het Iraanse leger lanceerde raketten en drones richting buurlanden waar militairen van de VS zijn gestationeerd. \"Het is tuig. Het zijn zieke mensen\", zei president Trump gisteren over het Iraanse regime",
-      "url": "https://nos.nl/l/2622385",
-      "datum": "4 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hond doodt Duits meisje (4) tijdens het spelen, rol moeder en kennis onderzocht",
-      "beschrijving": "Een meisje van 4 is door de hond uit haar gezin doodgebeten. Het ongeluk gebeurde in Drosa, een plaats in deelstaat Saksen-Anhalt in het oosten van Duitsland. Volgens de politie speelde het meisje met de hond in een appartement toen hij haar aanviel. Het gaat vermoedelijk om een Amerikaanse staffordshireterriër, een hondenras dat bekendstaat om zijn gespierde bouw. Aanwezigen hebben geprobeerd de ",
-      "url": "https://nos.nl/l/2622384",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dodental grote mazelenuitbraak Bangladesh fors gestegen: 750 kinderen overleden",
-      "beschrijving": "Het dodental als gevolg van de mazelenuitbraak in Bangladesh is fors opgelopen. Sinds halverwege maart zijn bijna 750 kinderen overleden die mazelen hadden of symptomen van de besmettelijke infectieziekte vertoonden, meldt het Bengaalse ministerie van Volksgezondheid. Het werkelijke dodental ligt volgens Unicef waarschijnlijk nog hoger. Zo zijn ziekenhuizen overbelast en is het moeilijk om alle ge",
-      "url": "https://nos.nl/l/2622357",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Brand in schoenfabriek China kost zeker 28 mensen het leven",
-      "beschrijving": "Bij een brand in een schoenfabriek in het zuidoosten van China zijn volgens staatsmedia zeker 28 mensen omgekomen. De brand in de stad Jinjiang in de provincie Fujian ontstond rond het middaguur. Volgens persbureau Reuters is op beelden van de staatsmedia te zien hoe de vlammen uit de grote fabriek sloegen en een dikke zwarte rookwolk in de lucht hing. Ook leken mensen vast te zitten op het dak. N",
-      "url": "https://nos.nl/l/2622348",
-      "datum": "7 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Oekraïne mag eindelijk zelf Patriots maken, wat betekent dit voor de oorlog?",
-      "beschrijving": "De Amerikaanse president Donald Trump geeft Oekraïne waar dat land al lange tijd om vraagt: Patriot-raketten. Althans, Trump geeft Oekraïne toestemming om de raketten zelf te produceren. Wat betekent dit voor Oekraïne? Vier vragen en antwoorden. 1. Waarom heeft Oekraïne de Patriot-raketten zo hard nodig? Oekraïne is verwikkeld in een race tegen de klok om zijn luchtafweer te versterken. Deze week ",
-      "url": "https://nos.nl/l/2622339",
-      "datum": "8 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Begrafenis Khamenei straalt eenheid uit, maar Iran is diep verdeeld",
-      "beschrijving": "Met de begrafenis van de Iraanse leider Ali Khamenei komt een einde aan een zesdaagse uitvaart bijgewoond door miljoenen volgelingen in Iran en naburig Irak. \"De begrafenis van de eeuw\", zoals het regime de reizende rouwceremonie beschrijft, moet volgens deskundigen eenheid en macht uitstralen. Al helemaal nu er weer gevechten zijn opgelaaid tussen Iran en de VS. Toch laten mensen binnen Iran een ",
-      "url": "https://nos.nl/l/2622336",
-      "datum": "9 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Digitale euro weer een stap dichterbij, Europees Parlement akkoord",
-      "beschrijving": "Betalen met de digitale euro is opnieuw een stap dichterbij gekomen. Een flinke meerderheid van het Europees Parlement stemde vandaag voor het starten van de volgende fase in het wetgevingsproces. De digitale versie van de euro wordt ontwikkeld door de Europese Centrale Bank (ECB). De digitale variant van de euro moet een alternatief bieden voor cryptomunten, zoals bijvoorbeeld de bitcoin. Ook moe",
-      "url": "https://nos.nl/l/2622334",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Italië zet twee Russen uit vanwege spionage",
-      "beschrijving": "De Italiaanse regering heeft besloten twee militaire attachés van de Russische ambassade uit te zetten. Dat schrijft de Italiaanse Buitenlandminister Antonio Tajani op X. Volgens Tajani waren de twee betrokken bij spionageactiviteiten. Die kwamen aan het licht in een onderzoek van het Openbaar Ministerie in Rome. Het zou gaan om Ivan Petrovich Gorbatsjov en Michail Vasiljevitsj Astakhov. Zij moete",
-      "url": "https://nos.nl/l/2622329",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting",
-      "beschrijving": "Clashing interpretations of vague memorandum of understanding language on Hormuz at heart of escalation, analysts say.",
-      "url": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
-      "beschrijving": "UK&#039;s likely next PM Burnham pushes for ceasefire, tougher sanctions over Gaza violence and settlement trade bans.",
-      "url": "https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "How Hamas Governed Gaza",
+      "beschrijving": "Hamas is dissolving its government and handing power over to a new technocratic administration.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/how-hamas-governed-gaza?traffic_source=rss",
+      "datum": "24 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "South African protesters intimidate migrants as aid group issues warning",
-      "beschrijving": "Doctors Without Borders (MSF) warns of growing humanitarian needs as tens of thousands of African migrants displaced.",
-      "url": "https://www.aljazeera.com/news/2026/7/9/south-african-protesters-intimidate-migrants-as-aid-group-issues-warning?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "VS",
+      "titel": "EU states do not need ‘consensus’ to hold Israel accountable",
+      "beschrijving": "As foreign ministers meet on Gaza and the West Bank, national governments cannot hide behind EU paralysis.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/10/eu-states-do-not-need-consensus-to-hold-israel-accountable?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war?",
+      "beschrijving": "Kyiv will rush to produce the systems domestically as Russia struggles to defend itself against some Ukrainian attacks.",
+      "url": "https://www.aljazeera.com/news/2026/7/10/trump-grants-kyiv-patriots-licences-whats-next-in-the-russia-ukraine-war?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Degree but no job: The battle against unemployment in Gaza",
+      "beschrijving": "Gaza&#039;s young graduates face sky-high unemployment as Israel&#039;s war devastates job market.",
+      "url": "https://www.aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+      "beschrijving": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "datum": "11 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "China lands reusable rocket for first time, state media says",
+      "beschrijving": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Weer Oekraïense aanvallen op Russische schaduwvloot bij Krim",
-    "Syria says cell behind ‘terrorist bombings’ in Damascus arrested",
-    "Tehran launches more strikes after second round of US attacks in southern Iran",
+    "Acht verdachten aangeklaagd voor plan aanslag tijdens kooigevecht bij Witte Huis",
+    "Bomb attacks rattle Damascus but for most Syrians, life goes on",
     "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
     "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
     "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-    "NYT-led group asks court to sanction OpenAI in US copyright dispute",
-    "US military denies involvement after explosions heard in Iran",
-    "Venezuela kampt met gevolgen aardbevingen: gebrek aan drinkwater en sanitair",
-    "Strijd VS en Iran terug bij af? 'Patroon van escalatie en de-escalatie'"
+    "Europese Commissie: verslavend ontwerp Facebook en Instagram in strijd met EU-regels",
+    "België wil verplicht tolvignet volgend jaar mei invoeren, ook dagpas mogelijk",
+    "Zeker 11 doden, 23 vermisten bij natuurbrand Spanje, slachtoffers probeerden te vluchten",
+    "Operatie voltooid: Tapijt van Bayeux aangekomen in British Museum",
+    "Oma neemt per ongeluk verkeerd kind mee uit opvang in België"
   ]
 }
