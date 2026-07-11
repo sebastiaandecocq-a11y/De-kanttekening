@@ -1,56 +1,92 @@
 {
-  "bijgewerkt": "10 Jul 2026 21:39 UTC",
+  "bijgewerkt": "11 Jul 2026 06:26 UTC",
   "artikelen": [
     {
-      "titel": "Ukrainian attacks cause chaos at fuel stations across Russia",
-      "beschrijving": "Ukraine’s targeting of Russia’s major oil refineries has sparked a nationwide fuel shortage.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "beschrijving": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "Trump: gesprekken met Iran gaan door, maar staakt-het-vuren is voorbij",
       "beschrijving": "De gesprekken tussen Iran en de VS worden voortgezet. Dat schrijft de Amerikaanse president Trump in een bericht op Truth Social. Hij benadrukt daarbij in hoofdletters dat het staakt-het-vuren tussen de twee landen voorbij is. \"Iran heeft ons gevraagd om de 'gesprekken' voort te zetten. We hebben daarmee ingestemd, maar de Verenigde Staten laat er geen twijfel over bestaan dat het staakt-het-vuren",
       "url": "https://nos.nl/l/2622547",
-      "datum": "1 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Defensie: Rusland hackte camera's langs militaire routes in Nederland",
-      "beschrijving": "Russische diensten hebben \"een klein aantal camera's\" op militaire routes in Nederland gehackt. Dat blijkt uit onderzoek van de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en de Militaire Inlichtingen- en Veiligheidsdienst (MIVD). Volgens de diensten ging het om camera's in particulier gebruik, van onder meer bedrijven, die via het internet toegankelijk zijn, zogenoemde IP-camera's. Die cam",
-      "url": "https://nos.nl/l/2622503",
-      "datum": "6 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "beschrijving": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Amerikaanse hulpverlener in Congo besmet met ebolavirus",
+      "beschrijving": "Een Amerikaanse hulpverlener in de Democratische Republiek Congo is besmet geraakt met de Bundibugyo-variant van het ebolavirus. Dat meldt de Amerikaanse gezondheidsdienst CDC. Volgens de CDC werkte de besmette persoon voor een humanitaire organisatie in Congo. De dienst werkt samen met de werkgever, Congolese autoriteiten en andere internationale partners om verdere verspreiding van het virus te ",
+      "url": "https://nos.nl/l/2622573",
+      "datum": "45 min geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Donald Trump removes final members of independent US election commission",
-      "beschrijving": "The dismissals leave the federal election body vacant as Trump presses for broader changes to US voting rules.",
-      "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "VS",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "titel": "Wekdienst 11/7: Nationale Herdenking Srebrenica • Laatste keer Soldaat van Oranje",
+      "beschrijving": "Goedemorgen! In Den Haag is de Nationale Herdenking Srebrenica Genocide en de musical Soldaat van Oranje wordt voor de allerlaatste keer opgevoerd. Eerst het weer: de dag start grijs met lage bewolking of mist. Geleidelijk lost deze op en dan breekt de zon door. Vanmiddag is het overal zonnig en warm met maxima tussen 25 en 31 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files e",
+      "url": "https://nos.nl/l/2622572",
+      "datum": "57 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
-      "titel": "Why are politicians and sanctioned states embracing crypto?",
-      "beschrijving": "Bitcoin is falling, yet cryptocurrency is spreading beyond investing into politics, sanctions and global finance.",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss",
+      "titel": "Tien doden bij ongeluk met klein vliegtuig op Bahama's",
+      "beschrijving": "Op de Bahama's zijn tien mensen om het leven gekomen bij een vliegtuigongeluk. Het kleine toestel crashte in het noorden van het eiland Andros. Het vliegtuig was opgestegen vanaf Lynden Pindling International Airport in Nassau, de hoofdstad van de Bahama's. Het toestel was onderweg naar San Andros Airport en stortte rond 13.00 uur plaatselijke tijd in. In het toestel zaten negen passagiers en de p",
+      "url": "https://nos.nl/l/2622571",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Gijzeling in supermarkt Berlijn, politie massaal aanwezig",
+      "beschrijving": "In een supermarkt in de Berlijnse wijk Marienfelde houdt een man sinds gisteravond een vrouw gegijzeld. De politie is in groten getale aanwezig en staat in contact met de gijzelnemer. De man zou de vrouw rond 22.00 uur hebben overmeesterd. Over het motief of de achtergrond van de gijzeling is nog niets bekend. Er is geen informatie naar buiten gebracht over de toestand van de vrouw. Volgens buurtb",
+      "url": "https://nos.nl/l/2622567",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Apple beschuldigt OpenAI van stelen bedrijfsgeheimen, spant rechtszaak aan",
+      "beschrijving": "Techgigant Apple heeft een rechtszaak aangespannen tegen OpenAI, de maker van ChatGPT. Apple beschuldigt OpenAI ervan bedrijfsgeheimen te stelen voor het ontwikkelen van hardware voor ChatGPT. Volgens de aanklacht heeft OpenAI medewerkers van Apple aangemoedigd om vertrouwelijke informatie te delen. Apple zegt met de rechtszaak een einde te willen maken aan het stelen van bedrijfsgeheimen. In de z",
+      "url": "https://nos.nl/l/2622565",
       "datum": "2 uur geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Verdachte gearresteerd voor moord op Britse oud-politica Ann Widdecombe (78)",
+      "beschrijving": "De Engelse politie heeft een verdachte aangehouden in het onderzoek naar de moord op de Britse oud-politica Ann Widdecombe. De 78-jarige vrouw werd donderdag dood aangetroffen in haar woning in het zuiden van Engeland, zo werd gisteren bekend. De verdachte is een 26-jarige Britse man, meldt de politie. Op dit moment zijn er volgens de politie geen aanwijzingen voor een politiek gemotiveerde daad. ",
+      "url": "https://nos.nl/l/2622564",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Britse media vol van 'royal reunion' van prins Harry's gezin met koning Charles",
       "beschrijving": "Een royal reunion noemen Britse media het. Ze maken vandaag groot nieuws van het zeldzame bezoek van de Britse prins Harry met zijn gezin aan zijn vader, koning Charles. Hoewel de krantenkoppen dikgedrukt zijn en de berichten bovenaan de nieuwssites staan, moest de pers het doen met weinig informatie. Buckingham Palace bevestigde vanavond slechts dat koning Charles en koningin Camilla prins Harry,",
       "url": "https://nos.nl/l/2622555",
-      "datum": "17 min geleden",
+      "datum": "9 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +95,7 @@
       "titel": "Slepende rel over potje tennis kost burgemeester Berlijn zijn kandidatuur",
       "beschrijving": "Een potje tennis heeft grote politieke consequenties voor de burgemeester van Berlijn. Kai Wegner stelt zich niet langer herkiesbaar, omdat het hem blijft achtervolgen dat hij ging tennissen toen in januari grote delen van de Duitse hoofdstad zonder stroom zaten. Hij maakte zijn terugtrekking vanmiddag bekend in een haastig opgetuigde persconferentie. \"Ik kan mijn boodschap niet meer overbrengen, ",
       "url": "https://nos.nl/l/2622542",
-      "datum": "1 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,62 +104,44 @@
       "titel": "Onzichtbare dreiging in Gaza: onontplofte oorlogsresten maken vele slachtoffers",
       "beschrijving": "In Gaza dreigt naast de Israëlische bombardementen en besmettelijke ziekten nog een gevaar, eentje dat minder zichtbaar is: onontplofte oorlogsresten. De niet-ontplofte explosieven die na jarenlang oorlog voeren door het hele gebied liggen, hebben al honderden slachtoffers gemaakt. Volgens de VN-organisatie die zich bezighoudt met mijnen en onontplofte explosieven (UNMAS) zijn er sinds het begin v",
       "url": "https://nos.nl/l/2622540",
-      "datum": "2 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Dodelijke cholera-uitbraak in Sudan eist al meer dan 100 levens",
-      "beschrijving": "Cholera is in volle hevigheid terug in Sudan en breidt zich uit over het land, meldt de Wereldgezondheidsorganisatie (WHO). De uitbraak heeft inmiddels aan zeker 114 mensen het leven gekost en meer dan 1300 anderen besmet. Die aantallen lopen vermoedelijk nog op. De WHO waarschuwt dat de oorlog, de enorme hoeveelheid mensen op de vlucht en de zware regenval van het regenseizoen de uitbraak kunnen ",
-      "url": "https://nos.nl/l/2622518",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vrijwilligers dierenasiel bij brandhaard Zuid-Spanje wachten af: 'Het is doodeng'",
-      "beschrijving": "\"Het is angstaanjagend\", zeggen Nederlanders in het gebied bij Los Gallardos in Zuid-Spanje, waar nog altijd brand woedt. Honderden mensen zijn geëvacueerd, anderen moeten afwachten: komt het vuur naar hen toe of niet? De NOS sprak met twee vrijwilligers van een dierenasiel aan de rand van de brandhaard. De Nederlandse Vanessa (51) werkt bij het asiel ten oosten van de bebouwde kom van Los Gallard",
-      "url": "https://nos.nl/l/2622512",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hoe bescherm je jezelf tegen steeds grotere natuurbranden? 'Kijk hoe je weg kunt komen'",
-      "beschrijving": "Spanje is getroffen door een dodelijke bosbrand. Eerder deze week moesten in Zuid-Frankrijk duizenden mensen worden geëvacueerd vanwege een natuurbrand. Door klimaatverandering komen dit soort branden steeds vaker voor en worden ze heftiger. Vakantiegangers doen er verstandig aan zich goed voor te bereiden als ze naar een bosrijk gebied in Zuid-Europa gaan, vertelt Jelmer Dam, landelijk coördinato",
-      "url": "https://nos.nl/l/2622501",
-      "datum": "6 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Rapport: Rusland hersenspoelt 1,6 miljoen Oekraïense kinderen op systematische wijze",
-      "beschrijving": "Zo'n 1,6 miljoen kinderen in de bezette gebieden in Oekraïne worden onderworpen aan Russisch indoctrinatie en militarisering. Dat stellen deskundigen die onderzoek deden in opdracht van de Organisatie voor Veiligheid en Samenwerking in Europa (OVSE). Rusland heeft volgens de onderzoekers een gecoördineerd en systematisch beleid opgezet om de identiteit van Oekraïense kinderen uit te wissen. Het Ru",
-      "url": "https://nos.nl/l/2622496",
-      "datum": "6 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Passagier tot schouders uit vliegtuig RyanAir gezogen tijdens vlucht",
-      "beschrijving": "Een toestel van vliegtuigmaatschappij Ryanair moest in Griekenland terugkeren naar het vliegveld nadat een raam tijdens de vlucht was gebroken. Een passagier raakte gewond doordat hij bijna naar buiten werd gezogen, schrijven Griekse media. Het toestel vertrok vanochtend vanuit Thessaloniki naar Memmingen in Duitsland. Volgens passagiers was er enkele minuten na het opstijgen een harde knal te hor",
-      "url": "https://nos.nl/l/2622475",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Lebanon historic sites destroyed by Israeli strikes",
-      "beschrijving": "Israeli air strikes on southern Lebanon have caused catastrophic destruction and damaged historic landmarks.",
-      "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss",
+      "titel": "Are the US and Iran at war again?",
+      "beschrijving": "Iranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over&#039;.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "‘We are the lost generation of Sudan’: Students in exile",
+      "beschrijving": "Years of conflict have left thousands of Sudanese students struggling to continue their education in exile.",
+      "url": "https://www.aljazeera.com/news/2026/7/11/we-are-the-lost-generation-of-sudan-students-in-exile?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers",
+      "beschrijving": "Haaland termed a &#039;beast&#039; by England&#039;s Kane as the lethal forwards aim to carry their teams into the semifinals.",
+      "url": "https://www.aljazeera.com/sports/2026/7/11/kane-vs-haaland-in-england-vs-norway-world-cup-quarterfinal-of-strikers?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
+      "beschrijving": "Emergency crews are searching for survivors after a Russian air strike on the Ukrainian city of Zaporizhzhia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
+      "datum": "5 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -131,31 +149,31 @@
       "titel": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
       "beschrijving": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
       "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "China lands reusable rocket for first time, state media says",
-      "beschrijving": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "China/Taiwan",
+      "titel": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "beschrijving": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "datum": "7 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Ukrainian attacks cause chaos at fuel stations across Russia",
+    "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
     "Trump: gesprekken met Iran gaan door, maar staakt-het-vuren is voorbij",
-    "Defensie: Rusland hackte camera's langs militaire routes in Nederland",
-    "Donald Trump removes final members of independent US election commission",
-    "Why are politicians and sanctioned states embracing crypto?",
-    "Britse media vol van 'royal reunion' van prins Harry's gezin met koning Charles",
-    "Slepende rel over potje tennis kost burgemeester Berlijn zijn kandidatuur",
-    "Onzichtbare dreiging in Gaza: onontplofte oorlogsresten maken vele slachtoffers",
-    "Dodelijke cholera-uitbraak in Sudan eist al meer dan 100 levens",
-    "Vrijwilligers dierenasiel bij brandhaard Zuid-Spanje wachten af: 'Het is doodeng'"
+    "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+    "Amerikaanse hulpverlener in Congo besmet met ebolavirus",
+    "Wekdienst 11/7: Nationale Herdenking Srebrenica • Laatste keer Soldaat van Oranje",
+    "Tien doden bij ongeluk met klein vliegtuig op Bahama's",
+    "Gijzeling in supermarkt Berlijn, politie massaal aanwezig",
+    "Apple beschuldigt OpenAI van stelen bedrijfsgeheimen, spant rechtszaak aan",
+    "Verdachte gearresteerd voor moord op Britse oud-politica Ann Widdecombe (78)",
+    "Britse media vol van 'royal reunion' van prins Harry's gezin met koning Charles"
   ]
 }
