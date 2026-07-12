@@ -1,29 +1,47 @@
 {
-  "bijgewerkt": "12 Jul 2026 15:39 UTC",
+  "bijgewerkt": "12 Jul 2026 19:57 UTC",
   "artikelen": [
     {
       "titel": "Onduidelijkheid over sluiting Straat van Hormuz na nacht vol aanvallen",
       "beschrijving": "Uren nadat de Iraanse Revolutionaire Garde de Straat van Hormuz gesloten verklaarde, is onduidelijk of de zeestraat daadwerkelijk dicht is. Het Amerikaanse leger en president Trump spreken de sluiting tegen. Vannacht meldde de Iraanse Revolutionaire Garde dat de Straat van Hormuz dicht is, nadat de VS bombardementen had uitgevoerd op Iran. Volgens de VS was dat een reactie op een Iraanse aanval op",
       "url": "https://nos.nl/l/2622755",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Israeli forces kill five Palestinians in latest attacks on Gaza",
-      "beschrijving": "Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
-      "datum": "22 min geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
+      "beschrijving": "General Jean Elysee Dao says 60 others also wounded as army retakes key town after nearly a week of fighting.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss",
+      "datum": "55 min geleden",
+      "regio": "Afrika",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Concern for renewed war in Iran as US attacks military, civilian targets",
+      "beschrijving": "US military has significantly increased the scale of attacks on Iran in recent days as the Strait of Hormuz standoff boils over.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "At least 27 killed in Bangkok bar fire, Thai media report",
+      "beschrijving": "Unverified footage shows flames blasting out of the bar as people flee.",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
     },
     {
       "titel": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
       "beschrijving": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
       "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,25 +50,70 @@
       "titel": "At least two killed in Toronto street festival shooting",
       "beschrijving": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
       "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Richtingenstrijd bij Democraten in VS leidt tot zorgen over verkiezingen",
-      "beschrijving": "Met het Witte Huis, het Congres en een conservatief Hooggerechtshof domineren de Republikeinen de Amerikaanse politiek. De Democraten kraken hun hersenen daarom al ruim een jaar hoe ze die vergaande macht van president Trump kunnen inperken. Een manier is het selecteren van de juiste kandidaten waardoor ze in november de tussentijdse verkiezingen voor het Congres kunnen winnen. Maar deze week viel",
-      "url": "https://nos.nl/l/2622721",
-      "datum": "5 uur geleden",
-      "regio": "VS",
+      "titel": "Why the Iran-US ceasefire is falling apart",
+      "beschrijving": "Iran, US resumed fighting because they don’t see each other as ‘reliable negotiating partners’, says analyst Ali Vaez.",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
+      "datum": "29 min geleden",
+      "regio": "Iran",
       "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Tientallen doden door grote brand in café Bangkok",
+      "beschrijving": "Bij een grote brand in een uitgaansgelegenheid in de Thaise hoofdstad Bangkok zijn zeker 27 mensen om het leven gekomen. De brand brak zondag kort voor middernacht lokale tijd uit in een café in het district Lat Phrao in het noorden van Bangkok. Toen de brandweer aankwam, zaten nog veel mensen in het gebouw. Na ongeveer 35 minuten was de brand volgens de autoriteiten onder controle. Veel slachtoff",
+      "url": "https://nos.nl/l/2622790",
+      "datum": "7 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Finse geheime dienst zoekt gewone burgers: 'Juist geen James Bond-types'",
+      "beschrijving": "De Finse geheime dienst wil doodgewone Finnen aantrekken die als geheim agent ingezet kunnen worden. Zelfs ouderen worden aangespoord om te solliciteren. \"Ook als je op leeftijd bent, kun je een fantastische geheim agent zijn\", zegt Pekka Hiltunen, afdelingshoofd bij de Finse inlichtingendienst. \"Het gaat erom dat je kunt opgaan in de menigte, sociaal vaardig bent en makkelijk contact kunt maken.\"",
+      "url": "https://nos.nl/l/2622786",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Twee doden en twee overlevenden bij vliegtuigcrash in Oostenrijk",
+      "beschrijving": "Bij een crash van een klein vliegtuig in Oostenrijk zijn twee van de vier inzittenden omgekomen. De overlevenden zijn zwaargewond overgebracht naar het ziekenhuis. Het toestel stortte aan het eind van de ochtend neer in moeilijk bereikbaar, bergachtig gebied. Dat gebeurde in de noordoostelijke deelstaat Neder-Oostenrijk. De 47-jarige piloot en een vrouwelijke passagier overleden ter plekke aan hun",
+      "url": "https://nos.nl/l/2622785",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nederlandse ambassadeur in VS trok toestemming voor reis Machado via Curaçao in",
+      "beschrijving": "De Nederlandse ambassadeur in de Verenigde Staten heeft haar medewerking aan de terugkeer van oppositieleider María Corina Machado naar Venezuela teruggedraaid. Dat schrijft het Amerikaanse nieuwsmedium Axios. De ambassadeur, Birgitta Tazelaar, had Machado op 24 juni toegezegd dat ze naar Curaçao mocht vliegen, na de aardbevingen in haar thuisland. Van daaruit wilde Machado doorreizen naar het nab",
+      "url": "https://nos.nl/l/2622783",
+      "datum": "1 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Grootschalige politie-inzet in Frankrijk voor nationale feestdag en halve finale WK",
+      "beschrijving": "Frankrijk brengt dinsdag een grote politiemacht op de been voor de viering van de nationale feestdag Quatorze Juillet en de halve finale van het WK die de nationale ploeg speelt tegen Spanje. Er worden 70.000 politieagenten en gendarmes, militairen met politietaken, ingezet, maakte minister van Binnenlandse Zaken Laurent Nuñez bekend in een interview met BFMTV. In Parijs worden 5000 agenten en gen",
+      "url": "https://nos.nl/l/2622764",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Voetballers actief op WK ondanks beschuldigingen van seksueel geweld",
       "beschrijving": "Meerdere voetballers die dit WK op het veld hebben gestaan, worden daarbuiten beschuldigd van verkrachting. Tegen drie spelers loopt zelfs een strafrechtelijk onderzoek. Toch mogen ze gewoon spelen. Het roept de vraag op of de voetbalwereld voldoende verantwoordelijkheid neemt als het gaat om seksueel geweld. Het gaat om grote namen. Tegen Thomas Partey uit Ghana lopen in Engeland zeven aanklachte",
       "url": "https://nos.nl/l/2622748",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +122,7 @@
       "titel": "Bosbranden Spanje onder controle, geëvacueerden mogen terugkeren naar huis",
       "beschrijving": "De natuurbrand in het zuiden van Spanje is onder controle, zegt de regiopresident van Andalusië Juan Manuel Moreno. De brand heeft 7000 hectare aan land verwoest, schrijven Spaanse media. Het alarmniveau is verlaagd en de ongeveer duizend geëvacueerde mensen mogen geleidelijk terugkeren naar huis. Nog acht vermisten De brand brak donderdag uit in Los Gallardos in de provincie Almería en verspreidd",
       "url": "https://nos.nl/l/2622747",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +131,7 @@
       "titel": "Wel subsidie, geen bus: Van der Burg wil dat ov Bonaire nu écht gaat rijden",
       "beschrijving": "Staatssecretaris Van der Burg wil volgende week van het bestuurscollege van Bonaire een concrete datum horen waarop de eerste openbare bus gaat rijden. Aan de vooravond van zijn werkbezoek voert hij de druk op het eilandbestuur op. \"We hebben het geld overgemaakt. Er ligt een plan, begrijp ik, maar er rijdt geen bus\", zei Van der Burg tijdens een ontmoeting met de pers. Op Bonaire rijden dagelijks",
       "url": "https://nos.nl/l/2622745",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,121 +140,58 @@
       "titel": "Architect van het moderne, rijke Qatar sjeik Hamad (74) overleden",
       "beschrijving": "In Qatar is voormalig staatshoofd sjeik Hamad overleden. Hij was emir van 1995 tot 2013 en wordt gezien als de architect van de rijke oliestaat die Qatar nu is. Sjeik Hamad bin Khalifa Al Thani was 74 jaar. Onder zijn bewind vonden economische, sociale en culturele hervormingen plaats en verwierf Qatar zijn huidige status in de wereld. Qatar is nu een internationale speler als het gaat om diplomat",
       "url": "https://nos.nl/l/2622723",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Orkaan Bavi veroorzaakt overstromingen en schade na aankomst in China",
-      "beschrijving": "Orkaan Bavi heeft het oosten van China bereikt. De storm bracht zware regen en harde wind naar de kustprovincie Zhejiang, waar bijna 2 miljoen mensen waren geëvacueerd. Bavi kwam zaterdagavond rond 23.20 uur lokale tijd aan land bij de kuststad Yuhuan en trok daarna verder naar het gebied rond de miljoenenstad Wenzhou. De orkaan was inmiddels afgezwakt tot een tropische storm, maar bleef gevaarlij",
-      "url": "https://nos.nl/l/2622714",
-      "datum": "6 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nieuwe verdachte aangehouden voor moord op Britse politica Ann Widdecombe",
-      "beschrijving": "De Britse politie heeft een man aangehouden op verdenking van de moord op politica Ann Widdecombe. De verdachte werd opgepakt in South Yorkshire, zo'n 430 kilometer van de woning van Widdecombe in het graafschap Devon, waar zij donderdag dood werd aangetroffen. De verdachte is een Brit van 28. Hij zit vast en wordt verhoord. Volgens de politie zijn er geen aanwijzingen dat de moord een terroristis",
-      "url": "https://nos.nl/l/2622710",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Invloedrijke Amerikaanse senator Lindsey Graham (71) overleden",
-      "beschrijving": "De Amerikaanse senator Lindsey Graham is op 71-jarige leeftijd overleden. De Republikein stierf onverwacht na een kort ziekbed. Wat hij mankeerde, is niet bekendgemaakt. Volgens NBC News is Graham overleden aan een hartaanval. De nieuwszender zegt audio-opnames te hebben waarop de politiemelding te horen is. Steun voor Oekraïne Graham werd in 1994 gekozen in het Huis van Afgevaardigden namens de s",
-      "url": "https://nos.nl/l/2622708",
-      "datum": "8 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Doden en gewonden door schietpartij op straatfestival in Toronto",
-      "beschrijving": "Bij een schietpartij tijdens een straatfestival in de Canadese stad Toronto zijn twee mensen om het leven gekomen. Meerdere anderen raakten gewond. Volgens de politie werd rond 20.00 uur lokale tijd geschoten tijdens het drukbezochte festival, waar op dat moment naar schatting 13.000 mensen aanwezig waren. De politie gaat ervan uit dat ten minste twee schutters het vuur op elkaar openden. \"Dit lij",
-      "url": "https://nos.nl/l/2622702",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "What made US Republican Senator Lindsey Graham a controversial figure",
-      "beschrijving": "Graham was known for his hawkish views on US defence and foreign policies.",
-      "url": "https://www.aljazeera.com/news/2026/7/12/what-made-us-republican-senator-lindsey-graham-a-controversial-figure?traffic_source=rss",
-      "datum": "35 min geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
-      "beschrijving": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
-      "url": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Republican Lindsey Graham dies at 71: World leaders, US politicians react",
-      "beschrijving": "The longtime US senator, an ally of President Trump, was an advocate for using US military force overseas.",
-      "url": "https://www.aljazeera.com/news/2026/7/12/republican-lindsey-graham-dies-at-71-world-leaders-us-politicians-react?traffic_source=rss",
+      "titel": "Who will replace Trump ally Lindsey Graham in the US Senate?",
+      "beschrijving": "The US president suggests he is considering a potential candidate to fill the late senator&#039;s seat in South Carolina.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "UK Christians protest for Church of England to recognise genocide in Gaza",
+      "beschrijving": "UK Christians are urging the Church of England General Synod to pass a motion to engage with Kairos Palelestine II",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "beschrijving": "The strikes follow an attack on a Cyprus-flagged vessel travelling through the critical waterway.",
+      "beschrijving": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
       "titel": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "beschrijving": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+      "beschrijving": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
       "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 min geleden",
+      "datum": "2 uur geleden",
       "regio": "VS",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "China evacuates nearly two million people as powerful typhoon makes landfall",
-      "beschrijving": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "beschrijving": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
-      "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "datum": "17 uur geleden",
-      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "Onduidelijkheid over sluiting Straat van Hormuz na nacht vol aanvallen",
-    "Israeli forces kill five Palestinians in latest attacks on Gaza",
+    "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
+    "Concern for renewed war in Iran as US attacks military, civilian targets",
+    "At least 27 killed in Bangkok bar fire, Thai media report",
     "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
     "At least two killed in Toronto street festival shooting",
-    "Richtingenstrijd bij Democraten in VS leidt tot zorgen over verkiezingen",
-    "Voetballers actief op WK ondanks beschuldigingen van seksueel geweld",
-    "Bosbranden Spanje onder controle, geëvacueerden mogen terugkeren naar huis",
-    "Wel subsidie, geen bus: Van der Burg wil dat ov Bonaire nu écht gaat rijden",
-    "Architect van het moderne, rijke Qatar sjeik Hamad (74) overleden",
-    "Orkaan Bavi veroorzaakt overstromingen en schade na aankomst in China"
+    "Why the Iran-US ceasefire is falling apart",
+    "Tientallen doden door grote brand in café Bangkok",
+    "Finse geheime dienst zoekt gewone burgers: 'Juist geen James Bond-types'",
+    "Twee doden en twee overlevenden bij vliegtuigcrash in Oostenrijk"
   ]
 }
