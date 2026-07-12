@@ -1,65 +1,101 @@
 {
-  "bijgewerkt": "12 Jul 2026 07:35 UTC",
+  "bijgewerkt": "12 Jul 2026 11:44 UTC",
   "artikelen": [
     {
       "titel": "Iran sluit Straat van Hormuz, bombardementen VS en luchtalarm in buurlanden",
       "beschrijving": "De Straat van Hormuz is voorlopig volledig dicht voor alle scheepvaart, zegt de Iraanse Revolutionaire Garde. Het elitekorps heeft opnieuw een passerend schip getroffen. De VS heeft als reactie bombardementen uitgevoerd op meerdere plekken in Iran. In de loop van de nacht klonk ook het luchtalarm in Bahrein, de Verenigde Arabische Emiraten (VAE) en Qatar. De VAE waarschuwde burgers voor inkomende ",
       "url": "https://nos.nl/l/2622685",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Iran launches attacks across the Gulf after more US strikes",
-      "beschrijving": "Iran says it launched missile attacks on US military sites in Bahrain, Kuwait, Jordan and Qatar.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
+      "titel": "IRGC releases video of retaliatory missile strikes",
+      "beschrijving": "IRGC releases video of retaliatory missile strikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
+      "datum": "37 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
+      "beschrijving": "Tehran hits back at several GCC countries, following the most intense US bombing since an MoU was signed last month.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
+      "beschrijving": "Three people injured by falling shrapnel in Qatar as attacks also reported in UAE, Kuwait, Bahrain, Oman and Jordan.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "beschrijving": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media",
+      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "datum": "21 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
       "titel": "At least two killed in Toronto street festival shooting",
       "beschrijving": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
       "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "beschrijving": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Spar-supermarkten ondanks sancties nog open in Rusland: 'Dit is glad ijs'",
-      "beschrijving": "Terwijl Brussel de Russische oorlogseconomie probeert te bestrijden met sancties, blijken Spar-supermarkten in Rusland nog gewoon open te zijn. Bovendien liggen de winkels van het van origine Nederlandse bedrijf vol met producten die op de sanctielijst staan. Moskou, Sint-Petersburg en Kazan: allemaal Russische steden waar het Spar-logo nog volop zichtbaar is, schrijft het AD vandaag. Er zijn in t",
-      "url": "https://nos.nl/l/2622661",
-      "datum": "13 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Richtingenstrijd bij Democraten in VS leidt tot zorgen over verkiezingen",
+      "beschrijving": "Met het Witte Huis, het Congres en een conservatief Hooggerechtshof domineren de Republikeinen de Amerikaanse politiek. De Democraten kraken hun hersenen daarom al ruim een jaar hoe ze die vergaande macht van president Trump kunnen inperken. Een manier is het selecteren van de juiste kandidaten waardoor ze in november de tussentijdse verkiezingen voor het Congres kunnen winnen. Maar deze week viel",
+      "url": "https://nos.nl/l/2622721",
+      "datum": "1 uur geleden",
+      "regio": "VS",
       "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Architect van het moderne, rijke Qatar sjeik Hamad (74) overleden",
+      "beschrijving": "In Qatar is voormalig staatshoofd sjeik Hamad overleden. Hij was emir van 1995 tot 2013 en wordt gezien als de architect van de rijke oliestaat die Qatar nu is. Sjeik Hamad bin Khalifa Al Thani was 74 jaar. Onder zijn bewind vonden economische, sociale en culturele hervormingen plaats en verwierf Qatar zijn huidige status in de wereld. Qatar is nu een internationale speler als het gaat om diplomat",
+      "url": "https://nos.nl/l/2622723",
+      "datum": "1 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Orkaan Bavi veroorzaakt overstromingen en schade na aankomst in China",
+      "beschrijving": "Orkaan Bavi heeft het oosten van China bereikt. De storm bracht zware regen en harde wind naar de kustprovincie Zhejiang, waar bijna 2 miljoen mensen waren geëvacueerd. Bavi kwam zaterdagavond rond 23.20 uur lokale tijd aan land bij de kuststad Yuhuan en trok daarna verder naar het gebied rond de miljoenenstad Wenzhou. De orkaan was inmiddels afgezwakt tot een tropische storm, maar bleef gevaarlij",
+      "url": "https://nos.nl/l/2622714",
+      "datum": "3 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Nieuwe verdachte aangehouden voor moord op Britse politica Ann Widdecombe",
       "beschrijving": "De Britse politie heeft een man aangehouden op verdenking van de moord op politica Ann Widdecombe. De verdachte werd opgepakt in South Yorkshire, zo'n 430 kilometer van de woning van Widdecombe in het graafschap Devon, waar zij donderdag dood werd aangetroffen. De verdachte is een Brit van 28. Hij zit vast en wordt verhoord. Volgens de politie zijn er geen aanwijzingen dat de moord een terroristis",
       "url": "https://nos.nl/l/2622710",
-      "datum": "39 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Invloedrijke Amerikaanse senator Lindsey Graham (71) overleden",
-      "beschrijving": "De Amerikaanse senator Lindsey Graham is op 71-jarige leeftijd overleden. Graham stierf onverwacht na een kort ziekbed. Wat hij mankeerde, is niet bekendgemaakt. Volgens NBC News is Graham overleden aan een hartaanval. De nieuwszender zegt audio-opnames te hebben waarop de politiemelding te horen is. Steun voor Oekraïne Graham werd in 1994 gekozen in het Huis van Afgevaardigden namens de staat Sou",
+      "beschrijving": "De Amerikaanse senator Lindsey Graham is op 71-jarige leeftijd overleden. De Republikein stierf onverwacht na een kort ziekbed. Wat hij mankeerde, is niet bekendgemaakt. Volgens NBC News is Graham overleden aan een hartaanval. De nieuwszender zegt audio-opnames te hebben waarop de politiemelding te horen is. Steun voor Oekraïne Graham werd in 1994 gekozen in het Huis van Afgevaardigden namens de s",
       "url": "https://nos.nl/l/2622708",
-      "datum": "41 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +104,7 @@
       "titel": "Doden en gewonden door schietpartij op straatfestival in Toronto",
       "beschrijving": "Bij een schietpartij tijdens een straatfestival in de Canadese stad Toronto zijn twee mensen om het leven gekomen. Meerdere anderen raakten gewond. Volgens de politie werd rond 20.00 uur lokale tijd geschoten tijdens het drukbezochte festival, waar op dat moment naar schatting 13.000 mensen aanwezig waren. De politie gaat ervan uit dat ten minste twee schutters het vuur op elkaar openden. \"Dit lij",
       "url": "https://nos.nl/l/2622702",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +113,7 @@
       "titel": "Wekdienst 12/7: Wimbledon-finale mannen • Laatste optreden Harrie Jekkers",
       "beschrijving": "Goedemorgen! Vandaag speelt Sinner tegen Zverev in de Wimbledon finale voor mannen. En in Den Haag treedt cabaretier Harrie Jekkers voor het laatst op. Eerst het weer: zonnig, maar in het noorden soms ook wat bewolking. Maxima van 23 graden in het noorden tot 32 graden in Limburg. De noordelijke wind waait matig, kracht 3. Langs de westkust in de namiddag en avond soms windkracht 5. Ga je vandaag ",
       "url": "https://nos.nl/l/2622696",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +122,7 @@
       "titel": "Noorse politie blundert en vindt verkeerde bij zoektocht naar vermiste 85-jarige",
       "beschrijving": "Door een vergissing is de zoektocht naar een vermiste 85-jarige man in Noorwegen uren vertraagd. De Noorse hulpdiensten dachten de man na een paar uur zoeken te hebben gevonden, maar bleken de verkeerde voor zich te hebben. De 85-jarige man verdween vrijdagavond laat uit een zorgcentrum in Skien, in het zuiden van Noorwegen. Hij was te voet vertrokken, zijn rollator stond nog in zijn woning. Omdat",
       "url": "https://nos.nl/l/2622676",
-      "datum": "10 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,43 +131,25 @@
       "titel": "Braziliaanse vrouw (62) gered die 55 jaar als slaaf werkte voor rijke familie",
       "beschrijving": "Een Braziliaanse vrouw van 62 is bevrijd nadat ze 55 jaar als slaafgemaakte had gewerkt bij drie generaties van dezelfde familie. De zaak kwam aan het licht na een anonieme tip. De vrouw kwam in 1971 als 7-jarig meisje samen met haar moeder en jongere zus terecht bij een vermogende familie in de omgeving van Fortaleza in het noordoosten van Brazilië. De moeder zou voor haar overlijden het meisje a",
       "url": "https://nos.nl/l/2622671",
-      "datum": "11 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Witte Huis dagvaardt journalisten New York Times om artikel over Air Force One",
-      "beschrijving": "Het Witte Huis heeft vier journalisten van de Amerikaanse krant The New York Times gedagvaard. De krant berichtte deze week over gebrekkige veiligheid van president Trumps nieuwe regeringsvliegtuig Air Force One, dat een cadeau was van Qatar. Trump arriveerde deze week op de NAVO-top in het Turkse Ankara in zijn luxe, nieuwe regeringsvliegtuig. Een dag later vertrok hij echter met een ander toeste",
-      "url": "https://nos.nl/l/2622666",
-      "datum": "12 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Gevlucht voor dodelijke natuurbrand Zuid-Spanje: 'Buren kwamen waarschuwen'",
-      "beschrijving": "Twee dagen na het uitbreken van de hevige branden in de Spaanse provincie Almería krijgt de brandweer het vuur steeds beter onder controle. Mensen uit de getroffen gebieden kunnen nog niet bevatten wat hen is overkomen. Nog nooit kwamen er zo veel mensen om het leven door een natuurbrand in Spanje. Terwijl de eerste geëvacueerden al naar huis mogen, zijn er nog veel mensen voor wie dat te gevaarli",
-      "url": "https://nos.nl/l/2622665",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "US Senator Lindsey Graham passes away",
-      "beschrijving": "This is a breaking news story.",
-      "url": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss",
+      "titel": "The spectacle and symbolism of Khamenei’s funeral",
+      "beschrijving": "How coverage of the supreme leader&#039;s funeral exposed the limits of familiar narratives about Iran.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/12/the-spectacle-and-symbolism-of-khameneis-funeral?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Europa",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
-      "beschrijving": "US forces have launched a third round of strikes on Iran in a week.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "US CENTCOM completes third round of strikes on Iran",
+      "beschrijving": "US CENTCOM completes third round of strikes on Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -140,49 +158,40 @@
       "titel": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "beschrijving": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "datum": "45 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "China's second typhoon in a week makes landfall",
-      "beschrijving": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "datum": "51 min geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "beschrijving": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "beschrijving": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
-      "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "titel": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "beschrijving": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "beschrijving": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "Iran sluit Straat van Hormuz, bombardementen VS en luchtalarm in buurlanden",
-    "Iran launches attacks across the Gulf after more US strikes",
+    "IRGC releases video of retaliatory missile strikes",
+    "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
+    "Missiles and drones fired at Gulf states after night of US strikes on Iran",
+    "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
     "At least two killed in Toronto street festival shooting",
-    "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-    "Spar-supermarkten ondanks sancties nog open in Rusland: 'Dit is glad ijs'",
-    "Nieuwe verdachte aangehouden voor moord op Britse politica Ann Widdecombe",
-    "Invloedrijke Amerikaanse senator Lindsey Graham (71) overleden",
-    "Doden en gewonden door schietpartij op straatfestival in Toronto",
-    "Wekdienst 12/7: Wimbledon-finale mannen • Laatste optreden Harrie Jekkers",
-    "Noorse politie blundert en vindt verkeerde bij zoektocht naar vermiste 85-jarige"
+    "Richtingenstrijd bij Democraten in VS leidt tot zorgen over verkiezingen",
+    "Architect van het moderne, rijke Qatar sjeik Hamad (74) overleden",
+    "Orkaan Bavi veroorzaakt overstromingen en schade na aankomst in China",
+    "Nieuwe verdachte aangehouden voor moord op Britse politica Ann Widdecombe"
   ]
 }
