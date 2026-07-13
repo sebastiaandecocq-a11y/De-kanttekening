@@ -1,21 +1,39 @@
 {
-  "bijgewerkt": "13 Jul 2026 18:11 UTC",
+  "bijgewerkt": "13 Jul 2026 22:14 UTC",
   "artikelen": [
     {
       "titel": "Nederland en negen andere landen vormen coalitie tegen ballistische raketten",
       "beschrijving": "Nederland gaat samen met Oekraïne en acht andere landen een coalitie vormen die Europa moet beschermen tegen ballistische raketten. Dat is besloten tijdens een bijeenkomst van Oekraïne-bondgenoten in Parijs. \"Ons doel is om een gezamenlijke ballistische raketverdedigingscapaciteit voor Europa op te bouwen\", zeggen de landen in een gezamenlijke verklaring. Daarin wijzen ze op de groeiende dreiging ",
       "url": "https://nos.nl/l/2622871",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Person killed in shooting involving ICE agents in US state of Maine",
-      "beschrijving": "State lawmaker says one person was killed by immigration agents in Biddeford, days after another ICE shooting in Texas.",
-      "url": "https://www.aljazeera.com/news/2026/7/13/person-killed-in-shooting-involving-ice-agents-in-us-state-of-maine?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "US, Iran exchange attacks around Strait of Hormuz",
+      "beschrijving": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
+      "datum": "54 min geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
+      "beschrijving": "US CENTCOM has published a video it says shows three Corsair unmanned surface vessels striking an Iranian ship facility",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
+      "beschrijving": "Russia has escalated attacks in recent weeks, taking advantage of Ukraine’s critical shortage of air defences.",
+      "url": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -23,7 +41,7 @@
       "titel": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
       "beschrijving": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
       "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,26 +50,26 @@
       "titel": "German court convicts Iraqi couple of enslaving Yazidi girls",
       "beschrijving": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
       "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Russische oppositiepoliticus Nadezjdin opgepakt in aanloop naar verkiezingen",
-      "beschrijving": "De Russische politicus Boris Nadezjdin is weer op vrije voeten, nadat hij eerder vanmiddag werd opgepakt. Hij moet vrijdag voor de rechter verschijnen. Dat heeft hij zelf gemeld op zijn Telegramkanaal. \"De politie is gearriveerd. Ze brengen me naar het politiebureau van Dolgoproedny\", schreef Nadezjdin vanmiddag op zijn Telegramkanaal. Volgens het nieuwskanaal MSK1 was Nadezjdin echter niet aanwez",
-      "url": "https://nos.nl/l/2622860",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
+      "titel": "Nederland gaat meedoen aan militaire oefeningen met Oekraïne",
+      "beschrijving": "Nederland gaat meedoen met militaire oefeningen van de internationale troepenmacht die in Oekraïne moet worden ingezet als daar een staakt-het-vuren is ingegaan. Dat heeft premier Jetten gezegd na de bijeenkomst van de zogeheten coalitie van bereidwilligen in Parijs. De oefeningen, samen met het Oekraïense leger, moeten de komende maanden plaatsvinden in EU-buurlanden van Oekraïne, dus niet in het",
+      "url": "https://nos.nl/l/2622893",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
-      "beschrijving": "The US Treasury Department posted the new directive on its website on Monday.",
-      "url": "https://www.aljazeera.com/economy/2026/7/13/us-imposes-new-sanctions-on-cuba-tourism-ministry-state-owned-companies?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "Iran military warns US against Strait of Hormuz ‘interference’",
+      "beschrijving": "Iran&#039;s military has warned it will not allow the United States to ‘interfere’ in the management of the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
@@ -59,16 +77,43 @@
       "titel": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
       "beschrijving": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
       "url": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Rechter: Trumps omstreden schikking met belastingdienst is 'misbruik van het recht'",
+      "beschrijving": "Een Amerikaanse federale rechter oordeelt vandaag dat bij de omstreden schikking tussen president Trump en de Amerikaanse belastingdienst IRS misbruik is gemaakt van het rechtssysteem, maar ze verklaarde de overeenkomst niet ongeldig. Volgens haar gebruikte Trump de rechtszaak om persoonlijke voordelen af te dwingen en probeerde hij daarmee het gerechtelijke proces te manipuleren. De zaak draaide ",
+      "url": "https://nos.nl/l/2622901",
+      "datum": "11 min geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Hongaars parlement stemt voor afzetting president en Orbán-vertrouweling Sulyok",
+      "beschrijving": "Het Hongaarse parlement heeft ingestemd met een grondwetswijziging waarmee president Sulyok kan worden afgezet. In totaal stemden 139 parlementariërs voor de wijziging en 6 tegen. De partij van de voormalige premier Orbán boycotte de stemming. Premier Magyar wil met het afzetten van Sulyok de invloed van de voormalige premier terugdringen. Direct na zijn verkiezingswinst in april eiste Magyar het ",
+      "url": "https://nos.nl/l/2622895",
+      "datum": "2 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Archeologen uit Nederland ontdekken 3000 jaar oude graftombe in Egypte",
+      "beschrijving": "Een team van Nederlandse archeologen heeft in de buurt van de Egyptische stad Luxor een graftombe van 3000 jaar oud ontdekt. De vondst werd bekendgemaakt door het Egyptische ministerie van Toerisme en Oudheden en bevestigd door de Nederlandse archeologische expeditie. De graftombe behoorde toe aan iemand met de naam Paser, dat is een naam die veel voorkwam in die tijd. Wie hij precies was is nog o",
+      "url": "https://nos.nl/l/2622889",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "5 jaar na dodelijk hoogwater in Duitsland ebt urgentie voor maatregelen weg",
-      "beschrijving": "In één nacht verloor Hubertus Kunz alles. \"Toen het water tot de eerste verdieping steeg, klommen we het dak op\", vertelt de bewoner van Mayschloß, een dorpje langs de Ahr. De vloeren stortten in, alles van waarde spoelde weg of werd verwoest. \"We hebben alles compleet nieuw moeten opbouwen.\" Hij kan de rampnacht van 14 op 15 juli 2021 navertellen. 188 anderen in Duitsland kunnen dat niet. Ook in ",
+      "beschrijving": "In één nacht verloor Hubertus Kunz alles. \"Toen het water tot de eerste verdieping steeg, klommen we het dak op\", vertelt de bewoner van Mayschoß, een dorpje langs de Ahr. De vloeren stortten in, alles van waarde spoelde weg of werd verwoest. \"We hebben alles compleet nieuw moeten opbouwen.\" Hij kan de rampnacht van 14 op 15 juli 2021 navertellen. 188 anderen in Duitsland kunnen dat niet. Ook in B",
       "url": "https://nos.nl/l/2622885",
-      "datum": "16 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +122,7 @@
       "titel": "Vlaamse toerist neemt per ongeluk giftige schorpioen uit Egypte mee naar huis",
       "beschrijving": "Een Vlaamse toerist heeft na een reis in Egypte per ongeluk een vijfstreepschorpioen naar huis meegenomen. De 39-jarige vrouw had de giftige schorpioen in een doosje in haar handtas gestopt, nadat ze was gestoken. Ze nam het doosje mee naar het ziekenhuis, waar ze antigif kreeg toegediend. De vrouw vergat het dier vervolgens en ontdekte het doosje in Leuven bij thuiskomst in haar handtas, vertelde",
       "url": "https://nos.nl/l/2622884",
-      "datum": "35 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +131,7 @@
       "titel": "Irakees in Duitsland veroordeeld tot levenslang voor tot slaaf maken jezidi-meisjes",
       "beschrijving": "Een Duitse rechtbank heeft een man en vrouw uit Irak veroordeeld voor het uitbuiten van twee jezidi-meisjes. De kinderen werden in Irak als slaaf gehouden en verkracht. De man en vrouw hadden zich aangesloten bij terreurorganisatie Islamitische Staat (IS). De 45-jarige man moet levenslang de cel in voor onder meer genocide, oorlogsmisdrijven, misdaden tegen de menselijkheid en het verkrachten van ",
       "url": "https://nos.nl/l/2622883",
-      "datum": "40 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +140,7 @@
       "titel": "Advies aan Brussel: verbied sociale media voor kinderen onder de dertien jaar",
       "beschrijving": "De Europese Commissie moet het zelfstandig gebruik van sociale media voor kinderen onder de dertien jaar verbieden. Dat schrijft een door de Commissie zelf in het leven geroepen adviescommissie. De onderzoekers presenteerden vandaag een ruim honderd pagina's tellend rapport over de invloed van sociale media op kinderen. De Europese Commissie komt na de zomer met een voorstel om het gebruik van soc",
       "url": "https://nos.nl/l/2622872",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,94 +149,49 @@
       "titel": "Brand in vakantieregio’s: volg de adviezen en zet vluchttas klaar",
       "beschrijving": "De ANWB en kampeerorganisatie ACSI hebben nog geen vragen gehad van vakantiegangers die naar landen als Spanje of Frankrijk gaan waar natuurbranden woeden. Die branden zorgden in Spanje voor een horrorscenario, omdat mensen die daar verbleven niet op tijd weg konden. In Frankrijk werden campings geëvacueerd. In Frankrijk woedt op dit moment een grote brand bij Fontainebleau, even ten zuidoosten va",
       "url": "https://nos.nl/l/2622869",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Immigratiedienst ICE opnieuw betrokken bij fataal schietincident VS",
-      "beschrijving": "Voor de tweede week op rij is de Amerikaanse immigratiedienst ICE betrokken geweest bij een dodelijk schietincident. In de Amerikaanse plaats Biddeford kwam een persoon om, meldt voorzitter Ryan Fecteau van het Huis van Afgevaardigden van de staat Maine. Details over wat er precies gebeurd is, zijn nog schaars. De schietpartij vond vanmorgen lokale tijd plaats. Over de identiteit van het slachtoff",
-      "url": "https://nos.nl/l/2622864",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nog zeker 25 mensen in kritieke toestand na brand in Thaise uitgaansgelegenheid",
-      "beschrijving": "Nog zeker 25 mensen verkeren in kritieke toestand na de brand in een drukke bar in de Thaise hoofdstad Bangkok. Bij de brand kwamen minstens 28 mensen om het leven, meldt de Thaise krant Thairath op basis van lokale autoriteiten. Naast de doden en zwaargewonden zijn er ook zo'n veertien mensen die in het ziekenhuis liggen met verwondingen, maar van wie de toestand niet kritiek is. Een andere groep",
-      "url": "https://nos.nl/l/2622862",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Trump wil tolheffing in Straat van Hormuz, kondigt hervatting blokkade van Iran aan",
-      "beschrijving": "De Amerikaanse president Trump heeft aangekondigd dat de VS opnieuw een maritieme blokkade van Iran instelt. Alle andere landen mogen wel door de Straat van Hormuz varen, volgens Trump, maar moeten de VS een tol betalen. \"De VS zal vanaf dit moment bekend staan als de beschermer van de Straat van Hormuz\", schrijft Trump op Truth Social. Daar hangt wel een prijskaartje aan: de VS wil hiervoor een v",
-      "url": "https://nos.nl/l/2622859",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Staff at DR Congo Ebola centre strike as virus continues spreading",
-      "beschrijving": "Walkout over late payments comes as public health officials confirm that the virus has reached two more provinces.",
-      "url": "https://www.aljazeera.com/news/2026/7/13/staff-at-congo-ebola-centre-strike-as-virus-continues-spreading?traffic_source=rss",
-      "datum": "37 min geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "EU unveils $1bn fund for Gaza war recovery",
-      "beschrijving": "The scheme falls critically short of the $71bn reportedly needed for Gaza&#039;s recovery over the next 10 years.",
-      "url": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
+      "titel": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
+      "beschrijving": "Late US senator backed invasion of Iraq, war on Iran and approach of &#039;more for Israel&#039; as he became a Trump confidant.",
+      "url": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump: US will ‘take over’ Strait of Hormuz",
-      "beschrijving": "President Donald Trump has said the US will ‘take over’ the Strait of Hormuz, accusing Iran of breaking the deal.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/trump-us-will-take-over-strait-of-hormuz?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "beschrijving": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "datum": "28 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
-      "titel": "Iraqi PM heads to US seeking balance between security and economy",
-      "beschrijving": "PM Ali al-Zaidi to hold talks with Trump, with energy investment and role of pro-Iran groups likely to dominate agenda.",
-      "url": "https://www.aljazeera.com/news/2026/7/13/iraqi-pm-heads-to-us-seeking-balance-between-security-and-economy?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Senator Lindsey Graham died of aortic tear, examiner says",
-      "beschrijving": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.",
-      "url": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
-      "regio": "VS",
+      "titel": "Lindsey Graham's sister chosen as replacement after senator's death",
+      "beschrijving": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
+      "datum": "37 min geleden",
+      "regio": "Europa",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "Nederland en negen andere landen vormen coalitie tegen ballistische raketten",
-    "Person killed in shooting involving ICE agents in US state of Maine",
+    "US, Iran exchange attacks around Strait of Hormuz",
+    "US strikes Iranian ship with drone boats in first-of-its-kind attack",
+    "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
     "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
     "German court convicts Iraqi couple of enslaving Yazidi girls",
-    "Russische oppositiepoliticus Nadezjdin opgepakt in aanloop naar verkiezingen",
-    "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
+    "Nederland gaat meedoen aan militaire oefeningen met Oekraïne",
+    "Iran military warns US against Strait of Hormuz ‘interference’",
     "Sudan's paramilitary RSF chief sentenced to death over war crimes",
-    "5 jaar na dodelijk hoogwater in Duitsland ebt urgentie voor maatregelen weg",
-    "Vlaamse toerist neemt per ongeluk giftige schorpioen uit Egypte mee naar huis",
-    "Irakees in Duitsland veroordeeld tot levenslang voor tot slaaf maken jezidi-meisjes"
+    "Rechter: Trumps omstreden schikking met belastingdienst is 'misbruik van het recht'"
   ]
 }
