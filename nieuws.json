@@ -1,56 +1,101 @@
 {
-  "bijgewerkt": "14 Jul 2026 12:00 UTC",
+  "bijgewerkt": "14 Jul 2026 16:56 UTC",
   "artikelen": [
     {
-      "titel": "Can Gulf countries defend themselves against renewed Iranian attacks?",
-      "beschrijving": "Expensive interceptor missiles are facing mounting pressure from Iran&#039;s cheaply produced drones.",
-      "url": "https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
+      "titel": "Israeli attack on north Gaza police station kills eight",
+      "beschrijving": "Gaza&#039;s interior ministry denounces &#039;horrific massacre&#039; that killed station chief, other police personnel and a civilian.",
+      "url": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
+      "datum": "53 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
-      "beschrijving": "Tensions escalate as the US president threatens to destroy Iran&#039;s fortified nuclear site in the south of Tehran.",
-      "url": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
+      "titel": "Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack",
+      "beschrijving": "Speaking to Al Jazeera, leading Houthi Mohammed al-Bukhaiti warns of attacks on Saudi Arabia.",
+      "url": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
-      "beschrijving": "More than 60 people have died in ICE shootings or while in detention since Donald Trump returned to power.",
-      "url": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "VS",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "beschrijving": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Colombian national killed by ICE agent during operation in Maine",
-      "beschrijving": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
-      "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
-      "datum": "51 min geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Vijf lichamen gevonden na brand op bouwplaats Brussel, nog één vermiste",
+      "beschrijving": "De brandweer heeft na de brand op een bouwplaats in Brussel de lichamen gevonden van vijf vermisten, melden de autoriteiten aan verschillende media. Naar een zesde persoon wordt nog gezocht. Het ging vanmorgen mis bij de verbouwing van een kantoorpand aan het De Brouckèreplein, in het centrum van de stad. Er ontstond een kleine brand op de tweede verdieping van het gebouw, die snel kon worden gebl",
+      "url": "https://nos.nl/l/2622995",
+      "datum": "25 min geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "'ICE schort meeste verkeerscontroles op na dodelijke schietincidenten'",
+      "beschrijving": "De Amerikaanse immigratiedienst ICE schort voorlopig de meeste verkeerscontroles op. De maatregel volgt op twee dodelijke schietpartijen in korte tijd waarbij ICE-agenten betrokken waren, melden bronnen binnen de Amerikaanse overheid aan CBS News. ICE-agenten mogen voorlopig alleen nog voertuigen stoppen tijdens operaties tegen mensen die worden verdacht van ernstige misdrijven. De opschorting bli",
+      "url": "https://nos.nl/l/2622992",
+      "datum": "29 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Israëlisch parlement neemt vlak voor reces omstreden Thorastudie-wet aan",
+      "beschrijving": "De Knesset, het Israëlische parlement, heeft een omstreden basiswet aangenomen die Thorastudie als fundamentele waarde aanmerkt. Volgens critici kan dit de weg vrijmaken voor vrijstelling van de dienstplicht voor ultraorthodoxe jesjiva-studenten. De wet werd ingediend door de ultraorthodoxe partijen Shas en United Torah Judaism (UTJ). Volgens de wet is \"Torastudie een fundamentele waarde in het er",
+      "url": "https://nos.nl/l/2622981",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Brits mondkapjesonderzoek: ruim 11 miljard verspild door slechte voorbereiding",
+      "beschrijving": "Het Verenigd Koninkrijk heeft tijdens de coronapandemie miljarden verspild doordat het niet goed voorbereid was op de noodsituatie. Doordat bij de aanschaf van beschermingsmiddelen de vraag niet goed was afgesteld op het aanbod, werd tweederde van het materiaal nooit gebruikt, concludeert een overheidscommissie. Er werd in totaal voor 17,5 miljard euro (14,9 miljard pond) aan beschermingsmiddelen ",
+      "url": "https://nos.nl/l/2622979",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Natuurbrand bij Parijs ingedamd, hoop om vandaag controle te krijgen",
+      "beschrijving": "De grote natuurbrand in het bos van Fontainebleau, ten zuidoosten van Parijs, heeft inmiddels ruim 2050 hectare natuur verwoest. De autoriteiten hopen wel de twee brandhaarden vandaag onder controle te krijgen. Minister Nuñez van Binnenlandse Zaken zegt dat de branden inmiddels wel zijn ingedamd, maar nog niet onder controle zijn. Pierre Ory, de bestuurder van het departement Seine-et-Marne, noemd",
+      "url": "https://nos.nl/l/2622976",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vrouw van man die half uit vliegtuig werd gezogen doet verhaal",
+      "beschrijving": "\"Ik dacht: als we sterven, sterven we samen. Het was verschrikkelijk\", zegt de vrouw van de passagier die vorige week door een kapot raam van een vliegtuig bijna naar buiten werd gezogen. Ze doet haar verhaal over de horrorvlucht bij Servische en Griekse media. Het Servische echtpaar Svetlana Grkovic en Ljubisa Karovic vloog vrijdag vanuit Griekenland naar Duitsland. In Griekenland hadden ze de ve",
+      "url": "https://nos.nl/l/2622959",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Verdachten kroonjuwelenroof Louvre zwijgen over opdrachtgever",
+      "beschrijving": "Twee hoofdverdachten van de roof van Franse kroonjuwelen uit het Louvre hebben tegen de politie gezegd dat ze niet weten wie de opdrachtgever was. Dat blijkt uit de verhoren waar de krant Le Monde inzage in had. De verdachten zijn de 40-jarige Abdoulaye N., een illegale taxichauffeur, en de 36-jarige Ghelamallah A., een werkloze man die aan het syndroom van Diogenes zou lijden. Dat is een psychisc",
+      "url": "https://nos.nl/l/2622958",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Veroordeelde Marius Borg Høiby naar huis, net als geopereerde moeder Mette-Marit",
+      "beschrijving": "In Noorwegen mag Marius Borg Høiby na ruim vijf maanden de gevangenis verlaten. De aanklagers gaan niet meer in beroep tegen de beslissing van de rechtbank om de oudste zoon van kroonprinses Mette-Marit zijn voorarrest thuis met een enkelband te laten uitzitten. Dat betekent dat de 29-jarige Høiby onder elektronisch toezicht komt te staan op de kroonprinselijke residentie Skaugum. En dat op dezelf",
+      "url": "https://nos.nl/l/2622953",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Doden en vermisten bij brand in centrum Brussel",
-      "beschrijving": "Bij een brand in een gebouw in het centrum van Brussel zijn meerdere mensen om het leven gekomen. Ook zijn zes mensen vermist, melden Belgische media op basis van de lokale autoriteiten. De brand brak vanochtend vroeg uit op de tweede verdieping. Het getroffen pand, het Oxy-gebouw, wordt gerenoveerd en moet in de toekomst kantoren, appartementen en een hotel gaan huisvesten. Er waren zo'n 200 mens",
+      "beschrijving": "Bij een brand in een gebouw in het centrum van Brussel zijn meerdere mensen om het leven gekomen. Er zijn nog zes mensen vermist, melden Belgische media op basis van de lokale autoriteiten. De brand brak vanochtend vroeg uit op de tweede verdieping. Het getroffen pand, het Oxy-gebouw, wordt gerenoveerd en moet in de toekomst kantoren, appartementen en een hotel gaan huisvesten. Er waren zo'n 250 m",
       "url": "https://nos.nl/l/2622949",
-      "datum": "9 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,139 +104,49 @@
       "titel": "Staten spannen rechtszaak aan in VS om miljardendeal Warner Bros en Paramount",
       "beschrijving": "Twaalf Amerikaanse staten spannen een rechtszaak aan om de overname van Warner Bros Discovery door Paramount Skydance tegen te houden. Volgens de staten zou de overname een 'mediagigant' creëren die de macht heeft om de prijzen voor televisie- en filmconsumenten te verhogen. Als de miljardendeal doorgaat, zou Paramount onder meer 30 procent van blockbusterfilms bezitten die in Amerikaanse bioscope",
       "url": "https://nos.nl/l/2622939",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Hoge Chinese functionaris Ma Xingrui uit Communistische Partij gezet",
-      "beschrijving": "Een hoge Chinese functionaris, Ma Xingrui, is door het anti-corruptieorgaan van de Communistische Partij uit de Partij gezet. Dat meldt staatspersbureau Xinhua. Ma wordt onder meer verweten dat hij onrechtmatig banen voor anderen regelde, en dat hij familieleden hielp met de aankoop van onroerend goed tegen een prijs onder de marktwaarde. Ma was naast lid van de Communistische Partij ook lid van h",
-      "url": "https://nos.nl/l/2622932",
+      "titel": "Even if the Iran war ends, the next fossil fuel shock is already on its way",
+      "beschrijving": "To prepare, the world needs to focus on building energy independence through renewables and decentralisation.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/14/even-if-the-iran-war-ends-the-next-fossil-fuel-shock-is-already-on-its-way?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Overleden Amerikaanse senator Lindsey Graham wordt opgevolgd door zus",
-      "beschrijving": "De zus van de onlangs overleden Amerikaanse senator Lindsey Graham volgt hem op in de Senaat. Darline Graham Nordone zal tot het einde van zijn ambtstermijn in januari de positie vervullen. Ze wordt naar verwachting vandaag beëdigd. De gouverneur van de staat South Carolina kondigde het besluit gisteren aan. Graham vertegenwoordigde die staat namens de Republikeinen. De 62-jarige Nordone werd door",
-      "url": "https://nos.nl/l/2622928",
-      "datum": "3 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Natuurbrand bij Parijs nog niet onder controle: 'Grootste in decennia'",
-      "beschrijving": "In Frankrijk is de bestrijding van de grote natuurbrand bij Fontainebleau de hele nacht doorgegaan, maar de brand lijkt zich nog steeds uit te breiden. Van het 25.000 hectare grote natuurgebied ten zuidoosten van Parijs is 1900 hectare in vlammen opgegaan. \"Hij is niet onder controle\", zei minister Nuñez van Binnenlandse Zaken gisteren. De verwoesting is nu al veel groter dan bij de grootste brand",
-      "url": "https://nos.nl/l/2622927",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "14/7 in Nieuwsuur: Spanning tussen Oekraïne en Polen • Trump verbouwt Washington",
-      "beschrijving": "Spanning tussen Oekraïne en Polen Het zijn belangrijke bondgenoten in het heden, met een pijnlijk verleden. Die beladen geschiedenis staat opnieuw op scherp. Oekraïne vernoemde onlangs namelijk een militaire eenheid naar historische nationalisten die verantwoordelijk worden gehouden voor massamoorden op Polen tijdens de Tweede Wereldoorlog. Welke gevolgen heeft deze controverse voor de relatie tus",
-      "url": "https://nos.nl/l/2622924",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dodental na brand in muziekbar in Bangkok opgelopen, slachtoffers vooral Thai",
-      "beschrijving": "Het dodental van de grote brand in een muziekbar in Bangkok is opgelopen tot 30, melden de Thaise autoriteiten. Het aantal doden van de brand, die zondagavond laat uitbrak in de uitgaansgelegenheid met honderden mensen, stond op 27. Onder de doden zijn drie leden van de band die speelde toen de brand uitbrak. Volgens Thaise media zijn nu 27 mensen geïdentificeerd. 26 van hen zijn Thai, de 27e komt",
-      "url": "https://nos.nl/l/2622914",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 14/7: Uitspraak in zaak 14-jarige Tamar • Frankrijk en Spanje in halve finale WK",
-      "beschrijving": "Goedemorgen! De rechtbank in Haarlem doet uitspraak in de zaak van de 14-jarige Tamar die in 2020 bij Marken werd doodgereden. En in de VS staan Frankrijk en Spanje vanavond tegenover elkaar in de halve finale op het WK voetbal. Eerst het weer: Vandaag krijgt de zon flink wat ruimte en blijft het vrijwel overal droog. Bij een matige tot op de stranden vrij krachtige noordoostenwind wordt het 27 to",
-      "url": "https://nos.nl/l/2622908",
-      "datum": "7 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Demonstratie tegen ICE in Biddeford na doodschieten Colombiaanse migrant",
-      "beschrijving": "In de Amerikaanse plaats Biddeford in de staat Maine zijn mensen de straat op gegaan om te demonstreren tegen de aanwezigheid van immigratiedienst ICE. Aanleiding voor het protest is het doodschieten van een 26-jarige Colombiaanse migrant door een ICE-agent maandagochtend. Volgens de autoriteiten probeerde hij met zijn auto aan een controle te ontkomen. Het ministerie waaronder ICE valt zegt dat d",
-      "url": "https://nos.nl/l/2622904",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Canadese modemagnaat Nygard opnieuw veroordeeld voor seksueel geweld",
-      "beschrijving": "De Canadese modemagnaat Peter Nygard is schuldig bevonden aan seksueel geweld en gedwongen opsluiting. Welke straf hij krijgt, wordt later bepaald. Hij had eind jaren 90 een 18-jarige vrouw meegelokt naar zijn penthouse en haar vervolgens opgesloten in de slaapkamer, waar hij de vrouw misbruikte. De jonge vrouw die hij misbruikte wilde model worden en de modemagnaat had beloofd dat hij haar daarbi",
-      "url": "https://nos.nl/l/2622903",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Lebanon, Israel hold talks in Rome on implementing framework deal",
-      "beschrijving": "Beirut is hoping for progress towards securing an Israeli withdrawal from southern Lebanon.",
-      "url": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss",
-      "datum": "59 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
-      "beschrijving": "Healthcare workers at an Ebola treatment centre in the Democratic Republic of the Congo have gone on strike.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/dozens-of-healthcare-workers-in-drc-strike-amid-ebola-outbreak?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Schumer slams Trump over Iran war",
-      "beschrijving": "Schumer slams Trump over Iran war",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/schumer-slams-trump-over-iran-war?traffic_source=rss",
-      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Argentina war vets urge focus on football for England World Cup semifinal",
-      "beschrijving": "One of sport&#039;s great rivalries sees Argentina face England in an ever feisty encounter in the 2026 edition&#039;s semifinal.",
-      "url": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "beschrijving": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
-      "titel": "EU bans gold imports from Sudan to curb money financing the war",
-      "beschrijving": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
+      "titel": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "beschrijving": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
       "datum": "3 uur geleden",
-      "regio": "Wereld",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Can Gulf countries defend themselves against renewed Iranian attacks?",
-    "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
-    "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
-    "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-    "Colombian national killed by ICE agent during operation in Maine",
-    "Doden en vermisten bij brand in centrum Brussel",
-    "Staten spannen rechtszaak aan in VS om miljardendeal Warner Bros en Paramount",
-    "Hoge Chinese functionaris Ma Xingrui uit Communistische Partij gezet",
-    "Overleden Amerikaanse senator Lindsey Graham wordt opgevolgd door zus",
-    "Natuurbrand bij Parijs nog niet onder controle: 'Grootste in decennia'"
+    "Israeli attack on north Gaza police station kills eight",
+    "Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack",
+    "Vijf lichamen gevonden na brand op bouwplaats Brussel, nog één vermiste",
+    "'ICE schort meeste verkeerscontroles op na dodelijke schietincidenten'",
+    "Israëlisch parlement neemt vlak voor reces omstreden Thorastudie-wet aan",
+    "Brits mondkapjesonderzoek: ruim 11 miljard verspild door slechte voorbereiding",
+    "Natuurbrand bij Parijs ingedamd, hoop om vandaag controle te krijgen",
+    "Vrouw van man die half uit vliegtuig werd gezogen doet verhaal",
+    "Verdachten kroonjuwelenroof Louvre zwijgen over opdrachtgever",
+    "Veroordeelde Marius Borg Høiby naar huis, net als geopereerde moeder Mette-Marit"
   ]
 }
