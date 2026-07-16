@@ -1,21 +1,21 @@
 {
-  "bijgewerkt": "16 Jul 2026 07:24 UTC",
+  "bijgewerkt": "16 Jul 2026 10:12 UTC",
   "artikelen": [
     {
       "titel": "VS voert opnieuw aanvallen uit op Iran, dat zelf Golfstaten aanvalt",
       "beschrijving": "De Verenigde Staten hebben opnieuw aanvallen uitgevoerd op doelen in Iran. Het Amerikaanse militaire hoofdkwartier in het Midden-Oosten, Centcom, meldt dat een tweede aanvalsgolf is afgerond. Volgens Centcom zijn Iraanse commandocentra, luchtverdedigingslocaties, raket- en dronecapaciteiten en kustbewakingsinstallaties getroffen. De Amerikaanse strijdkrachten gebruikten volgens het hoofdkwartier p",
       "url": "https://nos.nl/l/2623174",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
-      "beschrijving": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
-      "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
-      "datum": "5 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "US launches new attacks on Iran as Tehran targets Gulf sites",
+      "beschrijving": "Iran&#039;s Health Ministry has said at least 35 people have been killed and more than 300 injured since fighting resumed.",
+      "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -23,25 +23,16 @@
       "titel": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
       "beschrijving": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
       "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Trump’s intelligence chief nominee won’t say Biden won 2020 election",
-      "beschrijving": "US President Trump’s nominee for top intel official, Jay Clayton, evaded directly stating that Biden won 2020 election",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_trumps-intel-nominee-wont-say-biden-won-160726?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "VS",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
       "titel": "Iran targets military bases as US launches wave of strikes",
       "beschrijving": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
       "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-      "datum": "18 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -50,16 +41,34 @@
       "titel": "US military to start screening for testosterone deficiency, Hegseth says",
       "beschrijving": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
       "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Twee 18-jarigen aangeklaagd voor brand Fontainebleau, Route du Soleil nog dicht",
+      "titel": "Toiletpapier op: Duitse trein stilgezet, conducteur naar supermarkt",
+      "beschrijving": "Een Duitse ICE-trein heeft afgelopen weekend een ongeplande stop gemaakt om een ongebruikelijke reden: er was geen toiletpapier aan boord. De trein van Westerland op het eiland Sylt naar Berlijn stopte op het station van Hamburg-Bergedorf. Op Instagram is een video geplaatst van een conducteur die met drie pakken wc-papier de trap naar het perron oprent en in de trein stapt. Volgens een passagier ",
+      "url": "https://nos.nl/l/2623195",
+      "datum": "31 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Elf mensen omgekomen bij brand weeshuis in Algerije",
+      "beschrijving": "Bij een brand in een weeshuis in Algerije zijn vannacht elf doden gevallen. Ook zijn er negentien gewonden. Over de leeftijd van de slachtoffers hebben de autoriteiten niets bekendgemaakt. Van de negentien gewonden hebben er tien brandwonden, twee met ademhalingsproblemen en zijn er zeven in shock. De andere kinderen uit het weeshuis zijn geëvacueerd, onder wie vijf gehandicapte kinderen. De brand",
+      "url": "https://nos.nl/l/2623194",
+      "datum": "48 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Twee 18-jarigen aangeklaagd voor brand Fontainebleau, Autoroute du Soleil nog dicht",
       "beschrijving": "Terwijl brandweerlieden in het bos van Fontainebleau ook vandaag hun handen vol hebben aan het bestrijden van de grote natuurbrand, is het onderzoek naar de oorzaak in volle gang. De Franse justitie vermoedt dat het vuur ten zuidoosten van Parijs is aangestoken. Eerder werd bekend dat er zes mensen waren aangehouden. Twee van hen zijn nu aangeklaagd, schrijven Franse media. Een van hen is een 18-j",
       "url": "https://nos.nl/l/2623188",
-      "datum": "2 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +77,7 @@
       "titel": "Twee boten bij Myanmar vermist, vrees voor leven van 500 Rohingya-vluchtelingen",
       "beschrijving": "Twee boten met meer dan 500 opvarenden worden vermist voor de kust van Myanmar. VN-organisaties vrezen dat de boten zijn gekapseisd en de opvarenden zijn omgekomen. Aan boord zouden voornamelijk Rohingya zijn geweest die Myanmar wilden ontvluchten. Volgens eerste berichten zijn de twee schepen vertrokken vanuit de deelstaat Rakhine in Myanmar, melden VN-vluchtelingenorganisatie UNHCR en Internatio",
       "url": "https://nos.nl/l/2623182",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +86,7 @@
       "titel": "Wekdienst 16/7: Uitspraak in proces Morandi-brug • Zwarte Cross begint",
       "beschrijving": "Goedemorgen! In Italië is de uitspraak in de zaak over de ingestorte Morandi-brug waarbij tientallen doden vielen en in de Tour staat vandaag een vlakke etappe op de planning. Eerst het weer: het wordt een vrij zonnige dag, maar in het noorden is er ook wat bewolking. Het wordt 24 graden in het noorden tot 31 graden in het zuiden. Later op de dag kan in het noordoosten een bui vallen. Ga je vandaa",
       "url": "https://nos.nl/l/2623177",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "Nieuwe apensoort ontdekt in Congo: zwarte aap met oranje lippen",
       "beschrijving": "In de tropische bossen van de Democratische Republiek Congo hebben wetenschappers een nieuwe aap ontdekt. Een zwarte aap met een opvallende roze-oranje gekleurde huid rond de mond blijkt een nieuwe soort. De aap werd al in 2008 voor het eerst gefotografeerd tijdens onderzoek in het gebied, maar toen konden wetenschappers nog niet vaststellen om welke soort het ging. Pas na nieuwe waarnemingen, fot",
       "url": "https://nos.nl/l/2623173",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +104,7 @@
       "titel": "VS vallen tanker aan op weg naar Iraans eiland, Curaçaose registratie betwist",
       "beschrijving": "Het Amerikaanse leger zegt een onder Curaçaose vlag varende olietanker te hebben aangevallen die onderweg was naar een Iraanse haven. Volgens het Amerikaanse militaire commando voor het Midden-Oosten (Centcom) negeerde de onbeladen tanker meerdere waarschuwingen en probeerde het schip de door de VS ingestelde blokkade van Iraanse havens en kustgebieden te doorbreken. Volgens Centcom voer de tanker",
       "url": "https://nos.nl/l/2623172",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +113,7 @@
       "titel": "Franse parlement zet historische stap, stemt in met wet over hulp bij zelfdoding",
       "beschrijving": "Na een lang en fel debat heeft het Franse parlement ingestemd met een wetsvoorstel dat ongeneeslijk zieke volwassenen recht geeft op hulp bij zelfdoding. Het Franse parlement heeft het voorstel aangenomen met 291 stemmen voor en 241 tegen. Over de wet is jarenlang gesteggeld. Driekwart van de Fransen is voorstander van hulp bij levensbeëindiging onder strikte voorwaarden, maar de Senaat lag lang d",
       "url": "https://nos.nl/l/2623155",
-      "datum": "10 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,62 +122,53 @@
       "titel": "Protest in VS na nieuwe ICE-incidenten: 'Wij moeten hen ter verantwoording roepen'",
       "beschrijving": "De Amerikaanse immigratiedienst ICE krijgt opnieuw veel kritiek na het doodschieten van twee migranten. Dit jaar werd in het hele land al massaal geprotesteerd na de dood van twee Amerikaanse staatsburgers. Nu er wederom twee migranten zijn doodgeschoten, gaan mensen in tientallen steden opnieuw de straat op. \"Aquí estamos y no nos vamos\" klinkt er over een pleintje in Washington D.C. Met dat \"wij",
       "url": "https://nos.nl/l/2623154",
-      "datum": "10 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Ook Oekraïense minister Fedorov van Defensie weggestuurd door Zelensky",
-      "beschrijving": "De Oekraïense minister van Defensie, Mychajlo Fedorov, is opgestapt. Oekraïense media schrijven dat hij door president Zelensky is weggestuurd. Fedorov was net een half jaar in functie. \"Het is een grote eer geweest om het Oekraïense volk te dienen als minister van Defensie\", zegt Fedorov op sociale media. Hij zegt niets over de reden waarom hij is teruggetreden. Zelensky heeft onlangs opnieuw de ",
-      "url": "https://nos.nl/l/2623151",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Europese Commissie accepteert verbeterplan van X om transparanter te zijn",
-      "beschrijving": "De Europese Commissie heeft een plan geaccepteerd van X waarin staat hoe het platform transparanter moet worden. Het socialemediabedrijf van zakenman Musk kreeg vorig jaar een boete van 120 miljoen euro, omdat het op meerdere punten niet voldeed aan Europese regelgeving. De Commissie noemt de voorgestelde maatregelen een belangrijke stap in de goede richting. Het moet voor gebruikers en onderzoeke",
-      "url": "https://nos.nl/l/2623150",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Former US Ambassador says Iran miscalculated Trump’s resolve",
-      "beschrijving": "Nightly strikes between the US and Iran have been the heaviest since the Memorandum of Understanding (MOU) agreement.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss",
-      "datum": "3 uur geleden",
+      "titel": "Yemen is edging closer to renewed confrontation",
+      "beschrijving": "The Iranian aircraft incident has exposed a fragile calm that may not survive a wider regional escalation.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/16/yemen-is-edging-closer-to-renewed-confrontation?traffic_source=rss",
+      "datum": "36 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Senior Chinese delegation visits North Korea for talks",
-      "beschrijving": "China&#039;s fourth-highest-ranked official, Wang Huning, held talks with a top official of North Korea&#039;s governing party.",
-      "url": "https://www.aljazeera.com/news/2026/7/16/senior-chinese-delegation-visits-north-korea-for-talks?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "China/Taiwan",
+      "titel": "Why Italy’s Genoa bridge collapse led to one of its biggest criminal trials",
+      "beschrijving": "Eight years after 43 people were killed, judges rule in the first trial over the Genoa bridge collapse.",
+      "url": "https://www.aljazeera.com/news/2026/7/16/why-italys-genoa-bridge-collapse-led-to-one-of-its-biggest-criminal-trials?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran launches strikes on Gulf, even as FM visits Qatar",
-      "beschrijving": "Iranian FM Araghchi visits Qatar to pay respects following the death of the Father Emir, Sheikh Hamad bin al Thani",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss",
-      "datum": "5 uur geleden",
+      "titel": "Vance says Epstein had connections to US, Israeli intelligence",
+      "beschrijving": "The US vice president says Epstein &#039;seemed&#039; to be connected to elements of the &#039;Israeli deep state&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/7/16/vance-says-epstein-had-connections-to-us-israeli-intelligence?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US releases video of strikes on Iran",
+      "beschrijving": "US releases video of strikes on Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/us-releases-video-of-strikes-on-iran?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "France’s Morocco reset: What French PM Lecornu’s visit to Rabat signals",
-      "beschrijving": "The trip highlights how Paris and Rabat are turning a diplomatic rapprochement into a broader strategic partnership.",
-      "url": "https://www.aljazeera.com/news/2026/7/16/frances-morocco-reset-what-french-pm-lecornus-visit-signals?traffic_source=rss",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
+      "titel": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
+      "beschrijving": "Strikes have hit closer to Tehran for the first time since the latest wave of attacks started.",
+      "url": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -176,7 +176,7 @@
       "titel": "More people around the world now favour China over the US, Pew study suggests",
       "beschrijving": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
       "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
+      "datum": "17 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -184,14 +184,14 @@
   ],
   "ticker": [
     "VS voert opnieuw aanvallen uit op Iran, dat zelf Golfstaten aanvalt",
-    "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
+    "US launches new attacks on Iran as Tehran targets Gulf sites",
     "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-    "Trump’s intelligence chief nominee won’t say Biden won 2020 election",
     "Iran targets military bases as US launches wave of strikes",
     "US military to start screening for testosterone deficiency, Hegseth says",
-    "Twee 18-jarigen aangeklaagd voor brand Fontainebleau, Route du Soleil nog dicht",
+    "Toiletpapier op: Duitse trein stilgezet, conducteur naar supermarkt",
+    "Elf mensen omgekomen bij brand weeshuis in Algerije",
+    "Twee 18-jarigen aangeklaagd voor brand Fontainebleau, Autoroute du Soleil nog dicht",
     "Twee boten bij Myanmar vermist, vrees voor leven van 500 Rohingya-vluchtelingen",
-    "Wekdienst 16/7: Uitspraak in proces Morandi-brug • Zwarte Cross begint",
-    "Nieuwe apensoort ontdekt in Congo: zwarte aap met oranje lippen"
+    "Wekdienst 16/7: Uitspraak in proces Morandi-brug • Zwarte Cross begint"
   ]
 }
