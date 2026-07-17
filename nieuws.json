@@ -1,65 +1,92 @@
 {
-  "bijgewerkt": "17 Jul 2026 16:18 UTC",
+  "bijgewerkt": "17 Jul 2026 18:08 UTC",
   "artikelen": [
     {
       "titel": "Rusland intensiveert aanvallen op Oekraïense havens aan de Zwarte Zee, drie doden",
       "beschrijving": "Rusland heeft twee Oekraïense steden aan de Zwarte Zee aangevallen. Daarbij vielen drie doden, melden de Oekraïense autoriteiten. Ondertussen zet ook Oekraïne de aanvallen op de Russische aanvoerlijnen door. Bij een Russische droneaanval op de haven van Mykolajiv raakten drie schepen beschadigd die onder een buitenlandse vlag voeren. Twee Oekraïners aan boord van een van die schepen kwamen om het ",
       "url": "https://nos.nl/l/2623379",
-      "datum": "50 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Ukraine suffers port attacks as protests persist over defence shake-up",
-      "beschrijving": "Russian attacks reportedly kill two Ukrainians aboard foreign vessel in Mykolaiv; two more killed in Kherson and Odesa.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
-      "datum": "58 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
-      "beschrijving": "Satellite images reveal strikes between July 7 and 12 on Iran’s largest nuclear power plant.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss",
-      "datum": "3 uur geleden",
+      "titel": "Iranian forces: missiles and drones fired at US targets in Gulf States",
+      "beschrijving": "Iranian forces: missiles and drones fired at US targets in Gulf States.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Olympic cyclist admits to driving despite ban after crash that killed wife",
-      "beschrijving": "Rohan Dennis pleaded guilty to driving while disqualified after police pulled him over last month.",
-      "url": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
+      "titel": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
+      "beschrijving": "Landslide has buried homes and forced more than 1,100 people to evacuate.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/eight-killed-at-least-34-missing-after-landslide-in-chinas-chongqing?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "China/Taiwan",
       "urgentie": "hoog",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Russische politicus Nadezjdin krijgt boete, uitgesloten van verkiezingen",
-      "beschrijving": "De prominente Russische politicus Boris Nadezjdin heeft een boete van 1000 roebel (omgerekend zo'n 11 euro) gekregen voor het tonen van een foto van Aleksej Navalny. Volgens de rechter valt dit onder het laten zien van \"extremistische symbolen\". Het relatief kleine geldbedrag heeft grote gevolgen: door de veroordeling mag Nadezjdin niet meedoen aan de parlementsverkiezingen in september. In aanloo",
-      "url": "https://nos.nl/l/2623341",
-      "datum": "4 uur geleden",
+      "titel": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
+      "beschrijving": "Twenty people also injured in strike on funeral procession for Palestinian killed by Israel earlier in the day.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
+      "beschrijving": "Nawaz admitted the violation and that the substance had been used in a manner unrelated to sporting performance.",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
       "beschrijving": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
       "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "200 bewoners geëvacueerd vanwege drugslab in Haagse woonwijk",
+      "beschrijving": "In een woonwijk in Den Haag worden 200 omwonenden geëvacueerd omdat in een pand een drugslab is aangetroffen. Ze worden opgevangen in het stadsdeelkantoor Segbroek. Als ze vannacht niet terug kunnen zorgt de gemeente voor opvang op Sportcampus Zuiderpark. Het lab werd vanmiddag ontdekt nadat er bij hulpdiensten een melding van stankoverlast was binnengekomen. Toen de politie het pand binnenging pr",
+      "url": "https://nos.nl/l/2623406",
+      "datum": "35 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Franse tiener die onderwijsassistent doodstak moet 18 jaar de cel in",
+      "beschrijving": "In Frankrijk moet een 15-jarige jongen achttien jaar de cel in voor het doodsteken van een onderwijsassistente op zijn school in Nogent, ten noorden van Dyon. Dat gebeurde vorig jaar tijdens een tassencontrole, bedoeld om het meenemen van steek- of vuurwapens naar middelbare scholen te voorkomen. De scholier, die toen 14 jaar was, zei eerder dat hij zich had voorgenomen om een willekeurige medewer",
+      "url": "https://nos.nl/l/2623397",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Ierse Oscarwinnares Brenda Fricker (81) overleden, bekend van Home Alone 2",
+      "beschrijving": "De Ierse actrice Brenda Fricker is op 81-jarige leeftijd overleden, meldt haar management. Fricker was de eerste Ierse vrouw die een Oscar won. Ze kreeg hem voor haar bijrol in de film My Left Foot uit 1989. Ook speelde ze bekende rollen in onder meer Home Alone 2, het Ierse filmdrama The Field en de televisieserie Casualty. In een verklaring schrijft haar agent: \"We zullen nooit meer iemand zoals",
+      "url": "https://nos.nl/l/2623393",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Rook van Canadese natuurbranden hangt dreigend boven WK-finale in New Jersey",
       "beschrijving": "De grote natuurbranden in Canada dreigen ook de finale van het WK voetbal te beïnvloeden. Uit gegevens van het Europese aardobservatieprogramma Copernicus blijkt dat de luchtkwaliteit in de regio ernstig te lijden heeft onder de branden. In steden als New York en Philadelphia is daarom een verhoogd waarschuwingsniveau van kracht. Ook in New Jersey, waar zondag zo'n 80.000 toeschouwers de finale zu",
       "url": "https://nos.nl/l/2623376",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +95,7 @@
       "titel": "Poolse president blokkeert wet voor samenlevingscontract stellen van zelfde geslacht",
       "beschrijving": "De Poolse president Nawrocki heeft zijn vetorecht gebruikt tegen twee wetten die het mensen van hetzelfde geslacht mogelijk moesten maken om een samenlevingscontract aan te gaan. De president in Polen heeft het recht om wetten te blokkeren. Met de twee wetten zouden stellen van hetzelfde geslacht het samenleven juridisch kunnen regelen, inclusief zaken rond een woning, gezamenlijke bezittingen en ",
       "url": "https://nos.nl/l/2623375",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +104,7 @@
       "titel": "Grote bosbrand in Spanje verwoest 12.000 hectare, nog niet onder controle",
       "beschrijving": "Een bosbrand in het noordoosten van Spanje heeft al meer dan 12.000 hectare bos verwoest, melden Spaanse media. De brand is nog niet onder controle. Het is de grootste bosbrand tot nu toe dit jaar in Spanje: De brand brak woensdag uit in de provincie Zaragoza in de autonome regio Aragón en omsingelt de stad Uncastillo. De president van Aragón, Jorge Azcón, noemt de brand \"extreem gevaarlijk\". Hij ",
       "url": "https://nos.nl/l/2623362",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +113,7 @@
       "titel": "17/7 in Nieuwsuur: Hoekstra's uitstootplannen • Politieoptreden tegen Molukkers • Nolans nieuwe blockbuster",
       "beschrijving": "Wopke Hoekstra's duurzaamheidsplannen Brussel wil de industrie meer tijd geven om zijn uitstoot te verminderen. Dat staat in de herziening van het emissiehandelssysteem (ETS) voor na 2030, die de Europese Commissie vandaag presenteert. In diezelfde plannen staat dat in 2040 bijna de helft van het energiegebruik in de EU elektrisch moet zijn. We praten over al deze plannen met Eurocommissaris Wopke",
       "url": "https://nos.nl/l/2623354",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +122,7 @@
       "titel": "Niet prinsessen maar geadopteerde mannen moeten Japans keizerlijk huis redden",
       "beschrijving": "Het Japanse parlement heeft voor het eerst sinds 1947 een grote wijziging aangenomen in de Wet op het Keizerlijk Huis. Voortaan kunnen mannen uit keizerlijke zijtakken worden geadopteerd, zodat hun toekomstige zonen de troon kunnen erven. De populaire prinses Aiko blijft uitgesloten. De wet moet voorkomen dat de monarchie langzaam uitsterft. De Japanse keizerlijke familie telt nog maar zestien led",
       "url": "https://nos.nl/l/2623351",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,71 +131,26 @@
       "titel": "Andy Burnham gekozen als partijleider Labour, vanaf maandag premier",
       "beschrijving": "Labour-parlementariër Andy Burnham is zojuist op een partijcongres van de Labourpartij gekozen als opvolger van premier Starmer. Daarmee is hij vanaf vandaag officieel partijleider en na maandag ook premier. Burnham kreeg 379 stemmen van de 403 Labour-parlementsleden. \"Wat een steun hebben jullie me gegeven, zei Burnham. \"We zijn verenigd vandaag.\" Hij beloofde \"hoop\" terug te geven aan de Labour-",
       "url": "https://nos.nl/l/2623346",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Doden na noodweer in Frankrijk en Duitsland, huishoudens zonder stroom",
-      "beschrijving": "Bij het noodweer in Frankrijk en Duitsland zijn vannacht mensen om het leven gekomen. In de Duitse stad Karlsruhe viel een dode, waarschijnlijk een fietser die werd geraakt door een vallende boom, meldt Bild. In Saint-Victurnien, in het zuidwesten van Frankrijk, viel een boom op een vrouw die dat niet overleefde en in Dolomieu, in het oosten, werd een dode man gevonden in zijn werkplaats. Bij de m",
-      "url": "https://nos.nl/l/2623342",
-      "datum": "4 uur geleden",
+      "titel": "Did the US just start a trade war with Brazil?",
+      "beschrijving": "Did the US just start a trade war with Brazil?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/did-the-us-just-start-a-trade-war-with-brazil?traffic_source=rss",
+      "datum": "53 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Twintig kinderen overleden bij ongeluk met schoolbus in Uganda",
-      "beschrijving": "Twintig kinderen en een volwassen man zijn om het leven gekomen bij een ongeluk met een schoolbus in het oosten van Uganda. Dat gebeurde gisteravond, meldt de politie. De kinderen waren met enkele begeleiders op de terugweg van een schoolreis. Drie volwassen mannen en een groot aantal kinderen zijn gewond geraakt. Zeker 28 kinderen zijn opgenomen in verschillende ziekenhuizen, meldt een lokale pol",
-      "url": "https://nos.nl/l/2623331",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "‘They took our toilet’: How a settlement has squeezed a Palestinian village",
       "beschrijving": "An illegal Israeli outpost set up next to Umm al-Khair in West Bank, immediately separating villagers from their land.",
       "url": "https://www.aljazeera.com/features/2026/7/17/they-took-toilet-settlement-squeezed-palestinian-village?traffic_source=rss",
-      "datum": "37 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Burnham confirmed as leader of UK’s governing Labour Party, headed for PM",
-      "beschrijving": "Andy Burnham set to become UK prime minister but faces challenges including the cost of living crisis and two wars.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "China’s Xi Jinping launches new AI alliance: What is it?",
-      "beschrijving": "Beijing is likely to use the WAICO alliance to influence global AI regulations, analysts say.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "UN urges probe into deaths in Pakistani-administered Kashmir unrest",
-      "beschrijving": "Kashmir clashes have killed 31 since June, leading UN rights chief Volker Turk to appeal for calm.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/un-urges-probe-into-deaths-in-pakistani-administered-kashmir-unrest?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Ukraine ‘cuts off’ Crimea from Russia, plunging it into an energy crisis",
-      "beschrijving": "Ukraine is ramping up short-, medium- and long-range drone production to bring Russia’s war to a standstill.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -176,22 +158,40 @@
       "titel": "Iran accuses US of hitting civilian infrastructure",
       "beschrijving": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
       "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "22 min geleden",
       "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "beschrijving": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
+      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "China hits out at British Steel nationalisation",
+      "beschrijving": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "Rusland intensiveert aanvallen op Oekraïense havens aan de Zwarte Zee, drie doden",
-    "Ukraine suffers port attacks as protests persist over defence shake-up",
-    "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
-    "Olympic cyclist admits to driving despite ban after crash that killed wife",
-    "Russische politicus Nadezjdin krijgt boete, uitgesloten van verkiezingen",
+    "Iranian forces: missiles and drones fired at US targets in Gulf States",
+    "Eight killed, at least 34 missing after landslide in China’s Chongqing",
+    "Israeli attacks on Gaza kill 14, including mourners attending funeral",
+    "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
     "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-    "Rook van Canadese natuurbranden hangt dreigend boven WK-finale in New Jersey",
-    "Poolse president blokkeert wet voor samenlevingscontract stellen van zelfde geslacht",
-    "Grote bosbrand in Spanje verwoest 12.000 hectare, nog niet onder controle",
-    "17/7 in Nieuwsuur: Hoekstra's uitstootplannen • Politieoptreden tegen Molukkers • Nolans nieuwe blockbuster"
+    "200 bewoners geëvacueerd vanwege drugslab in Haagse woonwijk",
+    "Franse tiener die onderwijsassistent doodstak moet 18 jaar de cel in",
+    "Ierse Oscarwinnares Brenda Fricker (81) overleden, bekend van Home Alone 2",
+    "Rook van Canadese natuurbranden hangt dreigend boven WK-finale in New Jersey"
   ]
 }
