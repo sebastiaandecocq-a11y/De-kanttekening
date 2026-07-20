@@ -1,21 +1,21 @@
 {
-  "bijgewerkt": "20 Jul 2026 13:09 UTC",
+  "bijgewerkt": "20 Jul 2026 15:53 UTC",
   "artikelen": [
     {
       "titel": "VS en Iran blijven elkaar aanvallen, olieprijs verder omhoog",
       "beschrijving": "De VS heeft voor de negende nacht op rij Iran aangevallen. Iran heeft op zijn beurt Bahrein aangevallen, waar de Amerikaanse marine een basis heeft. Ook in Koeweit waren explosies te horen. Volgens het Amerikaanse militaire commando voor het Midden-Oosten, Centcom, waren de aanvallen gericht op Iraanse militaire commandocentra, luchtverdedigings- en kustbewakingslocaties, lanceerinstallaties voor ",
       "url": "https://nos.nl/l/2623719",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
-      "beschrijving": "Analysts say Iran is using Gulf states to pressure Washington while avoiding direct confrontation with US forces.",
-      "url": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss",
+      "titel": "What we know about US soldiers killed in Iran war, and Iranian casualties",
+      "beschrijving": "Trump has expressed sadness and vowed to hit Iran &#039;very hard&#039; to honour killed US soldiers.",
+      "url": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Iran",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -23,52 +23,43 @@
       "titel": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
       "beschrijving": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
       "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+      "beschrijving": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
       "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Utah firefighter and four family members killed in flash flooding",
-      "beschrijving": "A husband, wife and their three sons died - meaning that only a daughter who did not join the outing is still alive.",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
-      "datum": "55 min geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "US soldier killed and one injured after Iranian attack in Iraq",
-      "beschrijving": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "datum": "17 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "beschrijving": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "datum": "18 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Food delivery rider wins China's top literary prize",
-      "beschrijving": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "titel": "Demonstratie in Bologna na overlijden man bij gewelddadige arrestatie",
+      "beschrijving": "In de Noord-Italiaanse stad Bologna zijn mensen de straat op gegaan na het overlijden van een man bij een arrestatiepoging gisteren. Op beelden is te zien hoe politieagenten op de man zitten terwijl hij meermaals om hulp roept. Kort daarna blijft de man roerloos op de grond liggen. De 43-jarige Abderrahim Fakir was een ondernemer met een klein verhuis- en schoonmaakbedrijf. Gisterochtend belden bu",
+      "url": "https://nos.nl/l/2623770",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Houthi's kondigen maritieme blokkade aan tegen Saudi-Arabië",
+      "beschrijving": "De Houthi-rebellen in Jemen hebben een maritieme blokkade tegen Saudi-Arabië afgekondigd. Volgens een woordvoerder van de door Iran gesteunde beweging is de blokkade per direct van kracht. In een televisietoespraak verklaarden de Houthi's dat zij een \"maritiem embargo tegen de criminele Saudische vijand\" instellen. De groep zegt daarmee te reageren op wat zij omschrijft als een bijna twaalf jaar d",
+      "url": "https://nos.nl/l/2623764",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Weer burgemeester van Turkse oppositiepartij opgepakt",
       "beschrijving": "Bij een inval bij het stadskantoor van Izmit zijn burgemeester Fatma Kaplan Hürriyet van de Turkse stad en tientallen anderen opgepakt. Het Turkse OM heeft in totaal 31 arrestatiebevelen uitgevaardigd voor het vormen van een criminele organisatie, omkoping en manipulatie van aanbestedingsprocedures. Er zijn tot nu toe 28 personen gearresteerd, schrijft Turkse nieuwssite NTV. Volgens het Turkse sta",
       "url": "https://nos.nl/l/2623749",
-      "datum": "55 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +68,7 @@
       "titel": "Indiase politie zet traangas en wapenstokken in bij Kakkerlakken-protest",
       "beschrijving": "Duizenden demonstranten in New Delhi zijn vandaag geclasht met de Indiase politie. Aanhangers van de Kakkerlakken-protestbeweging marcheerden naar het parlement om het aftreden van de minister van Onderwijs te eisen. Het is de grootste confrontatie met de regering die de beweging tot nu toe heeft gehad. De oprichter is opgepakt. De Kakkerlakken-beweging demonstreert tegen corruptie in India. Het s",
       "url": "https://nos.nl/l/2623743",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +77,7 @@
       "titel": "Burnham beëdigd als Britse premier, Starmer officieel afgezwaaid",
       "beschrijving": "Andy Burnham is de nieuwe premier van het Verenigd Koninkrijk. Op Buckingham Palace werd hij beëdigd door koning Charles, die hem formeel heeft gevraagd om een regering te vormen. Burnham is de zevende premier in tien jaar tijd. \"De zorg voor mensen zal centraal staan in alles wat ik doe\", sprak hij na zijn bezoek aan de koning. \"Ik zal mijn uiterste best doen\", beloofde hij. \"Ik heb jullie gehoor",
       "url": "https://nos.nl/l/2623742",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,16 +86,16 @@
       "titel": "Fontein stort in bij WK-viering in Spanje, jongen (13) overleden",
       "beschrijving": "In het westen van Spanje is een jongen van 13 om het leven gekomen toen hij met andere voetbalfans de overwinning vierde van Spanje in de WK-finale. Na afloop van de wedstrijd verzamelden jongeren uit Ciudad Rodrigo zich in en op een oude fontein in het centrum van het stadje. Het bovenste gedeelte begaf het en kwam op de jonge feestvierders terecht. De 13-jarige raakte zwaargewond. Hij stierf kor",
       "url": "https://nos.nl/l/2623741",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "AliExpress krijgt Europese boete van 550 miljoen voor verkoop illegale producten",
-      "beschrijving": "De Europese Commissie legt de Chinese webwinkel AliExpress een boete op van 550 miljoen euro, omdat het bedrijf onvoldoende zijn best doet om de verkoop van illegale producten te voorkomen. Uit het onderzoek van de Europese Commissie blijkt dat miljoenen producten waarvan AliExpress zelf vaststelde dat ze illegaal zijn, toch steeds weer opnieuw online kwamen. Het gaat dan bijvoorbeeld om gevaarlij",
+      "beschrijving": "De Europese Commissie legt de Chinese webwinkel AliExpress een boete op van 550 miljoen euro, omdat het bedrijf onvoldoende zijn best doet om de verkoop van illegale producten te voorkomen. AliExpress zegt in beroep te gaan tegen de boete. Uit het onderzoek van de Europese Commissie blijkt dat miljoenen producten waarvan AliExpress zelf vaststelde dat ze illegaal zijn, toch steeds weer opnieuw onl",
       "url": "https://nos.nl/l/2623734",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +104,7 @@
       "titel": "50 jaar na landing Viking-missie: nog steeds kans op leven op Mars",
       "beschrijving": "Precies een halve eeuw geleden, op 20 juli 1976, landde de eerste van twee zware Viking-landers op Mars. Op aarde vielen vluchtleiders elkaar onder luid gejuich in de armen. Extatisch zagen ze de eerste foto ooit van het Marsoppervlak langzaam op hun schermen verschijnen, beeldlijn voor beeldlijn. Een buitenaardse zandwoestijn vol stenen. Daarna gingen Viking 1, en wat later ook Viking 2, op zoek ",
       "url": "https://nos.nl/l/2623730",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,61 +113,70 @@
       "titel": "Tientallen mensen vermist na kapseizen veerboot in Guyana",
       "beschrijving": "In het Zuid-Amerikaanse Guyana zijn vrijwel zeker tientallen mensen omgekomen na het kapseizen zaterdag van een veerboot. Sinds gistermiddag zijn er geen overlevenden meer gevonden. Officieel had de boot 133 mensen aan boord, maar vermoedelijk waren dat er veel meer. Van de 67 overlevenden stonden er 32 niet op de passagierslijst. De kapitein en een ander bemanningslid zijn opgepakt. Zij zouden on",
       "url": "https://nos.nl/l/2623712",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Wekdienst 20/7: Weer een nieuwe premier in het VK • Rechtszaak om gijzeling gevangenispersoneel",
-      "beschrijving": "Goedemorgen! Het Verenigd Koninkrijk krijgt zijn zevende premier in tien jaar en de man die in een café in Ede een aantal mensen gijzelde, staat nu terecht voor het gijzelen van gevangenismedewerkers. Eerst het weer: het is vandaag wisselend zonnig en bewolkt. Op veel plaatsen blijft het droog. Alleen in het binnenland is vanmiddag een lichte regenbui mogelijk. Het wordt 20 tot 23 graden en er waa",
-      "url": "https://nos.nl/l/2623701",
-      "datum": "8 uur geleden",
+      "titel": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
+      "beschrijving": "The US has escalated attacks on Iranian roads, bridges and power plants, and Iran too, has responded.",
+      "url": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Petro to give farewell speech amid Colombia transfer-of-power tensions",
+      "beschrijving": "The outgoing president has called for protests as he continues to dispute the results of last month&#039;s election.",
+      "url": "https://www.aljazeera.com/news/2026/7/20/petro-to-give-farewell-speech-amid-colombia-transfer-of-power-tensions?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "FDA: testuitslag die sla linkte aan diarree-uitbraak in VS was valspositief",
-      "beschrijving": "Een monster van gesneden ijsbergsla van een Amerikaans bedrijf is afgelopen week ten onrechte gelinkt aan een grote diarree-uitbraak in de Verenigde Staten. Voedselautoriteit FDA zegt in een verklaring dat er sprake was van een valspositieve test. De FDA zegt dat uit een tweede controle in het laboratorium is gebleken dat op een slamonster van het bedrijf Taylor Farms geen sporen zaten van de para",
-      "url": "https://nos.nl/l/2623700",
-      "datum": "10 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Don’t believe Andy Burnham’s PR machine",
-      "beschrijving": "As his empty Gaza apology clearly demonstrates, he will not bring the radical change Labour really needs.",
-      "url": "https://www.aljazeera.com/opinions/2026/7/20/dont-believe-andy-burnhams-pr-machine?traffic_source=rss",
-      "datum": "54 min geleden",
+      "titel": "Israeli ministers and settlers call for return to Gaza settlements",
+      "beschrijving": "‘Gaza is ours.’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran says Spain World Cup win brings joy to critics of US, Israel",
-      "beschrijving": "Iran praises Spain&#039;s win over Argentina after Spanish government&#039;s condemnation of policies on Gaza and war on Iran.",
-      "url": "https://www.aljazeera.com/sports/2026/7/20/iran-says-spain-world-cup-win-brought-joy-to-critics-of-us-israel?traffic_source=rss",
+      "titel": "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
+      "beschrijving": "Thousands gathered across Gaza to watch the World Cup final, with many backing Spain over its support for Palestinians.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/why-palestinians-in-gaza-are-celebrating-spains-world-cup-win?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
+      "beschrijving": "Veteran negotiator assumes Palestinian group&#039;s overall leadership following a wartime election process.",
+      "url": "https://www.aljazeera.com/news/2026/7/20/who-is-khalil-al-hayya-hamas-newly-elected-political-chief?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Hamas names Khalil al-Hayya as new overall leader",
+      "beschrijving": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
+      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
-      "beschrijving": "Al-Hayya was previously one of the five-member leadership council after previous Hamas chief Yahya Sinwar was killed.",
-      "url": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
       "beschrijving": "The couple welcomed their fourth child, Alec Neel Vance, on Sunday morning.",
       "url": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -184,14 +184,14 @@
   ],
   "ticker": [
     "VS en Iran blijven elkaar aanvallen, olieprijs verder omhoog",
-    "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
+    "What we know about US soldiers killed in Iran war, and Iranian casualties",
     "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-    "Utah firefighter and four family members killed in flash flooding",
-    "US soldier killed and one injured after Iranian attack in Iraq",
-    "Russia launches major ballistic missile attack on Ukrainian cities",
-    "Food delivery rider wins China's top literary prize",
+    "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+    "Demonstratie in Bologna na overlijden man bij gewelddadige arrestatie",
+    "Houthi's kondigen maritieme blokkade aan tegen Saudi-Arabië",
     "Weer burgemeester van Turkse oppositiepartij opgepakt",
     "Indiase politie zet traangas en wapenstokken in bij Kakkerlakken-protest",
-    "Burnham beëdigd als Britse premier, Starmer officieel afgezwaaid"
+    "Burnham beëdigd als Britse premier, Starmer officieel afgezwaaid",
+    "Fontein stort in bij WK-viering in Spanje, jongen (13) overleden"
   ]
 }
