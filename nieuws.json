@@ -1,11 +1,11 @@
 {
-  "bijgewerkt": "20 Jul 2026 23:59 UTC",
+  "bijgewerkt": "21 Jul 2026 03:35 UTC",
   "artikelen": [
     {
       "titel": "Een webwinkel als militair doelwit: waarom Oekraïne Wildberries aanvalt",
       "beschrijving": "Oekraïne heeft in de afgelopen dagen meerdere distributiecentra van Wildberries aangevallen, de grootste online marktplaats van Rusland. Oekraïne stelt dat in de magazijnen van de webwinkel onderdelen voor drones en navigatieapparatuur lagen opgeslagen. Deze aantijging roept de vraag op of Wildberries meer is dan een simpele webwinkel. Maar ook: mocht Oekraïne deze magazijnen wel aanvallen? Wat is",
       "url": "https://nos.nl/l/2623805",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,17 +14,26 @@
       "titel": "Hoe raketten in Iran leiden tot duurdere rijst in Japan: 'Kwestie van overleven'",
       "beschrijving": "Norihito Morishima kijkt uit over zijn rijstvelden in Haga, zo'n twee uur ten noorden van hoofdstad Tokio. Zijn armen zijn gevouwen. \"De komende jaren worden heel moeilijk\", zegt hij. Na Amerikaanse luchtaanvallen op Iran, groeit opnieuw de vrees voor verstoringen van de wereldhandel. Dat raakt niet alleen olie en gas, maar ook kunstmest. \"Ik had nooit gedacht dat een oorlog duizenden kilometers v",
       "url": "https://nos.nl/l/2623785",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
-      "beschrijving": "Police say a possible political motive is under investigation in the killing of the Reform UK figure.",
-      "url": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss",
-      "datum": "37 min geleden",
-      "regio": "Wereld",
+      "titel": "US attacks Iran for 10th consecutive night",
+      "beschrijving": "Washington vows revenge for US military casualties, while Iran claims attacks on US sites across the region.",
+      "url": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
+      "beschrijving": "Explosions reported in Iran&#039;s Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Iran",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -32,7 +41,7 @@
       "titel": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
       "beschrijving": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
       "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -41,16 +50,34 @@
       "titel": "Van democratie naar dictatuur: president schaft verkiezingen in Nicaragua af",
       "beschrijving": "In Nicaragua zullen geen verkiezingen meer gehouden worden. Dat heeft Daniel Ortega, de leider van het Midden-Amerikaanse land, gezegd in een toespraak. Hoewel de autoritaire Ortega al jaren laat zien zich weinig van verkiezingen en democratische processen aan te trekken, kunnen de uitspraken van de voormalige guerrillaleider worden opgevat als de definitieve doodsteek voor de democratie van het l",
       "url": "https://nos.nl/l/2623818",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Afrika",
       "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "US military releases footage of tenth consecutive night of strikes on Iran",
+      "beschrijving": "US Central Command (CENTCOM) released footage of its forces launching the latest round of strikes against Iran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss",
+      "datum": "19 min geleden",
+      "regio": "Iran",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Trump kondigt importheffingen op Canadese goederen aan",
+      "beschrijving": "De Amerikaanse president Trump heeft importheffingen van vijftig procent aangekondigd op een groot aantal goederen uit Canada. Volgens hem zijn de maatregelen een reactie op wat hij omschrijft als oneerlijke handelspraktijken. Trump verwijt Canada op het gebied van auto's, alcohol en zuivel niet eerlijk te handelen en noemt het een \"discriminerende behandeling\". De Amerikaanse president beroept zi",
+      "url": "https://nos.nl/l/2623819",
+      "datum": "2 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Reddingspoging in Ohio loopt uit op drama: vijf volwassenen verdronken",
       "beschrijving": "In de Scioto-rivier in de Amerikaanse staat Ohio zijn vijf mensen verdronken. Een van hen raakte tijdens het zwemmen in de problemen, waarna anderen uit de groep het water in gingen om te helpen. De sheriff van Delaware County zei dat een groep mensen gisteravond naar de rivier was gegaan bij Powell, een voorstad van Columbus, om \"van de zomeravond te genieten en onder meer te vissen\". Toen een va",
       "url": "https://nos.nl/l/2623810",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +86,7 @@
       "titel": "Drukke eerste dag voor Britse premier Burnham: beëdiging, belletjes en benoemingen",
       "beschrijving": "De beëdiging door koning Charles, een speech, gesprekken met Trump en Von Der Leyen, en benoemingen van ministers. De nieuwe Britse premier Andy Burnham heeft een drukke eerste dag achter de rug. De 56-jarige Burnham werd vandaag formeel gevraagd door de koning om een regering te vormen. Tijdens zijn eerste toespraak kondigde hij al aan grote plannen te hebben. \"Ik heb jullie gehoord: we zijn niet",
       "url": "https://nos.nl/l/2623803",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +95,7 @@
       "titel": "Schaaklegende Judit Polgár ziet af van Hongaars presidentschap: 'Kracht niet voor'",
       "beschrijving": "De Hongaarse schaakgrootmeester Judit Polgár wil geen president van Hongarije worden. Dat maakte ze vandaag bekend, een dag nadat premier Péter Magyar had aangekondigd haar voor te dragen voor het grotendeels ceremoniële ambt. Polgár schrijft op Facebook dat ze vereerd is met het verzoek, maar de verantwoordelijkheid niet op zich wil nemen. \"Ik voel niet dat ik de kracht heb om de historische taak",
       "url": "https://nos.nl/l/2623802",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +104,7 @@
       "titel": "Rechter schort overname Warner Bros. door Paramount voorlopig op",
       "beschrijving": "Een Amerikaanse federale rechter heeft de voorgenomen overname van Warner Bros. Discovery door Paramount Skydance voorlopig opgeschort. De deal mag de komende twee weken niet worden afgerond. Zo moet worden voorkomen dat de bedrijven de deal afronden voordat de bezwaren van enkele staten door de rechtbank zijn behandeld. Twaalf Amerikaanse staten, onder leiding van Californië, spanden vorige week ",
       "url": "https://nos.nl/l/2623801",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +113,7 @@
       "titel": "Mexicaanse drugsbaron El Mayo veroordeeld tot levenslang in VS",
       "beschrijving": "De Mexicaanse kartelbaas Ismael 'El Mayo' Zambada is in de VS veroordeeld tot een levenslange straf. De aanklagers zeggen dat hij als hoofd van het Sinaloakartel opdracht tot martelingen en moorden gaf. Hij moet ook een boete betalen van 15 miljard dollar. De 76-jarige Zambada richtte samen met Joaquín 'El Chapo' Guzmán in de jaren 70 het beruchte Sinaloakartel op. Het duo bouwde het kartel uit to",
       "url": "https://nos.nl/l/2623799",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,35 +122,35 @@
       "titel": "Frankrijk beschuldigt Iran van intimidatie en mishandeling ambassadepersoneel",
       "beschrijving": "Frankrijk beschuldigt de Iraanse veiligheidsdiensten van een \"ernstige intimidatieactie\" tegen twee medewerkers van de Franse ambassade in Iran. Volgens de Franse minister van Buitenlandse Zaken Jean-Noël Barrot werden de twee diplomaten gisteravond zonder reden vastgehouden en ondervraagd. Een van de medewerkers zou daarbij zijn mishandeld, schrijft Barrot op X. De twee konden uren later terugker",
       "url": "https://nos.nl/l/2623788",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Voorlopig geen boetes voor olie- en gasbedrijven die EU-regel voor methaan overtreden",
-      "beschrijving": "De Europese Commissie adviseert EU-landen voorlopig geen boetes op te leggen aan bedrijven die nieuwe klimaatregels voor de uitstoot van methaan schenden. Die regels gaan in vanaf 2027. Volgens de Commissie mag de wet namelijk nooit tot gevolg hebben dat de energiezekerheid van de EU in gevaar komt. Experts en EU-landen waarschuwen daarvoor. Doel van de regels is het tegengaan van de uitstoot van ",
-      "url": "https://nos.nl/l/2623782",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "War on Iran: War resumes 30 days after MoU",
-      "beschrijving": "30 days into the US-Iran MoU the worst fighting in months has erupted threatening to unravel the ceasefire.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
+      "titel": "Lebanese return to ‘pilot zone’ villages they say Israel never occupied",
+      "beschrijving": "Under a US-brokered plan, Israel is to hand over control of some areas it occupies in Lebanon to Lebanese government.",
+      "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss",
+      "datum": "5 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
-      "beschrijving": "US president insists Netanyahu will not be arrested, despite ICC warrant.",
-      "url": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
+      "titel": "Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?",
+      "beschrijving": "A series of diplomatic consultations in Cairo underscores the Horn of Africa&#039;s growing strategic importance.",
+      "url": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss",
+      "datum": "42 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why protests are growing in Ukraine over defence leadership and dismissals",
+      "beschrijving": "Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_protests-in-kyiv-over-defence-minister-dismissal-200726?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -131,7 +158,7 @@
       "titel": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
       "beschrijving": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
       "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "53 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -140,7 +167,7 @@
       "titel": "Merger deal between Paramount and Warner Bros paused by judge",
       "beschrijving": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
       "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -149,13 +176,13 @@
   "ticker": [
     "Een webwinkel als militair doelwit: waarom Oekraïne Wildberries aanvalt",
     "Hoe raketten in Iran leiden tot duurdere rijst in Japan: 'Kwestie van overleven'",
-    "Suspect charged in fatal attack on UK politician Ann Widdecombe",
+    "US attacks Iran for 10th consecutive night",
+    "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
     "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
     "Van democratie naar dictatuur: president schaft verkiezingen in Nicaragua af",
+    "US military releases footage of tenth consecutive night of strikes on Iran",
+    "Trump kondigt importheffingen op Canadese goederen aan",
     "Reddingspoging in Ohio loopt uit op drama: vijf volwassenen verdronken",
-    "Drukke eerste dag voor Britse premier Burnham: beëdiging, belletjes en benoemingen",
-    "Schaaklegende Judit Polgár ziet af van Hongaars presidentschap: 'Kracht niet voor'",
-    "Rechter schort overname Warner Bros. door Paramount voorlopig op",
-    "Mexicaanse drugsbaron El Mayo veroordeeld tot levenslang in VS"
+    "Drukke eerste dag voor Britse premier Burnham: beëdiging, belletjes en benoemingen"
   ]
 }
