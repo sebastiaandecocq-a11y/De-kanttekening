@@ -1,30 +1,66 @@
 {
-  "bijgewerkt": "22 Jul 2026 03:33 UTC",
+  "bijgewerkt": "22 Jul 2026 06:32 UTC",
   "artikelen": [
     {
-      "titel": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-      "beschrijving": "Trump threatens to bomb a suspected Iranian nuclear site called Pickaxe Mountain &#039;very heavily&#039;.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US attacks Iran for 11th consecutive night",
-      "beschrijving": "Explosions reported in northwestern Iran&#039;s Tabriz, capital Tehran and across southern Iran.",
-      "url": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US targets China in move to ban military-grade drone imports",
-      "beschrijving": "Proposed rules would have US regulator block the entry of swarm-capable drones, mainly from China.",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
+      "titel": "Hangars, schepen, bruggen en tunnels: dit hebben Iran en de VS gebombardeerd",
+      "beschrijving": "Ruim twee weken woedt in het Midden-Oosten nu weer een luchtoorlog tussen Iran en de VS. Dagelijks zijn er raket- en droneaanvallen, maar wat is bekend over getroffen doelwitten? \"Iran lijkt een duidelijkere strategie te hebben dan de VS\", zegt oud-luchtmachtcommandant Patrick Bolder. Bij de Iraanse aanvallen valt onder meer op dat Jordanië vaak is bestookt. Net als de andere onder vuur genomen la",
+      "url": "https://nos.nl/l/2623948",
       "datum": "1 uur geleden",
-      "regio": "China/Taiwan",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 22/7: 15 jaar na aanslag op Noors Utøya • Tweede dag Nijmeegse Vierdaagse",
+      "beschrijving": "Goedemorgen! Vandaag wordt een politiebureau geopend in het huis waar Adolf Hitler werd geboren in Oostenrijk. En lopers zijn begonnen aan de tweede dag van de Nijmeegse Vierdaagse. Eerst het weer: vandaag is het overwegend bewolkt en af en toe valt er een bui. Bij een matige tot vrij krachtige noordwestenwind wordt het 19 tot 22 graden. Ga je vandaag op pad? Hier vind je het overzicht van de file",
+      "url": "https://nos.nl/l/2623944",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "15 jaar later is Breivik nog steeds inspiratiebron bij aanslagen",
+      "beschrijving": "Het is vandaag vijftien jaar geleden dat de extreemrechtse terrorist Anders Breivik 77 mensen in Noorwegen vermoordde bij een bomaanslag in Oslo en een schietpartij op het eiland Utøya. Hij publiceerde daarbij een 1500 pagina's tellend document waarin hij zijn daden verklaarde. Dat manifest dient nog steeds als inspiratiebron voor nieuwe aanslagplegers, zeggen experts. In mei dit jaar openden twee",
+      "url": "https://nos.nl/l/2623942",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "US expands strikes on 11th straight night of attacks",
+      "beschrijving": "The US military’s 11th consecutive night of strikes extended to Iranian provinces not previously hit.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
+      "beschrijving": "Gaza mourns as families are buried after Israeli attacks leave dozens dead, including children and displaced families.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "beschrijving": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Can Pakistan-administered Kashmir’s election overcome a violent summer?",
+      "beschrijving": "After months of protests and a crackdown, Pakistan-administered Kashmir heads into elections clouded by uncertainty.",
+      "url": "https://www.aljazeera.com/features/2026/7/22/can-pakistan-administered-kashmirs-election-overcome-a-violent-summer?traffic_source=rss",
+      "datum": "19 min geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
@@ -32,7 +68,7 @@
       "titel": "Zelensky sacks Ukraine's top army commander after days of protests",
       "beschrijving": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
       "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "54 min geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -41,16 +77,16 @@
       "titel": "Vorig jaar flink minder Amazoneregenwoud afgebrand",
       "beschrijving": "Na jaren van alarmerende berichten over het Braziliaanse Amazoneregenwoud is er nu een beetje goed nieuws. Sinds het begin van de metingen, in 1985, brandde er nog nooit zo weinig bos af. Volgens MapBiomas, dat de ontbossing monitort, ging het in 2025 om een gebied van zo'n 3,1 miljoen hectare. Dat is een sterke daling met 2024, toen er nog 15,8 miljoen hectare Amazoneregenwoud in vlammen op ging.",
       "url": "https://nos.nl/l/2623941",
-      "datum": "57 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Man die uit vliegtuig gezogen werd: \"Hoofd en nek doen pijn, maar ik leef nog\"",
+      "titel": "Man die uit vliegtuig gezogen werd: 'Hoofd en nek doen pijn, maar ik leef nog'",
       "beschrijving": "De man die eerder deze maand aan de dood ontsnapte nadat hij bijna door een kapot raam in een vliegtuig naar buiten werd gezogen, is uit het ziekenhuis. Ljubisa Karovic heeft verwondingen over zijn lichaam: \"Ik heb geluk gehad.\" De Serviër doet zijn verhaal bij de Britse krant The Guardian. Hij zegt dat hij zich niet veel van het incident kan herinneren, behalve \"de explosie\": \"Mijn hoofd en nek d",
       "url": "https://nos.nl/l/2623940",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +95,7 @@
       "titel": "Reisadviezen Midden-Oosten aangescherpt vanwege opgelaaid geweld Iran en VS",
       "beschrijving": "Het ministerie van Buitenlandse Zaken heeft de reisadviezen voor een aantal landen in het Midden-Oosten aangescherpt. Volgens het ministerie is de situatie er verslechterd. Voor Qatar, Jordanië, Saudi-Arabië, Koeweit en de Verenigde Arabische Emiraten geldt nu een oranje reisadvies. Dat betekent dat vakanties naar die landen worden afgeraden en dat geadviseerd wordt alleen naar die landen te reize",
       "url": "https://nos.nl/l/2623939",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,16 +104,16 @@
       "titel": "Olietanker van Nederlandse rederij draait om in Rode Zee. Nóg een zeestraatblokkade?",
       "beschrijving": "De problemen rond de Straat van Hormuz zijn nog niet opgelost, of ook rond een tweede belangrijke vaarroute lopen spanningen op. Houthi-rebellen uit Jemen zeggen alle schepen tegen te houden die met een Saudische lading door de straat van Bab el-Mandeb willen varen. Om die reden keerde een olietanker van een Nederlandse rederij om in de Rode Zee, ten noorden van de zeestraat. Wat is er aan de hand",
       "url": "https://nos.nl/l/2623932",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "President Zelensky stuurt ook legerchef Syrsky weg",
-      "beschrijving": "De Oekraïense commandant der strijdkrachten Oleksandr Syrsky wordt ontslagen. President Zelensky heeft dat bekendgemaakt op sociale media, zonder reden te geven. Syrsky's ontslag werd vorige week meermaals geëist door betogers. Syrsky was ruim 2,5 jaar de aanvoerder van het Oekraïense leger. Hij is niet de eerste hooggeplaatste leider die de afgelopen tijd door Zelensky wordt weggestuurd. Zo onder",
+      "beschrijving": "De Oekraïense commandant der strijdkrachten Oleksandr Syrsky wordt ontslagen. President Zelensky heeft dat bekendgemaakt op sociale media, zonder reden te geven. Syrsky's ontslag werd de afgelopen dagen meermaals geëist door betogers. Syrsky was ruim 2,5 jaar de aanvoerder van het Oekraïense leger. Hij is niet de eerste hooggeplaatste leider die de afgelopen tijd door Zelensky wordt weggestuurd. Z",
       "url": "https://nos.nl/l/2623927",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +122,7 @@
       "titel": "Smithsonian bijt van zich af na kritiek van Witte Huis: 'We moeten hele verhaal vertellen'",
       "beschrijving": "De directeur van het National Museum of American History in Washington wijst de scherpe kritiek van het Witte Huis op haar functioneren van de hand. Haar museum werd in een rapport weggezet als een bolwerk van \"radicale activisten\" die \"niet willen dat je van je land houdt\". Maar vaderlandsliefde hoeft niet automatisch neer te komen op blind patriottisme, vindt directeur Anthea Hartig. Die liefde ",
       "url": "https://nos.nl/l/2623926",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,103 +131,67 @@
       "titel": "Franse parlement stemt in met verbod op sociale media voor kinderen onder 15",
       "beschrijving": "Het Franse parlement heeft ingestemd met een wet die kinderen onder de 15 jaar verbiedt sociale media te gebruiken. Daarmee is Frankrijk het eerste land in de Europese Unie dat een algemeen verbod op sociale media voor kinderen invoert. De Franse regering wil met de wet kinderen beter beschermen tegen de schadelijke effecten van sociale media. De doelstelling is dat de regels in september ingaan, ",
       "url": "https://nos.nl/l/2623924",
-      "datum": "8 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Weer protest van 'Kakkerlakbeweging' India, oppositieleider aangehouden",
-      "beschrijving": "Duizenden aanhangers van de zogenoemde Kakkerlakbeweging in India hebben opnieuw gedemonstreerd in hoofdstad New Delhi. Oppositieleider Rahul Gandhi deed ook mee aan het protest tegen de regering, maar werd door agenten afgevoerd. Het protest volgt een dag na hevige confrontaties tussen de politie en betogers bij een grote protestmars in de stad. \"We zullen niet opnieuw marcheren, omdat de politie",
-      "url": "https://nos.nl/l/2623922",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
+      "titel": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
+      "beschrijving": "US Defense Secretary Pete Hegseth gets into a heated exchange after being called a failed leader by Michigan Senator.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Ondanks 'dronisering' moeten in Polen ook tanks van de band blijven rollen",
-      "beschrijving": "Tussen de bomen in het grensgebied van Polen en Rusland verschijnen de silhouetten van drie ronkende tanks. Zeven kilometer verderop is de grens met de Russische exclave Kaliningrad. Als een oorlog uitbreekt, dan wordt die waarschijnlijk hier uitgevochten. \"Onze missie is zoals altijd: ons voorbereiden op de verdediging van het land\", zegt brigadegeneraal Roman Brudlo van de 9e cavaleriebrigade va",
-      "url": "https://nos.nl/l/2623921",
-      "datum": "9 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
+      "beschrijving": "NYC Mayor Zohran Mamdani releases a video statement calling for Israeli PM Netanyahu to face trial for war crimes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Oeroude Aboriginal rotskunst bedreigd door Australisch aardgasproject",
-      "beschrijving": "Het Australische hooggerechtshof neemt deze week de verlenging en uitbreiding van een aardgasproject in het noordwesten van het land onder de loep. In september vorig jaar gaf de minister voor Natuur groen licht voor de gigantische aardgasverwerker, die nu tot 2070 actief mag blijven. Maar volgens deskundigen en de traditionele bewoners van het gebied tast de industrie mogelijk eeuwenoude Aborigin",
-      "url": "https://nos.nl/l/2623920",
-      "datum": "9 uur geleden",
+      "titel": "More than 140 dead, missing on refugee boat stranded off Mauritania",
+      "beschrijving": "Boat carrying migrants and refugees from Africa ran out of fuel, leading to a tragedy with 143 dead and 38 rescued.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "France becomes first EU country to officially ban social media for children",
+      "beschrijving": "France will ban social media for under-15s from September 1, following the UK and Australia’s moves toward blanket bans.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/france-becomes-first-eu-country-to-officially-ban-social-media-for-children?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
     },
     {
       "titel": "How armed group alliances are reshaping Mali’s conflict and the wider Sahel",
       "beschrijving": "A deadly attack near Anefis exposes the growing challenges facing Mali&#039;s military leaders.",
       "url": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss",
-      "datum": "53 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon",
-      "beschrijving": "Gavito: Israel will likely keep pushing limits in Lebanon, making a full withdrawal unlikely amid security concerns.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_gavito-cant-see-pilot-zones-working-in-lebanon-210726?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Leopard caught on camera storming into a store in Rajasthan, India",
-      "beschrijving": "A leopard storms into a store in Rajasthan, India, attacking an employee and causing panic.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/leopard-caught-on-camera-storming-into-a-store-in-rajasthan-india?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
-      "beschrijving": "The Lebanese army has begun deploying in three southern towns as part of a US-backed framework agreement with Israel.",
-      "url": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "beschrijving": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "beschrijving": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-    "US attacks Iran for 11th consecutive night",
-    "US targets China in move to ban military-grade drone imports",
+    "Hangars, schepen, bruggen en tunnels: dit hebben Iran en de VS gebombardeerd",
+    "Wekdienst 22/7: 15 jaar na aanslag op Noors Utøya • Tweede dag Nijmeegse Vierdaagse",
+    "15 jaar later is Breivik nog steeds inspiratiebron bij aanslagen",
+    "US expands strikes on 11th straight night of attacks",
+    "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
+    "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+    "Can Pakistan-administered Kashmir’s election overcome a violent summer?",
     "Zelensky sacks Ukraine's top army commander after days of protests",
     "Vorig jaar flink minder Amazoneregenwoud afgebrand",
-    "Man die uit vliegtuig gezogen werd: \"Hoofd en nek doen pijn, maar ik leef nog\"",
-    "Reisadviezen Midden-Oosten aangescherpt vanwege opgelaaid geweld Iran en VS",
-    "Olietanker van Nederlandse rederij draait om in Rode Zee. Nóg een zeestraatblokkade?",
-    "President Zelensky stuurt ook legerchef Syrsky weg",
-    "Smithsonian bijt van zich af na kritiek van Witte Huis: 'We moeten hele verhaal vertellen'"
+    "Man die uit vliegtuig gezogen werd: 'Hoofd en nek doen pijn, maar ik leef nog'"
   ]
 }
