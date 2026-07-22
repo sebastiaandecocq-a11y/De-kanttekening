@@ -1,11 +1,20 @@
 {
-  "bijgewerkt": "22 Jul 2026 09:29 UTC",
+  "bijgewerkt": "22 Jul 2026 11:49 UTC",
   "artikelen": [
+    {
+      "titel": "Acht gewonden bij Oekraïense aanvallen op magazijnen van Russische webwinkel",
+      "beschrijving": "Bij Oekraïense aanvallen op distributiecentra van Wildberries, de grootste online retailer van Rusland, zijn acht mensen gewond geraakt. Dat schrijft de oprichter van het bedrijf, Tatjana Kim, op Telegram. Volgens haar waren magazijnen van de webwinkel in Krasnodar en Nevinnomysk, in het zuiden van Rusland, doelwit. Bij het distributiecentrum in Krasnodar zijn volgens lokale hulpverleners drie men",
+      "url": "https://nos.nl/l/2623972",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Hangars, schepen, bruggen en tunnels: dit hebben Iran en de VS gebombardeerd",
       "beschrijving": "Ruim twee weken woedt in het Midden-Oosten nu weer een luchtoorlog tussen Iran en de VS. Dagelijks zijn er raket- en droneaanvallen, maar wat is bekend over getroffen doelwitten? \"Iran lijkt een duidelijkere strategie te hebben dan de VS\", zegt oud-luchtmachtcommandant Patrick Bolder. Bij de Iraanse aanvallen valt onder meer op dat Jordanië vaak is bestookt. Net als de andere onder vuur genomen la",
       "url": "https://nos.nl/l/2623948",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,7 +23,7 @@
       "titel": "Wekdienst 22/7: 15 jaar na aanslag op Noors Utøya • Tweede dag Nijmeegse Vierdaagse",
       "beschrijving": "Goedemorgen! Vandaag wordt een politiebureau geopend in het huis waar Adolf Hitler werd geboren in Oostenrijk. En lopers zijn begonnen aan de tweede dag van de Nijmeegse Vierdaagse. Eerst het weer: vandaag is het overwegend bewolkt en af en toe valt er een bui. Bij een matige tot vrij krachtige noordwestenwind wordt het 19 tot 22 graden. Ga je vandaag op pad? Hier vind je het overzicht van de file",
       "url": "https://nos.nl/l/2623944",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -23,35 +32,44 @@
       "titel": "15 jaar na massamoord op Noors eiland is Breivik nog steeds inspiratiebron bij aanslagen",
       "beschrijving": "Het is vandaag vijftien jaar geleden dat de extreemrechtse terrorist Anders Breivik 77 mensen in Noorwegen vermoordde bij een bomaanslag in Oslo en een schietpartij op het eiland Utøya. Hij publiceerde daarbij een 1500 pagina's tellend document waarin hij zijn daden verklaarde. Dat manifest dient nog steeds als inspiratiebron voor nieuwe aanslagplegers, zeggen experts. In mei dit jaar openden twee",
       "url": "https://nos.nl/l/2623942",
-      "datum": "5 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Air defences activate in Iran and flames rise from US attacks",
-      "beschrijving": "Explosions could be heard over Tehran as the US army said it had completed its 11th consecutive day of strikes on Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/air-defences-activate-in-iran-and-flames-rise-from-us-attacks?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
       "titel": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
       "beschrijving": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
       "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Al Jazeera reports from anti-US protest outside ASEAN summit",
-      "beschrijving": "Al Jazeera reports from anti-US protest outside ASEAN summit",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/al-jazeera-reports-from-anti-us-protest-outside-asean-summit?traffic_source=rss",
-      "datum": "29 min geleden",
-      "regio": "Wereld",
+      "titel": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+      "beschrijving": "Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
+      "datum": "45 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ukraine hits more warehouses of top Russian online retailer",
+      "beschrijving": "Ukrainian drones have hit two more warehouses belonging to Russia’s biggest online retailer Wildberries.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ukraine-hits-more-warehouses-of-top-russian-online-retailer?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Russia reports injuries after top online retailer Wildberries hit again",
+      "beschrijving": "Company CEO says logistics centres in Krasnodar and Nevinnomyssk evacuated days after workers killed in earlier attack.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/russia-reports-injuries-after-top-online-retailer-wildberries-hit-again?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
@@ -59,16 +77,43 @@
       "titel": "Zelensky sacks Ukraine's top army commander after days of protests",
       "beschrijving": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
       "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Koraans restaurant serveert mieren als garnering, kok riskeert celstraf",
+      "beschrijving": "Een restauranteigenaar in Zuid-Korea riskeert een jaar celstraf omdat hij mieren heeft geserveerd. Volgens het ministerie van Voedselveiligheid gebruikte hij de mieren duizenden keren als garnering in een gerecht. Het restaurant en de eigenaar worden niet bij naam genoemd, maar volgens Zuid-Koreaanse media gaat het om een zaak in de hoofdstad Seoul met twee Michelin-sterren. De eigenaar zou een st",
+      "url": "https://nos.nl/l/2623994",
+      "datum": "3 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Oorlog met Iran kostte volgens regering-Trump 33 miljard en daar blijft het niet bij",
+      "beschrijving": "De oorlog met Iran heeft de VS volgens minister Hegseth van Defensie al bijna 33 miljard euro gekost. Dat zei hij op een hoorzitting van de Senaat, waar hij een verzoek van president Trump verdedigde om nog eens 79 miljard euro vrij te maken voor de defensiebegroting. Ook dat geld is voornamelijk bedoeld voor de oorlog tegen Iran. Of het bedrag van 33 miljard klopt, is onduidelijk. Het is niet bek",
+      "url": "https://nos.nl/l/2623986",
+      "datum": "20 min geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Neergestort vliegtuig na 74 jaar gevonden bij kust van Puerto Rico",
+      "beschrijving": "In de oceaan voor de kust van Puerto Rico hebben onderzoekers het wrak gevonden van een vliegtuig dat in 1952 is neergestort. Bij de crash kwamen 52 mensen om het leven. Het vliegtuig, de Clipper Endeavor van de Amerikaanse luchtvaartmaatschappij Pan Am, stortte neer, omdat kort na het opstijgen de motoren waren uitgevallen. Alle inzittenden van het vliegtuig hadden de harde landing op het water o",
+      "url": "https://nos.nl/l/2623973",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Japan protesteert tegen Chinese oefening op zee met scherp",
       "beschrijving": "Japan meldt voor het eerst dat een Chinees marineschip op zee met scherpe munitie heeft geoefend in een gebied dat Tokio tot zijn exclusieve economische zone rekent. De oefening was zondag bij Okinotorishima, een afgelegen eilandje in de Stille Oceaan. De spanning tussen Japan en China loopt daardoor op. In de buurt voer ook een Russisch oorlogsschip. De oefening is onderdeel van de steeds nauwere",
       "url": "https://nos.nl/l/2623970",
-      "datum": "1 min geleden",
+      "datum": "2 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +122,7 @@
       "titel": "Saxofonist Plas Johnson overleden, bekend van de Pink Panther-melodie",
       "beschrijving": "De Amerikaanse jazzsaxofonist Plas Johnson is op 94-jarige leeftijd overleden, melden zijn kinderen aan The New York Times. Beroemd is zijn tijdloze solo in het nummer The Pink Panther Theme voor de gelijknamige film uit 1963. Later werd de tune gebruikt bij de populaire tekenfilmserie Pink Panther. Johnson was al een grote naam in de jazz-wereld, maar werd pas bij het grote publiek bekend door zi",
       "url": "https://nos.nl/l/2623964",
-      "datum": "7 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,80 +131,35 @@
       "titel": "Grote natuurbrand tussen Marseille en Nice, zeker 400 mensen geëvacueerd",
       "beschrijving": "In het Zuid-Franse departement Var, tussen Marseille en Nice, woedt een grote natuurbrand. Zo'n vierhonderd bewoners van het gebied zijn gevlucht, meer dan 2500 hectare natuur is verwoest. Een onbekend aantal bewoners en brandweerlieden moest zich laten behandelen, omdat ze rook hadden ingeademd. Inmiddels is het vuur onder controle, maar dat betekent niet dat het overal uit is. \"Het was geen rust",
       "url": "https://nos.nl/l/2623956",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Vorig jaar flink minder Amazoneregenwoud afgebrand",
-      "beschrijving": "Na jaren van alarmerende berichten over het Braziliaanse Amazoneregenwoud is er nu een beetje goed nieuws. Sinds het begin van de metingen, in 1985, brandde er nog nooit zo weinig bos af. Volgens MapBiomas, dat de ontbossing monitort, ging het in 2025 om een gebied van zo'n 3,1 miljoen hectare. Dat is een sterke daling met 2024, toen er nog 15,8 miljoen hectare Amazoneregenwoud in vlammen op ging.",
-      "url": "https://nos.nl/l/2623941",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Man die uit vliegtuig gezogen werd: 'Hoofd en nek doen pijn, maar ik leef nog'",
-      "beschrijving": "De man die eerder deze maand aan de dood ontsnapte nadat hij bijna door een kapot raam in een vliegtuig naar buiten werd gezogen, is uit het ziekenhuis. Ljubisa Karovic heeft verwondingen over zijn lichaam: \"Ik heb geluk gehad.\" De Serviër doet zijn verhaal bij de Britse krant The Guardian. Hij zegt dat hij zich niet veel van het incident kan herinneren, behalve \"de explosie\": \"Mijn hoofd en nek d",
-      "url": "https://nos.nl/l/2623940",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Reisadviezen Midden-Oosten aangescherpt vanwege opgelaaid geweld Iran en VS",
-      "beschrijving": "Het ministerie van Buitenlandse Zaken heeft de reisadviezen voor een aantal landen in het Midden-Oosten aangescherpt. Volgens het ministerie is de situatie er verslechterd. Voor Qatar, Jordanië, Saudi-Arabië, Koeweit en de Verenigde Arabische Emiraten geldt nu een oranje reisadvies. Dat betekent dat vakanties naar die landen worden afgeraden en dat geadviseerd wordt alleen naar die landen te reize",
-      "url": "https://nos.nl/l/2623939",
-      "datum": "10 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Olietanker van Nederlandse rederij draait om in Rode Zee. Nóg een zeestraatblokkade?",
-      "beschrijving": "De problemen rond de Straat van Hormuz zijn nog niet opgelost, of ook rond een tweede belangrijke vaarroute lopen spanningen op. Houthi-rebellen uit Jemen zeggen alle schepen tegen te houden die met een Saudische lading door de straat van Bab el-Mandeb willen varen. Om die reden keerde een olietanker van een Nederlandse rederij om in de Rode Zee, ten noorden van de zeestraat. Wat is er aan de hand",
-      "url": "https://nos.nl/l/2623932",
-      "datum": "12 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
-      "beschrijving": "Defense Secretary Pete Hegseth tells US senators that the war has cost the US $37.5bn so far.",
-      "url": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest?traffic_source=rss",
-      "datum": "45 min geleden",
+      "titel": "US Secretary of State say Iran is in ‘a lot of trouble’",
+      "beschrijving": "US Secretary of State say Iran is in ‘a lot of trouble’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-secretary-of-state-say-iran-is-in-a-lot-of?traffic_source=rss",
+      "datum": "44 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Chelsea signs Morgan Rogers from Aston Villa in record British deal",
-      "beschrijving": "The 23-year-old Rogers, one of the Premier League&#039;s top attacking talents, has signed a contract until 2033.",
-      "url": "https://www.aljazeera.com/sports/2026/7/22/chelsea-sign-morgan-rogers-from-aston-villa-in-record-british-deal?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Lebanese army deployed in ‘pilot zone’ as families wait to return home",
+      "beschrijving": "Lebanese army deployed in ‘pilot zone’ as families wait to return home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/lebanese-army-deployed-in-pilot-zone-as-families-wait-to-return-home?traffic_source=rss",
+      "datum": "55 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says",
-      "beschrijving": "US Secretary of State says Iranian control over Strait of Hormuz sets &#039;dangerous precedent&#039;, as attacks continue.",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Algeria: Toxic colonisation",
-      "beschrijving": "The French army’s illegal use of chemical weapons in Algeria’s war of independence, as revealed by testimony and documents.",
-      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/7/22/algeria-toxic-colonisation?traffic_source=rss",
+      "titel": "America’s decades-old bipartisan consensus on Israel has been shattered",
+      "beschrijving": "The Democratic establishment has faced growing pressure to change its stance on Israel. It has finally begun to do so.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/22/americas-decades-old-bipartisan-consensus-on-israel-has-been-shattered?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -167,7 +167,7 @@
       "titel": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
       "beschrijving": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
       "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "datum": "51 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,22 +176,22 @@
       "titel": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
       "beschrijving": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
       "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Acht gewonden bij Oekraïense aanvallen op magazijnen van Russische webwinkel",
     "Hangars, schepen, bruggen en tunnels: dit hebben Iran en de VS gebombardeerd",
     "Wekdienst 22/7: 15 jaar na aanslag op Noors Utøya • Tweede dag Nijmeegse Vierdaagse",
     "15 jaar na massamoord op Noors eiland is Breivik nog steeds inspiratiebron bij aanslagen",
-    "Air defences activate in Iran and flames rise from US attacks",
     "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-    "Al Jazeera reports from anti-US protest outside ASEAN summit",
+    "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+    "Ukraine hits more warehouses of top Russian online retailer",
+    "Russia reports injuries after top online retailer Wildberries hit again",
     "Zelensky sacks Ukraine's top army commander after days of protests",
-    "Japan protesteert tegen Chinese oefening op zee met scherp",
-    "Saxofonist Plas Johnson overleden, bekend van de Pink Panther-melodie",
-    "Grote natuurbrand tussen Marseille en Nice, zeker 400 mensen geëvacueerd"
+    "Koraans restaurant serveert mieren als garnering, kok riskeert celstraf"
   ]
 }
