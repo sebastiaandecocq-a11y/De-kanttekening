@@ -1,11 +1,20 @@
 {
-  "bijgewerkt": "24 Jul 2026 20:23 UTC",
+  "bijgewerkt": "24 Jul 2026 22:08 UTC",
   "artikelen": [
+    {
+      "titel": "27 doden bij vuurgevecht na aanslag op controlepost in Pakistan",
+      "beschrijving": "Bij een zelfmoordaanslag met een autobom op een controlepost in Pakistan en een daaropvolgend vuurgevecht zijn in totaal 27 mensen om het leven gekomen. Onder hen zijn twaalf militairen en twee agenten, meldt het Pakistaanse leger. De lokale Taliban, bekend als Tehreek-e-Taliban Pakistan, ook wel bekend als TTP, heeft de aanslag opgeëist. Aan de kant van de militanten vielen twaalf doden. Het lege",
+      "url": "https://nos.nl/l/2624347",
+      "datum": "59 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Zeker 10 doden, veel gewonden bij Russische aanval op wapenbeurs in Kyiv",
       "beschrijving": "Bij een Russische raketaanval op de Oekraïense hoofdstad Kyiv zijn aan het eind van de ochtend zeker tien mensen omgekomen en ruim honderd gewonden gevallen. De Oekraïense president Zelensky heeft de aanval bevestigd op sociale media. De luchtaanval leek gericht tegen een evenement van de wapenindustrie. Oekraïense defensiebedrijven en -leveranciers kwamen vandaag bijeen op een terrein langs een s",
       "url": "https://nos.nl/l/2624319",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,34 +23,16 @@
       "titel": "Vier Palestijnen en twee Israëliërs gedood bij schietpartij op Westoever",
       "beschrijving": "Vier Palestijnen en twee Israëliërs zijn om het leven gekomen bij een schietpartij op de bezette Westelijke Jordaanoever. Nog eens vier Palestijnen en twee Israëliërs raakten gewond. Het vuurgevecht vond plaats in de omgeving van Nablus. Israëlische kolonisten zouden vanochtend vroeg het dorp Tell zijn binnengevallen. Volgens het Israëlische leger had een inwoner het wapen van een Israëlische beve",
       "url": "https://nos.nl/l/2624318",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Car bomb attack kills 27 in northwest Pakistan",
-      "beschrijving": "The Pakistani Taliban said four suicide bombers carried out the assault in the country&#039;s northwest.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/car-bomb-attack-kills-27-in-northwest-pakistan?traffic_source=rss",
+      "titel": "Israeli settlers escalate attacks on Palestinians near Nablus",
+      "beschrijving": "Israeli settlers have set fire to Palestinian homes and vehicles in villages near Nablus",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Trump’s Israel condition on Saudi nuclear deal",
-      "beschrijving": "Trump’s Israel condition on Saudi nuclear deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/trumps-israel-condition-on-saudi-nuclear-deal?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israel raids hospital, shuts off Nablus following deadly settler attack",
-      "beschrijving": "Israel has arrested wounded Palestinians in a hospital as it shuts off Nablus following Friday’s deadly settler attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-raids-hospital-shuts-off-nablus-following-deadly-settler-attack?traffic_source=rss",
-      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
@@ -50,7 +41,7 @@
       "titel": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "beschrijving": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -59,7 +50,7 @@
       "titel": "Four Palestinians and two Israelis killed in West Bank shooting",
       "beschrijving": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
       "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -68,7 +59,7 @@
       "titel": "Nigeria's president approves largest military expansion in recent times",
       "beschrijving": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
       "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -77,7 +68,7 @@
       "titel": "World chess chief faces endgame after EU announces Russia war sanctions",
       "beschrijving": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
       "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -86,7 +77,7 @@
       "titel": "Politieboot vaart tegen Westminster Bridge in Londen, vijf agenten gewond",
       "beschrijving": "Op de rivier de Theems in Londen zijn vijf politieagenten gewond geraakt bij een aanvaring met de Westminster Bridge. De politieboot waarop ze zich bevonden voer halverwege de middag tegen de brug, waarbij een aantal agenten te water raakte. Ooggetuigen zeggen tegen de BBC dat de agenten zo'n 10 minuten in het water lagen voordat ze door een andere politieboot werden gered. Bij die reddingsactie i",
       "url": "https://nos.nl/l/2624338",
-      "datum": "55 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +86,7 @@
       "titel": "Verdriet en trauma zitten diep na aardbeving Venezuela: 'Mijn vrouw wil hier weg'",
       "beschrijving": "Een maand na de verwoestende aardbeving in Venezuela zoeken hulpteams, familieleden en vele vrijwilligers nog altijd tussen het puin naar overlevenden. De kans dat die gevonden worden is minimaal. Lichamen die tussen de ingestorte gebouwen worden gevonden, worden intussen zo veel mogelijk geïdentificeerd en begraven. Volgens de Venezolaanse regering zijn er tot nu toe meer dan 5000 doden en zo'n 1",
       "url": "https://nos.nl/l/2624333",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +95,7 @@
       "titel": "'Hoofdaanklager Internationaal Strafhof ontslagen vanwege seksueel wangedrag'",
       "beschrijving": "De hoofdaanklager van het Internationaal Strafhof (ICC), Karim Khan, wordt ontslagen. Hij wordt door een van zijn assistenten beschuldigd van seksueel wangedrag. Een grote meerderheid van de lidstaten heeft voor zijn ontslag gestemd, melden diplomatieke bronnen aan persbureaus AP en Reuters. Khan werd geschorst nadat uit onderzoek van het ICC \"ernstig wangedrag\" door Khan naar voren was gekomen. V",
       "url": "https://nos.nl/l/2624332",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +104,7 @@
       "titel": "22-jarige Ouadoud uit Zeist vermist in Tanger, familie zoekt dag en nacht",
       "beschrijving": "De 22-jarige Ouadoud Rabbaj uit Zeist wordt sinds zondag vermist. Hij was samen met zijn ouders op vakantie in de Marokkaanse stad Tanger en verliet de woning waar het gezin verbleef. Sindsdien ontbreekt van hem ieder spoor. Familieleden en de Marokkaanse politie zijn een zoektocht gestart. \"We werken met ochtend-, middag- en avondploegen. We spreken mensen aan en vragen of ze mijn broertje hebben",
       "url": "https://nos.nl/l/2624328",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,7 +113,7 @@
       "titel": "Recordaantal natuurbranden in Frankrijk, nog nooit zo'n grote oppervlakte verbrand eind juli",
       "beschrijving": "Natuurbranden hebben eind deze maand in Frankrijk een recordoppervlakte verwoest. Ook het aantal branden brak een record. Door opeenvolgende hittegolven is de natuur uitgedroogd. Hoewel het nog geen augustus is, ontstond dit jaar al 311 keer brand. Zeker de streek rond Bordeaux is hard getroffen. Dat blijkt uit cijfers van Copernicus, een dienst van de Europese Commissie die de aarde volgt met sat",
       "url": "https://nos.nl/l/2624327",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -131,7 +122,7 @@
       "titel": "Fel debat over geweld in Italië, 'extremer dan radicaalrechts' ruikt kans",
       "beschrijving": "Een demonstratie in Italië tegen geweld van de politie resulteerde afgelopen week in geweld tegen de politie. Bij dat protest in Bologna raakten tientallen agenten gewond. Het protest was georganiseerd uit solidariteit met de 42-jarige Abderrahim Fakir, een Italiaan van Marokkaanse afkomst die zondag overleed tijdens een arrestatie. Tegelijkertijd houdt een andere geruchtmakende zaak de Italiaanse",
       "url": "https://nos.nl/l/2624317",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -140,58 +131,67 @@
       "titel": "Scheuring bij Poolse partij PiS, veertig parlementsleden verlaten partij",
       "beschrijving": "De Poolse conservatief-nationalistische partij PiS verliest een groot aantal parlementsleden. Tientallen parlementariërs willen een gematigdere koers varen dan partijvoorzitter Jaroslaw Kaczynski. Zij zeggen nu uit de partij te zijn gezet, volgens Kaczynski hebben ze zelf hun partijlidmaatschap opgezegd. Kaczynski koos in maart van dit jaar de uiterst rechtse Przemyslaw Czarnek als premierskandida",
       "url": "https://nos.nl/l/2624308",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Autobom onderschept vlak bij Noord-Ierse grens, explosief was klaar voor gebruik",
-      "beschrijving": "De Ierse politie heeft deze week een autobom onderschept die werd vervoerd naar Noord-Ierland. Dat heeft de politie vandaag bekendgemaakt. De auto waarmee de bom werd vervoerd werd woensdag tegengehouden ten zuiden van de Ierse plaats Carrickmacross, op een ruim een kwartier rijden van de Noord-Ierse grens. Een speciale recherche-eenheid deed daar onderzoek naar \"dissidente republikeinse activitei",
-      "url": "https://nos.nl/l/2624305",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
+      "titel": "China, Philippine coastguard vessels clash in South China Sea",
+      "beschrijving": "China, Philippine coastguard vessels clash in South China Sea.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss",
+      "datum": "39 min geleden",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "ICC prosecutor Khan removed over ‘politicised’ sex abuse claims: Sources",
-      "beschrijving": "Khan&#039;s team claim the case is a reaction to his pursuit of an arrest warrant against Israel’s Benjamin Netanyahu.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss",
+      "titel": "Paramount agrees to pause Warner Bros deal while court case plays out",
+      "beschrijving": "The delay, filed in court on Friday, can cost Paramount $1.7bn in fees if the deal is not closed by next June.",
+      "url": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
+      "datum": "40 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran’s Abbas Araghchi vows ‘we fear no one’",
+      "beschrijving": "Iranian Foreign Minister Abbas Araghchi said Iran does not fear threats or &#039;succumb to pressures&#039;.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss",
+      "datum": "43 min geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
+      "beschrijving": "Sebastia in the occupied West Bank and five Lebanese castles get emergency listing despite Israeli objections.",
+      "url": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "US school shooter pleads guilty in Georgia following father’s conviction",
-      "beschrijving": "Colt Gray pleads guilty to killing two students and two teachers in 2024 attack, which upped scrutiny of parental role.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/us-school-shooter-pleads-guilty-in-georgia-following-fathers-conviction?traffic_source=rss",
+      "titel": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
+      "beschrijving": "Houthi-controlled foreign ministry warns that the attack will spark further escalation in the Yemeni conflict.",
+      "url": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
-      "beschrijving": "Omani delegation in Iran to discuss managing traffic in the strait, which has become the main focus of the US conflict.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
+    "27 doden bij vuurgevecht na aanslag op controlepost in Pakistan",
     "Zeker 10 doden, veel gewonden bij Russische aanval op wapenbeurs in Kyiv",
     "Vier Palestijnen en twee Israëliërs gedood bij schietpartij op Westoever",
-    "Car bomb attack kills 27 in northwest Pakistan",
-    "Trump’s Israel condition on Saudi nuclear deal",
-    "Israel raids hospital, shuts off Nablus following deadly settler attack",
+    "Israeli settlers escalate attacks on Palestinians near Nablus",
     "Ten killed in Russian attack on drone exhibition near Kyiv",
     "Four Palestinians and two Israelis killed in West Bank shooting",
     "Nigeria's president approves largest military expansion in recent times",
     "World chess chief faces endgame after EU announces Russia war sanctions",
-    "Politieboot vaart tegen Westminster Bridge in Londen, vijf agenten gewond"
+    "Politieboot vaart tegen Westminster Bridge in Londen, vijf agenten gewond",
+    "Verdriet en trauma zitten diep na aardbeving Venezuela: 'Mijn vrouw wil hier weg'"
   ]
 }
