@@ -1,21 +1,30 @@
 {
-  "bijgewerkt": "24 Jul 2026 14:59 UTC",
+  "bijgewerkt": "24 Jul 2026 16:51 UTC",
   "artikelen": [
     {
-      "titel": "Five killed in occupied West Bank after Israeli settlers attack",
-      "beschrijving": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Till",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Zeker 10 doden, veel gewonden bij Russische aanval op wapenbeurs in Kyiv",
+      "beschrijving": "Bij een Russische raketaanval op de Oekraïense hoofdstad Kyiv zijn aan het eind van de ochtend zeker tien mensen omgekomen en ruim honderd gewonden gevallen. De Oekraïense president Zelensky heeft de aanval bevestigd op sociale media. De luchtaanval leek gericht tegen een evenement van de wapenindustrie. Oekraïense defensiebedrijven en -leveranciers kwamen vandaag bijeen op een terrein langs een s",
+      "url": "https://nos.nl/l/2624319",
+      "datum": "5 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
-      "titel": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
-      "beschrijving": "Six people also killed in Ukrainian attack on Russia’s Kirov, and Wildberries warehouses hit again.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Vier Palestijnen en twee Israëliërs gedood bij schietpartij op Westoever",
+      "beschrijving": "Vier Palestijnen en twee Israëliërs zijn om het leven gekomen bij een schietpartij op de bezette Westelijke Jordaanoever. Nog eens vier Palestijnen en twee Israëliërs raakten gewond. Het vuurgevecht vond plaats in de omgeving van Nablus. Israëlische kolonisten zouden vanochtend vroeg het dorp Tell zijn binnengevallen. Volgens het Israëlische leger had een inwoner het wapen van een Israëlische beve",
+      "url": "https://nos.nl/l/2624318",
+      "datum": "7 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
+      "beschrijving": "Four Palestinians and two Israelis killed after about 20 settlers raid the village of Tal in occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss",
+      "datum": "46 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -23,25 +32,61 @@
       "titel": "Four Palestinians and two Israelis killed in West Bank shooting",
       "beschrijving": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
       "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "datum": "17 min geleden",
+      "datum": "13 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Activist Kakkerlakken-beweging in India stopt met hongerstaking, protest gaat door",
-      "beschrijving": "De Indiase activist Sonam Wangchuk is na 26 dagen gestopt met een hongerstaking die hij was begonnen om de eisen van de Kakkerlakken-beweging kracht bij te zetten. Andere activisten hebben aangekondigd door te gaan met de protesten. Het gaat inmiddels om een van de langstdurende golven van publieke onvrede tegen de regering van premier Modi in de afgelopen jaren. De acties begonnen meer dan een ma",
-      "url": "https://nos.nl/l/2624239",
-      "datum": "5 uur geleden",
+      "titel": "Nigeria's president approves largest military expansion in recent times",
+      "beschrijving": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "World chess chief faces endgame after EU announces Russia war sanctions",
+      "beschrijving": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
+      "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
+      "datum": "42 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Fel debat over geweld in Italië, 'extremer dan radicaalrechts' ruikt kans",
+      "beschrijving": "Een demonstratie in Italië tegen geweld van de politie resulteerde afgelopen week in geweld tegen de politie. Bij dat protest in Bologna raakten tientallen agenten gewond. Het protest was georganiseerd uit solidariteit met de 42-jarige Abderrahim Fakir, een Italiaan van Marokkaanse afkomst die zondag overleed tijdens een arrestatie. Tegelijkertijd houdt een andere geruchtmakende zaak de Italiaanse",
+      "url": "https://nos.nl/l/2624317",
+      "datum": "20 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Scheuring bij Poolse partij PiS, veertig parlementsleden verlaten partij",
+      "beschrijving": "De Poolse conservatief-nationalistische partij PiS verliest een groot aantal parlementsleden. Tientallen parlementariërs willen een gematigdere koers varen dan partijvoorzitter Jaroslaw Kaczynski. Zij zeggen nu uit de partij te zijn gezet, volgens Kaczynski hebben ze zelf hun partijlidmaatschap opgezegd. Kaczynski koos in maart van dit jaar de uiterst rechtse Przemyslaw Czarnek als premierskandida",
+      "url": "https://nos.nl/l/2624308",
+      "datum": "51 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Autobom onderschept vlak bij Noord-Ierse grens, explosief was klaar voor gebruik",
+      "beschrijving": "De Ierse politie heeft deze week een autobom onderschept die werd vervoerd naar Noord-Ierland. Dat heeft de politie vandaag bekendgemaakt. De auto waarmee de bom werd vervoerd werd woensdag tegengehouden ten zuiden van de Ierse plaats Carrickmacross, op een ruim een kwartier rijden van de Noord-Ierse grens. Een speciale recherche-eenheid deed daar onderzoek naar \"dissidente republikeinse activitei",
+      "url": "https://nos.nl/l/2624305",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Zanger Chris Brown bekent schuld in mishandelingszaak Britse nachtclub",
       "beschrijving": "De Amerikaanse zanger Chris Brown heeft bekend schuldig te zijn aan openlijke geweldpleging in een Britse nachtclub in 2023. Daarbij raakte een muziekproducent gewond. In de drukbezochte nachtclub Tape in Londen werd het slachtoffer door Brown en zijn stemcoach twee keer met een fles op het hoofd geslagen. De vechtpartij werd vastgelegd op beveiligingscamera's en er waren veel getuigen. De aanklag",
       "url": "https://nos.nl/l/2624297",
-      "datum": "18 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +95,7 @@
       "titel": "'Proud to pay': 120 Britse miljonairs bereid om meer belasting te betalen",
       "beschrijving": "Een groep van 120 Britse miljonairs wil graag meer belasting betalen. In een open brief roepen ze de nieuwe premier Andy Burnham op om meer belasting te heffen op de allerrijksten, zodat de welvaart in het land eerlijker wordt verdeeld. Tot de groep, die zich de 'Patriotic Millionaires' noemt, behoren bekende namen als oud-voetballer en podcast-presentator Gary Lineker en filmmaker Richard Curtis.",
       "url": "https://nos.nl/l/2624296",
-      "datum": "22 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +104,7 @@
       "titel": "Studie naar waarom vogels zo verschillend zingen: 'Verscheidenheid is enorm'",
       "beschrijving": "Ze tsjilpen, fluiten en toeteren op alle mogelijke manieren, maar tot nu toe was niet duidelijk waarom vogels zo'n enorme variëteit aan geluiden voortbrengen. Een nieuwe studie met behulp van kunstmatige intelligentie geeft wat meer inzicht in hoe al die verschillende zangstijlen zijn ontstaan. Het onderzoek is gepubliceerd in vakblad Science. Een team van Franse wetenschappers analyseerde het gel",
       "url": "https://nos.nl/l/2624292",
-      "datum": "59 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,62 +113,44 @@
       "titel": "24/7 in Nieuwsuur: Werkt het migratiepact? • Dassen in Nederland • Stemming hoofdaanklager ICC",
       "beschrijving": "Chaos in asielketen Griekenland Het Europese asiel- en migratiepact is sinds 12 juni van kracht. Dat de invoering gepaard zou gaan met enkele hobbels, werd al verwacht. Maar in Griekenland is de situatie ernstiger: dertien juridische hulporganisaties luiden de noodklok. En niet alleen in Griekenland zijn er problemen. Problemen met de das in Nederland In onze nieuwe zomerserie 'Ondergronds' kijken",
       "url": "https://nos.nl/l/2624286",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "TikTok berispt door EU: minderjarigen niet goed beschermd",
-      "beschrijving": "De Europese Commissie heeft het sociale platform TikTok op de vingers getikt voor het overtreden van Europese regels die minderjarigen moeten beschermen. Volgens Brussel zijn de accounts van minderjarigen niet goed genoeg afgeschermd. Op het sociale platform kunnen gebruikers hun account op 'openbaar' zetten. Als die instelling aanstaat, kan iedere gebruiker, zelfs zonder TikTok-account, de video'",
+      "beschrijving": "De Europese Commissie heeft het sociale platform TikTok op de vingers getikt voor het overtreden van Europese regels die minderjarigen moeten beschermen. Volgens Brussel zijn de accounts van minderjarigen niet goed genoeg afgeschermd. TikTok zelf zegt in een reactie privacy juist hoog in het vaandel te hebben. Op het sociale platform kunnen gebruikers hun account op 'openbaar' zetten. Als die inst",
       "url": "https://nos.nl/l/2624266",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Zeker 63.000 evacuaties om branden Frankrijk, ook per boot",
-      "beschrijving": "In het zuidwesten van Frankrijk zijn vanwege twee snel uitbreidende natuurbranden ruim 63.000 mensen geëvacueerd. Op het schiereiland Cap Ferret worden mensen per boot in veiligheid gebracht. De grootste van de twee branden - er woeden er momenteel 32 in Frankrijk - brak eergisteren uit bij Saumos in het departement Gironde en heeft meer dan 10.000 hectare verwoest. Het is daarmee de grootste natu",
-      "url": "https://nos.nl/l/2624260",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Miljoenenuitspraak in Zuid-Koreaanse 'echtscheiding van de eeuw'",
-      "beschrijving": "De Zuid-Koreaanse rechter heeft vandaag uitspraak gedaan in wat ze in Zuid-Korea de 'echtscheiding van de eeuw' noemen. Die tussen Chey Tae-won, directeur van een van Zuid-Korea's grootste bedrijven, en Roh Soh-yeong, dochter van de voormalige president. De rechter oordeelde dat de vrouw recht heeft op omgerekend zo'n 570 miljoen euro van het vermogen van de man. Hiermee stelt de rechter indirect ",
-      "url": "https://nos.nl/l/2624254",
-      "datum": "4 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Roemeense F-16-piloot haalt drone neer boven luchtruim",
-      "beschrijving": "Roemenië heeft vanmorgen een drone neergehaald die het luchtruim was binnengevlogen. Dat schrijft de Roemeense president Nicusor Dan op X. Een piloot van een F-16-gevechtsvliegtuig schoot de drone uit de lucht. De president schrijft dat het gebied waarboven de piloot vloog, in de buurt van het stadje Buzău, onbewoond was, waardoor de piloot zonder enig risico kon schieten. Waar de drone vandaan kw",
-      "url": "https://nos.nl/l/2624248",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "EU accepteert nieuwe Amerikaanse heffingen, ondanks beschuldiging dwangarbeid",
-      "beschrijving": "De Europese Unie reageert opgelucht op de nieuwe heffingen vanuit de Verenigde Staten. Volgens de Europese Commissie, het dagelijks bestuur van de EU, zijn de nieuwe heffingen in lijn met de afspraken die zijn gemaakt binnen het handelsakkoord, dat een jaar geleden werd gesloten. De Commissie weerspreekt de Amerikaanse beschuldiging van dwangarbeid, maar gaat zich er niet tegen verzetten. In Bruss",
-      "url": "https://nos.nl/l/2624245",
-      "datum": "5 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "US summons Malaysia envoy over Israel policy",
-      "beschrijving": "Malaysia does not have any diplomatic ties with Israel and has long maintained its support for the Palestinian cause.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
+      "beschrijving": "Visit will be Netanyahu&#039;s seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
+      "datum": "49 min geleden",
       "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israel builds Gaza barrier as politicians push for settlements",
+      "beschrijving": "Recent satellite images reveal the construction of a huge earthen barrier dividing Gaza as Israelis discuss settlements.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "‘I lost my home twice’: Sudanese mothers caught between two wars",
+      "beschrijving": "Sudanese mothers who fled one war now face another, struggling to rebuild their lives after displacement in Lebanon.",
+      "url": "https://www.aljazeera.com/features/longform/2026/7/24/i-lost-my-home-twice-sudanese-mothers-caught-between-two-wars?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -131,7 +158,7 @@
       "titel": "US and Iran trade more strikes in Gulf as fears of escalation mount",
       "beschrijving": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
       "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -140,31 +167,22 @@
       "titel": "India's 'cockroach' protesters hold talks with government as stalemate continues",
       "beschrijving": "The meeting came hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
       "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Oil prices hit $100 for the first time since May",
-      "beschrijving": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "datum": "23 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Five killed in occupied West Bank after Israeli settlers attack",
-    "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+    "Zeker 10 doden, veel gewonden bij Russische aanval op wapenbeurs in Kyiv",
+    "Vier Palestijnen en twee Israëliërs gedood bij schietpartij op Westoever",
+    "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
     "Four Palestinians and two Israelis killed in West Bank shooting",
-    "Activist Kakkerlakken-beweging in India stopt met hongerstaking, protest gaat door",
-    "Zanger Chris Brown bekent schuld in mishandelingszaak Britse nachtclub",
-    "'Proud to pay': 120 Britse miljonairs bereid om meer belasting te betalen",
-    "Studie naar waarom vogels zo verschillend zingen: 'Verscheidenheid is enorm'",
-    "24/7 in Nieuwsuur: Werkt het migratiepact? • Dassen in Nederland • Stemming hoofdaanklager ICC",
-    "TikTok berispt door EU: minderjarigen niet goed beschermd",
-    "Zeker 63.000 evacuaties om branden Frankrijk, ook per boot"
+    "Nigeria's president approves largest military expansion in recent times",
+    "World chess chief faces endgame after EU announces Russia war sanctions",
+    "Fel debat over geweld in Italië, 'extremer dan radicaalrechts' ruikt kans",
+    "Scheuring bij Poolse partij PiS, veertig parlementsleden verlaten partij",
+    "Autobom onderschept vlak bij Noord-Ierse grens, explosief was klaar voor gebruik",
+    "Zanger Chris Brown bekent schuld in mishandelingszaak Britse nachtclub"
   ]
 }
