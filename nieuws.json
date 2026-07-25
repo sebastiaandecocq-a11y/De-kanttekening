@@ -1,39 +1,30 @@
 {
-  "bijgewerkt": "25 Jul 2026 07:21 UTC",
+  "bijgewerkt": "25 Jul 2026 09:52 UTC",
   "artikelen": [
+    {
+      "titel": "Aanvallen Israël op bezette Westoever na dodelijke confrontaties",
+      "beschrijving": "Israël heeft afgelopen nacht op meerdere plekken op de bezette Westelijke Jordaanoever aanvallen uitgevoerd. Daarbij zijn volgens lokale media zeker elf Palestijnen gewond geraakt. De aanvallen zijn een reactie op de dodelijke confrontatie tussen kolonisten en een groep Palestijnen bij de stad Nablus. Daar kwamen gisteren vier Palestijnse inwoners, een Israëlische kolonist en een militair om het l",
+      "url": "https://nos.nl/l/2624395",
+      "datum": "11 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Venezuela stapt uit Strafhof vanwege 'politieke aanvallen'",
       "beschrijving": "Venezuela is van plan uit het Internationaal Strafhof in Den Haag te stappen. Buitenlandminister Plasencia heeft dat aangekondigd op X. Plasencia zegt dat zijn land het vertrouwen in het hof heeft verloren vanwege \"politieke aanvallen op het Venezolaanse volk en de Venezolaanse staat\". Het Strafhof onderzocht sinds 2020 of leden van het regime in Caracas zich schuldig hebben gemaakt aan misdaden t",
       "url": "https://nos.nl/l/2624354",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "27 doden bij vuurgevecht na aanslag op controlepost in Pakistan",
-      "beschrijving": "Bij een zelfmoordaanslag met een autobom op een controlepost in Pakistan en een daaropvolgend vuurgevecht zijn in totaal 27 mensen om het leven gekomen. Onder hen zijn twaalf militairen en twee agenten, meldt het Pakistaanse leger. De lokale Taliban, bekend als Tehreek-e-Taliban Pakistan, ook wel bekend als TTP, heeft de aanslag opgeëist. Aan de kant van de militanten vielen twaalf doden. Het lege",
-      "url": "https://nos.nl/l/2624347",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Funerals held for four Palestinians killed in deadly West Bank shooting",
-      "beschrijving": "Overnight funerals were held for four Palestinians killed near Nablus.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
-      "beschrijving": "Lorenzo Salgado Araujo&#039;s sons tell lawmakers their father worked hard &#039;to protect and provide&#039; for his family.",
-      "url": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
+      "titel": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+      "beschrijving": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
+      "datum": "42 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -41,8 +32,17 @@
       "titel": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "beschrijving": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "beschrijving": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "datum": "11 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
@@ -50,16 +50,34 @@
       "titel": "Iran-backed Houthis claim missile attack on Saudi Arabia",
       "beschrijving": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
       "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "datum": "46 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Indiase minister van Onderwijs treedt af na weken van Kakkerlak-protesten",
+      "beschrijving": "De Indiase minister van Onderwijs is afgetreden. Het vertrek van Dharmendra Pradhan is de eerste grote concessie van de regering van premier Narendra Modi na wekenlange demonstraties, sit-ins en hongerstakingen van de Kakkerlakken-beweging. De minister kondigde zijn ontslag aan op X, net op het moment dat de politie traangas afvuurde om jonge demonstranten in New Delhi uiteen te drijven. Toen het ",
+      "url": "https://nos.nl/l/2624396",
+      "datum": "4 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nederlanders van vermiste boot Indonesië gevonden, schipper nog niet terecht",
+      "beschrijving": "Voor de kust van het Indonesische eiland Sulawesi is een motorboot urenlang vermist geweest. Aan boord waren dertien opvarenden, onder wie vier Nederlanders. Op de kapitein na is iedereen veilig aan land gekomen. Naar hem wordt nog gezocht. Volgens het Nederlandse ministerie van Buitenlandse Zaken zijn de vier Nederlanders \"uitgeput na een zware ervaring, maar weer veilig aan land\". Eerder meldde ",
+      "url": "https://nos.nl/l/2624372",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Wekdienst 25/07: WorldPride van start • Zomercarnaval Rotterdam",
       "beschrijving": "Goedemorgen! In Amsterdam begint vandaag de WorldPride. En in Rotterdam vindt het jaarlijkse Zomercarnaval plaats. Eerst het weer: vandaag zijn er flinke zonnige perioden en loopt bij een matige westenwind het kwik op naar 24 graden in het noordwesten tot 29 graden in Limburg. Vanavond en vannacht neemt de bewolking toe, morgen trekken van west naar oost buien over het land, het wordt dan zo'n 21 ",
       "url": "https://nos.nl/l/2624365",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "'Losgebroken AI hackte concurrent dagenlang, OpenAI had niets door'",
       "beschrijving": "Een AI-programma van het bedrijf OpenAI dat per ongeluk inbrak bij een concurrent, zou dagenlang zijn gang hebben kunnen gaan zonder dat de eigenaar iets doorhad. Dat schrijft het Britse persbureau Reuters in een reconstructie op basis van anonieme bronnen. Afgelopen week maakte OpenAI bekend dat een AI-programma was losgebroken uit zijn testomgeving. In een poging om de opdracht te voltooien die ",
       "url": "https://nos.nl/l/2624363",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Gouden halsketting van 2500 jaar oud gestolen uit Frans museum",
       "beschrijving": "Opnieuw is een Frans museum slachtoffer geworden van een kunstroof. Dit keer was het raak in het museum in de plaats Châtillon-sur-Seine. Gisteren namen dieven een gouden halsketting van 2500 jaar oud mee uit Musée du Pays Châtillonnais. Het gaat om een massief gouden halsring die ruim zeventig jaar geleden werd gevonden in een grafheuvel. De gestolen torque weegt 480 gram. In november en vorige w",
       "url": "https://nos.nl/l/2624362",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +104,7 @@
       "titel": "Asielsysteem Griekenland 'bevroren' sinds migratiepact, asielzoekers vastgezet",
       "beschrijving": "Al sinds de invoering van het Europese asiel- en migratiepact op 12 juni ligt de asielregistratie in Griekenland vrijwel stil. In kampen op het vasteland en op de eilanden zitten mensen opgesloten zonder dat hun asielaanvraag ooit is geregistreerd. Ook het online systeem van het ministerie, waarmee mensen op eigen houtje asiel kunnen aanvragen, werkt niet meer. Mensen die zich alsnog melden bij re",
       "url": "https://nos.nl/l/2624360",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +113,7 @@
       "titel": "Pers kan nauwelijks lachen om Trump op White House Correspondents' Dinner",
       "beschrijving": "Hij had eigenlijk een veel scherpere speech voor ogen gehad, verklapte Donald Trump bij het White House Correspondents' Dinner. Maar omdat het gala-avondje drie maanden geleden was verstoord door een mislukte aanslag, wilde hij nu milder zijn, beloofde hij. \"Fijn om hier te zijn. Ik zie veel mensen die ik leuk vind - en sommigen totaal niet - maar ik respecteer jullie allemaal\", begon hij. \"We zij",
       "url": "https://nos.nl/l/2624355",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,34 +122,34 @@
       "titel": "Eerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola",
       "beschrijving": "In het Engelse Oxford is de eerste proefpersoon ingeënt met een experimenteel vaccin tegen de Bundibugyo-variant van ebola. Momenteel veroorzaakt een uitbraak daarvan veel slachtoffers in de Democratische Republiek Congo, omdat er nog geen vaccin tegen bestaat. In deze eerste ronde zullen vijftig gezonde mensen tussen de 18 en 55 jaar worden geïnjecteerd met het vaccin om te kijken of het niet sch",
       "url": "https://nos.nl/l/2624353",
-      "datum": "7 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Politieboot vaart tegen Westminster Bridge in Londen, vijf agenten gewond",
-      "beschrijving": "Op de rivier de Theems in Londen zijn vijf politieagenten gewond geraakt bij een aanvaring met de Westminster Bridge. De politieboot waarop ze zich bevonden voer halverwege de middag tegen de brug, waarbij een aantal agenten te water raakte. Ooggetuigen zeggen tegen de BBC dat de agenten zo'n 10 minuten in het water lagen voordat ze door een andere politieboot werden gered. Bij die reddingsactie i",
-      "url": "https://nos.nl/l/2624338",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
+      "titel": "Born too soon: Premature babies fight for survival in Gaza",
+      "beschrijving": "Israel&#039;s genocidal war on Gaza is causing a surge in premature births and endangering mothers&#039; health.",
+      "url": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Verdriet en trauma zitten diep na aardbeving Venezuela: 'Mijn vrouw wil hier weg'",
-      "beschrijving": "Een maand na de verwoestende aardbeving in Venezuela zoeken hulpteams, familieleden en vele vrijwilligers nog altijd tussen het puin naar overlevenden. De kans dat die gevonden worden is minimaal. Lichamen die tussen de ingestorte gebouwen worden gevonden, worden intussen zo veel mogelijk geïdentificeerd en begraven. Volgens de Venezolaanse regering zijn er tot nu toe meer dan 5000 doden en zo'n 1",
-      "url": "https://nos.nl/l/2624333",
-      "datum": "12 uur geleden",
+      "titel": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+      "beschrijving": "The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "More than 220,000 evacuated in France and Spain due to wildfires",
       "beschrijving": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
       "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -140,22 +158,22 @@
       "titel": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
       "beschrijving": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
       "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Aanvallen Israël op bezette Westoever na dodelijke confrontaties",
     "Venezuela stapt uit Strafhof vanwege 'politieke aanvallen'",
-    "27 doden bij vuurgevecht na aanslag op controlepost in Pakistan",
-    "Funerals held for four Palestinians killed in deadly West Bank shooting",
-    "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
+    "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
     "Ten killed in Russian attack on drone exhibition near Kyiv",
+    "Four Palestinians and two Israelis killed in West Bank shooting",
     "Iran-backed Houthis claim missile attack on Saudi Arabia",
+    "Indiase minister van Onderwijs treedt af na weken van Kakkerlak-protesten",
+    "Nederlanders van vermiste boot Indonesië gevonden, schipper nog niet terecht",
     "Wekdienst 25/07: WorldPride van start • Zomercarnaval Rotterdam",
-    "'Losgebroken AI hackte concurrent dagenlang, OpenAI had niets door'",
-    "Gouden halsketting van 2500 jaar oud gestolen uit Frans museum",
-    "Asielsysteem Griekenland 'bevroren' sinds migratiepact, asielzoekers vastgezet"
+    "'Losgebroken AI hackte concurrent dagenlang, OpenAI had niets door'"
   ]
 }
