@@ -1,11 +1,20 @@
 {
-  "bijgewerkt": "25 Jul 2026 00:07 UTC",
+  "bijgewerkt": "25 Jul 2026 04:14 UTC",
   "artikelen": [
+    {
+      "titel": "Venezuela stapt uit Strafhof vanwege \"politieke aanvallen\"",
+      "beschrijving": "Venezuela is van plan uit het Internationaal Strafhof in Den Haag te stappen. Buitenlandminister Plasencia heeft dat aangekondigd op X. Plasencia zegt dat zijn land het vertrouwen in het hof heeft verloren vanwege \"politieke aanvallen op het Venezolaanse volk en de Venezolaanse staat\". Het Strafhof onderzocht sinds 2020 of leden van het regime in Caracas zich schuldig hebben gemaakt aan misdaden t",
+      "url": "https://nos.nl/l/2624354",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "27 doden bij vuurgevecht na aanslag op controlepost in Pakistan",
       "beschrijving": "Bij een zelfmoordaanslag met een autobom op een controlepost in Pakistan en een daaropvolgend vuurgevecht zijn in totaal 27 mensen om het leven gekomen. Onder hen zijn twaalf militairen en twee agenten, meldt het Pakistaanse leger. De lokale Taliban, bekend als Tehreek-e-Taliban Pakistan, ook wel bekend als TTP, heeft de aanslag opgeëist. Aan de kant van de militanten vielen twaalf doden. Het lege",
       "url": "https://nos.nl/l/2624347",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,7 +23,7 @@
       "titel": "Zeker 10 doden, veel gewonden bij Russische aanval op wapenbeurs in Kyiv",
       "beschrijving": "Bij een Russische raketaanval op de Oekraïense hoofdstad Kyiv zijn aan het eind van de ochtend zeker tien mensen omgekomen en ruim honderd gewonden gevallen. De Oekraïense president Zelensky heeft de aanval bevestigd op sociale media. De luchtaanval leek gericht tegen een evenement van de wapenindustrie. Oekraïense defensiebedrijven en -leveranciers kwamen vandaag bijeen op een terrein langs een s",
       "url": "https://nos.nl/l/2624319",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -23,17 +32,17 @@
       "titel": "Vier Palestijnen en twee Israëliërs gedood bij schietpartij op Westoever",
       "beschrijving": "Vier Palestijnen en twee Israëliërs zijn om het leven gekomen bij een schietpartij op de bezette Westelijke Jordaanoever. Nog eens vier Palestijnen en twee Israëliërs raakten gewond. Het vuurgevecht vond plaats in de omgeving van Nablus. Israëlische kolonisten zouden vanochtend vroeg het dorp Tell zijn binnengevallen. Volgens het Israëlische leger had een inwoner het wapen van een Israëlische beve",
       "url": "https://nos.nl/l/2624318",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Israeli settlers escalate attacks on Palestinians near Nablus",
-      "beschrijving": "Israeli settlers have set fire to Palestinian homes and vehicles in villages near Nablus",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
+      "beschrijving": "Lorenzo Salgado Araujo&#039;s sons tell lawmakers their father worked hard &#039;to protect and provide&#039; for his family.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -41,7 +50,7 @@
       "titel": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "beschrijving": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "datum": "0 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -50,25 +59,16 @@
       "titel": "Four Palestinians and two Israelis killed in West Bank shooting",
       "beschrijving": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
       "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Nigeria's president approves largest military expansion in recent times",
-      "beschrijving": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
-      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
       "bron": "BBC World"
     },
     {
       "titel": "Eerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola",
       "beschrijving": "In het Engelse Oxford is de eerste proefpersoon ingeënt met een experimenteel vaccin tegen de Bundibugyo-variant van ebola. Momenteel veroorzaakt een uitbraak daarvan veel slachtoffers in de Democratische Republiek Congo, omdat er nog geen vaccin tegen bestaat. In deze eerste ronde zullen vijftig gezonde mensen tussen de 18 en 55 jaar worden geïnjecteerd met het vaccin om te kijken of het niet sch",
       "url": "https://nos.nl/l/2624353",
-      "datum": "3 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +77,7 @@
       "titel": "Politieboot vaart tegen Westminster Bridge in Londen, vijf agenten gewond",
       "beschrijving": "Op de rivier de Theems in Londen zijn vijf politieagenten gewond geraakt bij een aanvaring met de Westminster Bridge. De politieboot waarop ze zich bevonden voer halverwege de middag tegen de brug, waarbij een aantal agenten te water raakte. Ooggetuigen zeggen tegen de BBC dat de agenten zo'n 10 minuten in het water lagen voordat ze door een andere politieboot werden gered. Bij die reddingsactie i",
       "url": "https://nos.nl/l/2624338",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +86,7 @@
       "titel": "Verdriet en trauma zitten diep na aardbeving Venezuela: 'Mijn vrouw wil hier weg'",
       "beschrijving": "Een maand na de verwoestende aardbeving in Venezuela zoeken hulpteams, familieleden en vele vrijwilligers nog altijd tussen het puin naar overlevenden. De kans dat die gevonden worden is minimaal. Lichamen die tussen de ingestorte gebouwen worden gevonden, worden intussen zo veel mogelijk geïdentificeerd en begraven. Volgens de Venezolaanse regering zijn er tot nu toe meer dan 5000 doden en zo'n 1",
       "url": "https://nos.nl/l/2624333",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +95,7 @@
       "titel": "'Hoofdaanklager Internationaal Strafhof ontslagen vanwege seksueel wangedrag'",
       "beschrijving": "De hoofdaanklager van het Internationaal Strafhof (ICC), Karim Khan, wordt ontslagen. Hij wordt door een van zijn assistenten beschuldigd van seksueel wangedrag. Een grote meerderheid van de lidstaten heeft voor zijn ontslag gestemd, melden diplomatieke bronnen aan persbureaus AP en Reuters. Khan werd geschorst nadat uit onderzoek van het ICC \"ernstig wangedrag\" door Khan naar voren was gekomen. V",
       "url": "https://nos.nl/l/2624332",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +104,7 @@
       "titel": "22-jarige Ouadoud uit Zeist vermist in Tanger, familie zoekt dag en nacht",
       "beschrijving": "De 22-jarige Ouadoud Rabbaj uit Zeist wordt sinds zondag vermist. Hij was samen met zijn ouders op vakantie in de Marokkaanse stad Tanger en verliet de woning waar het gezin verbleef. Sindsdien ontbreekt van hem ieder spoor. Familieleden en de Marokkaanse politie zijn een zoektocht gestart. \"We werken met ochtend-, middag- en avondploegen. We spreken mensen aan en vragen of ze mijn broertje hebben",
       "url": "https://nos.nl/l/2624328",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,61 +113,52 @@
       "titel": "Recordaantal natuurbranden in Frankrijk, nog nooit zo'n grote oppervlakte verbrand eind juli",
       "beschrijving": "Natuurbranden hebben eind deze maand in Frankrijk een recordoppervlakte verwoest. Ook het aantal branden brak een record. Door opeenvolgende hittegolven is de natuur uitgedroogd. Hoewel het nog geen augustus is, ontstond dit jaar al 311 keer brand. Zeker de streek rond Bordeaux is hard getroffen. Dat blijkt uit cijfers van Copernicus, een dienst van de Europese Commissie die de aarde volgt met sat",
       "url": "https://nos.nl/l/2624327",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Fel debat over geweld in Italië, 'extremer dan radicaalrechts' ruikt kans",
-      "beschrijving": "Een demonstratie in Italië tegen geweld van de politie resulteerde afgelopen week in geweld tegen de politie. Bij dat protest in Bologna raakten tientallen agenten gewond. Het protest was georganiseerd uit solidariteit met de 42-jarige Abderrahim Fakir, een Italiaan van Marokkaanse afkomst die zondag overleed tijdens een arrestatie. Tegelijkertijd houdt een andere geruchtmakende zaak de Italiaanse",
-      "url": "https://nos.nl/l/2624317",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "China, Philippine coastguard vessels clash in South China Sea",
-      "beschrijving": "China, Philippine coastguard vessels clash in South China Sea.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Paramount agrees to pause Warner Bros deal while court case plays out",
-      "beschrijving": "The delay, filed in court on Friday, can cost Paramount $1.7bn in fees if the deal is not closed by next June.",
-      "url": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
+      "beschrijving": "The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran’s Abbas Araghchi vows ‘we fear no one’",
-      "beschrijving": "Iranian Foreign Minister Abbas Araghchi said Iran does not fear threats or &#039;succumb to pressures&#039;.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
-      "beschrijving": "Sebastia in the occupied West Bank and five Lebanese castles get emergency listing despite Israeli objections.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss",
+      "titel": "UN rights chief Turk wins second term despite US and Israeli opposition",
+      "beschrijving": "Austrian lawyer Volker Turk set to become first UN rights chief to complete two four-year terms since post was created.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss",
       "datum": "3 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "beschrijving": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+      "titel": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+      "beschrijving": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Tehran.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+      "beschrijving": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the &#039;Abraham Accords&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "More than 220,000 evacuated in France and Spain due to wildfires",
+      "beschrijving": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
       "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,20 +167,29 @@
       "titel": "US and Iran trade more strikes in Gulf as fears of escalation mount",
       "beschrijving": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
       "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "beschrijving": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Venezuela stapt uit Strafhof vanwege \"politieke aanvallen\"",
     "27 doden bij vuurgevecht na aanslag op controlepost in Pakistan",
     "Zeker 10 doden, veel gewonden bij Russische aanval op wapenbeurs in Kyiv",
     "Vier Palestijnen en twee Israëliërs gedood bij schietpartij op Westoever",
-    "Israeli settlers escalate attacks on Palestinians near Nablus",
+    "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
     "Ten killed in Russian attack on drone exhibition near Kyiv",
     "Four Palestinians and two Israelis killed in West Bank shooting",
-    "Nigeria's president approves largest military expansion in recent times",
     "Eerste proefpersoon krijgt vaccin tegen Bundibugyo-variant ebola",
     "Politieboot vaart tegen Westminster Bridge in Londen, vijf agenten gewond",
     "Verdriet en trauma zitten diep na aardbeving Venezuela: 'Mijn vrouw wil hier weg'"
