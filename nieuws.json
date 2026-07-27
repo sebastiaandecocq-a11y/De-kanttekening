@@ -1,11 +1,38 @@
 {
-  "bijgewerkt": "27 Jul 2026 00:02 UTC",
+  "bijgewerkt": "27 Jul 2026 04:39 UTC",
   "artikelen": [
+    {
+      "titel": "Doden en gewonden bij Oekraïense aanvallen op Russische grenssteden",
+      "beschrijving": "Oekraïne heeft vannacht luchtaanvallen uitgevoerd op verschillende Russische grenssteden. In Rostov aan de Don zijn daarbij twee doden gevallen, liet de gouverneur van de provincie Rostov weten op Telegram. Vijf anderen raakten gewond. Twee van hen verkeren in kritieke toestand Volgens de gouverneur ontstond er op meerdere locaties brand door vallende brokstukken van drones. Eerder vielen bij een ",
+      "url": "https://nos.nl/l/2624577",
+      "datum": "55 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Diplomatie krijgt kans: twee dagen geen aanvallen tussen Iran en VS",
+      "beschrijving": "Na bijna twee weken van bombardementen over en weer hebben Iran en de VS elkaar al twee dagen niet meer aangevallen. De twee vijanden lijken, voor nu, de diplomatie een kans te geven. Achter de schermen worden berichten uitgewisseld tussen Washington en Teheran, zegt een woordvoerder van het Iraanse ministerie van Buitenlandse Zaken. Zolang de VS geen luchtaanvallen uitvoert, zegt een anonieme Ira",
+      "url": "https://nos.nl/l/2624576",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Slachtoffers aanslag Berlijn herdacht, dinsdag herdenking in Amsterdam",
+      "beschrijving": "Dinsdag is er bij het Homomonument in Amsterdam een herdenking gepland om steun te betuigen aan de slachtoffers en nabestaanden van de aanslag op de Pride in Berlijn. Ook in Berlijn zelf wordt stilgestaan bij de aanslag. De Brandenburger Tor werd gisteravond laat verlicht in regenboogkleuren. De regenboogvlag is het symbool van de lhbti+-gemeenschap en staat voor diversiteit en tolerantie. De kleu",
+      "url": "https://nos.nl/l/2624575",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Verdachte aanslag Pride Berlijn opgespoord en doodgeschoten",
       "beschrijving": "De Duitse politie heeft de vermoedelijke dader van de aanslag op de Pride in Berlijn opgespoord en doodgeschoten. Dat meldt de politie op X. Rond 18.00 uur werd de 21-jarige Abdul B. aangetroffen in een volkstuin in Spandau (Berlijn). Volgens de politie is hij met een steekwapen op agenten afgerend, waarop de Berlijnse politie vuurwapens inzette. Ondanks reanimatiepogingen van de brandweer is de v",
       "url": "https://nos.nl/l/2624539",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,7 +41,7 @@
       "titel": "Duitse minister over aanslag Berlijn: alles wijst op islamistisch terrorisme",
       "beschrijving": "De Duitse autoriteiten gaan ervan uit dat de aanslag op de Pride in Berlijn gisteravond een islamistische terreurdaad was. Alles wijst daarop, zegt minister van Binnenlandse Zaken Dobrindt. De verdachte, de 21-jarige Abdul B., is nog altijd voortvluchtig. Wel heeft de politie onder meer mobiele telefoons in beslag genomen. Gisteravond reed de verdachte met een busje in op bezoekers van het eveneme",
       "url": "https://nos.nl/l/2624503",
-      "datum": "11 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -23,16 +50,34 @@
       "titel": "Klopjacht op jonge verdachte van aanslag op Pride in Berlijn",
       "beschrijving": "De Duitse politie is met man en macht op zoek naar de bestuurder van de witte bestelbus die gisteravond in Berlijn inreed op bezoekers van de jaarlijkse Pride. Bij de aanslag kwam een vrouw om het leven en raakten zestien mensen gewond. Drie van hen zijn in levensgevaar. Onder de slachtoffers zijn geen Nederlanders, zegt het ministerie van Buitenlandse Zaken. De Duitse autoriteiten hebben een foto",
       "url": "https://nos.nl/l/2624481",
-      "datum": "15 uur geleden",
+      "datum": "20 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
+      "titel": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
+      "beschrijving": "Kyiv says Russian strikes killed six, including a child at a supermarket, as Moscow says Ukrainian strikes killed four.",
+      "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+      "beschrijving": "The US has paused its two-week bombing campaign against Iran, prompting Tehran to suspend its retaliatory attacks.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Berlin Pride attack suspect shot and killed during police operation",
       "beschrijving": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
       "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -41,7 +86,7 @@
       "titel": "What we know so far about the Berlin Pride ramming attack",
       "beschrijving": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
       "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -50,17 +95,8 @@
       "titel": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "beschrijving": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "datum": "1 dagen geleden",
+      "datum": "2 dagen geleden",
       "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "beschrijving": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 dagen geleden",
-      "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
@@ -68,7 +104,7 @@
       "titel": "Twee moskeeën in brand gestoken op Westelijke Jordaanoever",
       "beschrijving": "Op de door Israël bezette Westelijke Jordaanoever zijn afgelopen nacht twee moskeeën in brand gestoken. De Israëlische krant Haaretz meldt dat twee Israëlische kolonisten zijn opgepakt op verdenking van betrokkenheid bij een van de brandstichtingen. Palestijnse media spreken van aanslagen door kolonisten. Het Israëlische leger heeft de aanval op de gebedshuizen veroordeeld en zegt dat het de brand",
       "url": "https://nos.nl/l/2624561",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +113,7 @@
       "titel": "Voor derde dag op rij haalt Roemeense F-16 drone uit de lucht",
       "beschrijving": "De Roemeense luchtmacht heeft voor de derde dag op rij een drone neergehaald met een straaljager. De F-16 schoot het onbemande toestel vanochtend uit de lucht boven Roemeense wateren, meldt president Nicusor Dan. Het incident gebeurde nabij de monding van de rivier de Donau, die de grens vormt tussen Oekraïne en Roemenië. De herkomst van de drone wordt nog onderzocht. \"Ik bedank de Roemeense pilot",
       "url": "https://nos.nl/l/2624527",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +122,7 @@
       "titel": "Lichaam van Nederlander (45) die zoon probeerde te redden gevonden in Comomeer",
       "beschrijving": "In Noord-Italië hebben duikers het lichaam gevonden van een vermiste Nederlander in het Comomeer. De 45-jarige man verdronk gisteren toen hij probeerde zijn oudste zoon te redden uit het water. De man werd gevonden op een diepte van 25 meter, meldt het Italiaanse persbureau ANSA. Met behulp van sonarapparatuur en camera's is de locatie van het lichaam achterhaald. Er zijn duikers ingezet van de br",
       "url": "https://nos.nl/l/2624521",
-      "datum": "8 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,103 +131,67 @@
       "titel": "Franse landingsstranden van D-Day aangemerkt als Unesco-werelderfgoed",
       "beschrijving": "De landingsstranden van D-Day in Normandië zijn toegevoegd aan de werelderfgoedlijst van Unesco. De toevoeging aan de lijst omvat de vijf stranden, Omaha, Utah, Sword, Gold en Juno, waar op 6 juni 1944 de geallieerde militairen aan land gingen. Ook verschillende herdenkingslocaties en de aanvalslocatie Pointe du Hoc zijn toegevoegd aan de lijst. D-Day markeerde het begin van de bevrijding van Euro",
       "url": "https://nos.nl/l/2624491",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vrachtschip gezonken in Zuid-Chinese Zee, tientallen gered, nog 23 vermisten",
-      "beschrijving": "In de Zuid-Chinese Zee, voor de kust van Vietnam, is een vrachtschip gezonken. De autoriteiten hebben inmiddels zeker 39 mensen kunnen redden, 23 opvarenden worden nog vermist. Het schip kwam in de problemen bij het Fiery Cross Reef. Een Chinees reddingsschip ontving als eerste een noodsignaal, waarna zes andere Chinese schepen, een reddingshelikopter en een Vietnamees schip begonnen met een reddi",
-      "url": "https://nos.nl/l/2624479",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Honderdduizenden geëvacueerd in China en Hongkong vanwege orkaan Noul",
-      "beschrijving": "In het zuiden van China en Hongkong zijn meer dan 700.000 mensen geëvacueerd vlak voordat orkaan Noul aan land kwam. Noul is de zwaarste orkaan van dit jaar. Er zijn windsnelheden gemeten van 162 kilometer per uur. In verschillende provincies is het hoogte alarmniveau afgekondigd. De getroffen regio's hebben te maken met zware regenval en zeer zware windstoten. Ook is er kans op overstromingen. Vo",
-      "url": "https://nos.nl/l/2624477",
-      "datum": "17 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 26/7: Stille tocht voor slachtoffer schietpartij • Slotrit Tour de France",
-      "beschrijving": "Goedemorgen! In Rotterdam wordt vandaag een stille tocht gehouden voor de 18-jarige jongen die in Nijmegen is doodgeschoten. En na een laatste rit vanuit het plaatsje Thoiry eindigt vanmiddag de Tour de France op de Champs-Elysées in Parijs. Eerst het weer: het is vandaag een komen en gaan van buien. Tussendoor zijn er momenten met een beetje zon. Het wordt 21 tot 24 graden bij een matige westenwi",
-      "url": "https://nos.nl/l/2624472",
       "datum": "18 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Israeli government nods to international stabilisation force in Gaza",
-      "beschrijving": "The ISF, to be staffed by &#039;friendly countries&#039;, will operate in areas outside of Israel&#039;s military control.",
-      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
+      "titel": "Sudan’s army regains control of highway linking Khartoum with El Obeid",
+      "beschrijving": "Sudan&#039;s army says it has regained full control of Al Sadarat highway linking Khartoum to El Obeid",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/sudans-army-regains-control-of-highway-linking-khartoum-with-el-obeid?traffic_source=rss",
+      "datum": "38 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why Mali’s northern conflict has entered a dangerous new phase",
+      "beschrijving": "A separatist–al-Qaeda alliance has shifted the balance of power in northern Mali and complicated efforts to end the war.",
+      "url": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
+      "beschrijving": "Lebanon&#039;s army has accused Israel of bulldozing homes and hindering its efforts to escort residents to &#039;pilot zones&#039;.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanese-return-to-homes-of-rubble-left-by-israel-in-so-called-pilot-zones?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Palestinians hope international peace force can rebuild Gaza",
-      "beschrijving": "Palestinians in Gaza cautiously welcome Israel’s approval for an international stabilisation force to enter the strip.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US and Iran hit pause on strikes for second day",
-      "beschrijving": "The relative calm comes amid reports of renewed efforts to restore diplomatic talks.",
-      "url": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Houthis claim Saudi drone downed over northwestern Yemen",
-      "beschrijving": "Iran-backed Houthi forces claim they shot down a Saudi reconnaissance drone over northwestern Yemen.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-      "beschrijving": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
-      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
-      "beschrijving": "Syrian President Ahmed al-Sharaa said Damascus is working towards a security agreement with Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
+      "titel": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "beschrijving": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
       "datum": "4 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "beschrijving": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "datum": "7 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Doden en gewonden bij Oekraïense aanvallen op Russische grenssteden",
+    "Diplomatie krijgt kans: twee dagen geen aanvallen tussen Iran en VS",
+    "Slachtoffers aanslag Berlijn herdacht, dinsdag herdenking in Amsterdam",
     "Verdachte aanslag Pride Berlijn opgespoord en doodgeschoten",
     "Duitse minister over aanslag Berlijn: alles wijst op islamistisch terrorisme",
     "Klopjacht op jonge verdachte van aanslag op Pride in Berlijn",
+    "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
+    "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
     "Berlin Pride attack suspect shot and killed during police operation",
-    "What we know so far about the Berlin Pride ramming attack",
-    "Ten killed in Russian attack on drone exhibition near Kyiv",
-    "Iran-backed Houthis claim missile attack on Saudi Arabia",
-    "Twee moskeeën in brand gestoken op Westelijke Jordaanoever",
-    "Voor derde dag op rij haalt Roemeense F-16 drone uit de lucht",
-    "Lichaam van Nederlander (45) die zoon probeerde te redden gevonden in Comomeer"
+    "What we know so far about the Berlin Pride ramming attack"
   ]
 }
