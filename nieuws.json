@@ -1,29 +1,74 @@
 {
-  "bijgewerkt": "28 Jul 2026 11:21 UTC",
+  "bijgewerkt": "28 Jul 2026 14:18 UTC",
   "artikelen": [
     {
-      "titel": "Democraten willen FIFA-baas Infantino ondervragen over banden met Trump",
-      "beschrijving": "De hoogste Democraat in de juridische commissie van het Amerikaanse Huis van Afgevaardigden, Jamie Raskin, wil voorzitter van de wereldvoetbalbond (FIFA) Gianni Infantino verhoren over zijn banden met de Amerikaanse president Trump. De kans dat dat op korte termijn gebeurt, is vrijwel uitgesloten, want een meerderheid van het Huis moet daarmee instemmen. De Democraten hebben in het Huis van Afgeva",
-      "url": "https://nos.nl/l/2624713",
-      "datum": "53 min geleden",
-      "regio": "VS",
+      "titel": "‘We’re here to stay’: West Bank Palestinians defy Israeli attacks",
+      "beschrijving": "Settlers burned homes and a mosque in at-Tuwani. Residents say it is part of a campaign to push them off their land.",
+      "url": "https://www.aljazeera.com/features/2026/7/28/were-here-to-stay-west-bank-palestinians-defy-israeli-attacks?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Pregnant Palestinian woman loses baby after Israeli checkpoint stop",
+      "beschrijving": "Pregnant Palestinian woman loses baby after Israeli checkpoint stop",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/pregnant-palestinian-woman-loses-baby-after-israeli-checkpoint-stop?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Nieuwe Britse premier kijkt naar Nederland voor oplossingen jeugdwerkloosheid",
+      "beschrijving": "De nieuwe premier van het Verenigd Koninkrijk Andy Burnham stelt een nieuw onderwijsbeleid voor om jeugdwerkloosheid tegen te gaan. Hij wil meer praktische scholing aanbieden - geïnspireerd op Nederlands model. De \"bouwhelm is net zo waardevol als de academische pet\", vindt Burnham. Jeugdwerkloosheid in het Verenigd Koninkrijk is hoog in vergelijking tot Europese buurlanden. Meer dan een miljoen B",
+      "url": "https://nos.nl/l/2624734",
+      "datum": "13 min geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Rook van natuurbranden kan leiden tot meer problemen met luchtwegen",
-      "beschrijving": "De grote natuurbrand in Zuid-Frankrijk naderde de stad Bordeaux de afgelopen dagen tot enkele kilometers. Het vuur zelf bereikte de stad niet, maar Bordeaux en andere plekken in de buurt van de branden hebben wel te maken met veel rook. Dat is niet zonder gevolgen, zegt longarts Sander de Hosson van het Wilhelmina Ziekenhuis Assen. Bij langdurige blootstelling aan rook kan dat tot een toename aan ",
-      "url": "https://nos.nl/l/2624710",
+      "titel": "Indiase overheid vervolgt betogers, maar Kakkerlakken-beweging is niet uitgespeeld",
+      "beschrijving": "Onder luid gejuich werd de onlangs afgetreden minister van Onderwijs Dharmendra Pradhan gisteren door zijn coalitiegenoten verwelkomd bij het Indiase parlement. \"Lang leve Dharmendra Pradhan\", zongen ze. Hij moest opstappen na een van de grootste onderwijsschandalen uit de regeerperiode van premier Modi. Indirect heeft het schandaal de levens gekost van meer dan 20 studenten die door psychische dr",
+      "url": "https://nos.nl/l/2624731",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Gewonden en schade door zware aardbeving bij zuidelijk eiland Japan",
-      "beschrijving": "Japan is getroffen door een zware aardbeving. Die had een kracht van 7,1 en vond plaats voor de kust van het zuidelijke Japanse eiland Kyushu. Premier Takaichi zegt dat er gewonden zijn. Op sommige plaatsen is er geen stroom meer en er zijn branden uitgebroken. Takaichi meldt ook schade aan gebouwen en bruggen. Ze waarschuwt voor naschokken. Treinen zijn stilgezet, vluchten van en naar het aardbev",
+      "titel": "Franse politie vindt in woning stoffelijke resten van vijf baby's",
+      "beschrijving": "De politie heeft in een woning in Frankrijk de stoffelijke overschotten gevonden van vijf baby's en foetussen. De stoffelijke resten zaten in kartonnen dozen, schrijven Franse media. De lugubere vondst werd vandaag gedaan in Orange, in het zuiden van het land. In het huis woont een stel. De mannelijke helft had de dozen ontdekt en kreeg ruzie met zijn vrouw over de inhoud, schrijft Le Parisien. To",
+      "url": "https://nos.nl/l/2624727",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Democraten willen FIFA-baas Infantino ondervragen over banden met Trump",
+      "beschrijving": "De hoogste Democraat in de juridische commissie van het Amerikaanse Huis van Afgevaardigden, Jamie Raskin, wil voorzitter van de wereldvoetbalbond (FIFA) Gianni Infantino verhoren over zijn banden met de Amerikaanse president Trump. De kans dat dat op korte termijn gebeurt, is vrijwel uitgesloten, want een meerderheid van het Huis moet daarmee instemmen. De Democraten hebben in het Huis van Afgeva",
+      "url": "https://nos.nl/l/2624713",
+      "datum": "3 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Hoe gevaarlijk is de rook van de natuurbranden voor je gezondheid?",
+      "beschrijving": "De grote natuurbrand in Zuid-Frankrijk naderde de stad Bordeaux de afgelopen dagen tot enkele kilometers. Het vuur zelf bereikte de stad niet, maar Bordeaux en andere plekken in de buurt van de branden hebben wel te maken met veel rook. Dat is niet zonder gevolgen, zegt longarts Sander de Hosson van het Wilhelmina Ziekenhuis Assen. Bij langdurige blootstelling aan rook kan dat tot een toename aan ",
+      "url": "https://nos.nl/l/2624710",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Doden en vermisten in Japans winkelcentrum na aardbeving en explosie, ook mensen vast",
+      "beschrijving": "Bij een zware aardbeving bij het zuidelijke Japanse eiland Kyushu zijn doden gevallen in een winkelcentrum, zeggen de autoriteiten. Hoeveel mensen zijn omgekomen is nog niet duidelijk. Volgens de politie worden twintig tot dertig mensen vermist. Het enorme overdekte winkelcentrum is grotendeels verwoest. De beving, vanmorgen vroeg Nederlandse tijd, had een kracht van 7,1. Medewerkers en bezoekers ",
       "url": "https://nos.nl/l/2624708",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -32,7 +77,7 @@
       "titel": "VS en Frankrijk vliegen elkaar in de haren in VN-Veiligheidsraad",
       "beschrijving": "De Amerikaanse delegatie is uit protest tegen Frankrijk weggelopen uit een zitting van de VN-Veiligheidsraad. De Amerikanen accepteren de kritiek van Frankrijk op hun mensenrechtenbeleid niet. De Amerikaanse vertegenwoordiger noemde dat \"gepolitiseerd gezever\" en \"achterbaks theater\". De botsing laat zien hoe gespannen de relatie tussen de VS en Frankrijk op dit moment is, net als die met andere N",
       "url": "https://nos.nl/l/2624701",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,16 +86,16 @@
       "titel": "'Honderden drones op regio Moskou afgevuurd, maar geen gewonden'",
       "beschrijving": "De regio Moskou is afgelopen nacht aangevallen met meer dan 390 drones, zegt burgemeester Sergej Sobanin. Volgens hem zijn de meeste uit de lucht geschoten door luchtafweersystemen. Het Russische staatsmedium RIA Novosti meldt dat in de stad Tsjechov, op 55 kilometer van de hoofdstad, een drone op een woongebouw is neergestort. Daarbij vielen geen gewonden. In omliggende dorpen zijn brokstukken va",
       "url": "https://nos.nl/l/2624700",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "In Duitsland zijn 410 mensen een islamistische bedreiging, ook Nederlandse voorbeelden",
-      "beschrijving": "In Duitsland worden 410 mensen gezien als islamistische bedreiging. Dat blijkt uit cijfers van de Duitse federale recherchedienst Bundeskriminalamt (BKA), schrijft mediagroep RND. Daarnaast zijn 65 mensen aangemerkt als extreemrechtse bedreiging en 17 als extreemlinkse bedreiging. Volgens de Duitse federale recherche zijn mensen die als extremistisch worden beschouwd in staat om ernstige geweldsde",
+      "beschrijving": "In Duitsland worden 410 mensen gezien als islamistische bedreiging. Dat blijkt uit cijfers van de Duitse federale recherchedienst Bundeskriminalamt (BKA), schrijft mediagroep RND. Volgens BKA bevinden zich in Duitsland 255 islamistische extremisten, van wie er 100 vastzitten. 155 anderen zijn in het buitenland, schrijft Tagesschau. Daarnaast zijn 65 mensen aangemerkt als extreemrechtse bedreiging ",
       "url": "https://nos.nl/l/2624691",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,103 +104,76 @@
       "titel": "Enorme bosbranden Frankrijk leiden tot uniek fenomeen: een vuurwolk",
       "beschrijving": "Een vuurstorm noemde een Franse brandweerman het en de gouverneur van het departement Gironde noemde het \"een ongelofelijk en ongezien fenomeen\". Tijdens de enorme bosbranden in de buurt van de Franse stad Bordeaux ontstond een pyrocumulonimbus: wolken die ontstaan door een bosbrand. Een pyrocumulonimbus is in Europa vrij nieuw. Het fenomeen leidt ertoe dat bosbranden moeilijker te bestrijden zijn",
       "url": "https://nos.nl/l/2624675",
-      "datum": "8 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Leger Sudan claimt inname belangrijke snelweg bij belegerde stad Al-Obeid",
-      "beschrijving": "Het leger van Sudan heeft een belangrijke snelweg heroverd, melden bronnen aan persbureau AFP. Die weg verbindt de hoofdstad Khartoem met Al-Obeid, een stad die wordt belegerd door de paramilitaire groepering Rapid Support Forces (RSF). De Verenigde Naties waarschuwen al weken dat er in Al-Obeid een catastrofe dreigt, vergelijkbaar met het bloedbad van Al-Fasher vorig jaar, dat werd aangesticht do",
-      "url": "https://nos.nl/l/2624673",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Mogelijk bendegeweld bij schietpartij Seattle, drie verdachten in beeld",
-      "beschrijving": "De politie in de Amerikaanse stad Seattle vermoedt dat drie mensen betrokken waren bij de schietpartij op een foodfestival van zondag. Bij die schietpartij werden drie mensen gedood en raakten vier anderen gewond, onder wie een jongen van 2 jaar. Er zou sprake zijn geweest van bendegeweld. Aanvankelijk zei de politie ervan uit te gaan dat twee verdachten op elkaar hadden geschoten op het culinaire",
-      "url": "https://nos.nl/l/2624672",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'Spectaculaire beursgang' Chinese chipbouwer: aandeel vijf keer meer waard",
-      "beschrijving": "ChangXin Memory Technologies (CXMT), de grootste Chinese chipmaker, maakt furore op de Chinese beurs. Vanochtend maakte het een bijzonder beursdebuut. In korte tijd steeg de waarde van het aandeel met bijna 500 procent. Dankzij de beursgang is het bedrijf op dit moment omgerekend zo'n 427 miljard euro waard. \"Deze beursgang van CXMT is wel echt spectaculair\", zegt beleggingsexpert Corné van Zeijl.",
-      "url": "https://nos.nl/l/2624664",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Magnitude 7.1 earthquake shakes southern Japan, tsunami warning issued",
-      "beschrijving": "PM Sanae Takaichi urges people &#039;to remain vigilant for the possibility of another earthquake of similar magnitude&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/7/28/magnitude-7-1-earthquake-shakes-southern-japan-tsunami-warning-issued?traffic_source=rss",
-      "datum": "19 min geleden",
-      "regio": "Wereld",
+      "titel": "Israeli soldier runs marathon around Gaza outpost",
+      "beschrijving": "An Israeli soldier filmed himself running a marathon around a military outpost in Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
+      "datum": "59 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Netanyahu in the White House: What’s on the agenda and what’s next?",
-      "beschrijving": "The Israeli PM&#039;s visit to the US comes amid raids in the occupied West Bank, before the October 27 elections.",
-      "url": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss",
+      "titel": "Trump says ‘good chance’ of progress in Iran talks. What we know",
+      "beschrijving": "Negotiators are trying to break the deadlock over transit fees and management of the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
-      "beschrijving": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
-      "url": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
-      "beschrijving": "‘F*** you Bibi.’ ‘War criminal!’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-criminal-protesters-confront-netanyahu-motorcade-in-washington-dc?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Zelensky to press Trump on air defences while in Washington",
-      "beschrijving": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-      "datum": "39 min geleden",
+      "titel": "US walks out on France at UN over North Korea, Russia comparison",
+      "beschrijving": "US diplomats walked out of France’s UN Security Council address after France’s UN Mission compared the US to North Korea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "US walks out of UN Security Council meeting during France's remarks",
       "beschrijving": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
       "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+      "beschrijving": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Zoo staff rescue near-extinct snails from remote rock",
+      "beschrijving": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "‘We’re here to stay’: West Bank Palestinians defy Israeli attacks",
+    "Pregnant Palestinian woman loses baby after Israeli checkpoint stop",
+    "Nieuwe Britse premier kijkt naar Nederland voor oplossingen jeugdwerkloosheid",
+    "Indiase overheid vervolgt betogers, maar Kakkerlakken-beweging is niet uitgespeeld",
+    "Franse politie vindt in woning stoffelijke resten van vijf baby's",
     "Democraten willen FIFA-baas Infantino ondervragen over banden met Trump",
-    "Rook van natuurbranden kan leiden tot meer problemen met luchtwegen",
-    "Gewonden en schade door zware aardbeving bij zuidelijk eiland Japan",
+    "Hoe gevaarlijk is de rook van de natuurbranden voor je gezondheid?",
+    "Doden en vermisten in Japans winkelcentrum na aardbeving en explosie, ook mensen vast",
     "VS en Frankrijk vliegen elkaar in de haren in VN-Veiligheidsraad",
-    "'Honderden drones op regio Moskou afgevuurd, maar geen gewonden'",
-    "In Duitsland zijn 410 mensen een islamistische bedreiging, ook Nederlandse voorbeelden",
-    "Enorme bosbranden Frankrijk leiden tot uniek fenomeen: een vuurwolk",
-    "Leger Sudan claimt inname belangrijke snelweg bij belegerde stad Al-Obeid",
-    "Mogelijk bendegeweld bij schietpartij Seattle, drie verdachten in beeld",
-    "'Spectaculaire beursgang' Chinese chipbouwer: aandeel vijf keer meer waard"
+    "'Honderden drones op regio Moskou afgevuurd, maar geen gewonden'"
   ]
 }
