@@ -1,11 +1,11 @@
 {
-  "bijgewerkt": "30 Jul 2026 15:13 UTC",
+  "bijgewerkt": "30 Jul 2026 17:39 UTC",
   "artikelen": [
     {
       "titel": "Neergestort object in Polen waarschijnlijk Russische raket, zegt premier Tusk",
-      "beschrijving": "Een krater met een doorsnee van 10 meter en restanten van een projectiel. Vanochtend vroeg werden inwoners van het Poolse dorpje Tarnawa-Kolonia opgeschrikt door een luide knal. De lokale autoriteiten vonden kort daarna in een veld een krater die vermoedelijk door de inslag was ontstaan. \"Alles wijst erop dat we te maken hebben met een Russische Kh-101-raket,\" zei de Poolse premier Tusk na een spo",
+      "beschrijving": "Een krater met een diameter van 10 meter en restanten van een projectiel. Vanochtend vroeg werden inwoners van het Poolse dorpje Tarnawa-Kolonia opgeschrikt door een luide knal. De lokale autoriteiten vonden kort daarna in een veld een krater die vermoedelijk door de inslag was ontstaan. \"Alles wijst erop dat we te maken hebben met een Russische Kh-101-raket,\" zei de Poolse premier Tusk na een spo",
       "url": "https://nos.nl/l/2624959",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,16 +14,25 @@
       "titel": "Elf agenten gedood bij tweede aanval op Pakistaanse politiepost in week tijd",
       "beschrijving": "Bij een droneaanval en de bestorming van een politiebureau door islamistische militanten in het noordwesten van Pakistan zijn zeker elf agenten gedood. Meer dan twintig politiemensen raakten gewond, meldt de politie. Het is de tweede keer binnen een week dat er zo'n aanval was. De tweede aanval vond gisteravond laat plaats in het district Hangu, vlakbij de Afghaanse grens, een gebied dat al lange ",
       "url": "https://nos.nl/l/2624952",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
+      "titel": "NATO jets scramble as Russian missile detonates in Poland",
+      "beschrijving": "The growing series of NATO airspace violations is raising concern that Russia&#039;s war on Ukraine could escalate.",
+      "url": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Smoke rises over southern Iran after renewed US attacks",
       "beschrijving": "A large plume of smoke was seen rising over the southwestern Iranian city of Ahvaz following renewed US strikes.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss",
-      "datum": "15 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
@@ -32,7 +41,7 @@
       "titel": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
       "beschrijving": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
       "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -41,7 +50,16 @@
       "titel": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
       "beschrijving": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "At least five members of same family killed in Russian missile attack, Zelensky says",
+      "beschrijving": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -50,16 +68,43 @@
       "titel": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
       "beschrijving": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
       "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Opnieuw burgemeesters van Turkse oppositie aangehouden",
+      "beschrijving": "De Turkse politie heeft opnieuw burgemeesters van oppositiepartij CHP aangehouden. Dit keer gaat het om de burgemeester van het district Etimesgut in Ankara, Erdal Besikcioglu. Hij werd samen met 37 gemeenteambtenaren meegenomen na een inval in het gemeentehuis in het westen van de Turkse hoofdstad. In totaal zijn 51 mensen gearresteerd. Zij worden onder meer verdacht van corruptie en machtsmisbru",
+      "url": "https://nos.nl/l/2624982",
+      "datum": "43 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Oekraïne wil oorlog naar 'gewone Rus' brengen en barre winter voorkomen",
+      "beschrijving": "Oekraïne schroeft de droneaanvallen op Rusland recent flink op. Eerst waren vooral defensielocaties en olieraffinaderijen doelwit, de laatste weken ook distributiecentra van Ruslands grootste webwinkel en deze week de regio Moskou. Vandaag raakte Oekraïne drie opslagen van die webwinkel, Wildberries. Welke strategie zit hierachter? En kan Oekraïne dit volhouden? \"We willen schade aanrichten die he",
+      "url": "https://nos.nl/l/2624976",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Duizenden migranten bereiken Spaanse Ceuta, lokaal bestuur wil noodtoestand",
+      "beschrijving": "Duizenden migranten hebben vandaag de Spaanse exclave Ceuta bestormd. Het lokale bestuur heeft de nationale overheid gevraagd de noodtoestand uit te roepen, maar de minister van Binnenlandse Zaken weigert dat vooralsnog. De afgelopen dagen werd het kleine stukje Spanje dat vastzit aan Marokko al bereikt door zo'n 1500 mensen, die veelal zwemmend aankwamen en zo illegaal de Spaanse grens overstaken",
+      "url": "https://nos.nl/l/2624975",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Zwitserse oud-politicus verdacht van drogeren en verkrachten ex-partners en minderjarige",
       "beschrijving": "In Zwitserland wordt een voormalig kantonparlementariër verdacht van het drogeren en verkrachten van drie vrouwen. Het gaat om zijn ex-vrouw, zijn Poolse ex-vriendin en haar destijds minderjarige dochter. Het jarenlange seksueel misbruik werd door de oud-politicus gefilmd. De nu 57-jarige man was actief voor de rechts-populistische SVP in het kanton Aargau, in het noorden van het land. Hij werd dr",
       "url": "https://nos.nl/l/2624969",
-      "datum": "1 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +113,7 @@
       "titel": "Meth, ketamine en yaba: Thailand wordt overspoeld door spotgoedkope drugs",
       "beschrijving": "De Thaise politie breekt record op record met onderscheppingen van synthetische drugs langs de landsgrenzen. Vorig jaar nam het ruim 851 miljoen methpillen in beslag. In de hele regio steeg het aantal zelfs met 50 procent en de hoeveelheid in beslag genomen ketamine steeg met 189 procent naar ruim 50 ton, berekende het VN-Bureau voor Drugs en Misdaad. De drugshandel lijkt steeds interessanter te w",
       "url": "https://nos.nl/l/2624964",
-      "datum": "55 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +122,7 @@
       "titel": "Tienduizenden evacués in Frankrijk weer naar huis, noodtoestand Spanje opgeheven",
       "beschrijving": "Zo'n 84.000 mensen die waren geëvacueerd vanwege bosbranden in Frankrijk mogen weer naar huis. Het gaat om de regio Lège-Cap-Ferret, ten westen van Bordeaux, waar een gebied van vier keer de grootte van Parijs is verwoest. Het weer in het departement Gironde is omgeslagen. Het is vochtiger, met lichte regen en lagere temperaturen. Die zijn gedaald van ongeveer 40 graden naar zo'n 27 graden. Daardo",
       "url": "https://nos.nl/l/2624949",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,71 +131,53 @@
       "titel": "Voortvluchtige Bolle Jos weer veroordeeld, Belgische rechter geeft hem 14 jaar",
       "beschrijving": "De Nederlandse drugscrimineel Jos L. is in België veroordeeld tot een gevangenisstraf van 14 jaar. Daarmee heeft hij de hoogste straf gekregen in een enorm onderzoek dat in België de naam Costa heeft gekregen. Andere verdachten kregen straffen van 13, 12 en 9 jaar opgelegd. Het Costa-onderzoek draait om verschillende criminele organisaties die volgens het Belgische OM zijn gaan samenwerken bij coc",
       "url": "https://nos.nl/l/2624946",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "30/7 in Nieuwsuur: Van watertekort naar crisis? • Binnenvaart merkt gevolgen droogte • Grazers ingezet tegen natuurbranden",
-      "beschrijving": "Wat zijn de gevolgen van de droogte voor de binnenvaart? De droogte zorgt voor een officieel watertekort in Nederland. Dat heeft gevolgen voor de waterverdeling, maar ook voor de scheepvaart. Welke impact merken schippers daar nu al van? Stieren ingezet in strijd tegen bosbranden We kennen ze wel uit de Oostvaardersplassen. Maar in delen van Europa waar de mens massaal wegtrekt, worden grote graze",
-      "url": "https://nos.nl/l/2624943",
-      "datum": "4 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dodental na aardbevingen in Japan loopt op, reddingswerk nog in volle gang",
-      "beschrijving": "Twee dagen na de zware aardbeving bij het zuidelijke Japanse eiland Kyushu is het dodental opgelopen tot 34, meldt de Japanse publieke omroep NHK. De reddingswerkzaamheden zijn nog in volle gang. Hoeveel mensen nog vermist zijn, is onduidelijk. Zeker 63 mensen zijn gewond geraakt. Het Japanse leger werd direct na de bevingen ingezet om noodhulp te leveren en te helpen met zoeken naar overlevenden.",
-      "url": "https://nos.nl/l/2624927",
       "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Franse rietjeslikker in Singapore komt weg met geldboete",
-      "beschrijving": "Een jonge Fransman heeft in Singapore een boete van omgerekend 406 euro gekregen voor een opmerkelijke actie. De 19-jarige student filmde zichzelf in maart toen hij een rietje uit een sinaasappelsap-automaat haalde om er even aan te likken en het rietje vervolgens weer terug te leggen in de machine. De video van zijn grappig bedoelde actie ging razendsnel rond op sociale media, maar de overheid in",
-      "url": "https://nos.nl/l/2624915",
-      "datum": "8 uur geleden",
+      "titel": "30/7 in Nieuwsuur: Van watertekort naar crisis? • Binnenvaart merkt gevolgen droogte • KNVB veroordeelt aandelenplan Infantino",
+      "beschrijving": "Wat zijn de gevolgen van de droogte voor de binnenvaart? De droogte zorgt voor een officieel watertekort in Nederland. Dat heeft gevolgen voor de waterverdeling, maar ook voor de scheepvaart. Welke impact merken schippers daar nu al van? Van feitelijk watertekort naar crisis? Veel ogen zijn vanmiddag gericht op overleg tussen waterbeheerders op het ministerie van Infrastructuur en Waterstaat. Fase",
+      "url": "https://nos.nl/l/2624943",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Wekdienst 30/7: Buitententoonstelling over Amsterdamse Molukkers • Ajax en FC Twente spelen returns in Europa",
-      "beschrijving": "Goedemorgen! Vandaag is er een buitententoonstelling over Amsterdamse Molukkers en Ajax en FC Twente spelen hun returns tegen Vojvodina en Ferencváros. Eerst het weer: de dag begint zonnig, maar vanuit het zuidwesten neemt de bewolking toe. In de loop van de middag maakt het zuidoosten en oosten kans op buiige regen met lokaal onweer. Bij een matige westenwind wordt het 22 graden aan zee tot 33 gr",
-      "url": "https://nos.nl/l/2624908",
-      "datum": "10 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "War on Iran: Phase II: Day 19",
-      "beschrijving": "The US resumes bombing Iran, with a family of three killed in Qeshm Island.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
-      "datum": "16 min geleden",
-      "regio": "Iran",
+      "titel": "‘To play God’: Cuba’s healthcare system collapses under US pressure",
+      "beschrijving": "As the Trump administration tightens US sanctions, Cuba&#039;s healthcare sector struggles with fuel and supply shortages.",
+      "url": "https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-      "beschrijving": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
-      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-      "datum": "20 uur geleden",
-      "regio": "Iran",
+      "titel": "IRGC video of retaliatory strikes on US targets in Jordan",
+      "beschrijving": "The IRGC released a video of what they say were missiles launched by their naval forces targeting US aircraft in Jordan.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/irgc-video-of-retaliatory-strikes-on-us-targets-in-jordan?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Three children among eight dead in Russian strikes on Ukraine, officials say",
-      "beschrijving": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Is Pakistan ‘using India’s playbook’ in Kashmir?",
+      "beschrijving": "Pakistan is facing accusations that its forces have killed unarmed protesters in Pakistan-administered Kashmir",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/is-pakistan-using-indias-playbook-in-kashmir?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why limited war with the US may suit Iran better than peace",
+      "beschrijving": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+      "datum": "13 min geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     }
@@ -158,13 +185,13 @@
   "ticker": [
     "Neergestort object in Polen waarschijnlijk Russische raket, zegt premier Tusk",
     "Elf agenten gedood bij tweede aanval op Pakistaanse politiepost in week tijd",
+    "NATO jets scramble as Russian missile detonates in Poland",
     "Smoke rises over southern Iran after renewed US attacks",
     "US launches 'heavy' strikes on Iran after attempted attack on American troops",
     "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+    "At least five members of same family killed in Russian missile attack, Zelensky says",
     "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-    "Zwitserse oud-politicus verdacht van drogeren en verkrachten ex-partners en minderjarige",
-    "Meth, ketamine en yaba: Thailand wordt overspoeld door spotgoedkope drugs",
-    "Tienduizenden evacués in Frankrijk weer naar huis, noodtoestand Spanje opgeheven",
-    "Voortvluchtige Bolle Jos weer veroordeeld, Belgische rechter geeft hem 14 jaar"
+    "Opnieuw burgemeesters van Turkse oppositie aangehouden",
+    "Oekraïne wil oorlog naar 'gewone Rus' brengen en barre winter voorkomen"
   ]
 }
