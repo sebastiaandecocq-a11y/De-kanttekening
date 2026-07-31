@@ -1,29 +1,20 @@
 {
-  "bijgewerkt": "30 Jul 2026 23:11 UTC",
+  "bijgewerkt": "31 Jul 2026 03:22 UTC",
   "artikelen": [
     {
-      "titel": "Security camera shows ‘Russian missile’ exploding in Poland",
-      "beschrijving": "Security camera video shows the moment a suspected Russian missile exploded inside Poland.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss",
+      "titel": "Nepal’s PM urges calm as three people killed after Hindu-Muslim unrest",
+      "beschrijving": "Three dead in violence in Nepal, as authorities enforce curfews and pledge to restore &#039;peace and unity&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/7/31/nepals-pm-urges-calm-as-three-people-killed-after-hindu-muslim-unrest?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "beschrijving": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "BBC World"
     },
     {
       "titel": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
       "beschrijving": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,7 +23,7 @@
       "titel": "At least five members of same family killed in Russian missile attack, Zelensky says",
       "beschrijving": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
       "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -41,25 +32,43 @@
       "titel": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
       "beschrijving": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
       "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-      "beschrijving": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "titel": "Spain deploys military to Ceuta after deadly migrant surge",
+      "beschrijving": "Spain has deployed its military to Ceuta after thousands of migrants overwhelmed police barricades.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "VS",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "18 doden bij bestorming Spaanse exclave Ceuta, nog duizenden mensen onderweg",
+      "beschrijving": "Bij de massale bestorming van de Spaanse exclave Ceuta in Marokko zijn nu minstens 18 mensen omgekomen, zo melden Spaanse media. Gisteren trachtten duizenden mensen de exclave te bereiken: zwemmend, per boot of door over hekken heen te klimmen. Het gaat om veelal jonge migranten die zo proberen de Europese Unie binnen te komen. De intocht van mensen is voorlopig nog niet ten einde: op de weg van T",
+      "url": "https://nos.nl/l/2625008",
+      "datum": "17 min geleden",
       "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Trump: Hamas gaat ontwapenen, volgens zijn eigen Vredesraad",
+      "beschrijving": "Hamas en andere gewapende strijdgroepen in Gaza gaan de wapens neerleggen, zo meldt de Amerikaanse president Trump in een bericht op het sociale netwerk Truth Social. Hij zegt dat de Board of Peace, de door hem zelf opgerichte 'Vredesraad' die toezicht moet houden op de wapenstilstand in het gebied, hierover een \"historische overeenkomst\" heeft gesloten. Trump noemt in zijn bericht niet met welke ",
+      "url": "https://nos.nl/l/2625005",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Bosbranden Griekenland nog niet onder controle: 'Moeilijke dagen voor ons'",
       "beschrijving": "In Griekenland zijn verschillende branden nog altijd niet onder controle. Er zijn onder meer branden op de eilanden Paros, Andros, Lesbos en Kreta. Harde windstoten met snelheden van meer dan 125 kilometer per uur maken de inzet van blusvliegtuigen en -helikopters moeilijk. Naar verwachting zal de wind pas in het weekend gaan liggen. \"Er staan ons moeilijke dagen te wachten\", zei de Griekse premie",
       "url": "https://nos.nl/l/2624998",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +77,7 @@
       "titel": "Vader van schoolschutter VS krijgt 15 jaar cel, gaf wapen als kerstcadeau",
       "beschrijving": "In de Amerikaanse staat Georgia is een vader tot 15 jaar gevangenisstraf veroordeeld voor een dodelijke schietpartij door zijn zoon. De man had zijn zoon een vuurwapen cadeau gegeven voor Kerstmis. Met het geweer schoot de tiener later vier mensen dood op zijn middelbare school. De destijds 14-jarige Colt Gray doodde in september 2024 twee leerlingen en twee docenten op de Apalachee High School in",
       "url": "https://nos.nl/l/2624997",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +86,7 @@
       "titel": "Duitsland vraagt Nederland om overlevering verdachte na gewelddadige dood in hotel",
       "beschrijving": "De Duitse autoriteiten hebben Nederland gevraagd om een man uit Almelo over te leveren. Hij wordt verdacht van betrokkenheid bij de dood van een 35-jarige man uit Enschede, die maandag dood werd gevonden in een hotelkamer in het Duitse Rees, vlak over de grens bij Nijmegen. Het slachtoffer, die een fysieke beperking had en in een rolstoel zat, zou zijn gewurgd. Dat blijkt uit de autopsie. Het Duit",
       "url": "https://nos.nl/l/2624995",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "Experts verwachten nieuwe NAVO-reactie op Russische intimidaties: 'Niets doen lokt uit'",
       "beschrijving": "Sinds de Russische invasie van Oekraïne in 2022 is Rusland meermaals de luchtruimen van oostelijke NAVO-landen binnengedrongen. Afgelopen week was het raak in Roemenië en Polen. Experts verwachten een kentering in de reactie van de NAVO. \"Je gaat zien dat NAVO-landen genoeg hebben van die Russische prikacties\", zegt Bart van den Berg, onderzoeker bij Instituut Clingendael. Voor vrijwel alle schend",
       "url": "https://nos.nl/l/2624994",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +104,7 @@
       "titel": "Canadees dorpje wordt eindelijk verlost van miljoen liter intens stinkende vissaus",
       "beschrijving": "In het Canadese kustplaatsje St. Mary's zijn inwoners na tientallen jaren bijna verlost van de intense en indringende geur van rotte vis. In een verlaten visfabriek ligt al zeker 25 jaar meer dan een miljoen liter vissaus opgeslagen. Nu wordt dat eindelijk opgeruimd, meldt de Canadese publieke omroep CBC. De fabriek Atlantic Seafood Sauce Company opende in 1990, maar ging begin jaren 2000 dicht na",
       "url": "https://nos.nl/l/2624992",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +113,7 @@
       "titel": "Historisch laag waterpeil Donau legt mammoetbotten bloot in Bulgarije",
       "beschrijving": "In Bulgarije zijn eeuwenoude resten gevonden van een mammoet. Door het historisch lage waterpeil van de rivier de Donau kwamen de overblijfselen van het dier bloot te liggen. De voorlopige hypothese is dat de botten toebehoren aan een wolharige mammoet. Tot nu toe zijn er onder meer een onderkaak, slagtanden, een schouderblad en ribben geïdentificeerd. Volgens specialisten is het mogelijk dat een ",
       "url": "https://nos.nl/l/2624989",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +122,7 @@
       "titel": "Opnieuw burgemeesters van Turkse oppositie aangehouden",
       "beschrijving": "De Turkse politie heeft opnieuw burgemeesters van oppositiepartij CHP aangehouden. Dit keer gaat het om de burgemeester van het district Etimesgut in Ankara, Erdal Besikcioglu. Hij werd samen met 37 gemeenteambtenaren meegenomen na een inval in het gemeentehuis in het westen van de Turkse hoofdstad. In totaal zijn 51 mensen gearresteerd. Zij worden onder meer verdacht van corruptie en machtsmisbru",
       "url": "https://nos.nl/l/2624982",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,76 +131,67 @@
       "titel": "Oekraïne wil oorlog naar 'gewone Rus' brengen en barre winter voorkomen",
       "beschrijving": "Oekraïne schroeft de droneaanvallen op Rusland recent flink op. Eerst waren vooral defensielocaties en olieraffinaderijen doelwit, de laatste weken ook distributiecentra van Ruslands grootste webwinkel en deze week de regio Moskou. Vandaag raakte Oekraïne drie opslagen van die webwinkel, Wildberries. Welke strategie zit hierachter? En kan Oekraïne dit volhouden? \"We willen schade aanrichten die he",
       "url": "https://nos.nl/l/2624976",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Doden bij massale oversteek naar Spaanse exclave Ceuta: 'Complete chaos'",
-      "beschrijving": "Zeker negen mensen die probeerden de kust van Ceuta te bereiken zijn overleden. Zij behoorden tot de duizenden migranten die vandaag de Spaanse exclave bestormden. Het dodental kan in de komende uren nog oplopen, schrijft El País. Het lokale bestuur heeft de nationale overheid gevraagd de noodtoestand uit te roepen, maar de minister van Binnenlandse Zaken weigert dat vooralsnog. Spanje heeft donde",
-      "url": "https://nos.nl/l/2624975",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zwitserse oud-politicus verdacht van drogeren en verkrachten ex-partners en minderjarige",
-      "beschrijving": "In Zwitserland wordt een voormalig kantonparlementariër verdacht van het drogeren en verkrachten van drie vrouwen. Het gaat om zijn ex-vrouw, zijn Poolse ex-vriendin en haar destijds minderjarige dochter. Het jarenlange seksueel misbruik werd door de oud-politicus gefilmd. De nu 57-jarige man was actief voor de rechts-populistische SVP in het kanton Aargau, in het noorden van het land. Hij werd dr",
-      "url": "https://nos.nl/l/2624969",
-      "datum": "7 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza",
-      "beschrijving": "This is a breaking news story.",
-      "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
-      "datum": "37 min geleden",
+      "titel": "Israeli soldiers mutiny at notorious Sde Teiman base",
+      "beschrijving": "Dozens of Israeli soldiers have abandoned their weapons and walked out of the Sde Teiman military base.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-soldiers-mutiny-at-notorious-sde-teiman-base?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Will Saudi Arabia be dragged further into the war in Iran?",
-      "beschrijving": "Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
-      "beschrijving": "Colin Gray, 55, was convicted of second-degree murder after his son Colt carried out a school shooting that killed four.",
-      "url": "https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss",
+      "titel": "London protesters march through streets in solidarity with Azad Kashmir",
+      "beschrijving": "Protesters in London marched from Hyde Park towards the Pakistan High Commission on Thursday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Why limited war with the US may suit Iran better than peace",
-      "beschrijving": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "titel": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
+      "beschrijving": "As US-Iran clashes escalate, former US Ambassador to UAE Barbara Leaf warns escalation is ‘fairly pointless’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran war live: Gaza Board of Peace lauds ‘historic’ disarmament agreement",
+      "beschrijving": "Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "beschrijving": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Security camera shows ‘Russian missile’ exploding in Poland",
-    "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+    "Nepal’s PM urges calm as three people killed after Hindu-Muslim unrest",
     "Missile that left crater deep inside Poland was probably Russian - Polish PM",
     "At least five members of same family killed in Russian missile attack, Zelensky says",
     "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-    "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+    "Spain deploys military to Ceuta after deadly migrant surge",
+    "18 doden bij bestorming Spaanse exclave Ceuta, nog duizenden mensen onderweg",
+    "Trump: Hamas gaat ontwapenen, volgens zijn eigen Vredesraad",
     "Bosbranden Griekenland nog niet onder controle: 'Moeilijke dagen voor ons'",
     "Vader van schoolschutter VS krijgt 15 jaar cel, gaf wapen als kerstcadeau",
-    "Duitsland vraagt Nederland om overlevering verdachte na gewelddadige dood in hotel",
-    "Experts verwachten nieuwe NAVO-reactie op Russische intimidaties: 'Niets doen lokt uit'"
+    "Duitsland vraagt Nederland om overlevering verdachte na gewelddadige dood in hotel"
   ]
 }
