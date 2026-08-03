@@ -1,47 +1,29 @@
 {
-  "bijgewerkt": "03 Aug 2026 08:32 UTC",
+  "bijgewerkt": "03 Aug 2026 12:28 UTC",
   "artikelen": [
     {
-      "titel": "Israëlische aanvallen op Gaza gaan door ondanks Trumps 'historische overeenkomst'",
-      "beschrijving": "Enkele dagen nadat er door de Amerikaanse president Trump is gesproken over een \"historische overeenkomst\" in de onderhandelingen tussen Hamas en Israël, vallen er in Gaza opnieuw doden. Volgens de Palestijnse gezondheidsautoriteiten gaat het in totaal om achttien doden, het hoogste aantal op één dag in weken. Bij luchtaanvallen werden volgens de Palestijnse gezondheidsautoriteiten zeker vier mens",
-      "url": "https://nos.nl/l/2625318",
-      "datum": "13 uur geleden",
+      "titel": "Weer Oekraïense aanvallen op Russische webwinkel Wildberries",
+      "beschrijving": "Bij Oekraïense aanvallen op Rusland is een magazijn van Wildberries geraakt, de grootste webwinkel van het land. Daarbij zijn volgens regionale Russische functionarissen twee mensen gewond geraakt. Oekraïne zegt niets over de aanvallen. Het distributiecentrum van Wildberries staat in de regio Vladimir, ten oosten van de hoofdstad Moskou. Na de aanval brak er ook brand uit en werd het personeel geë",
+      "url": "https://nos.nl/l/2625368",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+      "beschrijving": "Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap.",
+      "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zelfmoordaanslag op demonstratie bij politiebureau in Pakistan, zeker 14 doden",
-      "beschrijving": "In het noordwesten van Pakistan zijn zeker veertien doden gevallen door een zelfmoordaanslag. Het vermoedelijke doelwit was een demonstratie bij een politiebureau. De betoging was gericht tegen militanten en de autoriteiten, die volgens de betogers te weinig doen tegen terrorisme in de regio. Op het moment van de aanslag waren er honderden demonstranten aanwezig, schrijft de Pakistaanse krant Dawn",
-      "url": "https://nos.nl/l/2625317",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
-      "beschrijving": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
-      "datum": "5 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
-      "beschrijving": "Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "beschrijving": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "titel": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+      "beschrijving": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+      "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -50,43 +32,61 @@
       "titel": "Massive Attack respond after Singapore ban over Palestine display",
       "beschrijving": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
       "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Outside the Moscow restaurant where bomb killed three",
-      "beschrijving": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Italiaanse militairen controleren tanker van Russische schaduwvloot",
-      "beschrijving": "De Italiaanse strijdkrachten hebben vanmorgen een inspectie uitgevoerd op een olietanker op de Middellandse Zee. Per helikopter gingen militairen aan boord van de Toa Payoh, die op de EU-sanctielijst staat als schip uit de Russische schaduwvloot. De Italiaanse minister van Defensie heeft dat bekendgemaakt. Uit zijn verklaring wordt niet duidelijk of er opvarenden zijn gearresteerd. De missie was b",
-      "url": "https://nos.nl/l/2625291",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Brazil’s Lula launches reelection bid amid foreign interference concerns",
-      "beschrijving": "Brazil&#039;s President Luiz Inácio Lula da Silva has officially launched his reelection campaign.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
-      "datum": "5 uur geleden",
+      "titel": "Pakistan-administered Kashmir elections and protests – all you need to know",
+      "beschrijving": "Protests over refugee seats turn deadly, forcing staggered elections under internet blackout and calls for a boycott.",
+      "url": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss",
+      "datum": "37 min geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "Iran ontkent dat er nieuwe gesprekken zijn met de Verenigde Staten",
+      "beschrijving": "Iran voert geen gesprekken met de Verenigde Staten, zegt de woordvoerder van het Iraanse ministerie van Buitenlandse Zaken Baghaei. Daarmee spreekt hij president Trump tegen, die eerder zei dat onderhandelingen over een staakt-het-vuren vanmiddag zouden worden hervat. Baghaei zegt dat Iran geen plannen heeft om buitenlandse delegaties te ontvangen of onderhandelaars te sturen voor onderhandelingen",
+      "url": "https://nos.nl/l/2625375",
+      "datum": "27 min geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Podcast De Dag: werken tussen de bosbranden",
+      "beschrijving": "Op verschillende plekken in Europa zijn of worden mensen geëvacueerd vanwege grote bosbranden. Maar wat als je voor je werk juist naar die bosbranden toe gaat? In de podcast vertellen drie mensen die oog in oog stonden met het vuur hoe zij dat hebben ervaren. Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. A",
+      "url": "https://nos.nl/l/2625371",
+      "datum": "55 min geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Teken van leven: oud-leider Myanmar Suu Kyi spreekt met Rode Kruis",
+      "beschrijving": "De gevangengenomen voormalig leider van Myanmar, Aung San Suu Kyi, heeft een ontmoeting gehad met een vertegenwoordiger van het Internationaal Comité van het Rode Kruis. Daarmee is voor het eerst in tweeënhalf jaar bevestigd dat zij nog in leven is. De inmiddels 81-jarige werd in 2021 gearresteerd, toen de voormalig juntaleider Min Aung Hlaing een coup pleegde in het land. De militaire regering va",
+      "url": "https://nos.nl/l/2625362",
+      "datum": "2 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Volgens de Taliban is Afghanistan veilig genoeg voor een vakantie",
+      "beschrijving": "\"Wie kan mij het verschil vertellen tussen binnenlands en buitenlands toerisme\", roept de leraar door de klas. Een groep jongemannen kijkt hem aandachtig aan, vrouwen zijn hier niet. In het door de overheid gefinancierde Instituut van Toerisme in Kabul worden ze klaargestoomd om in de recreatiesector aan de slag te gaan. De toerisme-industrie is een goed voorbeeld van hoe pragmatisch de Taliban ku",
+      "url": "https://nos.nl/l/2625361",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Honderden gebouwen verwoest bij natuurbranden in staat Washington",
       "beschrijving": "In de Amerikaanse staat Washington zijn ten minste 600 gebouwen verwoest door natuurbranden. Ook moesten 60.000 mensen hun huis verlaten. Er zijn volgens de lokale autoriteiten in het westen van de Verenigde Staten geen meldingen van gewonden of vermisten. Het vuur woedt in Spokane County, een regio met bijna 600.000 inwoners. Afgelopen weekend werd daar de noodtoestand uitgeroepen. Hoe het vuur i",
       "url": "https://nos.nl/l/2625347",
-      "datum": "34 min geleden",
+      "datum": "4 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +95,7 @@
       "titel": "Japan en VS proberen yen te redden, maar effect op lange termijn onzeker",
       "beschrijving": "De Japanse yen was weggezakt tot het laagste niveau in bijna veertig jaar, maar schoot de afgelopen dagen omhoog. Berichten over geheime aankopen en een gefotografeerd Amerikaans spiekbriefje voedden de vermoedens. Maandag kwam de bevestiging: de regeringen in Tokio en Washington hebben met miljarden ingegrepen om de val van de yen te stoppen. Zodra minister Katayama bij de ingang van het minister",
       "url": "https://nos.nl/l/2625343",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +104,7 @@
       "titel": "Vijf vrouwen in Al-Fayed-misbruikzaak zijn slachtoffer van mensenhandel",
       "beschrijving": "Vijf vrouwen die slachtoffer werden in een misbruikschandaal rondom de overleden zakenman Mohamed al-Fayed zijn formeel erkend als slachtoffer van mensenhandel. Daarover schrijft de BBC. Al-Fayed was onder meer eigenaar van het luxe Britse warenhuis Harrods. In april werd een eerste slachtoffer erkend door het Britse ministerie van Binnenlandse Zaken. Rachael Louw trad toen uit de anonimiteit. Zij",
       "url": "https://nos.nl/l/2625340",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +113,7 @@
       "titel": "Wekdienst 3/8: Vonnis over gijzeling gevangenis Vught • Klimmen in Tour de France",
       "beschrijving": "Goedemorgen! Corné H. hoort vandaag of hij schuldig wordt bevonden aan een gijzeling in de zwaar beveiligde gevangenis van Vught. In de Tour de France Femmes wordt flink geklommen. Eerst het weer: zon en wolken wisselen elkaar af en in vrijwel het hele land wordt het tropisch warm. Het wordt tussen de 30 en 35 graden. In de avond zijn er in het zuidoosten buien. Ga je vandaag op pad? Hier vind je ",
       "url": "https://nos.nl/l/2625330",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,52 +122,52 @@
       "titel": "Trump kondigt hervatting gesprekken met Iran aan, geen reactie uit Teheran",
       "beschrijving": "De Amerikaanse president Trump zegt dat nieuwe onderhandelingen met Iran over een staakt-het-vuren in de loop van de dag beginnen. Zaterdag besloot hij om nieuwe aanvallen op Iran af te blazen om weer te proberen om tot een akkoord met Iran te komen over een eind aan de oorlog. Hij zei toen dat er afspraken op hoofdlijnen zijn. Iran zelf heeft de nieuwe onderhandelingen nog niet bevestigd. Trump z",
       "url": "https://nos.nl/l/2625329",
-      "datum": "8 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Wanhopige Marokkanen wachten bij Ceuta op familieleden: 'Hij had hier niet moeten zijn'",
-      "beschrijving": "Na de ongekende overtocht van migranten vanuit Marokko naar de Spaanse exclave Ceuta lijkt de rust bij de grensovergang teruggekeerd, maar tientallen families zijn er wanhopig op zoek naar hun geliefden. Onder de vermisten zijn veel minderjarigen. Achraf Maymoun van mensenrechtenorganisatie AMDH heeft contact met een aantal families. \"Er is op dit moment geen enkele organisatie die hierover nieuws",
-      "url": "https://nos.nl/l/2625315",
-      "datum": "13 uur geleden",
+      "titel": "Ukraine strikes Russia’s biggest retailer again",
+      "beschrijving": "Ukraine has struck another warehouse belonging to Russian e-commerce giant Wildberries in a long-range drone attack.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Trump says new Iran negotiations starting: What we know",
+      "beschrijving": "Analysts say deal on Hormuz might be achievable but lasting peace agreement still far off.",
+      "url": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Wildfires still burning in France and Spain amid fears of more to come",
+      "beschrijving": "Europe&#039;s warming climate intensifies fires in France and Spain, scorching forests and threatening more communities.",
+      "url": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Deen en Griek komen om bij botsing tussen blushelikopters in Griekenland",
-      "beschrijving": "Bij een botsing tussen twee blushelikopters in Griekenland zijn twee doden gevallen. Het gaat om een Deense piloot en een Griekse coördinator van de brandweer. Zij zaten in de helikopter die na de botsing is neergestort, melden de Griekse autoriteiten. De twee helikopters waren opgestegen om ten westen van Athene water uit te gooien boven de bosbranden. In de lucht raakten ze elkaar. Op beelden va",
-      "url": "https://nos.nl/l/2625296",
-      "datum": "16 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
-      "beschrijving": "The disappearance of two boys last year has turned the Abdel Aal family’s life into an endless search for answers.",
-      "url": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "England set to follow Wales in withdrawing support for FIFA’s Infantino",
+      "beschrijving": "England FA tipped to formally withdraw support for Gianni Infantino re-election bid after botched World Cup stakes plan.",
+      "url": "https://www.aljazeera.com/sports/2026/8/3/wales-fa-withdraws-support-for-infantino-re-election-after-fifa-stake-plan?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran war live: Iranian foreign ministry says no current talks with US",
-      "beschrijving": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
-      "datum": "8 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Trump suggests new talks with Iran to begin on Monday",
-      "beschrijving": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+      "titel": "Iran denies Trump's claim that new talks will begin on Monday",
+      "beschrijving": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
       "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "datum": "29 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -183,15 +183,15 @@
     }
   ],
   "ticker": [
-    "Israëlische aanvallen op Gaza gaan door ondanks Trumps 'historische overeenkomst'",
-    "Zelfmoordaanslag op demonstratie bij politiebureau in Pakistan, zeker 14 doden",
-    "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
-    "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
-    "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+    "Weer Oekraïense aanvallen op Russische webwinkel Wildberries",
+    "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+    "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
     "Massive Attack respond after Singapore ban over Palestine display",
-    "Outside the Moscow restaurant where bomb killed three",
-    "Italiaanse militairen controleren tanker van Russische schaduwvloot",
-    "Brazil’s Lula launches reelection bid amid foreign interference concerns",
+    "Pakistan-administered Kashmir elections and protests – all you need to know",
+    "Iran ontkent dat er nieuwe gesprekken zijn met de Verenigde Staten",
+    "Podcast De Dag: werken tussen de bosbranden",
+    "Teken van leven: oud-leider Myanmar Suu Kyi spreekt met Rode Kruis",
+    "Volgens de Taliban is Afghanistan veilig genoeg voor een vakantie",
     "Honderden gebouwen verwoest bij natuurbranden in staat Washington"
   ]
 }
