@@ -1,56 +1,83 @@
 {
-  "bijgewerkt": "05 Aug 2026 10:39 UTC",
+  "bijgewerkt": "05 Aug 2026 12:56 UTC",
   "artikelen": [
     {
       "titel": "Wekdienst 5/8: Uitreiking Pride Awards in Amsterdam • Rakettrap slaat in op de maan",
       "beschrijving": "Goedemorgen! In Amsterdam worden de International Pride Awards uitgereikt. Op de maan stort een rakettrap neer en een aantal Nederlandse multinationals komt met nieuwe kwartaalcijfers. Eerst het weer: zon en stapelwolken wisselen elkaar af en op veruit de meeste plaatsen blijft het droog. Bij een matige, aan zee krachtige zuidwestenwind wordt het 23 tot 28 graden. Ga je vandaag op pad? Hier vind j",
       "url": "https://nos.nl/l/2625574",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Brazilië schroeft diplomatieke aanwezigheid in Argentinië terug na aanvallen Milei",
-      "beschrijving": "De Braziliaanse regering heeft aangekondigd de diplomatieke aanwezigheid in Argentinië terug te schroeven na herhaaldelijke aanvallen van de Argentijnse president Milei aan het adres van zijn Braziliaanse collega Lula. Het betekent dat de in juli teruggetrokken Braziliaanse ambassadeur niet meer terugkeert naar Argentinië zolang Milei Lula blijft schofferen, meldt de Braziliaanse regering. Het is ",
-      "url": "https://nos.nl/l/2625568",
       "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-      "beschrijving": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
-      "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
+      "titel": "Turkish cargo ship catches fire after Black Sea drone attack",
+      "beschrijving": "A Turkish cargo ship caught fire after a drone attack near Russia’s Black Sea port of Novorossiysk.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-      "beschrijving": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-      "datum": "19 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+      "beschrijving": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "datum": "30 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Michigan, Missouri, Washington primary elections: Key takeaways",
-      "beschrijving": "Recent US primaries have revealed Democratic Party rift between progressives and centrists over US support for Israel.",
-      "url": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss",
+      "titel": "Progressieve Democraat wint voorverkiezingen in Michigan",
+      "beschrijving": "De progressieve Democraat Abdul El-Sayed heeft de voorverkiezing om de kandidatuur voor een Senaatzetel gewonnen in de Amerikaanse staat Michigan, melden Amerikaanse media nadat 95 procent van de stemmen is geteld. El-Sayed won de race met een nipte voorsprong op zijn gematigde tegenstander Haley Stevens. Volgens de peilingen heeft de 41-jarige El-Sayed bijna 49 procent van de stemmen gehaald, ter",
+      "url": "https://nos.nl/l/2625608",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Russische desinformatiecampagne in aanloop deelstaatverkiezingen Duitsland",
+      "beschrijving": "Rusland is bezig met een desinformatiecampagne om de Duitse deelstaatverkiezingen te beïnvloeden. Dat meldt persbureau Reuters op basis van bronnen binnen de Duitse veiligheidsdienst. De laatste tijd zouden er honderden filmpjes zijn verschenen met logo's van de Duitse omroep ARD en de Britse omroep BBC, waarin allerlei valse beschuldigingen worden geuit richting Duitse politici. Volgende maand wo",
+      "url": "https://nos.nl/l/2625604",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "In Bandar Abbas, the ceasefire never came",
+      "beschrijving": "A single mother from Bandar Abbas reflects on the fear and resilience of living through repeated attacks.",
+      "url": "https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss",
+      "datum": "42 min geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Podcast De Dag: wat 'Russische Amazon' Wildberries een interessant doelwit maakt",
+      "beschrijving": "Webshop Wildberries, 'de Russische Amazon', wordt al bijna een maand lang aangevallen door Oekraïne. Afgelopen nacht ging een van de grootste distributiecentra in vlammen op. Waarom is dit zo'n interessant doelwit? Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. Hans van Koningsbrugge is hoogleraar geschiede",
+      "url": "https://nos.nl/l/2625601",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Mogelijk drone met explosieven gevonden op vliegveld van Leipzig",
+      "beschrijving": "Op het vliegveld van de Duitse stad Leipzig is een drone gevonden die explosieven en een ontsteker bevatte, schrijven Duitse media op basis van veiligheidsbronnen. De drone was volgens de NAVO gisteravond gezien in de buurt van een Oekraïens vrachtvliegtuig. Het vliegveld in het oosten van Duitsland is een belangrijk knooppunt voor het luchtverkeer naar Oekraïne. De autoriteiten hebben de ontsteke",
+      "url": "https://nos.nl/l/2625600",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "'AIVD behoort tot beste inlichtingendiensten van Europa'",
       "beschrijving": "De Nederlandse AIVD behoort tot de drie beste inlichtingendiensten van Europa. Dat concludeert het Franse weekblad L'Express in een ranglijst, die is samengesteld op basis van zestig hooggeplaatsten in de westerse spionagewereld. Alleen de inlichtingendiensten van het Verenigd Koninkrijk en Frankrijk doen het beter, schrijft het blad. Volgens Huib Modderkolk, onderzoeksjournalist bij de Volkskrant",
       "url": "https://nos.nl/l/2625594",
-      "datum": "25 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +86,7 @@
       "titel": "Gewapende man aangehouden op golfcomplex Trump in Los Angeles",
       "beschrijving": "Op de Trump National Golf Course bij Los Angeles heeft de politie afgelopen weekend een man aangehouden die gewapend rondliep. Hij werd zondag al gearresteerd, maar het incident werd gisteren pas bekendgemaakt door de politie. \"Hoewel we nog bezig zijn met het onderzoek naar de motieven van deze persoon, zijn we blij dat hij nog voor het bezoek van de president is aangehouden,\" laat het Openbaar M",
       "url": "https://nos.nl/l/2625580",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +95,7 @@
       "titel": "Zuid-Koreaanse politie doorzoekt hoofdkantoor Starbucks na misplaatste actie",
       "beschrijving": "De politie in Zuid-Korea heeft een inval gedaan in het Koreaanse hoofdkantoor van Starbucks in Seoul. Aanleiding is een onderzoek naar een controversiële marketingcampagne. De koffieketen kwam op 18 mei met een speciale actie die zij 'Tank Day' noemden. Daarbij werd een koffiebeker gepromoot die 'tank' wordt genoemd, een grote mok van roestvrij staal. Maar de naam en de dag van de reclameactie vie",
       "url": "https://nos.nl/l/2625578",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +104,7 @@
       "titel": "Rusland blijft Oekraïne bestoken: 17 doden in Kyiv, ook distributiecentra doelwit",
       "beschrijving": "Bij Russische luchtaanvallen op de Oekraïense hoofdstad Kyiv zijn vannacht zeker zeventien mensen omgekomen, 44 anderen raakten gewond. Ook werden een aantal magazijnen in de regio rond Kyiv beschadigd. Dat melden Oekraïense hulpdiensten in een Telegrambericht. Ook heeft Rusland drie vrachtschepen aangevallen op de Zwarte Zee in de buurt van Odesa. Zeven plekken in en nabij Kyiv zijn geraakt door ",
       "url": "https://nos.nl/l/2625576",
-      "datum": "5 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,62 +113,62 @@
       "titel": "Roekeloze Nederlander, die 235 kilometer per uur reed, gepakt in Duitsland",
       "beschrijving": "De Duitse politie heeft gisteren een 23-jarige Nederlander aangehouden die met zijn Porsche 911 met snelheden tot 235 kilometer over de Duitse autobahn reed. Op de A3 in de Duitse deelstaat Rijnland-Palts was de man gistermiddag aan het bumperkleven achter een onopvallende politiewagen, haalde hij herhaaldelijk op zeer hoge snelheid rechts in en sneed hij volgens de politie op roekeloze wijze door",
       "url": "https://nos.nl/l/2625569",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Washington Post: Trump eist last minute verandering aan heliplatform in aanbouw",
-      "beschrijving": "Een deel van het werk aan een helikopterplatform in het Witte Huis moet opnieuw gedaan worden. Volgens meerdere regeringsmedewerkers die de Amerikaanse krant The Washington Post anoniem sprak is president Trump het niet eens met de lichte hellingshoek van het platform dat nog in aanbouw was. Op foto's die de krant analyseerde, is te zien hoe een granieten bovenlaag waarop het officiële logo van de",
-      "url": "https://nos.nl/l/2625567",
-      "datum": "11 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Protest tegen privatisering Turkse stranden: 'Ze worden bezet'",
-      "beschrijving": "In sommige badplaatsen in Turkije is een dagje naar het strand allang niet meer vanzelfsprekend. Langs grote delen van de kust hebben horecabedrijven en strandtenten openbare stranden volgebouwd met steigers, terrassen en rijen ligbedden. Ondernemers zeggen dat ze daarvoor toestemming hebben van de gemeente en dat het goed is voor het toerisme. Maar veel inwoners spreken van een illegale bezetting",
-      "url": "https://nos.nl/l/2625548",
-      "datum": "15 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Evacuaties in Guatemala vanwege uitbarsting vulkaan Fuego",
-      "beschrijving": "Vanwege een hevige vulkaanuitbarsting in Guatemala zijn zo'n 250 mensen uit voorzorg geëvacueerd. Vulkaan Fuego, een van de actiefste vulkanen van Centraal-Amerika, ligt zo'n veertig kilometer ten zuidwesten van hoofdstad Guatemala-Stad. Twee dorpen nabij de vulkaan zijn ontruimd. Een snelweg is voorlopig gesloten voor verkeer. De eruptie begon maandag en vandaag werd het alarmniveau verder verhoo",
-      "url": "https://nos.nl/l/2625542",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
-      "beschrijving": "While barriers to free movement make the lives of Palestinians extremely difficult, they do not make Israel more secure.",
-      "url": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss",
-      "datum": "30 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
-      "beschrijving": "US President Donald Trump says progress with Iran has been made, but warned Iran of &#039;hard hit&#039; if no deal reached.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
+      "beschrijving": "An agreement could restore shipping through crucial waterway, paving way for peace talks between Tehran and Washington.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss",
+      "datum": "48 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-      "beschrijving": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "datum": "45 min geleden",
-      "regio": "Oekraïne",
+      "titel": "Protesters stage sit-in against settler violence-linked Smotrich funds",
+      "beschrijving": "Palestinian and Israeli protesters staged a sit-in at the Religious Zionist Party’s headquarters in Shoham on Wednesday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss",
+      "datum": "52 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
+      "beschrijving": "Egypt forward Mohamed Salah landed in Istanbul on Wednesday to complete his move to Turkiye club Trabzonspor.",
+      "url": "https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israeli forces detain Palestinians during raid in occupied West Bank",
+      "beschrijving": "A journalist covering events was severely beaten by Israeli soldiers, while locals were also attacked.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+      "beschrijving": "Disagreements remain in second day of resumed talks over disarming Hezbollah and Israeli withdrawal from South Lebanon.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Mexican influencer shot dead during livestream",
+      "beschrijving": "César Gastélum, who was known for comedy and lifestyle posts, was killed at close range by a man on a motorbike.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -149,31 +176,22 @@
       "titel": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
       "beschrijving": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
       "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-      "beschrijving": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "datum": "23 uur geleden",
-      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "Wekdienst 5/8: Uitreiking Pride Awards in Amsterdam • Rakettrap slaat in op de maan",
-    "Brazilië schroeft diplomatieke aanwezigheid in Argentinië terug na aanvallen Milei",
-    "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-    "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-    "Michigan, Missouri, Washington primary elections: Key takeaways",
+    "Turkish cargo ship catches fire after Black Sea drone attack",
+    "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+    "Progressieve Democraat wint voorverkiezingen in Michigan",
+    "Russische desinformatiecampagne in aanloop deelstaatverkiezingen Duitsland",
+    "In Bandar Abbas, the ceasefire never came",
+    "Podcast De Dag: wat 'Russische Amazon' Wildberries een interessant doelwit maakt",
+    "Mogelijk drone met explosieven gevonden op vliegveld van Leipzig",
     "'AIVD behoort tot beste inlichtingendiensten van Europa'",
-    "Gewapende man aangehouden op golfcomplex Trump in Los Angeles",
-    "Zuid-Koreaanse politie doorzoekt hoofdkantoor Starbucks na misplaatste actie",
-    "Rusland blijft Oekraïne bestoken: 17 doden in Kyiv, ook distributiecentra doelwit",
-    "Roekeloze Nederlander, die 235 kilometer per uur reed, gepakt in Duitsland"
+    "Gewapende man aangehouden op golfcomplex Trump in Los Angeles"
   ]
 }
