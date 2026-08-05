@@ -1,29 +1,29 @@
 {
-  "bijgewerkt": "05 Aug 2026 00:07 UTC",
+  "bijgewerkt": "05 Aug 2026 04:13 UTC",
   "artikelen": [
     {
-      "titel": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
-      "beschrijving": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
-      "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
-      "datum": "42 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Funeral for family killed in US strike on Iran’s Qeshm Island",
-      "beschrijving": "The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&#039;s Qeshm Island.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
+      "titel": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
+      "beschrijving": "The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss",
+      "datum": "25 min geleden",
+      "regio": "Noord-Korea",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
       "titel": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "beschrijving": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+      "beschrijving": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
       "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+      "beschrijving": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "datum": "35 min geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,16 +32,43 @@
       "titel": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
       "beschrijving": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
       "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Bolivia sends troops to stop Brazilian gang violence along border",
+      "beschrijving": "Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss",
+      "datum": "15 min geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Roekeloze Nederlander, die 235 kilometer per uur reed, gepakt in Duitsland",
+      "beschrijving": "De Duitse politie heeft gisteren een 23-jarige Nederlander aangehouden die met zijn Porsche 911 met snelheden tot 235 kilometer over de Duitse autobahn reed. Op de A3 in de Duitse deelstaat Rijnland-Palts was de man gistermiddag aan het bumperkleven achter een onopvallende politiewagen, haalde hij herhaaldelijk op zeer hoge snelheid rechts in en sneed hij volgens de politie op roekeloze wijze door",
+      "url": "https://nos.nl/l/2625569",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Brazilië schroeft diplomatieke aanwezigheid in Argentinië terug na opmerkingen Milei",
+      "beschrijving": "De Braziliaanse regering heeft aangekondigd de diplomatieke aanwezigheid in Argentinië terug te schroeven na herhaaldelijke aanvallen van de Argentijnse president Milei aan het adres van zijn Braziliaanse collega Lula. Het betekent dat de de in juli teruggetrokken Braziliaanse ambassadeur niet meer terugkeert naar Brazilië zolang Milei Lula blijft schofferen, meldt de Braziliaanse regering. Het is",
+      "url": "https://nos.nl/l/2625568",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Washington Post: Trump eist last minute verandering aan heliplatform in aanbouw",
       "beschrijving": "Een deel van het werk aan een helikopterplatform in het Witte Huis moet opnieuw gedaan worden. Volgens meerdere regeringsmedewerkers die de Amerikaanse krant The Washington Post anoniem sprak is president Trump het niet eens met de lichte hellingshoek van het platform dat nog in aanbouw was. Op foto's de de krant analyseerde, is te zien hoe een granieten bovenlaag waarop het officiële logo van de ",
       "url": "https://nos.nl/l/2625567",
-      "datum": "36 min geleden",
+      "datum": "4 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +77,7 @@
       "titel": "Protest tegen privatisering Turkse stranden: 'Ze worden bezet'",
       "beschrijving": "In sommige badplaatsen in Turkije is een dagje naar het strand allang niet meer vanzelfsprekend. Langs grote delen van de kust hebben horecabedrijven en strandtenten openbare stranden volgebouwd met steigers, terrassen en rijen ligbedden. Ondernemers zeggen dat ze daarvoor toestemming hebben van de gemeente en dat het goed is voor het toerisme. Maar veel inwoners spreken van een illegale bezetting",
       "url": "https://nos.nl/l/2625548",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +86,7 @@
       "titel": "Evacuaties in Guatemala vanwege uitbarsting vulkaan Fuego",
       "beschrijving": "Vanwege een hevige vulkaanuitbarsting in Guatemala zijn zo'n 250 mensen uit voorzorg geëvacueerd. Vulkaan Fuego, een van de actiefste vulkanen van Centraal-Amerika, ligt zo'n veertig kilometer ten zuidwesten van hoofdstad Guatemala-Stad. Twee dorpen nabij de vulkaan zijn ontruimd. Een snelweg is voorlopig gesloten voor verkeer. De eruptie begon maandag en vandaag werd het alarmniveau verder verhoo",
       "url": "https://nos.nl/l/2625542",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +95,7 @@
       "titel": "112 Palestijnen uit één familie na drie jaar onder puin in Gaza alsnog begraven",
       "beschrijving": "In Gaza zijn de lichamen begraven van 112 Palestijnen die om het leven zijn gekomen bij Israëlische luchtaanvallen, kort na het begin van de oorlog in de herfst van 2023. Het gaat om mensen van één familie. De stoffelijke overschotten zijn pas recent ontdekt onder het puin. Volgens het Palestijnse persbureau WAFA hoorden de slachtoffers bij de familie Abu Sharia al-Hassaina. Zakken met daarin hun ",
       "url": "https://nos.nl/l/2625537",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +104,7 @@
       "titel": "Na kritiek nu vooral lof voor Spanje na spoedberaad over bestorming Ceuta",
       "beschrijving": "Na de hoogopgelopen spanningen tussen verschillende EU-landen over de situatie in Ceuta lijken de gemoederen weer enigszins tot bedaren gekomen. De asielministers van de EU-landen kwamen vandaag online bij elkaar voor een spoedvergadering, na dagen van verwijten over en weer. Niemand heeft door kunnen reizen naar het Europese vasteland, benadrukt Eurocommissaris voor migratie Brunner na de vergade",
       "url": "https://nos.nl/l/2625530",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +113,7 @@
       "titel": "Hongarije zoekt president: fotomodel, internet-meme of uitvinder Rubiks kubus?",
       "beschrijving": "Naast de grote droogte waardoor de enige kerncentrale van het land bijna stilstaat zijn de Hongaren maar met één vraag bezig: wie wordt de nieuwe president van het land? Ernö Rubik, de uitvinder van de Rubiks kubus? Fotomodel Barbara Palvin? De levende internet-meme András Arató? Het zijn enkele van de namen die rondgaan in Hongarije. Sinds Peter Magyar de verkiezingen won gaat hij als een wervelw",
       "url": "https://nos.nl/l/2625526",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +122,7 @@
       "titel": "Teleurstelling in plaats van taekwondo-droom voor Zoubeir na zes dagen in Ceuta",
       "beschrijving": "Het merendeel van de Marokkanen die de oversteek hebben gemaakt naar Ceuta is inmiddels terug in Marokko. Velen van hen zijn een illusie armer. De droom om naar Europa te gaan, is uiteengespat, of moet in ieder geval weer terug de koelkast in. Niet alleen jongeren, maar ook hele gezinnen vertrokken direct zodra ze hoorden dat de grens met Spanje open zou zijn. De 20-jarige Zoubeir El Qaddoury uit ",
       "url": "https://nos.nl/l/2625524",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,67 +131,67 @@
       "titel": "Drone achtervolgt man in Cherson en ontploft naast hem: 'Rusland is gek geworden'",
       "beschrijving": "In de Zuid-Oekraïense stad Cherson heeft het Russische leger vanmorgen gericht een marktverkoper aangevallen, stelt president Zelensky. De politie heeft een video van de droneaanval vrijgegeven. Daarop is te zien dat een man wordt achtervolgd door de drone. De man probeert het toestel te ontwijken, maar uiteindelijk wordt de drone naast hem tot ontploffing gebracht. De man overleefde de explosie, ",
       "url": "https://nos.nl/l/2625516",
-      "datum": "8 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "41 graden in Wenen, Oostenrijk zucht onder hitterecord",
-      "beschrijving": "In Oostenrijk is een temperatuurrecord gemeten. In de hoofdstad Wenen werd het vanmiddag precies 41 graden. In het gebied geldt code rood. Zo'n 70 kilometer ten zuiden van Wenen woedt ook een bosbrand. Het vorige Oostenrijkse temperatuurrecord kwam uit 2013. Toen werd het in een dorp aan de grens met Slowakije 40,5 graden. Gisteren was het temperatuurrecord voor Wenen al gesneuveld, maar dat hield",
-      "url": "https://nos.nl/l/2625505",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
+      "titel": "Israel approves $37m to seize more than 70 occupied West Bank sites",
+      "beschrijving": "The allocated funding seeks to accelerate Israel&#039;s control of historical landmarks across the occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/israel-approves-37m-to-seize-more-than-70-occupied-west-bank-sites?traffic_source=rss",
+      "datum": "53 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Podcast De Dag: waarom tienduizenden Marokkanen de grens overstaken",
-      "beschrijving": "Tienduizenden mensen zwommen en liepen eind vorige week Europa in. Vanuit Marokko trokken ze naar de Spaanse exclave Ceuta, een klein puntje Europa dat vastzit aan Marokko. Wat maakt dat zoveel mensen tegelijk alles lieten vallen en naar Spaans grondgebied trokken? Luister hier: Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abo",
-      "url": "https://nos.nl/l/2625493",
-      "datum": "10 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
-      "beschrijving": "An official has indicated that the visa revocation would not mean that Brazil&#039;s ambassador will be expelled from the US.",
-      "url": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
-      "datum": "25 min geleden",
+      "titel": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
+      "beschrijving": "The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
-      "beschrijving": "Negotiators are working to expand safe shipping through the strait, though key differences remain unresolved.",
-      "url": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss",
+      "titel": "Ukrainian man chased by exploding drone recounts his terror",
+      "beschrijving": "A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss",
       "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+      "beschrijving": "Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
+      "datum": "4 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-      "beschrijving": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+      "beschrijving": "An official has indicated that the visa revocation does not mean Brazil&#039;s ambassador will be expelled from the US.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
-    "Funeral for family killed in US strike on Iran’s Qeshm Island",
+    "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
     "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+    "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
     "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+    "Bolivia sends troops to stop Brazilian gang violence along border",
+    "Roekeloze Nederlander, die 235 kilometer per uur reed, gepakt in Duitsland",
+    "Brazilië schroeft diplomatieke aanwezigheid in Argentinië terug na opmerkingen Milei",
     "Washington Post: Trump eist last minute verandering aan heliplatform in aanbouw",
     "Protest tegen privatisering Turkse stranden: 'Ze worden bezet'",
-    "Evacuaties in Guatemala vanwege uitbarsting vulkaan Fuego",
-    "112 Palestijnen uit één familie na drie jaar onder puin in Gaza alsnog begraven",
-    "Na kritiek nu vooral lof voor Spanje na spoedberaad over bestorming Ceuta",
-    "Hongarije zoekt president: fotomodel, internet-meme of uitvinder Rubiks kubus?"
+    "Evacuaties in Guatemala vanwege uitbarsting vulkaan Fuego"
   ]
 }
