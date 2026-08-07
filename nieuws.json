@@ -1,21 +1,12 @@
 {
-  "bijgewerkt": "07 Aug 2026 19:02 UTC",
+  "bijgewerkt": "07 Aug 2026 20:45 UTC",
   "artikelen": [
     {
-      "titel": "Houthi-aanvallen in Jemen en Saudi-Arabië, zorg over grotere oorlog in Midden-Oosten",
-      "beschrijving": "Bij Houthi-aanvallen op kampen van het leger van Jemen zijn sinds gisteren 58 militairen om het leven gekomen, meldt het Franse persbureau AFP op basis van een militaire bron. Andere media melden zeker dertig doden bij de aanvallen. Het Jemenitische ministerie van Defensie bevestigt dat verschillende militaire kampen in Centraal-Jemen zijn getroffen door ballistische raketten en drones, maar een d",
-      "url": "https://nos.nl/l/2625869",
-      "datum": "8 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-      "beschrijving": "Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.",
-      "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
+      "titel": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+      "beschrijving": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow&#039;s war efforts.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -23,34 +14,52 @@
       "titel": "Seven killed after Thai student opens fire at home and school",
       "beschrijving": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
       "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "7/8 in Nieuwsuur: Fraude via Booking.com • Staakt-het-vuren Gaza • Megaboete voor Meta",
-      "beschrijving": "Vakanties in de soep Het aantal vakantiegangers dat is opgelicht bij het boeken van een accommodatie via Booking.com is de afgelopen maanden sterk toegenomen. Ook het totale schadebedrag loopt fors op, blijkt uit cijfers van de Fraudehelpdesk die Nieuwsuur heeft ingezien. Stand van zaken in Gaza Het is tien maanden geleden dat het staakt-het-vuren in Gaza inging. Vorige week sprak de Amerikaanse p",
-      "url": "https://nos.nl/l/2625855",
-      "datum": "9 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
       "titel": "Inside the results: How redistricting shaped Tennessee’s primary election",
       "beschrijving": "Tennessee&#039;s party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.",
       "url": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "Rechter verbiedt weer bouw balzaal bij Witte Huis, Trump moet eerst langs Congres",
+      "beschrijving": "De Amerikaanse president heeft weer bot gevangen bij de rechter over de bouw van zijn balzaal bij het Witte Huis. Het hof van beroep heeft hem opgedragen om de bouw voorlopig te staken. Twee van de drie rechters van het hof vinden dat Trump als president niet de absolute zeggenschap heeft om de zaal aan de oostvleugel van het Witte Huis in Washington te bouwen. \"Elke president is een tijdelijke hu",
+      "url": "https://nos.nl/l/2625951",
+      "datum": "26 min geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Universiteit Cambridge herziet benoemingsproces academici na plagiaat-rel hoogleraar",
+      "beschrijving": "De Universiteit van Cambridge gaat de procedure voor het aannemen van hooggekwalificeerde academici herzien. De aanleiding daarvoor is een langslepende kwestie rond Jason Arday, een opgestapte hoogleraar die wordt beschuldigd van plagiaat en liegen op zijn cv. Arday heeft toegegeven dat zijn werk fouten bevat, maar hij heeft plagiaat altijd ontkend. Hij ontkende ook te hebben gelogen over zijn pre",
+      "url": "https://nos.nl/l/2625944",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "NAVO-lid Turkije tekent defensiepact met Saudi-Arabië en Pakistan",
+      "beschrijving": "Saudi-Arabië, Turkije en Pakistan hebben een gezamenlijke defensieovereenkomst getekend, waarin staat dat - net als bij de NAVO - een aanval op één als een aanval op ieder zal worden beschouwd. Het pact werd aangekondigd tijdens een ontmoeting tussen de Saudische kroonprins Mohammed bin Salman, de Turkse president Recep Tayyip Erdogan en de Pakistaanse premier Shehbaz Sharif in de Saudische stad M",
+      "url": "https://nos.nl/l/2625940",
+      "datum": "1 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Zorgen over Meta's platforms groeien hard, 'patroon zichtbaar in rechtszaken'",
       "beschrijving": "Een ongekende megaboete voor Meta na het vonnis van een Amerikaanse rechter in de Amerikaanse staat New Mexico. Daarin staat dat de platforms van Meta \"openbare overlast\" veroorzaken die de gezondheid, veiligheid en het welzijn van de gehele samenleving in gevaar brengt. De rechter vergelijkt de schade met luchtvervuiling. Volgens Paddy Leerssen, universitair hoofddocent Platformregulatie aan de U",
       "url": "https://nos.nl/l/2625935",
-      "datum": "38 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +68,7 @@
       "titel": "China concurreert met Nederlandse biotechsector: 'Snelheid maakt het verschil'",
       "beschrijving": "China ziet biotechnologie als topprioriteit en gaat daarmee de concurrentie aan met de Nederlandse biotechsector. Biotech, op een technische manier gebruik maken van de biologie voor bijvoorbeeld medicijnen, voedsel of nieuwe stoffen, wordt nu in China in één adem genoemd met de halfgeleider- en de lucht- en ruimtevaartindustrie. De Nederlandse sector kampt juist met een gebrek aan financiering, o",
       "url": "https://nos.nl/l/2625929",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +77,7 @@
       "titel": "Britse producer William Orbit overleden (69), werkte veel samen met Madonna",
       "beschrijving": "De Britse muziekproducer William Orbit is vorige maand op 69-jarige leeftijd overleden. Dat maakt zijn familie bekend op sociale media. Orbit werkte samen met artiesten als Madonna, Blur, All Saints en de Ierse rockband U2. Hij was een van de belangrijkste producers uit de popmuziek rond de eeuwwisseling. \"We zijn intens verdrietig door zijn overlijden\", schrijven familie en vrienden in een gezame",
       "url": "https://nos.nl/l/2625921",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +86,7 @@
       "titel": "Betalen voor een vakantiehuisje dat niet bestaat: fraude via Booking.com neemt toe",
       "beschrijving": "Het aantal vakantiegangers dat wordt opgelicht bij het boeken van een accommodatie via Booking.com is de afgelopen maanden sterk toegenomen. Ook het totale schadebedrag steeg fors, blijkt uit nieuwe cijfers van Fraudehelpdesk. Het gaat om verschillende vormen van oplichting, maar vooral phishing lijkt een groot probleem op de boekingssite. In de eerste helft van 2026 kwamen daarvan 957 meldingen b",
       "url": "https://nos.nl/l/2625912",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "Voortvluchtige Nederlander opgepakt in Marokko, verdacht van drugshandel",
       "beschrijving": "De Marokkaanse autoriteiten hebben een voortvluchtige Nederlander opgepakt die illegaal in het land verbleef. De man wordt in Nederland verdacht van drugshandel, ontvoering en deelname aan een crimineel netwerk, schrijven Marokkaanse media. De 25-jarige man werd gisteren in Oujda opgepakt, in het noordoosten van het land. Nederland vroeg de internationale politieorganisatie Interpol om een arresta",
       "url": "https://nos.nl/l/2625909",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +104,7 @@
       "titel": "Thaise schoolschutter (14) ging van lokaal naar lokaal, zeggen overlevenden",
       "beschrijving": "Leerlingen van de school in Thailand waar een medescholier vanochtend vijf docenten doodschoot, hebben doodsangsten uitgestaan toen de dader schietend door de school liep. Bij de BBC en in Thaise media doen leerlingen hun verhaal. \"Ik stond voor de docent toen ze werd doodgeschoten\", zegt een scholier in de brugklasleeftijd tegen de BBC. \"Ze zei iets tegen me toen de schutter opdook.\" Volgens het ",
       "url": "https://nos.nl/l/2625897",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,35 +113,44 @@
       "titel": "Spaanse politie rolt een van grootste Europese smokkelnetwerken op, 78 aanhoudingen",
       "beschrijving": "In Spanje en Algerije is een van de grootste Europese criminele netwerken opgerold bij een internationale politieactie, onder leiding van de Spaanse autoriteiten. Er zijn in totaal 78 personen aangehouden, onder wie vier kopstukken van de bende. Het netwerk hield zich in het Middellandse Zeegebied bezig met drugssmokkel, de smokkel van migranten en vluchtelingen, en wapenhandel. Het netwerk wordt ",
       "url": "https://nos.nl/l/2625877",
-      "datum": "7 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Aap die in twee weken achttien mensen verwondde gevangen in Indonesië",
-      "beschrijving": "Een aap die twee weken onrust zaaide in een stad op het Indonesische eiland Sumatra is gevangen door de autoriteiten. De volwassen langstaartmakaak wordt verantwoordelijk gehouden voor een reeks aanvallen waarbij achttien inwoners gewond raakten. Door de aanvallen, die plaatsvonden in de stad Tembilahan in het oosten van Sumatra, bleven scholen dicht en kregen honderden leerlingen online les. De s",
-      "url": "https://nos.nl/l/2625858",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
+      "titel": "US appeals court upholds injunction pausing Trump’s White House ballroom",
+      "beschrijving": "The two-judge majority underscored that the president needed congressional authority to move forward with his plans.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
+      "datum": "17 min geleden",
+      "regio": "VS",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Contaminated water putting Gaza families at risk",
+      "beschrijving": "Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
+      "datum": "57 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
+      "beschrijving": "ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
     },
     {
       "titel": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
       "beschrijving": "Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Italy vows to maintain border checks despite Spain’s countermeasures threat",
-      "beschrijving": "Madrid warns of &#039;proportional measures&#039; if Rome does not put an end to checks amid fallout from Ceuta migrant crisis.",
-      "url": "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -140,22 +158,22 @@
       "titel": "Mexico and Peru restore diplomatic relations after asylum row",
       "beschrijving": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
       "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Houthi-aanvallen in Jemen en Saudi-Arabië, zorg over grotere oorlog in Midden-Oosten",
-    "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+    "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
     "Seven killed after Thai student opens fire at home and school",
-    "7/8 in Nieuwsuur: Fraude via Booking.com • Staakt-het-vuren Gaza • Megaboete voor Meta",
     "Inside the results: How redistricting shaped Tennessee’s primary election",
+    "Rechter verbiedt weer bouw balzaal bij Witte Huis, Trump moet eerst langs Congres",
+    "Universiteit Cambridge herziet benoemingsproces academici na plagiaat-rel hoogleraar",
+    "NAVO-lid Turkije tekent defensiepact met Saudi-Arabië en Pakistan",
     "Zorgen over Meta's platforms groeien hard, 'patroon zichtbaar in rechtszaken'",
     "China concurreert met Nederlandse biotechsector: 'Snelheid maakt het verschil'",
     "Britse producer William Orbit overleden (69), werkte veel samen met Madonna",
-    "Betalen voor een vakantiehuisje dat niet bestaat: fraude via Booking.com neemt toe",
-    "Voortvluchtige Nederlander opgepakt in Marokko, verdacht van drugshandel"
+    "Betalen voor een vakantiehuisje dat niet bestaat: fraude via Booking.com neemt toe"
   ]
 }
