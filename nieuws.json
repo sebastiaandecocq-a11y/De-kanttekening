@@ -1,11 +1,20 @@
 {
-  "bijgewerkt": "08 Aug 2026 03:36 UTC",
+  "bijgewerkt": "08 Aug 2026 05:00 UTC",
   "artikelen": [
+    {
+      "titel": "Child among three killed in Russian missile attacks near Kyiv",
+      "beschrijving": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "datum": "37 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
     {
       "titel": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
       "beschrijving": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
       "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -14,34 +23,34 @@
       "titel": "US Senate passes Russia sanctions that could hurt India and China",
       "beschrijving": "The US Senate approved its strongest move against Russia under Trump.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
-      "datum": "15 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-      "beschrijving": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
-      "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Ontbossing Braziliaanse Amazone onder Lula opnieuw flink gedaald",
-      "beschrijving": "Het gaat steeds beter met het Amazonegebied in Brazilië. Vorig jaar verdween er 2900 vierkante kilometer bos, zo blijkt uit satellietgegevens van het Braziliaanse ruimteagentschap INPE. Dat is het laagste aantal sinds het begin van de metingen, tien jaar geleden. De cijfers gaan over de periode tussen augustus 2025 en juli 2026. Een jaar eerder sneuvelde in diezelfde periode een stuk meer bos uit ",
-      "url": "https://nos.nl/l/2625965",
-      "datum": "7 min geleden",
+      "titel": "Wekdienst 8/8: Laatste dag WorldPride Amsterdam • Zelensky bezoekt Servië",
+      "beschrijving": "Goedemorgen! Vandaag is de laatste dag van WorldPride Amsterdam en de Oekraïense president Zelensky bezoekt voor het eerst tijdens zijn presidentschap Servië. Eerst het weer: vandaag schijnt de zon overal uitbundig. Een zwakke oostelijke wind voert warmere lucht aan. De temperatuur loopt daarbij op naar 24 graden in het noordwesten tot 28 graden in het zuidoosten. De komende dagen blijft het droog",
+      "url": "https://nos.nl/l/2625966",
+      "datum": "9 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Ultrarechtse Abelardo de la Espriella ingezworen als president van Colombia",
+      "titel": "Ontbossing Braziliaanse Amazone onder Lula opnieuw flink gedaald",
+      "beschrijving": "Het gaat steeds beter met het Amazonegebied in Brazilië. Vorig jaar verdween er 2900 vierkante kilometer bos, zo blijkt uit satellietgegevens van het Braziliaanse ruimteagentschap INPE. Dat is het laagste aantal sinds het begin van de metingen, tien jaar geleden. De cijfers gaan over de periode tussen augustus 2025 en juli 2026. Een jaar eerder sneuvelde in diezelfde periode een stuk meer bos uit ",
+      "url": "https://nos.nl/l/2625965",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Ultrarechtse Abelardo de la Espriella beëdigd als president van Colombia",
       "beschrijving": "In Colombia is de ultrarechtse Abelardo de la Espriella (48) beëdigd als president. De Trump-gezinde leider wil radicaal breken met het beleid van zijn linkse voorganger, Gustavo Petro, die zelf niet bij de ceremonie aanwezig was. De inauguratie vond niet zoals gebruikelijk plaats in de hoofdstad Bogotá, maar in de zuidwestelijke stad Cali. Daarmee wilde de kersverse president een duidelijk signaa",
       "url": "https://nos.nl/l/2625963",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +59,7 @@
       "titel": "Ruim 50 ontbindende lichamen ontdekt in uitvaartcentrum Chicago",
       "beschrijving": "In een uitvaartcentrum in de Amerikaanse stad Chicago zijn 56 ontbindende lichamen aangetroffen. Die zouden zijn gevonden in een aangebouwde garage, in een ruimte zonder koeling. Al maanden hadden buurtbewoners bij de gemeente geklaagd over stankoverlast afkomstig van de locatie. Daarop werden de autoriteiten ingeschakeld, die de vergunning van het uitvaartcentrum inmiddels hebben ingetrokken. Kna",
       "url": "https://nos.nl/l/2625962",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +68,7 @@
       "titel": "Belgisch helikopterbedrijf, ook in Nederland actief, toch niet overgenomen door China",
       "beschrijving": "Een Belgische screeningscommissie heeft de overname van een helikopterbedrijf door China tegengehouden. Het bedrijf Noordzee Helikopters Vlaanderen (NHV) uit Oostende vervoert personeel van en naar platforms op zee. Ook dingt het mee naar klussen voor de Belgische Defensie. Het helikopterbedrijf opereert ook in Nederland. Het was de bedoeling dat NHV begin dit jaar zou worden overgenomen door een ",
       "url": "https://nos.nl/l/2625957",
-      "datum": "6 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +77,7 @@
       "titel": "Geschil loopt op: Spanje voert grenscontroles in voor reizigers uit Italië",
       "beschrijving": "Spanje stelt grenscontroles in voor reizigers uit Italië. De controles vinden plaats vanaf vannacht, heeft de Spaanse overheid aangekondigd. Het nieuws komt in een tijd dat de landen een geschil hebben over onrechtmatige migratie. Italië voerde eerder al controles voor reizigers uit Spanje in. De extra controles in havens en op vliegvelden gelden voor alle reizigers komend uit Italië, zowel Italia",
       "url": "https://nos.nl/l/2625956",
-      "datum": "6 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +86,7 @@
       "titel": "Rechter verbiedt weer bouw balzaal bij Witte Huis, Trump moet eerst langs Congres",
       "beschrijving": "De Amerikaanse president heeft weer bot gevangen bij de rechter over de bouw van zijn balzaal bij het Witte Huis. Het hof van beroep heeft hem opgedragen om de bouw voorlopig te staken. Twee van de drie rechters van het hof vinden dat Trump als president niet de absolute zeggenschap heeft om de zaal aan de oostvleugel van het Witte Huis in Washington te bouwen. \"Elke president is een tijdelijke hu",
       "url": "https://nos.nl/l/2625951",
-      "datum": "7 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "Universiteit Cambridge herziet benoemingsproces academici na plagiaat-rel hoogleraar",
       "beschrijving": "De Universiteit van Cambridge gaat de procedure voor het aannemen van hooggekwalificeerde academici herzien. De aanleiding daarvoor is een langslepende kwestie rond Jason Arday, een opgestapte hoogleraar die wordt beschuldigd van plagiaat en liegen op zijn cv. Arday heeft toegegeven dat zijn werk fouten bevat, maar hij heeft plagiaat altijd ontkend. Hij ontkende ook te hebben gelogen over zijn pre",
       "url": "https://nos.nl/l/2625944",
-      "datum": "8 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +104,7 @@
       "titel": "NAVO-lid Turkije tekent defensiepact met Saudi-Arabië en Pakistan",
       "beschrijving": "Saudi-Arabië, Turkije en Pakistan hebben een gezamenlijke defensieovereenkomst getekend, waarin staat dat - net als bij de NAVO - een aanval op één als een aanval op ieder zal worden beschouwd. Het pact werd aangekondigd tijdens een ontmoeting tussen de Saudische kroonprins Mohammed bin Salman, de Turkse president Recep Tayyip Erdogan en de Pakistaanse premier Shehbaz Sharif in de Saudische stad M",
       "url": "https://nos.nl/l/2625940",
-      "datum": "8 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,44 +113,44 @@
       "titel": "Zorgen over Meta's platforms groeien hard, 'patroon zichtbaar in rechtszaken'",
       "beschrijving": "Een ongekende megaboete voor Meta na het vonnis van een Amerikaanse rechter in de Amerikaanse staat New Mexico. Daarin staat dat de platforms van Meta \"openbare overlast\" veroorzaken die de gezondheid, veiligheid en het welzijn van de gehele samenleving in gevaar brengt. De rechter vergelijkt de schade met luchtvervuiling. Volgens Paddy Leerssen, universitair hoofddocent Platformregulatie aan de U",
       "url": "https://nos.nl/l/2625935",
-      "datum": "9 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "China concurreert met Nederlandse biotechsector: 'Snelheid maakt het verschil'",
-      "beschrijving": "China ziet biotechnologie als topprioriteit en gaat daarmee de concurrentie aan met de Nederlandse biotechsector. Biotech, op een technische manier gebruik maken van de biologie voor bijvoorbeeld medicijnen, voedsel of nieuwe stoffen, wordt nu in China in één adem genoemd met de halfgeleider- en de lucht- en ruimtevaartindustrie. De Nederlandse sector kampt juist met een gebrek aan financiering, o",
-      "url": "https://nos.nl/l/2625929",
-      "datum": "10 uur geleden",
-      "regio": "China/Taiwan",
+      "titel": "Armenia puts Church leader on trial for allegedly being a Russian spy",
+      "beschrijving": "Armenia’s head of the Apostolic Church and senior clergy could face jail time over allegations of spying for Russia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
+      "datum": "29 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Russian strikes near Ukrainian capital kill three, including child",
+      "beschrijving": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+      "datum": "41 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+      "beschrijving": "Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Trump shifts blame to Republicans for waning support from public",
       "beschrijving": "Republican senators are using the summer recess to avoid politically difficult votes.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "VS",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
-      "beschrijving": "The new president, who replaces leftist Gustavo Petro, continues the rightward political shift in Latin America.",
-      "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-      "beschrijving": "War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.",
-      "url": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -149,8 +158,17 @@
       "titel": "I was standing in front of my teacher when she was shot, Thai pupil says",
       "beschrijving": "The student says she feared never seeing her mother again after the attack killed five teachers.",
       "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "beschrijving": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
+      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -158,15 +176,6 @@
       "titel": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "beschrijving": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
       "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Mexico and Peru restore diplomatic relations after asylum row",
-      "beschrijving": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
       "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
@@ -174,15 +183,15 @@
     }
   ],
   "ticker": [
+    "Child among three killed in Russian missile attacks near Kyiv",
     "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
     "US Senate passes Russia sanctions that could hurt India and China",
-    "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+    "Wekdienst 8/8: Laatste dag WorldPride Amsterdam • Zelensky bezoekt Servië",
     "Ontbossing Braziliaanse Amazone onder Lula opnieuw flink gedaald",
-    "Ultrarechtse Abelardo de la Espriella ingezworen als president van Colombia",
+    "Ultrarechtse Abelardo de la Espriella beëdigd als president van Colombia",
     "Ruim 50 ontbindende lichamen ontdekt in uitvaartcentrum Chicago",
     "Belgisch helikopterbedrijf, ook in Nederland actief, toch niet overgenomen door China",
     "Geschil loopt op: Spanje voert grenscontroles in voor reizigers uit Italië",
-    "Rechter verbiedt weer bouw balzaal bij Witte Huis, Trump moet eerst langs Congres",
-    "Universiteit Cambridge herziet benoemingsproces academici na plagiaat-rel hoogleraar"
+    "Rechter verbiedt weer bouw balzaal bij Witte Huis, Trump moet eerst langs Congres"
   ]
 }
