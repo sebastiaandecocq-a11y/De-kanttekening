@@ -1,11 +1,20 @@
 {
-  "bijgewerkt": "10 Aug 2026 08:41 UTC",
+  "bijgewerkt": "10 Aug 2026 10:20 UTC",
   "artikelen": [
+    {
+      "titel": "Rusland meldt 'massale' Oekraïense droneaanval op Russische olieraffinage",
+      "beschrijving": "Bij een Oekraïense \"massale\" droneaanval op een olieraffinaderij bij de Russische stad Nizjnekamsk zijn dertien mensen gedood en 48 anderen verwond. Dat melden autoriteiten in de regio Tatarstan, waar de aanval plaatsvond. Het zou een van de hoogste aantallen dodelijke slachtoffers zijn in Rusland in maanden. Nizjnekamsk ligt ongeveer 1200 kilometer ten oosten van de Oekraïense grens. De stad met ",
+      "url": "https://nos.nl/l/2626253",
+      "datum": "20 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "108 aanvallen op journalisten op bezette Westoever, meldt de Palestijnse journalistenvakbond",
       "beschrijving": "Palestijnse journalisten werden in de maand juli zeker 108 keer aangevallen of gehinderd in hun werk op de bezette Westelijke Jordaanoever. Dat meldt de Palestijnse journalistenvakbond Palestinian Journalists Syndicate (PJS) in een statement. De daders waren volgens de vakbond het Israëlische leger en kolonisten. De vakbond roept op om journalisten in staat te stellen te werken \"zonder bedreiginge",
       "url": "https://nos.nl/l/2626242",
-      "datum": "38 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,7 +23,7 @@
       "titel": "Houthi-aanval doodt zeven mensen in Jemen, ook Saudische raffinaderij geraakt",
       "beschrijving": "Bij een aanval van Houthi's op de Jemenitische havenstad Mokka zijn zeker zeven doden gevallen. Het gaat om vier militairen en drie burgers, melden de Nationale Verzetsstrijdkrachten, die verbonden zijn aan de Jemenitische regering. Minstens vijftien mensen raakten gewond. Onder meer havengebouwen en voedselvoorraden zijn beschadigd geraakt door de raket- en drone-aanvallen. De Houthi's zeggen dat",
       "url": "https://nos.nl/l/2626207",
-      "datum": "13 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -23,34 +32,52 @@
       "titel": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
       "beschrijving": "Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.",
       "url": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
-      "datum": "42 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Noord-Korea",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+      "beschrijving": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "datum": "16 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
       "titel": "Drones spotted over German base days after Leipzig bomb incident",
       "beschrijving": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
       "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
+      "datum": "18 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Trump signals shift to economic pressure on Iran over new military strikes",
-      "beschrijving": "US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.",
-      "url": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Iran",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "titel": "Trump en zijn Vredesraad willen door met plannen voor Gaza, inwoners hebben weinig hoop",
+      "beschrijving": "De Amerikaanse president Trump probeert met zijn zogenoemde Vredesraad stappen te zetten in de onderhandelingen over Gaza. Die gaan moeizaam en de Israëlische premier Netanyahu liet gisteren opnieuw weten zich niet te zullen terugtrekken voordat Hamas volledig ontwapend is. Het biedt inwoners van Gaza weinig hoop. \"Als Hamas zich ontwapent, zal Israël zich dan terugtrekken?\", vraagt Shadi Khalil, ",
+      "url": "https://nos.nl/l/2626256",
+      "datum": "7 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Bijna 30 jaar na moord op hiphoplegende 2Pac staat verdachte voor de rechter",
+      "beschrijving": "Het was een moord die nooit meer opgelost leek te gaan worden: die op de Amerikaanse hiphoplegende Tupac Shakur in 1996, beter bekend als 2Pac. Tot er drie jaar geleden plots iemand werd gearresteerd. De zaak tegen die verdachte, Duane Davis, begint vandaag in Las Vegas. De verdachte bracht de zaak zelf aan het rollen door in interviews en memoires te praten over zijn rol. De 63-jarige Davis, bete",
+      "url": "https://nos.nl/l/2626248",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Hertekende kiesdistricten kosten zwarte Amerikanen hun stem in het Congres",
-      "beschrijving": "Na de tussentijdse verkiezingen in november zullen vrijwel zeker minder zwarte volksvertegenwoordigers in het Amerikaanse Congres overblijven. Dat is het gevolg van een uitspraak van het Hooggerechtshof dat conservatieve staten toestaat overwegend zwarte kiesdistricten opnieuw in te delen. Morgen moeten mensen in Alabama daarom opnieuw naar de stembus. De eerder gehouden voorverkiezingen moeten ov",
+      "beschrijving": "Na de tussentijdse verkiezingen in november zullen vrijwel zeker minder zwarte volksvertegenwoordigers in het Amerikaanse Congres overblijven. Dat is het gevolg van een uitspraak van het Hooggerechtshof dat conservatieve staten toestaat overwegend zwarte kiesdistricten opnieuw in te delen. Morgen moeten mensen in Alabama daarom opnieuw naar de stembus. Eerder gehouden voorverkiezingen moeten over.",
       "url": "https://nos.nl/l/2626229",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +86,7 @@
       "titel": "Bosbrand West-Canada groter en heviger, vrouw omgekomen",
       "beschrijving": "De grote natuurbrand in het westen van Canada is nog lang niet onder controle. De brand wordt groter en heviger, zeggen de autoriteiten van de provincie Brits-Columbia. Dit weekend is ook het eerste dodelijke slachtoffer gevallen: een vrouw van 80 overleed tijdens een evacuatie. De vrouw is de eerste die dit jaar in Canada bij een natuurbrand om het leven is gekomen. Hevig en onvoorspelbaar In Bri",
       "url": "https://nos.nl/l/2626225",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +95,7 @@
       "titel": "Warme en droge juni en juli samen heetste ooit gemeten in West-Europa",
       "beschrijving": "De afgelopen juni- en julimaand waren in West-Europa gecombineerd de heetste juni en juli ooit gemeten. Dat valt op te maken uit gegevens van het Europese aardobservatieprogramma Copernicus. De gemiddelde temperatuur was hier gedurende juni en juli 21,62 graden Celsius. Dat ligt een forse 2,79 graden boven het gemiddelde in die periode. Het vorige record voor deze periode uit 2022 is daarmee verbr",
       "url": "https://nos.nl/l/2626222",
-      "datum": "6 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +104,7 @@
       "titel": "Duizenden inwoners van Ceuta de straat op: 'Genoeg is genoeg'",
       "beschrijving": "In de Spaanse exclave Ceuta hebben enkele duizenden mensen gedemonstreerd voor eenheid en strengere grenscontroles na de stormloop door migranten, eind juli. Het Spaanse stadje aan de noordkust van Marokko werd toen overlopen door tienduizenden migranten. Het overgrote deel was snel terug in Marokko, maar nog altijd zitten duizenden migranten vast in Ceuta. Vertegenwoordigers van christenen, mosli",
       "url": "https://nos.nl/l/2626221",
-      "datum": "8 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,43 +113,52 @@
       "titel": "Frankrijk start onderzoek nadat 'squishy' ontploft in gezicht van kind",
       "beschrijving": "De Franse autoriteiten zijn een onderzoek gestart naar een speelgoedstressbal, nadat deze ontplofte in het gezicht van een jongetje. Hij liep daardoor tweedegraads brandwonden op. \"Op 24 juli 2026 werd een 8-jarig kind aangetroffen met tweedegraads brandwonden in zijn gezicht en op zijn borst, opgelopen tijdens het spelen met een squishy, een bal gevuld met een kneedbare, vormbare substantie\", zeg",
       "url": "https://nos.nl/l/2626210",
-      "datum": "13 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Cocaïnehandel zet Liberia onder druk, corruptie hindert aanpak",
-      "beschrijving": "Cocaïne ter waarde van honderden miljoenen dollars gaat in Liberia in vlammen op. Een duidelijk signaal van de Liberiaanse autoriteiten: drugskartels zijn hier niet welkom. De verbranding van het witte poeder gebeurt net buiten de hoofdstad Monrovia, waar de tropische bossen al te zien zijn. Aan de pers uitgedeelde mondkapjes voorkomen niet dat de zwarte rook op de longen slaat. Achter de rook sch",
-      "url": "https://nos.nl/l/2626199",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
+      "titel": "Tropical Storm Dolphin batters eastern China with heavy rain, strong winds",
+      "beschrijving": "Dolphin is forecast to move deeper inland to the central provinces of Hubei and Henan in ⁠the coming days.",
+      "url": "https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss",
+      "datum": "44 min geleden",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Natuurbrand in Andalusië dreigt op te rukken richting Sevilla",
-      "beschrijving": "Bij de Zuid-Spaanse plaats Niebla in Andalusië woedt een natuurbrand die de brandweer maar moeilijk onder controle krijgt. Het vuur heeft zich over zo'n 8000 hectare verspreid en dreigt zich uit te breiden. Spaanse media schrijven dat 467 mensen zijn geëvacueerd. De brand ontstond donderdag en werd snel groter door de aanhoudende wind en uitgedroogde begroeiing die snel vlam vat. De bluswerkzaamhe",
-      "url": "https://nos.nl/l/2626198",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
+      "titel": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+      "beschrijving": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
+      "datum": "59 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Rusland en Syrië sluiten akkoord over toekomst Russische bases",
-      "beschrijving": "Rusland en Syrië zijn tot een overeenkomst gekomen over de toekomst van de Russische militaire bases in Syrië. Dat meldt het Syrische staatsnieuwsagentschap. Syrië neemt het beheer van de civiele faciliteiten over. De militaire bases worden omgebouwd tot gezamenlijke trainingscentra. Na achttien maanden onderhandelen kwamen de twee landen tot het akkoord. Het geldt ook voor twee belangrijke Russis",
-      "url": "https://nos.nl/l/2626178",
-      "datum": "16 uur geleden",
+      "titel": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
+      "beschrijving": "They carry ammunition, can conduct kamikaze missions and have shown they can capture enemy positions.",
+      "url": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "China evacuates a million from homes as Typhoon Dolphin arrives",
+      "beschrijving": "China evacuates a million from homes as Typhoon Dolphin arrives",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Pakistan-administered Kashmir votes in reduced third phase amid unrest",
       "beschrijving": "Voting postponed in seven of 11 Poonch division constituencies as boycott calls and violence mar the region&#039;s elections.",
       "url": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss",
-      "datum": "36 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -131,67 +167,31 @@
       "titel": "Israeli forces kill one in Gaza as another body recovered from rubble",
       "beschrijving": "Gaza Health Ministry says hospitals receive bodies of two Palestinians as Netanyahu rejects Trump plan to end war.",
       "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
-      "datum": "58 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "China evacuates one million from homes as massive storm arrives",
-      "beschrijving": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "titel": "Suspected crime boss Kinahan spends first night in custody in Ireland",
       "beschrijving": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
       "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "beschrijving": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "beschrijving": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-      "beschrijving": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "46 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Rusland meldt 'massale' Oekraïense droneaanval op Russische olieraffinage",
     "108 aanvallen op journalisten op bezette Westoever, meldt de Palestijnse journalistenvakbond",
     "Houthi-aanval doodt zeven mensen in Jemen, ook Saudische raffinaderij geraakt",
     "North Korea’s hackers using AI for attacks, cybersecurity firm says",
+    "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
     "Drones spotted over German base days after Leipzig bomb incident",
-    "Trump signals shift to economic pressure on Iran over new military strikes",
+    "Trump en zijn Vredesraad willen door met plannen voor Gaza, inwoners hebben weinig hoop",
+    "Bijna 30 jaar na moord op hiphoplegende 2Pac staat verdachte voor de rechter",
     "Hertekende kiesdistricten kosten zwarte Amerikanen hun stem in het Congres",
-    "Bosbrand West-Canada groter en heviger, vrouw omgekomen",
-    "Warme en droge juni en juli samen heetste ooit gemeten in West-Europa",
-    "Duizenden inwoners van Ceuta de straat op: 'Genoeg is genoeg'",
-    "Frankrijk start onderzoek nadat 'squishy' ontploft in gezicht van kind"
+    "Bosbrand West-Canada groter en heviger, vrouw omgekomen"
   ]
 }
