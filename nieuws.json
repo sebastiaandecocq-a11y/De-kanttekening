@@ -1,38 +1,74 @@
 {
-  "bijgewerkt": "11 Aug 2026 18:02 UTC",
+  "bijgewerkt": "11 Aug 2026 20:01 UTC",
   "artikelen": [
+    {
+      "titel": "Taiwan oefent Chinese invasie, hoe groot is de kans op oorlog?",
+      "beschrijving": "De president wordt ontvoerd, het internet ligt plat en militairen vallen de hoofdstad binnen: Taiwan houdt een tiendaagse militaire oefening waarin al deze scenario's aan bod komen. Want de vrees voor oorlog met China is en blijft aanwezig. Hoe groot is de kans dat die binnenkort begint? 65 procent van de Taiwanezen gelooft niet dat China binnen nu en vijf jaar aanvalt, peilde de Taiwanese denktan",
+      "url": "https://nos.nl/l/2626440",
+      "datum": "1 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
       "beschrijving": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
       "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Houthis reportedly kill four in first deadly attack since start of Iran war",
-      "beschrijving": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
+      "titel": "Houthis reportedly kill six in first deadly attack since start of Iran war",
+      "beschrijving": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
       "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "33 min geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "'Trump stapte na NAVO-top verstopt in cateringwagentje over op ander vliegtuig'",
-      "beschrijving": "Toen de Amerikaanse president Trump vorige maand plotseling van vliegtuig wisselde na de NAVO-top in Turkije, werd hij heimelijk vervoerd in een cateringwagen. Dat zeggen functionarissen van het Witte Huis tegen de Amerikaanse kranten The Washington Post en The New York Times. Hij vloog daarna met een militair vliegtuig naar het Verenigd Koninkrijk in plaats van met het gebruikelijke Air Force One",
-      "url": "https://nos.nl/l/2626363",
-      "datum": "9 uur geleden",
-      "regio": "VS",
-      "urgentie": "midden",
+      "titel": "Droogte raakt Franse akkers: 'Hier hadden bieten moeten groeien, maar er is niets'",
+      "beschrijving": "Boeren in Frankrijk slaan alarm over de aanhoudende droogte. Volgens het ministerie van Landbouw is in 67 departementen inmiddels sprake van een crisissituatie. Terwijl het land zich deze week opmaakt voor een nieuwe hittegolf zien boeren dat hun gewassen een stuk kleiner zijn dan normaal of zelfs helemaal verpieteren. Gebogen over zijn gortdroge akker trekt Claude Boutry een paar wortels uit de g",
+      "url": "https://nos.nl/l/2626455",
+      "datum": "26 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Rusland laat Amerikaanse gevangene vrij, krijgt volgens Trump geen gevangene terug",
+      "beschrijving": "Rusland heeft de Amerikaanse oud-marinier en docent Engels Robert Gilman vrijgelaten. Gisteren lieten onder meer familieleden van Gilman weten dat hij er zeer slecht aan toe was en zelfs dreigde te overlijden. Ze riepen daarom op tot zijn vrijlating. Het is niet bekendgemaakt wat voor gezondheidsklachten Gilman heeft. Een belangenorganisatie die de familie bijstaat, zei vorige week tegen persburea",
+      "url": "https://nos.nl/l/2626452",
+      "datum": "36 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Grote rookpluim door brand op parkeerplaats nabij vliegveld Parijs",
+      "beschrijving": "Ten noordwesten van Parijs woedt brand op een parkeerplaats in de buurt van luchthaven Parijs-Charles de Gaulle. De dikke rookpluim is in de wijde omgeving te zien. De brandweer is met tientallen wagens uitgerukt om het vuur te bestrijden, melden Franse media. Nieuwszender France Info heeft op sociale media beelden gedeeld van de brand: In de parkeergarage staan vele tientallen auto's van mensen d",
+      "url": "https://nos.nl/l/2626447",
+      "datum": "58 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Kwallenplaag dwingt Franse kerncentrale tot stilleggen reactoren",
+      "beschrijving": "De kerncentrale bij de Franse plaats Gravelines heeft drie reactoren stilgelegd vanwege een kwallenplaag. De productie in een vierde reactor is tot de helft teruggebracht, de vijfde lag al stil vanwege onderhoud. Alleen de zesde draait nog op volle capaciteit. De kwallen verstoppen de filters in pompstations die het zeewater naar binnen brengen waarmee de reactoren worden gekoeld. Energiebedrijf E",
+      "url": "https://nos.nl/l/2626441",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Voormalig rechter officieel gekozen als nieuwe president Hongarije",
       "beschrijving": "De voormalige president van het Hongaarse Hooggerechtshof, András Baka, is officieel gekozen als president van Hongarije. De regeringspartij Tisza van premier Magyar had hem deze week voorgedragen als kandidaat. Aangezien Tisza de absolute meerderheid heeft in het parlement, was de verwachting al dat de benoeming van de 73-jarige Baka zonder problemen zou verlopen. Uiteindelijk stemden 140 parleme",
       "url": "https://nos.nl/l/2626421",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +77,7 @@
       "titel": "Zelensky waarschuwt voor meer Noord-Koreaanse hulp aan Rusland",
       "beschrijving": "Bij de Russische aanvallen vannacht op Zaporizja heeft Rusland Noord-Koreaanse ballistische raketten ingezet. Dat zegt de Oekraïense president Zelensky. Er vielen zeker zes doden en 19 gewonden in de stad in het zuidoosten van Oekraïne. Zelensky wijst de afgelopen weken weer vaker op de steun van Noord-Korea aan Rusland. Gisteren waarschuwde de Oekraïense president dat Rusland zich voorbereidt op ",
       "url": "https://nos.nl/l/2626415",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +86,7 @@
       "titel": "Dodental aardbeving Colombia loopt op naar 224, nog meer dan 3000 vermisten",
       "beschrijving": "Het dodental van de aardbeving in Colombia is opgelopen tot 224, melden lokale autoriteiten. Meer dan 3000 mensen zijn vermist. Gevreesd wordt dat veel mensen nog onder het puin liggen. Volgens persbureau AP zijn door de beving gisteren ongeveer 1600 gebouwen beschadigd of ingestort. Het stedenverband Asocapitales meldt 668 gewonden in de hoofdsteden van de verschillende Colombiaanse departementen",
       "url": "https://nos.nl/l/2626410",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +95,7 @@
       "titel": "Australië in race tegen klok om unieke vogelsoorten te redden van dodelijke vogelgriep",
       "beschrijving": "Australië gaat kwetsbare vogels vaccineren tegen de vogelgriep om te voorkomen dat unieke soorten uitsterven. Het plan is om vogels in gevangenschap, onder meer in dierenparken en fokprogramma's, te beschermen tegen het H5N1-vogelgriepvirus dat sinds kort in het land is. \"We weten dat we de verspreiding van de H5-vogelgriep onder wilde vogels niet kunnen stoppen, maar we kunnen wel actie onderneme",
       "url": "https://nos.nl/l/2626396",
-      "datum": "6 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,53 +104,53 @@
       "titel": "Podcast De Dag: hoe Amerika de wapenvoorraden erdoorheen jaagt",
       "beschrijving": "Volgens president Trump is er niets aan de hand, maar in Amerika zijn grote zorgen ontstaan over de Amerikaanse wapenvoorraden. In de oorlog met Iran zou er een groot deel doorheen gejaagd zijn. Van sommige wapensystemen is nog maar 20 procent over. Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. \"Deze hele ",
       "url": "https://nos.nl/l/2626388",
-      "datum": "6 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Syrische oud-dictator Assad bij verstek ter dood veroordeeld",
-      "beschrijving": "De Syrische oud-dictator Bashar al-Assad is in zijn thuisland bij verstek ter dood veroordeeld. De rechtbank acht hem schuldig aan oorlogsmisdaden en misdaden tegen de menselijkheid. Assad was verantwoordelijk voor de dood van honderdduizenden Syriërs tijdens de burgeroorlog tussen 2011 en 2024. Een speciale rechtbank van de overgangsregering van Syrië is dit jaar begonnen met het berechten van fu",
-      "url": "https://nos.nl/l/2626384",
-      "datum": "7 uur geleden",
-      "regio": "Midden-Oosten",
+      "titel": "Venezuela and Israel restore consular ties as relations warm",
+      "beschrijving": "Despite cutting diplomatic ties with Israel in 2009, Caracas has shifted alignment in wake of Maduro abduction.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Veertien illegale mijnwerkers omgekomen in Zuid-Afrika, tientallen gewonden",
-      "beschrijving": "Veertien illegale mijnwerkers zijn in Zuid-Afrika in een verlaten mijnschacht in Nkaneng in het noorden van het land omgekomen. Ook werden tientallen anderen gewond aangetroffen, meldt de politie in een korte verklaring. Er werden geen verdere details gegeven. Het medium Nova News zegt dat een rotslawine het ongeluk veroorzaakte. De Zuid-Afrikaanse site News24 schrijft dat de wanden van de mijn in",
-      "url": "https://nos.nl/l/2626383",
-      "datum": "7 uur geleden",
+      "titel": "Tightened blockade on Gaza causes prices to soar",
+      "beschrijving": "As Israel tightens its blockade on Gaza, both lighters and fans have become the backbone of energy in the strip.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Paramount CEO may remove operations from California over stalled merger",
+      "beschrijving": "Paramount&#039;s CEO David Ellison warns of a California exit if the US state does not agree to talks, according to reports.",
+      "url": "https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Ebola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden",
-      "beschrijving": "Volgens de laatste cijfers zijn er bij de ebola-uitbraak in het oosten van Congo zeker 2000 mensen overleden. De ziekte verspreidt zich in het land sneller dan ooit tevoren. Inmiddels zijn 4381 bevestigde besmettingen geregistreerd, waaronder 2011 sterfgevallen. Gisteren maakte de Wereldgezondheidsorganisatie (WHO) bekend dat ebola in februari al rondging in Congo, maanden voordat de uitbraak half",
-      "url": "https://nos.nl/l/2626375",
-      "datum": "8 uur geleden",
-      "regio": "Afrika",
+      "titel": "South Africa mine collapse kills 14 suspected illegal miners",
+      "beschrijving": "At least 14 suspected illegal miners were killed and eight injured when a mine dump collapsed in South Africa.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump neemt het op voor bekritiseerde FIFA-baas Infantino: 'Hij is fantastisch'",
-      "beschrijving": "De Amerikaanse president Donald Trump heeft het maandag opgenomen voor FIFA-voorzitter Gianni Infantino. Volgens Trump zou de wereldvoetbalbond een \"vreselijke vergissing\" maken als de omstreden Zwitser wordt vervangen. \"Infantino is fantastisch en heeft net het succesvolste WK ooit geleid\", schreef Trump op zijn eigen platform Truth Social. \"Als hij weg is, wordt het nooit meer zo succesvol of wi",
-      "url": "https://nos.nl/l/2626354",
-      "datum": "12 uur geleden",
+      "titel": "Rights groups launch new legal challenge to Trump campaign against ICC",
+      "beschrijving": "Prominent organisation charge sanctions against international tribunal trample consitutional rights, hinder their work.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Russia frees ex-US Marine Robert Gilman from detention",
-      "beschrijving": "The US government had recently designated Gilman as wrongfully detained.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss",
-      "datum": "52 min geleden",
-      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -122,17 +158,8 @@
       "titel": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
       "beschrijving": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
       "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "beschrijving": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -140,22 +167,31 @@
       "titel": "Russia releases former US Marine reported in poor health",
       "beschrijving": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
       "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "beschrijving": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Taiwan oefent Chinese invasie, hoe groot is de kans op oorlog?",
     "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-    "Houthis reportedly kill four in first deadly attack since start of Iran war",
-    "'Trump stapte na NAVO-top verstopt in cateringwagentje over op ander vliegtuig'",
+    "Houthis reportedly kill six in first deadly attack since start of Iran war",
+    "Droogte raakt Franse akkers: 'Hier hadden bieten moeten groeien, maar er is niets'",
+    "Rusland laat Amerikaanse gevangene vrij, krijgt volgens Trump geen gevangene terug",
+    "Grote rookpluim door brand op parkeerplaats nabij vliegveld Parijs",
+    "Kwallenplaag dwingt Franse kerncentrale tot stilleggen reactoren",
     "Voormalig rechter officieel gekozen als nieuwe president Hongarije",
     "Zelensky waarschuwt voor meer Noord-Koreaanse hulp aan Rusland",
-    "Dodental aardbeving Colombia loopt op naar 224, nog meer dan 3000 vermisten",
-    "Australië in race tegen klok om unieke vogelsoorten te redden van dodelijke vogelgriep",
-    "Podcast De Dag: hoe Amerika de wapenvoorraden erdoorheen jaagt",
-    "Syrische oud-dictator Assad bij verstek ter dood veroordeeld",
-    "Veertien illegale mijnwerkers omgekomen in Zuid-Afrika, tientallen gewonden"
+    "Dodental aardbeving Colombia loopt op naar 224, nog meer dan 3000 vermisten"
   ]
 }
