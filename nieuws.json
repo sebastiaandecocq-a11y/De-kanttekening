@@ -1,20 +1,20 @@
 {
-  "bijgewerkt": "11 Aug 2026 13:13 UTC",
+  "bijgewerkt": "11 Aug 2026 15:01 UTC",
   "artikelen": [
     {
       "titel": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
       "beschrijving": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
       "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "At least 132 killed in Colombia's largest earthquake in years",
+      "titel": "At least 169 killed in Colombia's largest earthquake in years",
       "beschrijving": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
       "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,16 +23,61 @@
       "titel": "'Trump stapte na NAVO-top verstopt in cateringwagentje over op ander vliegtuig'",
       "beschrijving": "Toen de Amerikaanse president Trump vorige maand plotseling van vliegtuig wisselde na de NAVO-top in Turkije, werd hij heimelijk vervoerd in een cateringwagen. Dat zeggen functionarissen van het Witte Huis tegen de Amerikaanse kranten The Washington Post en The New York Times. Hij vloog daarna met een militair vliegtuig naar het Verenigd Koninkrijk in plaats van met het gebruikelijke Air Force One",
       "url": "https://nos.nl/l/2626363",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
+      "beschrijving": "The Mecca defence pact combines a top oil exporter, NATO&#039;s second-largest army and the only Muslim nuclear arsenal.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Europa",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "What’s behind Iran’s new military appointments and what do they indicate?",
+      "beschrijving": "Observers say the nominations empower the hardline old guard, prioritise loyalty over military innovation.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/whats-behind-irans-new-military-appointments-and-what-do-they-indicate?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "What to know about the US primary election in Minnesota",
+      "beschrijving": "Immigration is at the centre of another closely watched Democratic Senate race.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-us-primary-election-in-minnesota?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Zelensky waarschuwt voor meer Noord-Koreaanse hulp aan Rusland",
+      "beschrijving": "Bij de Russische aanvallen vannacht op Zaporizja heeft Rusland Noord-Koreaanse ballistische raketten ingezet. Dat zegt de Oekraïense president Zelensky. Er vielen zeker zes doden en 19 gewonden in de stad in het zuidoosten van Oekraïne. Zelensky wijst de afgelopen weken weer vaker op de steun van Noord-Korea aan Rusland. Gisteren waarschuwde de Oekraïense president dat Rusland zich voorbereidt op ",
+      "url": "https://nos.nl/l/2626415",
+      "datum": "5 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Dodental aardbeving Colombia loopt op naar 224, nog meer dan 3000 vermisten",
+      "beschrijving": "Het dodental van de aardbeving in Colombia is opgelopen tot 224, melden lokale autoriteiten. Meer dan 3000 mensen zijn vermist. Gevreesd wordt dat veel mensen nog onder het puin liggen. Volgens persbureau AP zijn door de beving gisteren ongeveer 1600 gebouwen beschadigd of ingestort. Het stedenverband Asocapitales meldt 668 gewonden in de hoofdsteden van de verschillende Colombiaanse departementen",
+      "url": "https://nos.nl/l/2626410",
+      "datum": "40 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Australië in race tegen klok om unieke vogelsoorten te redden van dodelijke vogelgriep",
       "beschrijving": "Australië gaat kwetsbare vogels vaccineren tegen de vogelgriep om te voorkomen dat unieke soorten uitsterven. Het plan is om vogels in gevangenschap, onder meer in dierenparken en fokprogramma's, te beschermen tegen het H5N1-vogelgriepvirus dat sinds kort in het land is. \"We weten dat we de verspreiding van de H5-vogelgriep onder wilde vogels niet kunnen stoppen, maar we kunnen wel actie onderneme",
       "url": "https://nos.nl/l/2626396",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +86,7 @@
       "titel": "Podcast De Dag: hoe Amerika de wapenvoorraden erdoorheen jaagt",
       "beschrijving": "Volgens president Trump is er niets aan de hand, maar in Amerika zijn grote zorgen ontstaan over de Amerikaanse wapenvoorraden. In de oorlog met Iran zou er een groot deel doorheen gejaagd zijn. Van sommige wapensystemen is nog maar 20 procent over. Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. \"Deze hele ",
       "url": "https://nos.nl/l/2626388",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +95,7 @@
       "titel": "Syrische oud-dictator Assad bij verstek ter dood veroordeeld",
       "beschrijving": "De Syrische oud-dictator Bashar al-Assad is in zijn thuisland bij verstek ter dood veroordeeld. De rechtbank acht hem schuldig aan oorlogsmisdaden en misdaden tegen de menselijkheid. Assad was verantwoordelijk voor de dood van honderdduizenden Syriërs tijdens de burgeroorlog tussen 2011 en 2024. Een speciale rechtbank van de overgangsregering van Syrië is dit jaar begonnen met het berechten van fu",
       "url": "https://nos.nl/l/2626384",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +104,7 @@
       "titel": "Veertien illegale mijnwerkers omgekomen in Zuid-Afrika, tientallen gewonden",
       "beschrijving": "Veertien illegale mijnwerkers zijn in Zuid-Afrika in een verlaten mijnschacht in Nkaneng in het noorden van het land omgekomen. Ook werden tientallen anderen gewond aangetroffen, meldt de politie in een korte verklaring. Er werden geen verdere details gegeven. Het medium Nova News zegt dat een rotslawine het ongeluk veroorzaakte. De Zuid-Afrikaanse site News24 schrijft dat de wanden van de mijn in",
       "url": "https://nos.nl/l/2626383",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +113,7 @@
       "titel": "Ebola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden",
       "beschrijving": "Volgens de laatste cijfers zijn er bij de ebola-uitbraak in het oosten van Congo zeker 2000 mensen overleden. De ziekte verspreidt zich in het land sneller dan ooit tevoren. Inmiddels zijn 4381 bevestigde besmettingen geregistreerd, waaronder 2011 sterfgevallen. Gisteren maakte de Wereldgezondheidsorganisatie (WHO) bekend dat ebola in februari al rondging in Congo, maanden voordat de uitbraak half",
       "url": "https://nos.nl/l/2626375",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +122,7 @@
       "titel": "Trump neemt het op voor bekritiseerde FIFA-baas Infantino: 'Hij is fantastisch'",
       "beschrijving": "De Amerikaanse president Donald Trump heeft het maandag opgenomen voor FIFA-voorzitter Gianni Infantino. Volgens Trump zou de wereldvoetbalbond een \"vreselijke vergissing\" maken als de omstreden Zwitser wordt vervangen. \"Infantino is fantastisch en heeft net het succesvolste WK ooit geleid\", schreef Trump op zijn eigen platform Truth Social. \"Als hij weg is, wordt het nooit meer zo succesvol of wi",
       "url": "https://nos.nl/l/2626354",
-      "datum": "7 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,71 +131,44 @@
       "titel": "Amerikaans oliebedrijf actief in Groenland zonder toestemming, Trump reageert",
       "beschrijving": "De Amerikaanse president Donald Trump heeft het opnieuw aan de stok met Groenland. Een Amerikaans oliebedrijf dat banden heeft met Trump blijkt in het oosten van het eiland zonder toestemming proefboringen voor te bereiden. Groenland heeft het bedrijf een stevige waarschuwing gegeven. Trump reageerde daarop met een opvallende post op zijn kanaal Truth Social. \"Hello, Greenland!\", staat in grote le",
       "url": "https://nos.nl/l/2626351",
-      "datum": "8 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Rusland valt Kyiv en Zaporizja aan: opnieuw doden, gewonden en branden",
-      "beschrijving": "Rusland heeft vannacht nieuwe luchtaanvallen op Oekraïense steden uitgevoerd. Zo kreeg Zaporizja het zwaar te verduren. Daar zette Rusland ballistische raketten en vliegtuigbommen in, zegt de gouverneur van de regio in het zuidoosten van Oekraïne. Vijf mensen kwamen om het leven en twintig raakten gewond. Volgens de gouverneur loopt het aantal slachtoffers op. Op zijn Telegram-kanaal plaatste hij ",
-      "url": "https://nos.nl/l/2626345",
-      "datum": "11 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Een jaar Nationale Garde in Washington: 'Duur en op de verkeerde plek'",
-      "beschrijving": "President Trump riep de soldaten van de Nationale Garde vorige zomer naar Washington D.C. omdat volgens hem sprake was van een noodtoestand. Zij moesten de hoofdstad beschermen tegen \"criminele bendes en bloeddorstige criminelen\" die de stad onveilig zouden maken. Inmiddels zijn ze er al een jaar en blijven ze tot de inauguratie van de volgende president in 2029. Critici zeggen dat er geen bewijs ",
-      "url": "https://nos.nl/l/2626343",
-      "datum": "14 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Philippines sailors say they will work despite wartime risks",
-      "beschrijving": "Philippines sailors say they will work despite wartime risks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/philippines-sailors-say-they-will-work-despite-wartime-risks-2?traffic_source=rss",
-      "datum": "33 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iran, US set new conditions during Hormuz talks: What does this mean?",
-      "beschrijving": "Oil prices surge as talks stall over competing demands, hampering prospects for reopening crucial strait.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean?traffic_source=rss",
-      "datum": "46 min geleden",
+      "titel": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+      "beschrijving": "President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei is in ‘perfect health’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss",
+      "datum": "31 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
-      "beschrijving": "After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out",
-      "beschrijving": "Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
+      "beschrijving": "Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.",
+      "url": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss",
+      "datum": "55 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
-      "beschrijving": "Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump&#039;s 15-point peace plan.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss",
+      "titel": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
+      "beschrijving": "First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.",
+      "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Philippines sailors say they will work despite wartime risks",
+      "beschrijving": "Philippines sailors say they will work despite wartime risks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/philippines-sailors-say-they-will-work-despite-wartime-risks-2?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -158,40 +176,22 @@
       "titel": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
       "beschrijving": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
       "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "14 min geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "beschrijving": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Libyan authorities battle big blaze at major oil refinery",
-      "beschrijving": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
-      "url": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-    "At least 132 killed in Colombia's largest earthquake in years",
+    "At least 169 killed in Colombia's largest earthquake in years",
     "'Trump stapte na NAVO-top verstopt in cateringwagentje over op ander vliegtuig'",
+    "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
+    "What’s behind Iran’s new military appointments and what do they indicate?",
+    "What to know about the US primary election in Minnesota",
+    "Zelensky waarschuwt voor meer Noord-Koreaanse hulp aan Rusland",
+    "Dodental aardbeving Colombia loopt op naar 224, nog meer dan 3000 vermisten",
     "Australië in race tegen klok om unieke vogelsoorten te redden van dodelijke vogelgriep",
-    "Podcast De Dag: hoe Amerika de wapenvoorraden erdoorheen jaagt",
-    "Syrische oud-dictator Assad bij verstek ter dood veroordeeld",
-    "Veertien illegale mijnwerkers omgekomen in Zuid-Afrika, tientallen gewonden",
-    "Ebola grijpt in Congo sneller om zich heen dan ooit, nu 2000 doden",
-    "Trump neemt het op voor bekritiseerde FIFA-baas Infantino: 'Hij is fantastisch'",
-    "Amerikaans oliebedrijf actief in Groenland zonder toestemming, Trump reageert"
+    "Podcast De Dag: hoe Amerika de wapenvoorraden erdoorheen jaagt"
   ]
 }
