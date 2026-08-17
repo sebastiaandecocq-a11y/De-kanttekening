@@ -1,11 +1,11 @@
 {
-  "bijgewerkt": "17 Aug 2026 19:31 UTC",
+  "bijgewerkt": "17 Aug 2026 20:30 UTC",
   "artikelen": [
     {
       "titel": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "beschrijving": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
       "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -14,7 +14,7 @@
       "titel": "Het staakt-het-vuren tussen de VS en Iran loopt vandaag af, wat is de situatie nu?",
       "beschrijving": "Het staakt-het-vuren van zestig dagen waarbinnen de VS en Iran tot een vredesakkoord moesten komen, loopt vandaag officieel af. De Straat van Hormuz zit nog altijd praktisch dicht en het lijkt erop dat beide landen nooit écht dicht bij een akkoord zijn gekomen, hoewel Trump dit tientallen keren heeft beweerd. Sterker nog, de standpunten lijken verder uit elkaar te liggen dan twee maanden geleden. ",
       "url": "https://nos.nl/l/2627302",
-      "datum": "31 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "NOS"
@@ -23,26 +23,8 @@
       "titel": "Russia maintains election ban on opposition Yabloko, jails deputy head",
       "beschrijving": "Supreme Court ruling supports Kremlin&#039;s clampdown on the political party ahead of September&#039;s parliamentary vote.",
       "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
-      "datum": "44 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Britain deploys military as wildfires spread across Europe",
-      "beschrijving": "Britain deploys military as wildfires spread across Europe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
-      "beschrijving": "On Monday, Israel&#039;s governing party will determine its candidate list for the next election.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
@@ -50,16 +32,34 @@
       "titel": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "beschrijving": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "datum": "51 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Goudkoorts breekt uit na gevonden schat in België: 'Was in een vorig leven van mij'",
+      "beschrijving": "Een week nadat bouwvakkers in het Vlaamse dorpje Sint-Gillis-Dendermonde tijdens renovatiewerkzaamheden in een kelderwand voor 9 miljoen euro aan goud hebben ontdekt, melden mensen van over heel de wereld zich bij de lokale politie. Zij beweren allemaal de eigenaar van het edelmetaal te zijn. Een van hen zegt dat het goud in een vorig leven van hem was, schrijft de Belgische korpschef Patrick Feys",
+      "url": "https://nos.nl/l/2627306",
+      "datum": "32 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Geëvacueerde inwoners Belgisch dorp mogen weer naar huis na bosbrand",
+      "beschrijving": "Inwoners van het Belgische dorp Sourbrodt in de Ardennen mogen vanavond weer naar huis. Zij werden eergisteren geëvacueerd wegens de brand die woedt in het natuurgebied de Hoge Venen. Vanaf 21.00 uur mogen de inwoners terugkeren naar hun woning, zegt de gemeente Waimes in een bericht op sociale media. Volgens de verklaring zijn de omstandigheden \"voldoende veilig\". Uit het dorp werden zo'n 500 men",
+      "url": "https://nos.nl/l/2627305",
+      "datum": "56 min geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Duizenden mensen bij wake na dood van oud-hoogleraar die van plagiaat werd beschuldigd",
       "beschrijving": "Op het Trafalgar-plein in Londen zijn duizenden mensen bijeengekomen voor een wake ten nagedachtenis aan Jason Arday. Hij werd vorige week op 41-jarige leeftijd dood aangetroffen nadat hij recent was afgetreden bij de prestigieuze Universiteit van Cambridge na beschuldigingen van plagiaat en liegen op zijn cv. Het vermoeden bestaat dat Arday suïcide heeft gepleegd, de politie houdt geen rekening m",
       "url": "https://nos.nl/l/2627304",
-      "datum": "29 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +68,7 @@
       "titel": "Rusland stuurt vicevoorzitter oppositiepartij voor 11 jaar naar een strafkamp",
       "beschrijving": "Een rechtbank in Rusland heeft vicevoorzitter Lev Shlosberg van oppositiepartij Jabloko tot 11 jaar en 1 maand strafkolonie veroordeeld. Die straf krijgt hij omdat hij het Russische leger in diskrediet zou hebben gebracht en \"valse informatie\" zou hebben verspreid. Shlosberg zette een dag na de Russische invasie van 2022 in Oekraïne een foto van een Britse krant op Telegram. Daarop waren een beblo",
       "url": "https://nos.nl/l/2627291",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +77,7 @@
       "titel": "Extreemrechtse Israëlische minister Ben-Gvir wil dagelijks tientallen Palestijnen doden",
       "beschrijving": "De extreemrechtse Israëlische minister Ben-Gvir heeft opgeroepen om iedere dag 30 tot 40 Palestijnen in Gaza te vermoorden. Hij deed dat dit weekend in de podcast van Rom Braslavski, die meer dan twee jaar werd gegijzeld door Hamas. \"Ik vind dat er gerichte liquidaties in Gaza moeten worden uitgevoerd, waarbij er elke nacht 30 tot 40 mensen worden uitgeschakeld\", zei Ben-Gvir. \"Niet alleen degenen",
       "url": "https://nos.nl/l/2627287",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +95,7 @@
       "titel": "Zo slecht dat je hem moet zien, Chinese animatiefilm levert miljoenen op",
       "beschrijving": "Een Chinese low budget animatiefilm heeft zó'n slecht verhaal en ziet er zó knullig uit, dat hij in een paar dagen tijd tot een cultfilm is uitgegroeid. Chinezen gaan massaal naar de bioscoop om Niu Lai met eigen ogen te zien. Volgens The South China Morning Post heeft de film in ruim een week tijd al meer dan 1,3 miljoen euro opgebracht. Daar zag het niet naar uit toen hij begin deze maand in rou",
       "url": "https://nos.nl/l/2627268",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +104,7 @@
       "titel": "Internationale oliehandel wil Straat van Hormuz omzeilen en komt uit in Syrië",
       "beschrijving": "Door de oorlog met Iran is de wereld op zoek naar alternatieve routes om nauwe zeestraten als de Straat van Hormuz en Bab el-Mandeb te omzeilen. Velen zijn inmiddels uitgekomen bij het strategisch gelegen Syrië, dat meerdere havens aan de Middellandse Zee heeft. De ogen van de wereld zijn gericht op dit fragiele land, dat nog volop aan het opkrabbelen is na een jarenlange oorlog en dictatuur. Dat ",
       "url": "https://nos.nl/l/2627263",
-      "datum": "5 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,34 +113,34 @@
       "titel": "Piloten vijf keer verblind met laserstralen vlak voor landing op Brussels Airport",
       "beschrijving": "Op Brussels Airport zijn vrijdagavond en -nacht piloten vijf keer vlak voor de landing gehinderd door laserstralen. Dat bevestigt luchtverkeersleider Skeyes aan Belgische media. De incidenten vonden plaats ter hoogte van de Belgische gemeente Dilbeek. Volgens Skeyes kregen de piloten tussen 20.45 uur en 02.45 uur een laserstraal op hun gezicht gericht. Vijf incidenten op één avond is opvallend, me",
       "url": "https://nos.nl/l/2627261",
-      "datum": "5 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Veenbrand in de Ardennen nog niet onder controle, koning Filip bezoekt gebied",
-      "beschrijving": "De brand in het Belgische natuurgebied Hoge Venen is nog niet onder controle. Sommige gebieden zijn niet toegankelijk voor hulpdiensten, waardoor het blussen moeizaam verloopt. Hoewel de weersomstandigheden in de Ardennen vandaag beter zijn door regen, blijft het veen smeulen. De brand in het natuurgebied woedt sinds vrijdag en groeide dit weekend enorm in omvang. \"Vandaag, morgen of overmorgen ho",
-      "url": "https://nos.nl/l/2627246",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
+      "titel": "Why did Trump scale back war games with South Korea?",
+      "beschrijving": "US president cites good relationship with North Korean leader Kim Jong Un",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss",
+      "datum": "56 min geleden",
+      "regio": "Noord-Korea",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Dodental aardbeving Indonesisch eiland Flores loopt op, duizenden ontheemden",
-      "beschrijving": "Het dodental van de aardbeving op het Indonesische eiland Flores is gestegen naar 68. Hoewel er op dit moment geen berichten zijn van vermisten, zijn reddingswerkers nog altijd op zoek naar slachtoffers onder het puin. Flores werd zaterdag getroffen door een aardbeving met een kracht van 7,7. Door de beving zijn zo'n 13.000 mensen ontheemd geraakt. Het eiland werd gisteren ook nog getroffen door m",
-      "url": "https://nos.nl/l/2627241",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
+      "titel": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+      "beschrijving": "A boat has left Bristol as part of a wider campaign to break Israel’s blockade and deliver aid to Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
+      "datum": "58 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Photos: Search for Indonesia earthquake victims continues",
       "beschrijving": "At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid.",
       "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
-      "datum": "8 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -149,7 +149,7 @@
       "titel": "Russian politician sentenced to 11 years for opposing war in Ukraine",
       "beschrijving": "Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
-      "datum": "37 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -158,7 +158,7 @@
       "titel": "Clashes between government and opposition fighters in Somalia’s Baidoa",
       "beschrijving": "Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -167,7 +167,7 @@
       "titel": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
       "beschrijving": "Family members allege security officers ignored warnings about the man&#039;s hemophilia and subjected him to severe abuse.",
       "url": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -176,7 +176,7 @@
       "titel": "Russia and Ukraine trade more deadly strikes",
       "beschrijving": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
       "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -186,9 +186,9 @@
     "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
     "Het staakt-het-vuren tussen de VS en Iran loopt vandaag af, wat is de situatie nu?",
     "Russia maintains election ban on opposition Yabloko, jails deputy head",
-    "Britain deploys military as wildfires spread across Europe",
-    "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
     "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+    "Goudkoorts breekt uit na gevonden schat in België: 'Was in een vorig leven van mij'",
+    "Geëvacueerde inwoners Belgisch dorp mogen weer naar huis na bosbrand",
     "Duizenden mensen bij wake na dood van oud-hoogleraar die van plagiaat werd beschuldigd",
     "Rusland stuurt vicevoorzitter oppositiepartij voor 11 jaar naar een strafkamp",
     "Extreemrechtse Israëlische minister Ben-Gvir wil dagelijks tientallen Palestijnen doden",
