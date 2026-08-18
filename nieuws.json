@@ -1,12 +1,21 @@
 {
-  "bijgewerkt": "18 Aug 2026 07:40 UTC",
+  "bijgewerkt": "18 Aug 2026 08:40 UTC",
   "artikelen": [
     {
-      "titel": "Two students killed in Philippine school shooting",
-      "beschrijving": "Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
+      "titel": "Tien doden in Petsjenihy na Russische aanvallen, Moskou onderschept Oekraïense drones",
+      "beschrijving": "Bij Russische aanvallen op het stadje Petsjenihy in de Oekraïense regio Charkiv zijn vannacht tien doden gevallen, meldt de regionale gouverneur. Ook zijn er meerdere gewonden. Bij de aanval werden tien gebouwen geraakt, waaronder een café, een postkantoor en een winkel. Ook raakten zeven auto's beschadigd. Oekraïne voerde ook aanvallen uit vannacht. Een grootschalige droneaanval trof doelen in de",
+      "url": "https://nos.nl/l/2627337",
+      "datum": "33 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Israeli settler children attack ambulance in occupied West Bank",
+      "beschrijving": "Video released by the Palestinian Red Crescent shows Israeli settler children attacking and blocking an ambulance.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -14,17 +23,8 @@
       "titel": "Student killed in Philippines Catholic school shooting",
       "beschrijving": "The alleged shooter, also a student, later took his own life.",
       "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "beschrijving": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
@@ -32,16 +32,34 @@
       "titel": "Het staakt-het-vuren tussen de VS en Iran loopt af, wat is de situatie nu?",
       "beschrijving": "Het staakt-het-vuren van zestig dagen waarbinnen de VS en Iran tot een vredesakkoord moesten komen, loopt vandaag officieel af. De Straat van Hormuz zit nog altijd praktisch dicht en het lijkt erop dat beide landen nooit écht dicht bij een akkoord zijn gekomen, hoewel Trump dit tientallen keren heeft beweerd. Sterker nog, de standpunten lijken verder uit elkaar te liggen dan twee maanden geleden. ",
       "url": "https://nos.nl/l/2627302",
-      "datum": "12 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
+      "titel": "What to watch in Tuesday’s Florida primary elections",
+      "beschrijving": "Islamophobia, anti-Semitism, Trump&#039;s politics and Israel&#039;s war on Gaza figure prominently in the elections.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections?traffic_source=rss",
+      "datum": "31 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Top Russian economist ousted after warning of growing costs of Ukraine war",
+      "beschrijving": "Andrey Klepach, top economist at Russia&#039;s state development bank VEB, had warned Russia was lagging behind rivals.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
+      "datum": "34 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "China pakt racistische AI-video's over buitenlanders nauwelijks aan",
-      "beschrijving": "Een golf van racistische AI-video's overspoelt Chinese sociale media. Vooral witte en zwarte mannen en Indiërs worden in de video's als boosdoeners neergezet. Opvallend is dat de beelden ogenschijnlijk nauwelijks gecensureerd worden, ondanks hun racistische en gewelddadige karakter. De Chinese overheid maakt steeds meer gebruik van sociale media om bepaalde boodschappen onder de bevolking te versp",
+      "beschrijving": "Een golf van racistische AI-video's overspoelt Chinese sociale media. Vooral witte en zwarte mannen en Indiërs worden in de nepvideo's als boosdoeners neergezet. Opvallend is dat de beelden ogenschijnlijk nauwelijks gecensureerd worden, ondanks hun racistische en gewelddadige karakter. De Chinese overheid maakt steeds meer gebruik van sociale media om bepaalde boodschappen onder de bevolking te ve",
       "url": "https://nos.nl/l/2627326",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +68,7 @@
       "titel": "Zeker 8 miljard euro schade door aardbeving Colombia, Shakira belooft steun",
       "beschrijving": "De economische schade van de aardbeving in Colombia loopt waarschijnlijk op tot ruim 8 miljard euro, zegt de president van het land. Volgens Abelardo de la Espriella gaat het om een voorlopig cijfer. Er is met name veel schade aan gebouwen, maar ook aan infrastructuur, zoals wegen. Het aantal doden door de aardbeving met een kracht van 7,4 staat op 294. Volgens de regering worden nog 194 mensen ve",
       "url": "https://nos.nl/l/2627315",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +77,7 @@
       "titel": "Aanleg grensbewaking in nationaal park Texas stilgelegd na protest",
       "beschrijving": "Een bouwproject voor de grensbewaking in een nationaal park in de Amerikaanse staat Texas is stilgelegd na felle kritiek van zowel Democraten als Republikeinen. De ruige en ongerepte natuur in het Big Bend National Park staat bekend om de grote biodiversiteit en als een gebied waar meerdere ecosystemen samenkomen. Eerder werd al afgezien van de bouw van een negen meter hoge muur dwars door het nat",
       "url": "https://nos.nl/l/2627314",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "Discord zet livestream-functie in Brazilië uit na zelfdoding",
       "beschrijving": "Het populaire communicatieplatform Discord heeft in Brazilië de mogelijkheid om te livestreamen uitgezet. Het online platform krijgt in het land forse kritiek nadat een jong meisje zich mogelijk onder druk van andere gebruikers in een livestream van het leven had beroofd. Vorige week oordeelde het Braziliaanse agentschap voor gegevensbescherming (ANPD) dat Discord te weinig doet om kinderen en jon",
       "url": "https://nos.nl/l/2627313",
-      "datum": "7 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Poging Kushner om vredesakkoord Gaza dichterbij te brengen levert niets op",
       "beschrijving": "Een poging van de Amerikaanse regering om tot een vredesakkoord voor Gaza te komen lijkt weinig concreets te hebben opgeleverd. Kushner, de schoonzoon van Trump die namens de Amerikaanse president als gezant optreedt, sprak gisteren met de politieke leiding van Hamas in Caïro, vandaag ging hij langs bij de Israëlische premier Netanyahu in Jeruzalem. Een bron dicht bij de onderhandelaars laat aan p",
       "url": "https://nos.nl/l/2627309",
-      "datum": "11 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +104,7 @@
       "titel": "Goudkoorts breekt uit na gevonden schat in België: 'Was in een vorig leven van mij'",
       "beschrijving": "Een week nadat bouwvakkers in het Vlaamse dorpje Sint-Gillis-Dendermonde tijdens renovatiewerkzaamheden in een kelderwand voor 9 miljoen euro aan goud hebben ontdekt, melden mensen van over heel de wereld zich bij de lokale politie. Zij beweren allemaal de eigenaar van het edelmetaal te zijn. Een van hen zegt dat het goud in een vorig leven van hem was, schrijft de Belgische korpschef Patrick Feys",
       "url": "https://nos.nl/l/2627306",
-      "datum": "11 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,62 +113,44 @@
       "titel": "Geëvacueerde inwoners Belgisch dorp mogen weer naar huis na bosbrand",
       "beschrijving": "Inwoners van het Belgische dorp Sourbrodt in de Ardennen mogen vanavond weer naar huis. Zij werden eergisteren geëvacueerd wegens de brand die woedt in het natuurgebied de Hoge Venen. Vanaf 21.00 uur mogen de inwoners terugkeren naar hun woning, zegt de gemeente Waimes in een bericht op sociale media. Volgens de verklaring zijn de omstandigheden \"voldoende veilig\". Uit het dorp werden zo'n 500 men",
       "url": "https://nos.nl/l/2627305",
-      "datum": "12 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Duizenden mensen bij wake na dood van oud-hoogleraar die van plagiaat werd beschuldigd",
-      "beschrijving": "In het centrum van Londen zijn duizenden mensen bijeengekomen voor een wake ten nagedachtenis aan Jason Arday. Hij werd vorige week op 41-jarige leeftijd dood aangetroffen nadat hij recent was afgetreden bij de prestigieuze Universiteit van Cambridge na beschuldigingen van plagiaat en liegen op zijn cv. Het vermoeden bestaat dat Arday suïcide heeft gepleegd, de politie houdt geen rekening met een ",
+      "beschrijving": "In het centrum van Londen zijn duizenden mensen bijeengekomen voor een wake ten nagedachtenis aan Jason Arday. Hij werd vorige week op 41-jarige leeftijd dood aangetroffen nadat hij recent was afgetreden bij de prestigieuze Universiteit van Cambridge na beschuldigingen van plagiaat en liegen op zijn cv. Het vermoeden bestaat dat Arday een einde aan zijn leven maakte, de politie houdt geen rekening",
       "url": "https://nos.nl/l/2627304",
-      "datum": "12 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Rusland stuurt vicevoorzitter oppositiepartij voor 11 jaar naar een strafkamp",
-      "beschrijving": "Een rechtbank in Rusland heeft vicevoorzitter Lev Shlosberg van oppositiepartij Jabloko tot 11 jaar en 1 maand strafkolonie veroordeeld. Die straf krijgt hij omdat hij het Russische leger in diskrediet zou hebben gebracht en \"valse informatie\" zou hebben verspreid. Shlosberg zette een dag na de Russische invasie van 2022 in Oekraïne een foto van een Britse krant op Telegram. Daarop waren een beblo",
-      "url": "https://nos.nl/l/2627291",
-      "datum": "14 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Palestine weekly: Global outcry fails to break West Bank siege",
+      "beschrijving": "Israeli settlers besiege Palestinian homes in West Bank, while Board of Peace goes back on Gaza disarmament deal.",
+      "url": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
+      "datum": "54 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Russia says more than 600 drones targeted Moscow region",
-      "beschrijving": "The attacks injured at least three people, including a girl, and damaged a Wildberries warehouse, Russian officials say.",
+      "titel": "Israel’s siege on Gaza is creating a breast cancer crisis",
+      "beschrijving": "Al Jazeera looks at the devastating impact that Israel&#039;s war and siege on Gaza are having on women with breast cancer.",
+      "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
+      "datum": "56 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Russian strikes kill 10 in Kharkiv as Ukrainian drones target Moscow",
+      "beschrijving": "Russian attacks reportedly killed 10 people and injured eight in Ukraine&#039;s Kharkiv.",
       "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
-      "datum": "53 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Can China’s new Arctic sea route to Europe replace Middle East chokepoints?",
-      "beschrijving": "Beijing&#039;s new &#039;Ice Silk Road&#039; cuts through a melting Arctic, and could prompt new tensions with the US, analysts say.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Trump says N Korea’s Kim has responded to his request for a conversation",
-      "beschrijving": "US president says conversations with Kim Jong Un at a &#039;positive&#039; stage and slams Seoul for refusing to join war on Iran.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Hichilema wins second term as president of copper-rich Zambia",
-      "beschrijving": "Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -158,7 +158,7 @@
       "titel": "Russia says UK 'will pay' for supplying drones to Ukraine",
       "beschrijving": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,7 +167,7 @@
       "titel": "Inside secret police warehouse as Germany targets small boats gangs",
       "beschrijving": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
       "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,22 +176,22 @@
       "titel": "China censors public mourning as it holds former premier's funeral",
       "beschrijving": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
       "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-      "datum": "23 min geleden",
+      "datum": "1 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Two students killed in Philippine school shooting",
+    "Tien doden in Petsjenihy na Russische aanvallen, Moskou onderschept Oekraïense drones",
+    "Israeli settler children attack ambulance in occupied West Bank",
     "Student killed in Philippines Catholic school shooting",
-    "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
     "Het staakt-het-vuren tussen de VS en Iran loopt af, wat is de situatie nu?",
+    "What to watch in Tuesday’s Florida primary elections",
+    "Top Russian economist ousted after warning of growing costs of Ukraine war",
     "China pakt racistische AI-video's over buitenlanders nauwelijks aan",
     "Zeker 8 miljard euro schade door aardbeving Colombia, Shakira belooft steun",
     "Aanleg grensbewaking in nationaal park Texas stilgelegd na protest",
-    "Discord zet livestream-functie in Brazilië uit na zelfdoding",
-    "Poging Kushner om vredesakkoord Gaza dichterbij te brengen levert niets op",
-    "Goudkoorts breekt uit na gevonden schat in België: 'Was in een vorig leven van mij'"
+    "Discord zet livestream-functie in Brazilië uit na zelfdoding"
   ]
 }
