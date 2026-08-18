@@ -1,11 +1,20 @@
 {
-  "bijgewerkt": "18 Aug 2026 02:58 UTC",
+  "bijgewerkt": "18 Aug 2026 03:51 UTC",
   "artikelen": [
+    {
+      "titel": "Two killed as gunman opens fire at Philippines high school, official says",
+      "beschrijving": "Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
     {
       "titel": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "beschrijving": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
       "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -14,25 +23,16 @@
       "titel": "Het staakt-het-vuren tussen de VS en Iran loopt af, wat is de situatie nu?",
       "beschrijving": "Het staakt-het-vuren van zestig dagen waarbinnen de VS en Iran tot een vredesakkoord moesten komen, loopt vandaag officieel af. De Straat van Hormuz zit nog altijd praktisch dicht en het lijkt erop dat beide landen nooit écht dicht bij een akkoord zijn gekomen, hoewel Trump dit tientallen keren heeft beweerd. Sterker nog, de standpunten lijken verder uit elkaar te liggen dan twee maanden geleden. ",
       "url": "https://nos.nl/l/2627302",
-      "datum": "7 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-      "beschrijving": "UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-      "datum": "6 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
       "titel": "Zeker 8 miljard euro schade door aardbeving Colombia, Shakira belooft steun",
       "beschrijving": "De economische schade van de aardbeving in Colombia loopt waarschijnlijk op tot ruim acht miljard euro, zegt de president van het land. Volgens Abelardo De La Espriella gaat het om een voorlopig cijfer. Er is met name veel schade aan gebouwen, maar ook aan infrastructuur, zoals wegen. Het aantal doden door de aardbeving met een kracht van 7.4 staat op 294. Volgens de regering worden nog 194 mensen",
       "url": "https://nos.nl/l/2627315",
-      "datum": "16 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +41,7 @@
       "titel": "Aanleg grensbewaking in nationaal park Texas stilgelegd na protest",
       "beschrijving": "Een bouwproject voor de grensbewaking in een nationaal park in de Amerikaanse staat Texas is stilgelegd na felle kritiek van zowel Democraten als Republikeinen. De ruige en ongerepte natuur in het Big Bend National Park staat bekend om de grote biodiversiteit en als een gebied waar meerdere ecosystemen samenkomen. Eerder werd al afgezien van de bouw van een negen meter hoge muur dwars door het nat",
       "url": "https://nos.nl/l/2627314",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +50,7 @@
       "titel": "Discord zet livestream-functie in Brazilië uit na zelfdoding",
       "beschrijving": "Het populaire communicatieplatform Discord heeft in Brazilië de mogelijkheid om te livestreamen uitgezet. Het online platform krijgt in het land forse kritiek nadat een jong meisje zich mogelijk onder druk van andere gebruikers in een livestream van het leven had beroofd. Vorige week oordeelde het Braziliaanse agentschap voor gegevensbescherming (ANPD) dat Discord te weinig doet om kinderen en jon",
       "url": "https://nos.nl/l/2627313",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +59,7 @@
       "titel": "Poging Kushner om vredesakkoord Gaza dichterbij te brengen levert niets op",
       "beschrijving": "Een poging van de Amerikaanse regering om tot een vredesakkoord voor Gaza te komen lijkt weinig concreets te hebben opgeleverd. Kushner, de schoonzoon van Trump die namens de Amerikaanse president als gezant optreedt, sprak gisteren met de politieke leiding van Hamas in Caïro, vandaag ging hij langs bij de Israëlische premier Netanyahu in Jeruzalem. Een bron dicht bij de onderhandelaars laat aan p",
       "url": "https://nos.nl/l/2627309",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +77,7 @@
       "titel": "Geëvacueerde inwoners Belgisch dorp mogen weer naar huis na bosbrand",
       "beschrijving": "Inwoners van het Belgische dorp Sourbrodt in de Ardennen mogen vanavond weer naar huis. Zij werden eergisteren geëvacueerd wegens de brand die woedt in het natuurgebied de Hoge Venen. Vanaf 21.00 uur mogen de inwoners terugkeren naar hun woning, zegt de gemeente Waimes in een bericht op sociale media. Volgens de verklaring zijn de omstandigheden \"voldoende veilig\". Uit het dorp werden zo'n 500 men",
       "url": "https://nos.nl/l/2627305",
-      "datum": "7 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +86,7 @@
       "titel": "Duizenden mensen bij wake na dood van oud-hoogleraar die van plagiaat werd beschuldigd",
       "beschrijving": "Op het Trafalgar-plein in Londen zijn duizenden mensen bijeengekomen voor een wake ten nagedachtenis aan Jason Arday. Hij werd vorige week op 41-jarige leeftijd dood aangetroffen nadat hij recent was afgetreden bij de prestigieuze Universiteit van Cambridge na beschuldigingen van plagiaat en liegen op zijn cv. Het vermoeden bestaat dat Arday suïcide heeft gepleegd, de politie houdt geen rekening m",
       "url": "https://nos.nl/l/2627304",
-      "datum": "7 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +95,7 @@
       "titel": "Rusland stuurt vicevoorzitter oppositiepartij voor 11 jaar naar een strafkamp",
       "beschrijving": "Een rechtbank in Rusland heeft vicevoorzitter Lev Shlosberg van oppositiepartij Jabloko tot 11 jaar en 1 maand strafkolonie veroordeeld. Die straf krijgt hij omdat hij het Russische leger in diskrediet zou hebben gebracht en \"valse informatie\" zou hebben verspreid. Shlosberg zette een dag na de Russische invasie van 2022 in Oekraïne een foto van een Britse krant op Telegram. Daarop waren een beblo",
       "url": "https://nos.nl/l/2627291",
-      "datum": "9 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +104,7 @@
       "titel": "Extreemrechtse Israëlische minister Ben-Gvir wil dagelijks tientallen Palestijnen doden",
       "beschrijving": "De extreemrechtse Israëlische minister Ben-Gvir heeft opgeroepen om iedere dag 30 tot 40 Palestijnen in Gaza te vermoorden. Hij deed dat dit weekend in de podcast van Rom Braslavski, die meer dan twee jaar werd gegijzeld door Hamas. \"Ik vind dat er gerichte liquidaties in Gaza moeten worden uitgevoerd, waarbij er elke nacht 30 tot 40 mensen worden uitgeschakeld\", zei Ben-Gvir. \"Niet alleen degenen",
       "url": "https://nos.nl/l/2627287",
-      "datum": "10 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,7 +122,7 @@
       "titel": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
       "beschrijving": "US president says Iran should &#039;put up the white flag of surrender&#039; as the two nations’ MoU expired on Monday.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -131,7 +131,7 @@
       "titel": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
       "beschrijving": "Trump&#039;s son-in-law and envoy says US will not &#039;restrict Israel&#039;s right to defend itself&#039; as strikes on Gaza continue.",
       "url": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -140,7 +140,7 @@
       "titel": "Russia warns UK over supplying drones to Ukraine",
       "beschrijving": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -149,7 +149,7 @@
       "titel": "BBC breaks down Trump's latest shift on North and South Korea",
       "beschrijving": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
       "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Noord-Korea",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -158,7 +158,7 @@
       "titel": "Russia's prominent anti-war politician jailed for 11 years",
       "beschrijving": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
       "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,16 +167,16 @@
       "titel": "Russia and Ukraine trade more deadly strikes",
       "beschrijving": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
       "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Two killed as gunman opens fire at Philippines high school, official says",
     "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
     "Het staakt-het-vuren tussen de VS en Iran loopt af, wat is de situatie nu?",
-    "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
     "Zeker 8 miljard euro schade door aardbeving Colombia, Shakira belooft steun",
     "Aanleg grensbewaking in nationaal park Texas stilgelegd na protest",
     "Discord zet livestream-functie in Brazilië uit na zelfdoding",
