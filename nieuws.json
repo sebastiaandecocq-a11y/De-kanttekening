@@ -1,38 +1,56 @@
 {
-  "bijgewerkt": "18 Aug 2026 10:32 UTC",
+  "bijgewerkt": "18 Aug 2026 11:28 UTC",
   "artikelen": [
     {
       "titel": "Tien doden in Petsjenihy na Russische aanvallen, Moskou onderschept Oekraïense drones",
       "beschrijving": "Bij Russische aanvallen op het stadje Petsjenihy in de Oekraïense regio Charkiv zijn vannacht tien doden gevallen, meldt de regionale gouverneur. Ook zijn er meerdere gewonden. Bij de aanval werden tien gebouwen geraakt, waaronder een café, een postkantoor en een winkel. Ook raakten zeven auto's beschadigd. Oekraïne voerde ook aanvallen uit vannacht. Een grootschalige droneaanval trof doelen in de",
       "url": "https://nos.nl/l/2627337",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
+      "titel": "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
+      "beschrijving": "Families mourn their loved ones as Ukrainian experts lament Washington&#039;s elusive promises of military support.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
+      "datum": "42 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Student killed in Philippines Catholic school shooting",
       "beschrijving": "The alleged shooter, also a student, later took his own life.",
       "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "What to watch in Tuesday’s Florida primary elections",
-      "beschrijving": "Islamophobia, anti-Semitism, Trump&#039;s politics and Israel&#039;s war on Gaza figure prominently in the elections.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "titel": "Droogte in Indonesië legt voormalig dorp bloot in waterreservoir: 'Hier sliepen we'",
+      "beschrijving": "Indonesië heeft te maken met een extreem droge periode. Dat is vooral voelbaar door de enorme toename in het aantal bosbranden: dit jaar zijn er al 154.000 hotspots ontdekt. Met een aantal zeer grote branden op Sumatra, Papua, West-Nusa Tenggara en vooral West-Kalimantan. Zo'n 50.000 hectare bos op het eiland is verwoest en er moesten zelfs orang-oetans geëvacueerd worden omdat hun leefgebied in g",
+      "url": "https://nos.nl/l/2627353",
+      "datum": "11 min geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Megarechtszaak tegen Meta in de VS begint: maakt het bedrijf jongeren bewust verslaafd?",
+      "beschrijving": "Vandaag start in Californië een grote rechtszaak van bijna dertig Amerikaanse staten tegen Meta, het moederbedrijf van Facebook en Instagram. Het techbedrijf maakt jongeren volgens de staten bewust verslaafd aan deze sociale media en gebruikt daarvoor tactieken waardoor zij zo veel mogelijk tijd doorbrengen op de platforms. Door dat te doen heeft Meta bijgedragen aan een verslechterde mentale en f",
+      "url": "https://nos.nl/l/2627352",
+      "datum": "36 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Italiaanse nonnen in verzet om 'eigen stukje' strand, gemeente wil plek vrijgeven",
       "beschrijving": "In een kustplaats in het noorden van Italië is een strijd losgebarsten tussen een lokale nonnenorde en het gemeentebestuur. Al jaren beheren de nonnen een stukje strand waar ze geld ophalen voor liefdadigheidsprojecten met het verhuren van bedjes en parasols. Daar wil de burgemeester van het kustplaatsje Spotorno, Mattia Fiorini, nu korte metten mee maken. De gemeente wil het stukje strand vrijgev",
       "url": "https://nos.nl/l/2627348",
-      "datum": "10 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +59,7 @@
       "titel": "Podcast De Dag: de rijzende ster van Kim Jong-un",
       "beschrijving": "De Noord-Koreaanse leider Kim Jong-un eist een steeds prominentere rol op op het wereldtoneel. En zijn land, Noord-Korea, profiteert daarvan. Maar tegen welke prijs? En hoe lukt het Kim Jong-un om zich geopolitiek onmisbaar te maken? Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. De Amerikaanse president Tr",
       "url": "https://nos.nl/l/2627344",
-      "datum": "53 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Noord-Korea",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +68,7 @@
       "titel": "China pakt racistische AI-video's over buitenlanders nauwelijks aan",
       "beschrijving": "Een golf van racistische AI-video's overspoelt Chinese sociale media. Vooral witte en zwarte mannen en Indiërs worden in de nepvideo's als boosdoeners neergezet. Opvallend is dat de beelden ogenschijnlijk nauwelijks gecensureerd worden, ondanks hun racistische en gewelddadige karakter. De Chinese overheid maakt steeds meer gebruik van sociale media om bepaalde boodschappen onder de bevolking te ve",
       "url": "https://nos.nl/l/2627326",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +77,7 @@
       "titel": "Zeker 8 miljard euro schade door aardbeving Colombia, Shakira belooft steun",
       "beschrijving": "De economische schade van de aardbeving in Colombia loopt waarschijnlijk op tot ruim 8 miljard euro, zegt de president van het land. Volgens Abelardo de la Espriella gaat het om een voorlopig cijfer. Er is met name veel schade aan gebouwen, maar ook aan infrastructuur, zoals wegen. Het aantal doden door de aardbeving met een kracht van 7,4 staat op 294. Volgens de regering worden nog 194 mensen ve",
       "url": "https://nos.nl/l/2627315",
-      "datum": "7 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "Aanleg grensbewaking in nationaal park Texas stilgelegd na protest",
       "beschrijving": "Een bouwproject voor de grensbewaking in een nationaal park in de Amerikaanse staat Texas is stilgelegd na felle kritiek van zowel Democraten als Republikeinen. De ruige en ongerepte natuur in het Big Bend National Park staat bekend om de grote biodiversiteit en als een gebied waar meerdere ecosystemen samenkomen. Eerder werd al afgezien van de bouw van een negen meter hoge muur dwars door het nat",
       "url": "https://nos.nl/l/2627314",
-      "datum": "9 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Discord zet livestream-functie in Brazilië uit na zelfdoding",
       "beschrijving": "Het populaire communicatieplatform Discord heeft in Brazilië de mogelijkheid om te livestreamen uitgezet. Het online platform krijgt in het land forse kritiek nadat een jong meisje zich mogelijk onder druk van andere gebruikers in een livestream van het leven had beroofd. Vorige week oordeelde het Braziliaanse agentschap voor gegevensbescherming (ANPD) dat Discord te weinig doet om kinderen en jon",
       "url": "https://nos.nl/l/2627313",
-      "datum": "10 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,35 +104,17 @@
       "titel": "Poging Kushner om vredesakkoord Gaza dichterbij te brengen levert niets op",
       "beschrijving": "Een poging van de Amerikaanse regering om tot een vredesakkoord voor Gaza te komen lijkt weinig concreets te hebben opgeleverd. Kushner, de schoonzoon van Trump die namens de Amerikaanse president als gezant optreedt, sprak gisteren met de politieke leiding van Hamas in Caïro, vandaag ging hij langs bij de Israëlische premier Netanyahu in Jeruzalem. Een bron dicht bij de onderhandelaars laat aan p",
       "url": "https://nos.nl/l/2627309",
-      "datum": "13 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Goudkoorts breekt uit na gevonden schat in België: 'Was in een vorig leven van mij'",
-      "beschrijving": "Een week nadat bouwvakkers in het Vlaamse dorpje Sint-Gillis-Dendermonde tijdens renovatiewerkzaamheden in een kelderwand voor 9 miljoen euro aan goud hebben ontdekt, melden mensen van over heel de wereld zich bij de lokale politie. Zij beweren allemaal de eigenaar van het edelmetaal te zijn. Een van hen zegt dat het goud in een vorig leven van hem was, schrijft de Belgische korpschef Patrick Feys",
-      "url": "https://nos.nl/l/2627306",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Geëvacueerde inwoners Belgisch dorp mogen weer naar huis na bosbrand",
-      "beschrijving": "Inwoners van het Belgische dorp Sourbrodt in de Ardennen mogen vanavond weer naar huis. Zij werden eergisteren geëvacueerd wegens de brand die woedt in het natuurgebied de Hoge Venen. Vanaf 21.00 uur mogen de inwoners terugkeren naar hun woning, zegt de gemeente Waimes in een bericht op sociale media. Volgens de verklaring zijn de omstandigheden \"voldoende veilig\". Uit het dorp werden zo'n 500 men",
-      "url": "https://nos.nl/l/2627305",
-      "datum": "14 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Syrian court sentences Wassim al-Assad to death for war crimes",
-      "beschrijving": "Cousin of Bashar al-Assad and former regime figure found guilty of crimes including premeditated murder and torture.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "Eight air strikes hit airbase in Syria’s Idlib",
+      "beschrijving": "Syrian state TV quotes military source as saying Israeli forces carried out attack, causing damage and no casualties.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -122,7 +122,7 @@
       "titel": "Russia warns UK will pay for supplying drones to Ukraine",
       "beschrijving": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "datum": "36 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -131,7 +131,7 @@
       "titel": "Inside secret police warehouse as Germany targets small boats gangs",
       "beschrijving": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
       "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -140,7 +140,7 @@
       "titel": "China censors public mourning as it holds former premier's funeral",
       "beschrijving": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
       "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -149,7 +149,7 @@
       "titel": "Indian student leader ends hunger strike after 16 days",
       "beschrijving": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
       "url": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -157,14 +157,14 @@
   ],
   "ticker": [
     "Tien doden in Petsjenihy na Russische aanvallen, Moskou onderschept Oekraïense drones",
+    "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
     "Student killed in Philippines Catholic school shooting",
-    "What to watch in Tuesday’s Florida primary elections",
+    "Droogte in Indonesië legt voormalig dorp bloot in waterreservoir: 'Hier sliepen we'",
+    "Megarechtszaak tegen Meta in de VS begint: maakt het bedrijf jongeren bewust verslaafd?",
     "Italiaanse nonnen in verzet om 'eigen stukje' strand, gemeente wil plek vrijgeven",
     "Podcast De Dag: de rijzende ster van Kim Jong-un",
     "China pakt racistische AI-video's over buitenlanders nauwelijks aan",
     "Zeker 8 miljard euro schade door aardbeving Colombia, Shakira belooft steun",
-    "Aanleg grensbewaking in nationaal park Texas stilgelegd na protest",
-    "Discord zet livestream-functie in Brazilië uit na zelfdoding",
-    "Poging Kushner om vredesakkoord Gaza dichterbij te brengen levert niets op"
+    "Aanleg grensbewaking in nationaal park Texas stilgelegd na protest"
   ]
 }
