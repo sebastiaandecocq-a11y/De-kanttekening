@@ -1,21 +1,12 @@
 {
-  "bijgewerkt": "18 Aug 2026 14:36 UTC",
+  "bijgewerkt": "18 Aug 2026 15:35 UTC",
   "artikelen": [
     {
       "titel": "Israëlische aanvallen op Syrische luchtmachtbasis gemeld, VS roept op tot de-escalatie",
       "beschrijving": "Een Syrische luchtmachtbasis in Abu Duhur is vanochtend vroeg doelwit geweest van Israëlische aanvallen, meldt de Syrische staatstelevisie. In totaal zouden er acht Israëlische luchtaanvallen zijn uitgevoerd op de luchtmachtbasis in het noordwesten van Syrië. Bij de aanvallen zouden geen slachtoffers zijn gevallen. Wel is er schade aangericht. Israël zelf heeft nog niet gereageerd op de beschuldig",
       "url": "https://nos.nl/l/2627379",
-      "datum": "59 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Midden-Oosten",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Tien doden in Petsjenihy na Russische aanvallen, Moskou onderschept Oekraïense drones",
-      "beschrijving": "Bij Russische aanvallen op het stadje Petsjenihy in de Oekraïense regio Charkiv zijn vannacht tien doden gevallen, meldt de regionale gouverneur. Ook zijn er meerdere gewonden. Bij de aanval werden tien gebouwen geraakt, waaronder een café, een postkantoor en een winkel. Ook raakten zeven auto's beschadigd. Oekraïne voerde ook aanvallen uit vannacht. Een grootschalige droneaanval trof doelen in de",
-      "url": "https://nos.nl/l/2627337",
-      "datum": "6 uur geleden",
-      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
@@ -23,7 +14,7 @@
       "titel": "Yemeni government escalates attacks against Houthis: What’s next?",
       "beschrijving": "Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.",
       "url": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss",
-      "datum": "44 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
@@ -32,25 +23,61 @@
       "titel": "Student killed in Philippines Catholic school shooting",
       "beschrijving": "The alleged shooter, also a student, later took his own life.",
       "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "US cites India on voter IDs, but are elections under Modi clean?",
+      "beschrijving": "Trump highlights India&#039;s voter ID rules to bolster his case for stricter US election laws.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
+      "datum": "30 min geleden",
+      "regio": "VS",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "What to watch in the Alaska and Wyoming primary elections",
+      "beschrijving": "Republican-led states face leadership shuffling.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Pasgetrouwd echtpaar komt om het leven bij helikoptercrash in Griekenland",
+      "beschrijving": "Op het Griekse eiland Sifnos is gisteren een pasgetrouwd Brits stel om het leven gekomen bij een helikoptercrash. De twee waren op huwelijksreis. Ook de piloot overleefde het ongeluk niet. Vlak voor de landing ging het mis. Het toestel stortte neer en er volgde een explosie waarna het in brand vloog. Volgens persbureau DPA zou de piloot \"in de laatste fase van de landing\" de controle zijn verloren",
+      "url": "https://nos.nl/l/2627396",
+      "datum": "43 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Oekraïner in Duitsland veroordeeld voor sabotage namens Rusland",
+      "beschrijving": "In Duitsland is een Oekraïner veroordeeld tot vijftien maanden cel voor sabotage namens Rusland. Volgens de rechtbank in Stuttgart was hij van plan om brandaanslagen te plegen in Duitsland. Twee andere Oekraïners werden vrijgesproken wegens gebrek aan bewijs. Het drietal werd vorig jaar mei opgepakt in Keulen, Konstanz en in de Zwitserse plaats Thurgau. Ze waren volgens de rechtbank in maart dat j",
+      "url": "https://nos.nl/l/2627393",
+      "datum": "52 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "NAVO onderschept drones nog altijd met dure vliegtuigen: 'Snellere innovatie nodig'",
       "beschrijving": "In toenemende mate zijn er incidenten met drones op NAVO-grondgebied. Afgelopen donderdagnacht en in het weekend haalden gevechtsvliegtuigen verdachte drones neer boven Letland en Roemenië. Twee weken eerder werd een drone met explosieven op het vliegveld van Leipzig gevonden. Vorig jaar september, toen er ook incidenten met drones waren in Europa, werd al duidelijk dat er goedkopere en efficiënte",
       "url": "https://nos.nl/l/2627385",
-      "datum": "47 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Tientallen kinderen mogelijk verwekt met 'verkeerd' zaad in Noord-Cyprus",
-      "beschrijving": "Vermoedelijk zijn minstens dertig kinderen, voornamelijk Britten, met het verkeerde donorzaad bij vruchtbaarheidsklinieken in Noord-Cyprus verwekt. Dat meldt de BBC. De Britse omroep bracht de misstanden al eerder aan het licht, maar nu blijkt het aantal gedupeerde ouders nog groter te zijn. In alle gevallen die de BBC onderzocht, bleken de ouders niet de donoren te hebben gekregen die zij hadden ",
+      "beschrijving": "Vermoedelijk zijn minstens dertig kinderen, voornamelijk Britten, met het verkeerde donorzaad bij vruchtbaarheidsklinieken in Noord-Cyprus verwekt. Dat meldt de BBC. De Britse omroep bracht de misstanden al eerder aan het licht, maar nu blijkt het aantal gedupeerde ouders en kinderen nog groter te zijn. In alle gevallen die de BBC onderzocht, bleken de ouders niet de donoren te hebben gekregen die",
       "url": "https://nos.nl/l/2627369",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +86,7 @@
       "titel": "China's bekendste komiek onder vuur om bewerking communistisch liedje",
       "beschrijving": "In China wordt een van de grootste cabaretiers door de autoriteiten onderzocht omdat hij een revolutionair lied belachelijk zou hebben gemaakt, schrijft CNN. Dat schoot bij de Chinese machthebbers in het verkeerde keelgat. Stand-upcomedian Guo Degang had vorige maand tijdens een voorstelling in Wuhan de tekst van een bekend Chinees lied geïmproviseerd. Het lied Ik bespeel mijn geliefde pipa gaat o",
       "url": "https://nos.nl/l/2627366",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +95,7 @@
       "titel": "Droogte in Indonesië legt voormalig dorp bloot in waterreservoir: 'Hier sliepen we'",
       "beschrijving": "Indonesië heeft te maken met een extreem droge periode. Dat is vooral voelbaar door de enorme toename in het aantal bosbranden: dit jaar zijn er al 154.000 hotspots ontdekt. Met een aantal zeer grote branden op Sumatra, Papua, West-Nusa Tenggara en vooral West-Kalimantan. Zo'n 50.000 hectare bos op het eiland is verwoest en er moesten zelfs orang-oetans geëvacueerd worden omdat hun leefgebied in g",
       "url": "https://nos.nl/l/2627353",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +104,7 @@
       "titel": "Megarechtszaak tegen Meta in de VS begint: maakt het bedrijf jongeren bewust verslaafd?",
       "beschrijving": "Vandaag start in Californië een grote rechtszaak van bijna dertig Amerikaanse staten tegen Meta, het moederbedrijf van Facebook en Instagram. Het techbedrijf maakt jongeren volgens de staten bewust verslaafd aan deze sociale media en gebruikt daarvoor tactieken waardoor zij zo veel mogelijk tijd doorbrengen op de platforms. Door dat te doen heeft Meta bijgedragen aan een verslechterde mentale en f",
       "url": "https://nos.nl/l/2627352",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +113,7 @@
       "titel": "Italiaanse nonnen in verzet om 'eigen stukje' strand, gemeente wil plek vrijgeven",
       "beschrijving": "In een kustplaats in het noorden van Italië is een strijd losgebarsten tussen een lokale nonnenorde en het gemeentebestuur. Al jaren beheren de nonnen een stukje strand waar ze geld ophalen voor liefdadigheidsprojecten met het verhuren van bedjes en parasols. Daar wil de burgemeester van het kustplaatsje Spotorno, Mattia Fiorini, nu korte metten mee maken. De gemeente wil het stukje strand vrijgev",
       "url": "https://nos.nl/l/2627348",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,25 +122,34 @@
       "titel": "Podcast De Dag: de rijzende ster van Kim Jong-un",
       "beschrijving": "De Noord-Koreaanse leider Kim Jong-un eist een steeds prominentere rol op op het wereldtoneel. En zijn land, Noord-Korea, profiteert daarvan. Maar tegen welke prijs? En hoe lukt het Kim Jong-un om zich geopolitiek onmisbaar te maken? Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. De Amerikaanse president Tr",
       "url": "https://nos.nl/l/2627344",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Noord-Korea",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "China pakt racistische AI-video's over buitenlanders nauwelijks aan",
-      "beschrijving": "Een golf van racistische AI-video's overspoelt Chinese sociale media. Vooral witte en zwarte mannen en Indiërs worden in de nepvideo's als boosdoeners neergezet. Opvallend is dat de beelden ogenschijnlijk nauwelijks gecensureerd worden, ondanks hun racistische en gewelddadige karakter. De Chinese overheid maakt steeds meer gebruik van sociale media om bepaalde boodschappen onder de bevolking te ve",
-      "url": "https://nos.nl/l/2627326",
-      "datum": "7 uur geleden",
-      "regio": "China/Taiwan",
+      "titel": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+      "beschrijving": "Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.",
+      "url": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
+      "datum": "20 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+      "beschrijving": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
+      "datum": "45 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
     },
     {
       "titel": "What to know about Gaza working groups and their mandate?",
       "beschrijving": "What to know about the new Gaza working groups conditioning reconstruction on immediate disarmament.",
       "url": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
-      "datum": "37 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -122,7 +158,7 @@
       "titel": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
       "beschrijving": "Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -131,44 +167,8 @@
       "titel": "Palestinian-American confronts Israeli settler at his besieged home",
       "beschrijving": "Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
-      "beschrijving": "The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death",
-      "url": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-      "beschrijving": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Bashar al-Assad’s cousin Wassim sentenced to death in Syria",
-      "beschrijving": "A Syrian court has sentenced Wassim al-Assad, cousin of Bashar al-Assad, to death for murder, torture and war crimes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
-      "beschrijving": "Majed al-Ansari says the Iranian planes &#039;violated Qatar’s sovereignty&#039; and were dealt with in accordance with the law.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -184,14 +184,14 @@
   ],
   "ticker": [
     "Israëlische aanvallen op Syrische luchtmachtbasis gemeld, VS roept op tot de-escalatie",
-    "Tien doden in Petsjenihy na Russische aanvallen, Moskou onderschept Oekraïense drones",
     "Yemeni government escalates attacks against Houthis: What’s next?",
     "Student killed in Philippines Catholic school shooting",
+    "US cites India on voter IDs, but are elections under Modi clean?",
+    "What to watch in the Alaska and Wyoming primary elections",
+    "Pasgetrouwd echtpaar komt om het leven bij helikoptercrash in Griekenland",
+    "Oekraïner in Duitsland veroordeeld voor sabotage namens Rusland",
     "NAVO onderschept drones nog altijd met dure vliegtuigen: 'Snellere innovatie nodig'",
     "Tientallen kinderen mogelijk verwekt met 'verkeerd' zaad in Noord-Cyprus",
-    "China's bekendste komiek onder vuur om bewerking communistisch liedje",
-    "Droogte in Indonesië legt voormalig dorp bloot in waterreservoir: 'Hier sliepen we'",
-    "Megarechtszaak tegen Meta in de VS begint: maakt het bedrijf jongeren bewust verslaafd?",
-    "Italiaanse nonnen in verzet om 'eigen stukje' strand, gemeente wil plek vrijgeven"
+    "China's bekendste komiek onder vuur om bewerking communistisch liedje"
   ]
 }
