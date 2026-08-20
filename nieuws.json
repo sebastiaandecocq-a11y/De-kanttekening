@@ -1,11 +1,11 @@
 {
-  "bijgewerkt": "20 Aug 2026 09:38 UTC",
+  "bijgewerkt": "20 Aug 2026 10:34 UTC",
   "artikelen": [
     {
-      "titel": "Oekraïne meldt twaalf doden bij aanval op Kyiv, ook kinderziekenhuis geraakt",
-      "beschrijving": "Bij Russische luchtaanvallen op de Oekraïense hoofdstad Kyiv zijn de afgelopen nacht zeker twaalf mensen gedood en tientallen gewond geraakt. Dat melden de Oekraïense autoriteiten na een nacht vol inslagen verspreid over de stad. Rusland gebruikte onder meer ballistische raketten en drones om de stad te raken. The Kyiv Independent schrijft dat net na middernacht en aan het begin van de ochtend ser",
+      "titel": "Oekraïne meldt vijftien doden bij aanval op Kyiv, ook kinderziekenhuis geraakt",
+      "beschrijving": "Bij Russische luchtaanvallen op en rond de Oekraïense hoofdstad Kyiv zijn de afgelopen nacht zeker vijftien mensen gedood en tientallen gewond geraakt. Dat melden de Oekraïense autoriteiten na een nacht vol inslagen verspreid over de stad. Rusland gebruikte onder meer ballistische raketten en drones om de stad te raken. The Kyiv Independent schrijft dat net na middernacht en aan het begin van de o",
       "url": "https://nos.nl/l/2627552",
-      "datum": "7 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,7 +14,7 @@
       "titel": "Video shows Russian missile strike on Ukrainian capital",
       "beschrijving": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
@@ -23,8 +23,17 @@
       "titel": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
       "beschrijving": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "datum": "0 min geleden",
+      "datum": "57 min geleden",
       "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Ex-Zambian minister killed in security raid on opposition",
+      "beschrijving": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+      "url": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+      "datum": "26 min geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
@@ -32,17 +41,8 @@
       "titel": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
       "beschrijving": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
       "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "beschrijving": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
@@ -50,25 +50,52 @@
       "titel": "Roep om verkiezingen komt nu uit Oekraïne zelf, hoe reëel is dat in oorlogstijd?",
       "beschrijving": "Al ruim vier jaar is Oekraïne in oorlog met Rusland en dat betekent dat er al ruim vier jaar geen verkiezingen mogen worden gehouden. In de Oekraïense grondwet staat namelijk dat er geen verkiezingen kunnen plaatsvinden in oorlogstijd. Toch komt de roep om naar de stembus te gaan nu uit Oekraïne zelf, en wel van een voormalige vertrouweling van president Volodymyr Zelensky. Hoe reëel is het om op ",
       "url": "https://nos.nl/l/2627559",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
+      "titel": "Syrian official says ‘no plans’ to establish Turkish military presence",
+      "beschrijving": "The foreign minister says in an interview that Turkish military officials had visited the airbase as part of training.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
+      "datum": "18 min geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
       "beschrijving": "Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "Goudkoorts breekt uit Kenia, zelfs peuters speuren naar goud in illegale mijn",
+      "beschrijving": "Een bij toeval ontdekte goudader in het westen van Kenia heeft meer dan 10.000 mensen, onder wie veel jonge kinderen, op de been gebracht. Het dorpje Cheporor wordt dusdanig overspoeld door goudzoekers, dat de lokale autoriteiten waarschuwen voor een humanitaire crisis. De enorme toestroom van mensen ontstond begin deze maand na berichten dat drie jonge veeboeren goudkorrels in de grond in het geb",
+      "url": "https://nos.nl/l/2627587",
+      "datum": "4 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Universiteit Gent pakt onderzoeker aan om uitspraken over zwarte hoogleraar",
+      "beschrijving": "De Universiteit Gent zegt stappen te zullen ondernemen tegen een medewerker om zijn recente uitspraken over Jason Arday. Die Britse hoogleraar werd vorige week dood gevonden in zijn woning, kort nadat hij was opgestapt bij de universiteit van Cambridge. In zijn blogpost stelde de Amerikaanse onderzoeker Nathan Cofnas in juli dat de hoogleraar sociologie plagiaat had gepleegd in een deel van zijn a",
+      "url": "https://nos.nl/l/2627585",
+      "datum": "26 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Toezichthouder vraagt TikTok om uitleg na dodelijke crash Ierse tieners",
       "beschrijving": "De Ierse mediawaakhond vraagt TikTok om uitleg over video's met gevaarlijk rijgedrag na een dodelijke crash dit weekend. Ook komt er nog dit jaar speciale training voor politieagenten die achtervolgingen uitvoeren. Bij het ongeluk kwamen zondag vijf tieners om het leven toen de BMW waarin zij zaten tegen de rijrichting in reed en frontaal botste op een andere auto. Vier inzittenden van die auto ra",
       "url": "https://nos.nl/l/2627570",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +104,7 @@
       "titel": "Verlamde 84-jarige vrouw levend gevonden onder puin in Indonesië: 'Een wonder'",
       "beschrijving": "Een 84-jarige verlamde vrouw is in Indonesië levend onder het puin vandaan gehaald. Een politiechef noemt het \"onwerkelijk\" en \"bijna een wonder\" dat er nog een overlevende is gevonden van de aardbeving van zaterdag. De aardbeving had een kracht van 7,7 en richtte veel schade aan op het eiland Flores. De vrouw, die Paulina Pobi heet, was zaterdagochtend in het dorpje Nitunglea bedolven geraakt ond",
       "url": "https://nos.nl/l/2627566",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +113,7 @@
       "titel": "Wekdienst 20/8: Actie schoonmakers bij NS • Hockeyers spelen tegen Japan",
       "beschrijving": "Goedemorgen! Honderden schoonmakers staken bij het hoofdkantoor van de NS voor een betere cao en op het WK hockey spelen de Nederlandse mannen tegen Japan in de groepsfase. Eerst het weer: gedurende de dag trekken diverse buien over het land, soms met hagel en onweer. Tussendoor is er ook ruimte voor de zon. Bij een matige tot soms vrij krachtige zuidwestenwind wordt het maximaal 20 tot 22 graden.",
       "url": "https://nos.nl/l/2627557",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +122,7 @@
       "titel": "Zeven toeristen omgekomen bij helikoptercrash in Kenia",
       "beschrijving": "In Kenia is een helikopter met toeristen neergestort. Alle zeven inzittenden zijn hierbij om het leven gekomen, melden Keniaanse autoriteiten. Onder de doden zijn vijf Amerikanen en twee Ecuadoranen, het hoofd van de Ecuadoraanse inlichtingendienst en zijn vrouw. Reddingsteams zijn urenlang bezig geweest met het bergen van de lichamen, meldt de Keniaanse krant The Daily Nation. Later vandaag wordt",
       "url": "https://nos.nl/l/2627551",
-      "datum": "8 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +131,7 @@
       "titel": "'Prins Harry en Meghan verhuizen deze maand terug naar Verenigd Koninkrijk'",
       "beschrijving": "Britse media melden dat prins Harry en zijn vrouw Meghan van plan zijn om later deze maand vanuit de VS terug te verhuizen naar het Verenigd Koninkrijk. Het stel gaat met hun twee kinderen, prins Archie (7) en prinses Lilibet (5), een woning buiten Londen betrekken, meldt de BBC. De kinderen zouden volgende maand op een Britse school beginnen. De Britse krant The Daily Telegraph schrijft dat het s",
       "url": "https://nos.nl/l/2627549",
-      "datum": "10 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,24 +140,6 @@
       "titel": "Vrees voor ruim honderd doden door mijnongeluk Centraal-Afrikaanse Republiek",
       "beschrijving": "Het dodental van het mijnongeluk in de Centraal-Afrikaanse Republiek (CAR) is naar schatting opgelopen tot ruim honderd. Persbureaus Reuters en AFP melden dat op basis van een functionaris van een lokale mijnautoriteit. Een deel van de goudmijn stortte gistermiddag in door onbekende oorzaak. Aanvankelijk werd gesproken over zeker dertig dodelijke slachtoffers, maar dat aantal lijkt in korte tijd f",
       "url": "https://nos.nl/l/2627538",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Meer verdenkingen tegen Franse chirurg die honderden kinderen verkrachtte",
-      "beschrijving": "De Franse veroordeelde kindermisbruiker Joël Le Scouarnec (75) wordt verdacht van nog eens veertig aanrandingen en tien verkrachtingen van minderjarigen. De oud-chirurg werd vorig jaar al veroordeeld tot 20 jaar cel voor bijna driehonderd verkrachtingen en aanrandingen. Het Openbaar Ministerie in Lorient maakte vandaag bekend dat een nieuw gerechtelijk onderzoek is geopend tegen de man. Het gaat o",
-      "url": "https://nos.nl/l/2627537",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Droneoorlog treft steeds vaker Sudanese burgers, mede door buitenlandse steun",
-      "beschrijving": "Waar drones aan het begin van de oorlog in Sudan nog een marginale rol speelden, zijn ze inmiddels een belangrijk wapen voor beide strijdende partijen. Het aantal drone- en luchtaanvallen in Sudan is de afgelopen jaren sterk toegenomen: de Verenigde Naties telden in de eerste vier maanden van dit jaar 880 doden door droneaanvallen. Maandenlang was het relatief rustig in de hoofdstad Khartoem. Sind",
-      "url": "https://nos.nl/l/2627535",
       "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
@@ -140,7 +149,7 @@
       "titel": "How conflict is making life more expensive for Iranians",
       "beschrijving": "How conflict is making life more expensive for Iranians",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
-      "datum": "17 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -149,7 +158,7 @@
       "titel": "State-backed Israeli settler violence forces West Bank displacement: HRW",
       "beschrijving": "HRW calls for sanctions and suspension of military aid as dozens of Palestinian communities are at risk of erasure.",
       "url": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
-      "datum": "29 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -158,7 +167,7 @@
       "titel": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
       "beschrijving": "Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.",
       "url": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
-      "datum": "54 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -167,31 +176,22 @@
       "titel": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
       "beschrijving": "Heatwaves are squeezing growth and productivity while the Iran war drives up Europe&#039;s energy costs.",
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
-      "beschrijving": "Far-right Israeli minister Itamar Ben-Gvir has praised the destruction of 10,000 Palestinian homes in Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Oekraïne meldt twaalf doden bij aanval op Kyiv, ook kinderziekenhuis geraakt",
+    "Oekraïne meldt vijftien doden bij aanval op Kyiv, ook kinderziekenhuis geraakt",
     "Video shows Russian missile strike on Ukrainian capital",
     "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+    "Ex-Zambian minister killed in security raid on opposition",
     "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-    "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
     "Roep om verkiezingen komt nu uit Oekraïne zelf, hoe reëel is dat in oorlogstijd?",
+    "Syrian official says ‘no plans’ to establish Turkish military presence",
     "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
-    "Toezichthouder vraagt TikTok om uitleg na dodelijke crash Ierse tieners",
-    "Verlamde 84-jarige vrouw levend gevonden onder puin in Indonesië: 'Een wonder'",
-    "Wekdienst 20/8: Actie schoonmakers bij NS • Hockeyers spelen tegen Japan"
+    "Goudkoorts breekt uit Kenia, zelfs peuters speuren naar goud in illegale mijn",
+    "Universiteit Gent pakt onderzoeker aan om uitspraken over zwarte hoogleraar"
   ]
 }
