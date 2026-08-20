@@ -1,21 +1,12 @@
 {
-  "bijgewerkt": "20 Aug 2026 17:33 UTC",
+  "bijgewerkt": "20 Aug 2026 18:44 UTC",
   "artikelen": [
     {
       "titel": "North Korea fires ballistic missiles as US-South Korea drills near end",
       "beschrijving": "South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.",
       "url": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
-      "datum": "32 min geleden",
-      "regio": "Noord-Korea",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
-      "beschrijving": "Russia launched a hours-long overnight barrage of ballistic and cruise missiles and drones across Kyiv.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Noord-Korea",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -23,7 +14,7 @@
       "titel": "Ex-Zambian minister killed in security raid on opposition",
       "beschrijving": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
       "url": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,16 +23,34 @@
       "titel": "Oekraïense topambtenaren verdacht van deelname aan criminele organisatie",
       "beschrijving": "In Oekraïne hebben anti-corruptiebureaus SAPO en NABOe invallen gedaan bij hoge functionarissen. De diensten spreken in een verklaring van de \"onthulling van een criminele organisatie\". Onder andere de plaatsvervangend stafchef van de president, Iryna Moedra, is aangeklaagd. Zelensky heeft haar gisteren ontslagen. Het corruptieschandaal werd gisteren gemeld door Oekraïense media. Vandaag bracht NA",
       "url": "https://nos.nl/l/2627627",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nederland veroordeelt samen met andere landen Israël om bouwplan op Westoever",
+      "beschrijving": "Nederland heeft samen met een groep andere landen boos gereageerd op het besluit van Israël om biedingen te openen voor een zeer omstreden bouwproject op de Westelijke Jordaanoever. De groep noemt de voortgang in het zogeheten E1-project onacceptabel. De gezamenlijke verklaring is ondertekend door Nederland, Duitsland, Frankrijk, Italië, Verenigd Koninkrijk, Canada en Noorwegen. Volgens bouwplan k",
+      "url": "https://nos.nl/l/2627650",
+      "datum": "14 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Niet de EU maar Rusland helpt Servië bij de bestrijding van een grote natuurbrand",
+      "beschrijving": "Noodhulp met een grote politieke lading: Servië krijgt bijstand van Rusland bij het bestrijden van een enorme natuurbrand ten oosten van de hoofdstad Belgrado. En dat terwijl ook Brussel het kandidaat-EU-lid had aangeboden te helpen. Het Russische blusvliegtuig had woensdag bovendien speciale toestemming nodig om over EU-grondgebied naar Servië te vliegen. Het luchtruim boven de EU is immers geslo",
+      "url": "https://nos.nl/l/2627647",
+      "datum": "54 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "'Hybride oorlogsvoering': Roemeense F-16's blazen vermoedelijk Russische zeedrone op",
       "beschrijving": "Roemeense F-16's hebben in de Zwarte Zee een zeedrone uitgeschakeld. De Roemeense president Dan wijst net als voorzitter Von der Leyen van de Europese Commissie met de vinger naar Rusland. Von der Leyen spreekt zelfs van \"hybride oorlogsvoering\". Het onbemande bootje, de zeedrone dus, werd vanochtend ontdekt bij het Roemeense Neptun Deep-project op de Zwarte Zee. De Roemenen bouwen daar aan een in",
       "url": "https://nos.nl/l/2627642",
-      "datum": "44 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +59,7 @@
       "titel": "Natuurbrand Belgische Hoge Venen grotendeels onder controle, mede dankzij regen",
       "beschrijving": "De natuurbrand die sinds vrijdag woedt in de Hoge Venen in België, is grotendeels onder controle. Dat melden de lokale autoriteiten. Als de weersomstandigheden hetzelfde blijven, zou de brand zich niet meer moeten verspreiden. Vanmiddag zei minister van Binnenlandse Zaken Bernard Quintinal al dat de situatie onder controle begon te raken. Bij de brand is inmiddels zo'n 3000 hectare natuurgebied af",
       "url": "https://nos.nl/l/2627620",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +68,7 @@
       "titel": "Afgelopen maanden meer hittegerelateerde doden in Spanje en Duitsland",
       "beschrijving": "In Spanje zijn dit jaar tussen 1 juni en 19 augustus 4458 hittedoden geregistreerd. Dat schat het Spaanse nationale gezondheidsinstituut Carlos III op navraag door het Franse persbureau AFP. Het is het hoogste aantal sinds 2022, toen er 4520 sterfgevallen gerelateerd waren aan de hitte. Er kan bij de sterfgevallen geen direct verband worden gelegd tussen hun doodsoorzaak en de hitte. Desondanks ze",
       "url": "https://nos.nl/l/2627607",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +77,7 @@
       "titel": "Survivalweekendje Oekraïens alternatief voor gedwongen rekrutering",
       "beschrijving": "Een groep jongvolwassenen verzamelt zich op een plein in de zuidelijke havenstad Odesa. In dit gezelschap, vooral vrouwen, zitten onder anderen een psycholoog, een ondernemer en een jurist. Wat ze delen is een passie voor een onafhankelijk Oekraïne en een positieve houding ten opzichte van het leger. Het gezelschap stapt in een aftandse bus en vertrekt naar een natuurgebied een uurtje buiten de mo",
       "url": "https://nos.nl/l/2627606",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +86,7 @@
       "titel": "Reddingsmissie NASA-telescoop mislukt, satelliet dreigt te verbranden in atmosfeer",
       "beschrijving": "Op papier lijkt het simpel. Om een belangrijke telescoop te redden van de ondergang, lanceer je een andere satelliet. Met grote armen grijp je dan de telescoop bij de lurven en breng je hem weer in een goede baan om de aarde. De praktijk blijkt voor ruimtevaartorganisatie NASA toch wat weerbarstiger. Want inmiddels is de reddingssatelliet deels onbestuurbaar geraakt en lijkt de telescoop met elke ",
       "url": "https://nos.nl/l/2627596",
-      "datum": "5 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "Australisch OM wil dat verdachte van paddenstoelmoorden nooit meer vrijkomt",
       "beschrijving": "Australische aanklagers hebben in hoger beroep geëist dat de verdachte in de beruchte paddenstoelenzaak nooit meer vrijkomt. Erin Patterson werd eind vorig jaar veroordeeld tot levenslang, met kans op vroegtijdige vrijlating na 33 jaar. Justitie ging daartegen in hoger beroep. De 51-jarige Patterson werd schuldig bevonden aan moord en poging tot moord op vier leden van haar voormalige schoonfamili",
       "url": "https://nos.nl/l/2627595",
-      "datum": "5 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,34 +104,25 @@
       "titel": "Oprichter van Chinese vastgoedreus Evergrande moet levenslang de cel in",
       "beschrijving": "De oprichter van de inmiddels failliete vastgoedgigant Evergrande is in China veroordeeld tot een levenslange gevangenisstraf. Ook worden alle persoonlijke bezittingen van Hui Ka Yan in beslag genomen, oordeelde de rechtbank in Shenzhen. Volgens de rechtbank gebruikte Hui zijn positie om onder meer fraude te plegen. De 67-jarige Hui werd aangeklaagd voor acht feiten, waaronder omkoping, fraude en ",
       "url": "https://nos.nl/l/2627589",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Goudkoorts breekt uit in Kenia, zelfs peuters werken in illegale mijn",
-      "beschrijving": "Een bij toeval ontdekte goudader in het westen van Kenia heeft meer dan 10.000 mensen, onder wie veel jonge kinderen, op de been gebracht. Het dorpje Cheporor wordt dusdanig overspoeld door goudzoekers, dat de lokale autoriteiten waarschuwen voor een humanitaire crisis. De enorme toestroom van mensen ontstond begin deze maand na berichten dat drie jonge veeboeren goudkorrels in de grond in het geb",
-      "url": "https://nos.nl/l/2627587",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
+      "titel": "Russian paramilitaries in Mali kill nine, including children: HRW",
+      "beschrijving": "Human Rights Watch alleges that the killings by Africa Corps troops took place in the presence of Malian soldiers.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss",
+      "datum": "30 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Universiteit Gent schorst onderzoeker na uitspraken over zwarte hoogleraar Arday",
-      "beschrijving": "De Universiteit Gent heeft een onderzoeker geschorst en een onderzoek ingesteld wegens zijn recente uitspraken over Jason Arday. Die Britse hoogleraar werd vorige week dood gevonden in zijn woning, kort nadat hij was opgestapt bij de universiteit van Cambridge. In een blogpost in juli stelde de Amerikaanse onderzoeker Nathan Cofnas dat hoogleraar sociologie Arday plagiaat had gepleegd in een deel ",
-      "url": "https://nos.nl/l/2627585",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Humanoid robots take centre stage in China-US tech race",
       "beschrijving": "Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
-      "datum": "15 min geleden",
+      "datum": "1 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -131,26 +131,8 @@
       "titel": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
       "beschrijving": "Families in Gaza face devastating water shortages, leaving children with heavy responsibilities beyond their years.",
       "url": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
-      "datum": "30 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Syria detains policeman over death of White Helmets rescuer hit in custody",
-      "beschrijving": "Authorities were warned about the dangers of hitting Mohammad Ghamira, who suffered from the rare medical condition haemophilia.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
-      "beschrijving": "UK maritime security monitor says Seamull tanker diverted towards Somalia, as wave of piracy sweeps the Gulf of Aden.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Afrika",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -158,16 +140,16 @@
       "titel": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "beschrijving": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "datum": "18 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Trump vows tougher economic measures on Iran and supporting countries",
-      "beschrijving": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "titel": "Bessent urges US partners to back plans to 'squash' Iran economy",
+      "beschrijving": "The US Treasury secretary says allies will need to decide whether they \"are with us or against us\".",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "datum": "3 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,22 +158,40 @@
       "titel": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
       "beschrijving": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
       "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Assad officer extradited to Syria on war crimes charges for first time",
+      "beschrijving": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+      "beschrijving": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
+      "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "North Korea fires ballistic missiles as US-South Korea drills near end",
-    "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
     "Ex-Zambian minister killed in security raid on opposition",
     "Oekraïense topambtenaren verdacht van deelname aan criminele organisatie",
+    "Nederland veroordeelt samen met andere landen Israël om bouwplan op Westoever",
+    "Niet de EU maar Rusland helpt Servië bij de bestrijding van een grote natuurbrand",
     "'Hybride oorlogsvoering': Roemeense F-16's blazen vermoedelijk Russische zeedrone op",
     "Natuurbrand Belgische Hoge Venen grotendeels onder controle, mede dankzij regen",
     "Afgelopen maanden meer hittegerelateerde doden in Spanje en Duitsland",
     "Survivalweekendje Oekraïens alternatief voor gedwongen rekrutering",
-    "Reddingsmissie NASA-telescoop mislukt, satelliet dreigt te verbranden in atmosfeer",
-    "Australisch OM wil dat verdachte van paddenstoelmoorden nooit meer vrijkomt"
+    "Reddingsmissie NASA-telescoop mislukt, satelliet dreigt te verbranden in atmosfeer"
   ]
 }
