@@ -1,11 +1,20 @@
 {
-  "bijgewerkt": "21 Aug 2026 17:32 UTC",
+  "bijgewerkt": "21 Aug 2026 18:41 UTC",
   "artikelen": [
+    {
+      "titel": "Zeker 14 doden bij Russische aanval op winkelcentrum in thuisstad Zelensky",
+      "beschrijving": "In Oekraïne zijn zeker veertien mensen om het leven gekomen in een winkelcentrum dat aangevallen werd door Russische drones. De aanval was in de stad Kryvyi Rih, in Centraal-Oekraïne. Dat is de stad waar de Oekraïense president Zelensky vandaan komt. Hij reageerde op de aanval en noemde die \"niks minder dan een daad van terreur\". De aanval bestond uit twee golven. Terwijl reddingswerkers slachtoff",
+      "url": "https://nos.nl/l/2627786",
+      "datum": "7 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Meerdere gewonden bij zwaardaanval op Zweedse school, dader neergeschoten",
       "beschrijving": "In Zweden zijn twee tieners zwaargewond geraakt toen een persoon met een zwaard een middelbare school binnendrong. De dader is door de politie neergeschoten, schrijven Zweedse media. Hij is aangehouden. De aanval vond in de middag plaats in Fagersta, zo'n 170 kilometer ten noordwesten van Stockholm. Meerdere hulpdiensten kwamen ter plaatse, onder meer een helikopter. De slachtoffers zijn naar het ",
       "url": "https://nos.nl/l/2627741",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,16 +23,25 @@
       "titel": "Wapenverstopplek ontdekt bij Berlijn, mogelijk bedoeld voor Russische aanslagen",
       "beschrijving": "De vondst van een geheime opslaglocatie met vuurwapens in een bos buiten Berlijn baart de Duitse veiligheidsdiensten zorgen. Vermoedelijk waren de wapens bedoeld voor Russische spionnen die in Duitsland aanslagen moesten plegen, melden WDR, NDR en de Süddeutsche Zeitung (SZ) op basis van gezamenlijk onderzoek. De Duitse minister van Binnenlandse Zaken Dobrindt heeft de vondst inmiddels bevestigd. ",
       "url": "https://nos.nl/l/2627725",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
+      "titel": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
+      "beschrijving": "Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 120.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
+      "datum": "23 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Two teenagers seriously injured after sword attack at Swedish school",
       "beschrijving": "Police say one man has been arrested, while several other local schools were locked down.",
       "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "datum": "59 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,16 +50,34 @@
       "titel": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
       "beschrijving": "Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.",
       "url": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
-      "datum": "53 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "Tienduizenden mensen al ruim een week zonder stroom in Amerikaanse staat Indiana",
+      "beschrijving": "Tienduizenden mensen in het noordwesten van de Amerikaanse staat Indiana zitten door een storm al negen dagen zonder stroom. De verwachting is dat de stroomstoring pas over een paar dagen verholpen is. Aanvankelijk werden 300.000 huishoudens getroffen en nog altijd zitten 68.000 huishoudens zonder elektriciteit, schrijven Amerikaanse media. Vooral de plaats Gary is hard getroffen. Daar zitten nog ",
+      "url": "https://nos.nl/l/2627783",
+      "datum": "12 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "'Apocalyptische' rotsblokken ontwrichten beklimmingen rond Mont Blanc",
+      "beschrijving": "Voor bergbeklimmers in het Mont Blanc-massief valt het klimseizoen tot nu toe tegen. Dat komt niet alleen door een gebrek aan sneeuw, maar ook door enorme stukken rotswand die deze zomer naar beneden komen. Om die reden zijn de drie belangrijkste reguliere beklimmingsroutes naar de Mont Blanc tijdelijk afgesloten. Veel overnachtingsplaatsen voor bergbeklimmers houden hun deuren dicht. Een week gel",
+      "url": "https://nos.nl/l/2627781",
+      "datum": "27 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Kolonisten doden Palestijnse tiener tijdens confrontatie op Westelijke Jordaanoever",
-      "beschrijving": "Een 17-jarige jongen is vandaag op de Westelijke Jordaanoever gedood door Israëlische kolonisten, meldt het Palestijnse ministerie van Volksgezondheid. Volgens de Palestijnse autoriteiten gebeurde dit in de stad Sa'ir, ten noorden van Hebron. Een veiligheidsfunctionaris van de kolonisten opende het vuur op de jongen nadat hij stenen had gegooid naar de Israëliërs. De vader van de jongen heeft zijn",
+      "beschrijving": "Een 17-jarige jongen is op de Westelijke Jordaanoever gedood door Israëlische kolonisten, meldt het Palestijnse ministerie van Volksgezondheid. Volgens de Palestijnse autoriteiten gebeurde dit in de stad Sa'ir, ten noorden van Hebron. Een veiligheidsfunctionaris van de kolonisten opende het vuur op de jongen nadat die stenen had gegooid naar de Israëliërs. De vader van de jongen heeft zijn dood te",
       "url": "https://nos.nl/l/2627770",
-      "datum": "42 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,16 +86,16 @@
       "titel": "Prins Harry, Elton John en andere eisers moeten Daily Mail miljoenen betalen",
       "beschrijving": "Voor 28 augustus 16.00 uur moeten prins Harry en zes andere Britse prominenten, onder wie zanger Elton John en actrice Liz Hurley, de uitgever van tabloid Daily Mail 9,5 miljoen pond betalen, omgerekend iets meer dan 11 miljoen euro. Begin juli verloren zij bij het Hooggerechtshof in Londen een slepende rechtszaak tegen Associated Newspapers Limited (ANL) wegens wat Harry en co \"aanhoudende schend",
       "url": "https://nos.nl/l/2627750",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "De dodelijkste ebola-uitbraak ooit in Congo: hoe komt dat?",
-      "beschrijving": "Contactonderzoek, veilige begrafenissen en isolatieplekken. Geen land heeft zoveel ervaring met ebola als de Democratische Republiek Congo, dat nu met de zeventiende uitbraak worstelt sinds 1976. Honderd dagen geleden werd de uitbraak officieel vastgesteld, maar onderzoekers zeggen dat het virus maanden eerder al rondging. Met meer dan 5000 besmettingen en ruim 2300 doden is het de dodelijkste uit",
+      "beschrijving": "Contactonderzoek, veilige begrafenissen en isolatieplekken. Geen land heeft zoveel ervaring met ebola als de Democratische Republiek Congo, dat nu met de zeventiende uitbraak worstelt sinds 1976. Honderd dagen geleden werd de uitbraak officieel vastgesteld, maar onderzoekers zeggen dat het virus maanden eerder al rondging. Met meer dan 5000 besmettingen en meer dan 2500 doden is het de dodelijkste",
       "url": "https://nos.nl/l/2627742",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +104,7 @@
       "titel": "Opnieuw tunnel ontdekt bij Letse grens met Belarus, 28 migranten tegengehouden",
       "beschrijving": "De Letse grenspolitie heeft gisteren 28 migranten ontdekt bij de grens met Belarus. De grenswachten troffen bij inspectie van de grens ook een tunnel aan die was bedekt met mos. De ingang ervan lag op zo'n twintig meter van de grens, zegt de grenspolitie van Letland in een verklaring. Het is de tweede keer in korte tijd dat er een tunnel bij de grens wordt gevonden. Eerder deze maand passeerden 15",
       "url": "https://nos.nl/l/2627736",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,61 +113,34 @@
       "titel": "300.000 ondeugdelijke condooms ontdekt in Frankrijk, overheid raadt soa-tests aan",
       "beschrijving": "Het Franse ministerie van Gezondheid en Franse inspectiediensten waarschuwen dat in Frankrijk tienduizenden condooms zijn verkocht die niet aan de wettelijke eisen voldoen. Dat brengt ernstige risico's met zich mee op niet-geplande zwangerschappen en seksueel overdraagbare aandoeningen (soa's), aldus de waarschuwing. Gebruikers van deze condooms wordt geadviseerd zich te laten testen op soa's. Een",
       "url": "https://nos.nl/l/2627733",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Rijen in Japan voor 'Meisje met de parel': 'Wordt hier bijna als iets heiligs gezien'",
-      "beschrijving": "Op haar vierde bezoek aan het land is het Meisje met de parel van Johannes Vermeer opnieuw ongekend populair in Japan. Op de eerste dag slingeren lange rijen door de zomerhitte voor het Nakanoshima Museum of Art in Osaka. Liefhebbers wachten voor de opening al uren op het bijzondere bezoek uit Nederland. Alleen de Japanse prinses Aiko mocht zonder wachten kort bij het meisje op audiëntie. \"Mensen ",
-      "url": "https://nos.nl/l/2627724",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vijf vermisten en acht gewonden na brand in restaurant Zwitserland",
-      "beschrijving": "Na een brand in een restaurant in de Oost-Zwitserse gemeente Thusis worden vijf personen vermist. Acht mensen raakten gewond. Van twee van hen is de toestand zeer ernstig, zegt de politie. De melding over de brand kwam kort na middennacht binnen. De brandweer vermoedt dat het vuur op de tweede verdieping begon. Tijdens de brand stortte het trappenhuis in. De brandweer moest het dak openbreken om d",
-      "url": "https://nos.nl/l/2627715",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Twee organisatoren herdenking Tiananmenprotesten veroordeeld in Hongkong",
-      "beschrijving": "Twee organisatoren van de herdenkingsbijeenkomst in Hongkong ter nagedachtenis aan het studentenprotest en het bloedbad op het Plein van de Hemelse Vrede in Peking in 1989, zijn schuldig bevonden aan opruiing. Dat heeft de rechtbank in Hongkong bepaald. Lee Cheuk-yan en Chow Hang-tung, leiders van de inmiddels verboden pro-democratische beweging, werden in 2021 aangeklaagd op basis van de national",
-      "url": "https://nos.nl/l/2627698",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
-      "beschrijving": "Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.",
-      "url": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
-      "datum": "38 min geleden",
-      "regio": "Oekraïne",
+      "titel": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+      "beschrijving": "Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?",
+      "url": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israeli settlers set fire to heavy machinery at West Bank quarry",
-      "beschrijving": "Israeli settlers entered a stone quarry in Wadi Al-Rakheem near Hebron overnight and set fire to heavy machinery",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss",
+      "titel": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
+      "beschrijving": "Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russian expert warns of impending social crisis as Ukraine death toll rises",
-      "beschrijving": "Putin&#039;s forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
+      "beschrijving": "Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -140,16 +149,16 @@
       "titel": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "beschrijving": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "beschrijving": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "titel": "Russian double-tap drone strike kills 14 in Ukrainian mall, officials say",
+      "beschrijving": "Another 121 people, including 22 children, were injured when the shopping centre was hit, according to the regional head.",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "datum": "17 min geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -158,17 +167,8 @@
       "titel": "Hong Kong's Tiananmen activists guilty in national security trial",
       "beschrijving": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
       "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "beschrijving": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
-      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Afrika",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -176,22 +176,22 @@
       "titel": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "beschrijving": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
       "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Zeker 14 doden bij Russische aanval op winkelcentrum in thuisstad Zelensky",
     "Meerdere gewonden bij zwaardaanval op Zweedse school, dader neergeschoten",
     "Wapenverstopplek ontdekt bij Berlijn, mogelijk bedoeld voor Russische aanslagen",
+    "Russian drone attack on busy shopping centre kills 14 in Ukraine",
     "Two teenagers seriously injured after sword attack at Swedish school",
     "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
+    "Tienduizenden mensen al ruim een week zonder stroom in Amerikaanse staat Indiana",
+    "'Apocalyptische' rotsblokken ontwrichten beklimmingen rond Mont Blanc",
     "Kolonisten doden Palestijnse tiener tijdens confrontatie op Westelijke Jordaanoever",
-    "Prins Harry, Elton John en andere eisers moeten Daily Mail miljoenen betalen",
-    "De dodelijkste ebola-uitbraak ooit in Congo: hoe komt dat?",
-    "Opnieuw tunnel ontdekt bij Letse grens met Belarus, 28 migranten tegengehouden",
-    "300.000 ondeugdelijke condooms ontdekt in Frankrijk, overheid raadt soa-tests aan",
-    "Rijen in Japan voor 'Meisje met de parel': 'Wordt hier bijna als iets heiligs gezien'"
+    "Prins Harry, Elton John en andere eisers moeten Daily Mail miljoenen betalen"
   ]
 }
