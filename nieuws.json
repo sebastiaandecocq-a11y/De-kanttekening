@@ -1,56 +1,74 @@
 {
-  "bijgewerkt": "20 Aug 2026 23:28 UTC",
+  "bijgewerkt": "21 Aug 2026 01:35 UTC",
   "artikelen": [
+    {
+      "titel": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+      "beschrijving": "Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
     {
       "titel": "US charges woman for allegedly plotting attack on New York State Capitol",
       "beschrijving": "The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for &#039;terrorism&#039;.",
       "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
-      "datum": "27 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Four railway workers killed by express train at station in Japan",
-      "beschrijving": "Four railway workers spraying herbicide on tracks north of Tokyo were killed by an express train.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
-      "datum": "3 uur geleden",
+      "titel": "FBI arrests woman over alleged plot to bomb New York capitol building",
+      "beschrijving": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
-      "titel": "Oekraïense topambtenaren verdacht van deelname aan criminele organisatie",
-      "beschrijving": "In Oekraïne hebben anti-corruptiebureaus SAPO en NABOe invallen gedaan bij hoge functionarissen. De diensten spreken in een verklaring van de \"onthulling van een criminele organisatie\". Onder andere de plaatsvervangend stafchef van de president, Iryna Moedra, is aangeklaagd. Zelensky heeft haar gisteren ontslagen. Het corruptieschandaal werd gisteren gemeld door Oekraïense media. Vandaag bracht NA",
-      "url": "https://nos.nl/l/2627627",
-      "datum": "8 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Iran war live: US vows toughest Iran sanctions, urges China support",
+      "beschrijving": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "midden",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "US pummels Cuban economy with new sanctions on mining, construction",
       "beschrijving": "US economic restrictions have strained the island&#039;s already fragile economy, prompting blackouts and medical shortages.",
       "url": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "beschrijving": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "titel": "Zwitserse toerist krijgt jaar cel voor bespotten hindoe-ritueel op Bali",
+      "beschrijving": "Een Zwitserse toerist is op het Indonesische eiland Bali veroordeeld tot een jaar celstraf, omdat hij op een religieus belangrijke dag naar buiten was gegaan en zichzelf had gefilmd terwijl hij die dag bespotte. Hij postte die video op Instagram, waarna lokale agenten hem arresteerden. Het gaat om de 'dag van de stilte', een religieuze ceremonie die doorgaans in maart valt. Op die dag worden inwon",
+      "url": "https://nos.nl/l/2627678",
+      "datum": "32 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Aanklagers: bestuurder verongelukte speedboot New York overtrad veel regels",
+      "beschrijving": "De bestuurder van de speedboot die eerder deze maand kapseisde vlakbij het Vrijheidsbeeld in New York City had te veel mensen op de boot gelaten, zo zeggen aanklagers. Ook hield hij zich niet aan allerlei basale veiligheidsmaatregelen. Bij het ongeluk kwamen een 27-jarige vrouw en haar baby van 5 maanden om het leven. De man wordt verdacht van het veroorzaken van hun dood, door roekeloos gedrag. D",
+      "url": "https://nos.nl/l/2627677",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Amerikaans vliegdekschip arriveert in Midden-Oosten om 'uitgeputte' bemanning af te lossen",
       "beschrijving": "Het Amerikaanse vliegdekschip de USS George Washington is in het Midden-Oosten aangekomen vanuit Japan om een ander schip af te lossen. De 5000 bemanningsleden van het vliegdekschip USS Abraham Lincoln zijn uitgeput, zeggen hun familieleden, na meer dan 240 dagen ononderbroken op zee. De Lincoln is vandaag begonnen aan de terugreis naar San Diego. Het vliegdekschip Lincoln vertrok op 21 november v",
       "url": "https://nos.nl/l/2627672",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +77,7 @@
       "titel": "Zeker 47 doden door gekapseisde boot in Nigeria, mogelijk te veel mensen aan boord",
       "beschrijving": "Op een rivier in het noordwesten van Nigeria is een boot gekapseisd en gezonken. Dat melden lokale functionarissen. Zeker 47 mensen zijn daarbij om het leven gekomen, veel slachtoffers zouden kinderen zijn. Het ongeluk gebeurde in de Nigeriaanse staat Sokoto. Volgens de functionarissen waren er meer dan tachtig mensen aan boord en waren zij op weg naar boerderijen in de stad Gorau om daar te werke",
       "url": "https://nos.nl/l/2627659",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "Belg krijgt 17 jaar voor moordpoging op buurman die zijn stiefzoon zou hebben misbruikt",
       "beschrijving": "De Waalse rechtbank heeft vandaag de 49-jarige Grégory Lenoci veroordeeld tot een gevangenisstraf van zeventien jaar voor poging tot moord op zijn buurman. De zaak maakt veel los in Wallonië. Lenoci verdenkt zijn buurman ervan het zoontje van zijn vriendin seksueel te hebben misbruikt. Lenoci moest na de uitspraak door verschillende politieagenten uit de zaal worden verwijderd, omdat hij aan het s",
       "url": "https://nos.nl/l/2627658",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Trump start deportaties naar Liberia, eerste twintig mensen aangekomen",
       "beschrijving": "Vandaag zijn de eerste twintig mensen aangekomen die door de Verenigde Staten naar Liberia zijn gedeporteerd. Het gaat om migranten die zelf niet uit het West-Afrikaanse land komen, maar onder andere uit Cuba en Venezuela. In totaal gaat Liberia dit jaar 1200 migranten uit de Verenigde Staten opvangen. In ruil voor dit zogeheten 'migratiebeheer' zou Liberia vijf miljoen dollar ontvangen. Verkiezin",
       "url": "https://nos.nl/l/2627655",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +104,7 @@
       "titel": "Grootmachten Israël en Turkije lijnrecht tegenover elkaar in Syrië",
       "beschrijving": "De toch al gespannen verhouding tussen Israël en Turkije is verder onder druk komen te staan na een Israëlische aanval op een Syrische luchtmachtbasis. De twee regionale grootmachten staan in Syrië steeds nadrukkelijker tegenover elkaar. Toch lijkt geen van beide belang te hebben bij een directe militaire confrontatie. De Israëlische minister van Defensie Katz beschuldigde de Turkse president Erdo",
       "url": "https://nos.nl/l/2627652",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +113,7 @@
       "titel": "Nederland veroordeelt Israël om biedingen op omstreden bouwproject Westoever",
       "beschrijving": "Nederland heeft samen met een groep landen boos gereageerd op het besluit van Israël om biedingen te openen voor een zeer omstreden bouwproject op de Westelijke Jordaanoever. De groep noemt de voortgang in het zogeheten E1-project onacceptabel. De gezamenlijke verklaring is ondertekend door Nederland, Duitsland, Frankrijk, Italië, Verenigd Koninkrijk, Canada en Noorwegen. Premier Jetten zegt dat \"",
       "url": "https://nos.nl/l/2627650",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +122,7 @@
       "titel": "Niet de EU maar Rusland helpt Servië bij de bestrijding van een grote natuurbrand",
       "beschrijving": "Noodhulp met een grote politieke lading: Servië krijgt bijstand van Rusland bij het bestrijden van een enorme natuurbrand ten oosten van de hoofdstad Belgrado. En dat terwijl ook Brussel het kandidaat-EU-lid had aangeboden te helpen. Het Russische blusvliegtuig had woensdag bovendien speciale toestemming nodig om over EU-grondgebied naar Servië te vliegen. Het luchtruim boven de EU is immers geslo",
       "url": "https://nos.nl/l/2627647",
-      "datum": "5 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,17 +131,8 @@
       "titel": "'Hybride oorlogsvoering': Roemeense F-16's blazen vermoedelijk Russische zeedrone op",
       "beschrijving": "Roemeense F-16's hebben in de Zwarte Zee een zeedrone uitgeschakeld. De Roemeense president Dan wijst net als voorzitter Von der Leyen van de Europese Commissie met de vinger naar Rusland. Von der Leyen spreekt zelfs van \"hybride oorlogsvoering\". Het onbemande bootje, de zeedrone dus, werd vanochtend ontdekt bij het Roemeense Neptun Deep-project op de Zwarte Zee. De Roemenen bouwen daar aan een in",
       "url": "https://nos.nl/l/2627642",
-      "datum": "6 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Natuurbrand Belgische Hoge Venen grotendeels onder controle, mede dankzij regen",
-      "beschrijving": "De natuurbrand die sinds vrijdag woedt in de Hoge Venen in België, is grotendeels onder controle. Dat melden de lokale autoriteiten. Als de weersomstandigheden hetzelfde blijven, zou de brand zich niet meer moeten verspreiden. Vanmiddag zei minister van Binnenlandse Zaken Bernard Quintinal al dat de situatie onder controle begon te raken. Bij de brand is inmiddels zo'n 3000 hectare natuurgebied af",
-      "url": "https://nos.nl/l/2627620",
       "datum": "8 uur geleden",
-      "regio": "Wereld",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
@@ -131,7 +140,7 @@
       "titel": "The cost of rebuilding family homes in war-ravaged Syria",
       "beschrijving": "What does rebuilding look like for families after war? Al Jazeera’s Hannah Raslan reports from Syria.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
-      "datum": "36 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -140,35 +149,8 @@
       "titel": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
       "beschrijving": "New York mayor challenges $10,000 bonus law, citing conflict with collective bargaining rules.",
       "url": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
-      "datum": "43 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Landslide at illegal gold mine kills 13 people in Colombia",
-      "beschrijving": "At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
-      "beschrijving": "A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
-      "beschrijving": "WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Afrika",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -176,22 +158,40 @@
       "titel": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
       "beschrijving": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
       "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "beschrijving": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "beschrijving": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "datum": "8 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Houthis and government trade attacks as Yemen slides back to full-scale war",
     "US charges woman for allegedly plotting attack on New York State Capitol",
-    "Four railway workers killed by express train at station in Japan",
-    "Oekraïense topambtenaren verdacht van deelname aan criminele organisatie",
+    "FBI arrests woman over alleged plot to bomb New York capitol building",
+    "Iran war live: US vows toughest Iran sanctions, urges China support",
     "US pummels Cuban economy with new sanctions on mining, construction",
-    "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+    "Zwitserse toerist krijgt jaar cel voor bespotten hindoe-ritueel op Bali",
+    "Aanklagers: bestuurder verongelukte speedboot New York overtrad veel regels",
     "Amerikaans vliegdekschip arriveert in Midden-Oosten om 'uitgeputte' bemanning af te lossen",
     "Zeker 47 doden door gekapseisde boot in Nigeria, mogelijk te veel mensen aan boord",
-    "Belg krijgt 17 jaar voor moordpoging op buurman die zijn stiefzoon zou hebben misbruikt",
-    "Trump start deportaties naar Liberia, eerste twintig mensen aangekomen",
-    "Grootmachten Israël en Turkije lijnrecht tegenover elkaar in Syrië"
+    "Belg krijgt 17 jaar voor moordpoging op buurman die zijn stiefzoon zou hebben misbruikt"
   ]
 }
