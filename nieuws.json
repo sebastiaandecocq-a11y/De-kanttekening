@@ -1,47 +1,65 @@
 {
-  "bijgewerkt": "24 Aug 2026 20:34 UTC",
+  "bijgewerkt": "24 Aug 2026 21:33 UTC",
   "artikelen": [
     {
-      "titel": "Yemen’s Houthis report attack on Saudi ship",
-      "beschrijving": "Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.",
-      "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
-      "datum": "49 min geleden",
+      "titel": "Violence flares in Haiti as gang attack kills 30 people",
+      "beschrijving": "Island nation grapples with violence as it seeks to hold first elections in more than a decade.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Video: Israel attacks desalination plant and mosque in Gaza",
-      "beschrijving": "Israel has attacked a critical water desalination plant and a mosque in Gaza as it intensifies attacks on the enclave.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
+      "titel": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+      "beschrijving": "Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
+      "datum": "44 min geleden",
+      "regio": "Iran",
+      "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israel threatens attacks in Gaza over children’s kites",
-      "beschrijving": "Israel has threatened intensified attacks and forced displacement in Gaza over children’s kites",
-      "url": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
+      "titel": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
+      "beschrijving": "Fighting persists in the mineral-rich region despite ceasefire agreements.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
+      "datum": "44 min geleden",
+      "regio": "Afrika",
+      "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
       "titel": "Access to Zambian courts prevented as election petition deadline looms",
       "beschrijving": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
       "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Tornado richt ravage aan in dorp Zuid-Frankrijk, tientallen gewonden",
+      "beschrijving": "Door een tornado in het zuiden van Frankrijk zijn aan het eind van de middag 26 mensen gewond geraakt, melden de autoriteiten. Vijf van hen moesten naar het ziekenhuis. De zender BFMTV meldt dat er onder het puin van een huis nog naar twee mensen wordt gezocht. De tornado trof het plaatsje Pomas in het departement Aude, waar zo'n duizend mensen wonen. Het ligt tussen Carcassonne en Limoux. Op beel",
+      "url": "https://nos.nl/l/2628200",
+      "datum": "45 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Concurrentie voor Disneyland: Saudische miljarden voor drie nieuwe pretparken bij Parijs",
+      "beschrijving": "Als het aan de Franse president Macron ligt, verrijzen er in de toekomst drie nieuwe pretparken rond Parijs. Daarvoor sloot hij vandaag een intentiedeal van 6 miljard euro met de Saudische kroonprins Mohammed bin Salman. De investering komt uit Saudi-Arabië. Een van de drie pretparken zal geïnspireerd zijn op de wereld van de populaire Japanse manga- en animeserie Dragon Ball Z. Het idee ontstond ",
+      "url": "https://nos.nl/l/2628196",
+      "datum": "59 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Verdriet en woede in Marokko over uitblijven repatriëring van Marokkaanse doden uit Ceuta",
       "beschrijving": "Said uit het stadje Dar Bouazza, in de buurt van Casablanca, beleeft samen met zijn familie bizarre tijden. Zijn 22-jarige zoon Marouane is op 29 juli overleden bij een poging om vanuit Fnideq naar het Spaanse exclave Ceuta te zwemmen. Twee dagen na zijn overlijden werd hij gebeld door het telefoonnummer van zijn zoon. De hoop dat het ging om een geruststellend telefoontje van Marouane verdween op",
       "url": "https://nos.nl/l/2628187",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +68,7 @@
       "titel": "Assads 'vatbommen-moefti' veroordeeld tot levenslange celstraf",
       "beschrijving": "De voormalig grootmoefti van Syrië uit de periode van het Assad-regime is veroordeeld tot een levenslange gevangenisstraf. Die krijgt Ahmad Hassoun voor het aanzetten tot sektarisch geweld en het rechtvaardigen van moord. Daarmee wordt opnieuw een hooggeplaatste functionaris die banden had met de Syrische dictator veroordeeld. Officieel is de grootmoefti in een islamitisch land de hoogste religieu",
       "url": "https://nos.nl/l/2628185",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +77,7 @@
       "titel": "'Taartengooier' Noël Godin (80) overleden, bekogelde beroemdheden met slagroomtaart",
       "beschrijving": "Microsoft-oprichter Bill Gates, de Franse oud-president Nicolas Sarkozy en de Franse zanger Patrick Bruel. Allemaal kregen ze een slagroomtaart in hun gezicht van de Belgische schrijver en criticus Noël Godin. De beroemdste taartengooier ter wereld is dit weekend op 80-jarige leeftijd overleden. Eind jaren 60 raakte de Belg als columnist en filmcriticus gefascineerd door het fictieve personage Geo",
       "url": "https://nos.nl/l/2628174",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "VS komt met 'economische D-day' tegen Iran, maar Teheran heeft tegenwapen Hormuz",
       "beschrijving": "De Verenigde Staten openen vandaag een nieuw front in de oorlog tegen Iran. Niet met bommen en raketten, maar met wat de Amerikaanse minister van Financiën Scott Bessent een \"economische D-day\" noemt. Washington wil Iran volledig isoleren van de wereldeconomie en dreigt ook andere landen en bedrijven te straffen die zaken blijven doen met Teheran. Bessent spreekt van \"de grootste financiële aanval",
       "url": "https://nos.nl/l/2628157",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Vier keer minder loon dan collega's, Filipijnse matrozen eisen gelijke betaling",
       "beschrijving": "Filipijnse matrozen die op Nederlandse zeeschepen werken, krijgen veel minder betaald dan hun Nederlandse en Duitse collega's. Soms wel tot vier keer minder. Discriminatie, vindt de stichting Equal Justice Equal Pay, die na jaren juridisch gesteggel nu namens 23.000 zeelieden een massaclaim voorbereidt tegen de Nederlandse staat en de reders. Voor hetzelfde werk verdient een Filipijnse zeevarende ",
       "url": "https://nos.nl/l/2628148",
-      "datum": "5 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +104,7 @@
       "titel": "Protesten in Tunesië om tempo zoekacties na omslaan migrantenboot",
       "beschrijving": "Voor de kust van Tunesië zijn zeker elf mensen om het leven gekomen bij een bootongeluk. Nog drie mensen zijn vermist, één persoon heeft de ramp overleefd. Dat meldt het Britse persbureau Reuters, op basis van berichten van de Tunesische Nationale Garde. De boot, met naar schatting vijftien migranten aan boord, vertrok donderdagochtend vroeg richting Italië. Naar verwachting vertrok de boot vanuit",
       "url": "https://nos.nl/l/2628142",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +113,7 @@
       "titel": "Vrouw stort 6 meter omlaag bij verboden tocht door gangenstelsel onder Parijs",
       "beschrijving": "De brandweer van Parijs heeft afgelopen weekend een vrouw uit het ondergrondse gangenstelsel van Parijs bevrijd nadat zij 6 meter naar beneden was gevallen. De Franse krant Le Parisien meldt dat de reddingsoperatie twee uur duurde en dat de vrouw inmiddels in stabiele toestand in het ziekenhuis ligt. In een bericht op sociale media grijpt de brandweer van Parijs het ongeluk aan om te benadrukken h",
       "url": "https://nos.nl/l/2628133",
-      "datum": "7 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,52 +122,34 @@
       "titel": "Podcast De Dag: (ondergronds) opereren aan het Oekraïense front",
       "beschrijving": "Frederiek Roukens is student geneeskunde en hielp deze zomer in een Oekraïens ziekenhuis vlak aan het front. Mark van Berge-Henegouwen is chirurg en heeft ook meerdere keren geholpen in Oekraïense ziekenhuizen, waar talloze soldaten met complexe en gruwelijke verwondingen binnenkwamen. Beiden reisden naar Oekraïne via stichting Protect Ukraine, die medische apparatuur brengt, en nu ook bezig is om",
       "url": "https://nos.nl/l/2628131",
-      "datum": "8 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Brand in ziekenhuis in Maagdenburg, tientallen patiënten geëvacueerd",
-      "beschrijving": "Bij een brand in een patiëntenkamer van een ziekenhuis in de Duitse stad Maagdenburg zijn drie mensen gewond geraakt. Eén slachtoffer is er slecht aan toe, de twee anderen raakten lichtgewond. De brand brak vanochtend rond 08.00 uur uit op een afdeling voor maag- en darmziekten. De zwaargewonde patiënt had rook ingeademd en wordt behandeld op de intensive care, meldt de publieke omroep MDR. De bra",
-      "url": "https://nos.nl/l/2628127",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vier arrestaties na dood 18 olifanten in Kenia, dieren vergiftigd",
-      "beschrijving": "Bijna een maand na de dood van achttien olifanten in het Amboseli-gebied in Kenia zijn er vier verdachten aangehouden. Naar een vijfde verdachte wordt nog gezocht. Dat meldt de Keniaanse Wildlife Service (KWS), verantwoordelijk voor het beschermen en beheren van de nationale parken in het land. Tussen 24 juni en 31 juli werden aanvankelijk zestien dode olifanten aangetroffen in het Amboseli Nation",
-      "url": "https://nos.nl/l/2628119",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Israeli restrictions cause fuel shortage in occupied West Bank",
-      "beschrijving": "Israeli restrictions are disrupting fuel supplies across the occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+      "beschrijving": "Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+      "datum": "20 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
-      "beschrijving": "Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "What’s behind domestic political pressure on Ukraine’s president?",
+      "beschrijving": "Zelenskyy rejects call from sacked minister for wartime elections.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss",
+      "datum": "38 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Norway plans further development of Arctic drilling amid EU energy concerns",
-      "beschrijving": "EU reviewing support of a ban on new drilling in the Arctic as war impacts energy security.",
-      "url": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Ambush in South Sudan kills peacekeeping troops",
+      "beschrijving": "Armed men injured three additional peacekeepers as fears grow of the country relapsing into civil war.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss",
+      "datum": "45 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -158,7 +158,7 @@
       "titel": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "beschrijving": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,7 +167,7 @@
       "titel": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
       "beschrijving": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,22 +176,22 @@
       "titel": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
       "beschrijving": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
       "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Yemen’s Houthis report attack on Saudi ship",
-    "Video: Israel attacks desalination plant and mosque in Gaza",
-    "Israel threatens attacks in Gaza over children’s kites",
+    "Violence flares in Haiti as gang attack kills 30 people",
+    "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+    "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
     "Access to Zambian courts prevented as election petition deadline looms",
+    "Tornado richt ravage aan in dorp Zuid-Frankrijk, tientallen gewonden",
+    "Concurrentie voor Disneyland: Saudische miljarden voor drie nieuwe pretparken bij Parijs",
     "Verdriet en woede in Marokko over uitblijven repatriëring van Marokkaanse doden uit Ceuta",
     "Assads 'vatbommen-moefti' veroordeeld tot levenslange celstraf",
     "'Taartengooier' Noël Godin (80) overleden, bekogelde beroemdheden met slagroomtaart",
-    "VS komt met 'economische D-day' tegen Iran, maar Teheran heeft tegenwapen Hormuz",
-    "Vier keer minder loon dan collega's, Filipijnse matrozen eisen gelijke betaling",
-    "Protesten in Tunesië om tempo zoekacties na omslaan migrantenboot"
+    "VS komt met 'economische D-day' tegen Iran, maar Teheran heeft tegenwapen Hormuz"
   ]
 }
