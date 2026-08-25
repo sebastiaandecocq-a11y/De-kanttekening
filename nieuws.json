@@ -1,11 +1,11 @@
 {
-  "bijgewerkt": "25 Aug 2026 11:31 UTC",
+  "bijgewerkt": "25 Aug 2026 12:53 UTC",
   "artikelen": [
     {
       "titel": "Twee VN-blauwhelmen op patrouille gedood in Zuid-Sudan",
       "beschrijving": "In Zuid-Sudan zijn twee blauwhelmen van de Verenigde Naties gedood nadat ze in een hinderlaag waren gelokt. Dat gebeurde gisteren terwijl ze op patrouille waren in de staat Jonglei, in het oosten van het Afrikaanse land. Behalve de twee dodelijke slachtoffers zijn er zeven mensen gewond geraakt: drie blauwhelmen, twee politieagenten en twee ambtenaren. De vredesmilitairen komen allen uit Ethiopië,",
       "url": "https://nos.nl/l/2628205",
-      "datum": "8 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Afrika",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,17 +14,26 @@
       "titel": "Tientallen doden door aanval gewapende bende in Haïti",
       "beschrijving": "In Haïti zijn in de nacht van zondag op maandag tientallen mensen om het leven gekomen door bendegeweld. De burgemeester van Kenscoff, waar de vuurgevechten plaatsvonden, spreekt van zeker dertig doden. De Haitiaanse mensenrechtenorganisatie RNDDH schat dat dertig tot veertig mensen zijn omgekomen en vijftien tot twintig mensen gewond zijn geraakt, al is het lastig om een compleet beeld te schetse",
       "url": "https://nos.nl/l/2628204",
-      "datum": "9 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Kremlin adviser warns UK drone factories could face attacks",
-      "beschrijving": "Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.",
-      "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
+      "beschrijving": "UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
+      "datum": "22 min geleden",
       "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+      "beschrijving": "Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -32,43 +41,43 @@
       "titel": "Lockerbie bombing trial postponed days before it was due to start",
       "beschrijving": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
       "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "59 min geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-      "beschrijving": "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.",
-      "url": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+      "titel": "How the US sanctions on Iran impact China",
+      "beschrijving": "US sanctions Chinese firms over Iran links but spare big banks as Trump and Xi eye key talks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Who are Iran’s top trading partners US would need to target to isolate it?",
-      "beschrijving": "The US wants to isolate Iran from the global economy. Here is who Tehran trades with, and how much is at stake.",
-      "url": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "titel": "China warns it will protect its interests after US widens sanctions against Iran",
       "beschrijving": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
       "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "datum": "35 min geleden",
+      "datum": "59 min geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "'Apocalyptische' tornado verwoestte dorp Pomas in een paar minuten",
+      "beschrijving": "Het duurde maar een paar minuten, maar de ravage in Pomas is enorm. Gistermiddag raasde er een tornado door het Zuid-Franse dorpje. Huizen werden weggeblazen, daken werden losgetrokken, auto's werden opgetild en weer neergesmeten en grote bomen knakten als luciferhoutjes. Het dorp met duizend inwoners is praktisch van de kaart geveegd, schrijft de Franse krant Libération. \"Het lijkt wel of we gebo",
+      "url": "https://nos.nl/l/2628247",
+      "datum": "59 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "'Plekje op je neus fixen?' Deense premier is opmerkingen over uiterlijk zat",
       "beschrijving": "De Deense premier Mette Frederiksen is het zat dat mensen, vooral mannen, voortdurend opmerkingen maken over haar uiterlijk. Aanleiding was een bericht dat ze kreeg van een plastisch chirurg. Frederiksen was net terug in Denemarken na een bezoek aan de Oekraïense hoofdstad Kyiv toen ze op haar telefoon een berichtje zag dat aan haar was gericht. Het kwam van een mannelijke plastisch chirurg: \"Hey ",
       "url": "https://nos.nl/l/2628240",
-      "datum": "24 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +86,7 @@
       "titel": "Derde drone gevonden bij vliegveld Leipzig, ook aanwijzingen over daders",
       "beschrijving": "Duitse onderzoekers hebben een derde drone gevonden in de buurt van het vliegveld Leipzig/Halle. Daar werd op 4 augustus een drone aangetroffen die was geladen met explosieven, in de buurt van een Oekraïens vrachtvliegtuig. Later die dag was er een incident met een tweede drone, een paar kilometer verderop. Die botste tegen een vliegtuig van DHL. Het Oekraïense vrachtvliegtuig, een Antonov, was ge",
       "url": "https://nos.nl/l/2628239",
-      "datum": "28 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "Warenhuisketen VS maakt excuses voor 'aanstootgevend' clownspak voor kinderen",
       "beschrijving": "De Amerikaanse warenhuisketen Target heeft een clownspak voor kinderen uit de schappen gehaald na ophef op sociale media. Volgens sommige Amerikanen leek het verkleedpak, inclusief onder meer masker, op een racistische karikatuur. In de advertentie is een donker kind te zien in een oranje en zwart gekleurd pak. Hij draagt daarbij zwarte handschoenen en een masker met een brede glimlach met zichtba",
       "url": "https://nos.nl/l/2628232",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +104,7 @@
       "titel": "25.000 dollar beloning in coldcasezaken inheemse Amerikanen",
       "beschrijving": "De FBI loont 25.000 dollar uit voor gouden tips over meer dan vijftig onopgeloste moord- en vermissingszaken van inheemse Amerikanen. Ieder jaar zijn er in de Verenigde Staten duizenden vermissingen en moorden op grondgebied dat in handen is van de inheemse bevolking. Families blijven vaak achter zonder antwoorden, omdat een groot deel van de zaken niet wordt opgelost. Van de bijna 10.000 meldinge",
       "url": "https://nos.nl/l/2628230",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +113,7 @@
       "titel": "Scheepvaart door Straat van Hormuz vrijwel stilgevallen, Pakistan spreekt met Iran",
       "beschrijving": "Slechts twee schepen met grondstoffen zijn gisteren door de Straat van Hormuz gevaren. Dat is het kleinste aantal sinds begin mei. Dat meldt persbureau Reuters op basis van gegevens van scheepvaartdatabedrijf Kpler. Het gemiddelde over de afgelopen tien dagen ligt op veertien schepen per dag. Zondag waren het er zeven. De twee schepen gisteren waren een grote gastanker en een grote olietanker. Waa",
       "url": "https://nos.nl/l/2628215",
-      "datum": "5 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +122,7 @@
       "titel": "Door de Iran-oorlog verliest Trump zijn grip op de MAGA-beweging",
       "beschrijving": "De oorlog van de VS en Israël tegen Iran is deze week een halfjaar oud. De Amerikaanse president Donald Trump verklaarde de oorlog al meerdere keren gewonnen of zo goed als afgelopen, maar dat bleek keer op keer wensdenken. Dat levert hem, en vooral zijn partij, politiek flinke problemen op. Bekende Republikeinen die de drijvende kracht waren achter Trumps herverkiezing, keren zich tegen hem. De k",
       "url": "https://nos.nl/l/2628207",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,58 +131,67 @@
       "titel": "Lichaam al maanden vermist jongetje (5) uit België waarschijnlijk gevonden",
       "beschrijving": "In Wallonië is hoogstwaarschijnlijk het lichaam gevonden van een jongetje dat sinds eind juni vermist was. De 5-jarige Tyméo Brigou verdween samen met zijn 29-jarige vader Bryan. De twee werden in de namiddag van 27 juni voor het laatst gezien in Onhaye in de provincie Namen, vlak bij de Franse grens. De auto van de vader werd een dag later teruggevonden bij de lokale voetbalclub, maar van de twee",
       "url": "https://nos.nl/l/2628202",
-      "datum": "12 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Tornado richt ravage aan in dorp Zuid-Frankrijk, tientallen gewonden",
-      "beschrijving": "Door een tornado in het zuiden van Frankrijk zijn gistermiddag 41 mensen gewond geraakt, melden de autoriteiten. Vijftien van hen moesten naar het ziekenhuis. De zender BFMTV meldt dat er onder het puin van een huis nog naar twee mensen wordt gezocht. De tornado trof het plaatsje Pomas in het departement Aude, waar zo'n duizend mensen wonen. Het ligt tussen Carcassonne en Limoux. Op beelden op soc",
-      "url": "https://nos.nl/l/2628200",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Is AIPAC’s political standing declining in the US?",
-      "beschrijving": "The powerful pro-Israeli lobby group is increasingly becoming liability for both the progressive as well as right-wing.",
-      "url": "https://www.aljazeera.com/news/2026/8/25/is-aipacs-political-standing-declining-in-the-us?traffic_source=rss",
-      "datum": "35 min geleden",
+      "titel": "How water becomes a weapon of war",
+      "beschrijving": "A Palestinian spring now fills a swimming pool that belongs to Israeli settlers. AJLabs on how water became a weapon.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
+      "datum": "32 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
-      "beschrijving": "Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "VS",
+      "titel": "Rwanda accuses DR Congo of supporting an armed group on its soil",
+      "beschrijving": "Rwanda says FDLR threat justifies its continued involvement in eastern DRC, as efforts to verify a ceasefire advance.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss",
+      "datum": "35 min geleden",
+      "regio": "Afrika",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "beschrijving": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
-      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "VS",
+      "titel": "Rohingya refugees demand justice, dignity at Cox’s Bazar protest",
+      "beschrijving": "The United Council of Rohingya refugee group says it organised the protest to highlight &#039;ongoing humanitarian crisis&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/rohingya-refugees-demand-justice-dignity-at-coxs-bazar-protest?traffic_source=rss",
+      "datum": "37 min geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Russia mobilisation fears grow amid reports of intimidating tactics",
+      "beschrijving": "Military recruitment efforts are reportedly more aggressive as Russia prepares for a winter offensive in Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide",
+      "beschrijving": "Rohingya refugees face deep aid cuts in Bangladesh and forced evictions in Malaysia and India.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
     }
   ],
   "ticker": [
     "Twee VN-blauwhelmen op patrouille gedood in Zuid-Sudan",
     "Tientallen doden door aanval gewapende bende in Haïti",
-    "Kremlin adviser warns UK drone factories could face attacks",
+    "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
+    "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
     "Lockerbie bombing trial postponed days before it was due to start",
-    "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-    "Who are Iran’s top trading partners US would need to target to isolate it?",
-    "China warns it will safeguard its interests after US widens sanctions against Iran",
+    "How the US sanctions on Iran impact China",
+    "China warns it will protect its interests after US widens sanctions against Iran",
+    "'Apocalyptische' tornado verwoestte dorp Pomas in een paar minuten",
     "'Plekje op je neus fixen?' Deense premier is opmerkingen over uiterlijk zat",
-    "Derde drone gevonden bij vliegveld Leipzig, ook aanwijzingen over daders",
-    "Warenhuisketen VS maakt excuses voor 'aanstootgevend' clownspak voor kinderen"
+    "Derde drone gevonden bij vliegveld Leipzig, ook aanwijzingen over daders"
   ]
 }
