@@ -1,23 +1,23 @@
 {
-  "bijgewerkt": "25 Aug 2026 18:43 UTC",
+  "bijgewerkt": "25 Aug 2026 19:34 UTC",
   "artikelen": [
-    {
-      "titel": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
-      "beschrijving": "As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.",
-      "url": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
     {
       "titel": "Lockerbie bombing trial postponed days before it was due to start",
       "beschrijving": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
       "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
+    },
+    {
+      "titel": "Syria’s economy poised for improvement after US sanctions removal",
+      "beschrijving": "Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
+      "datum": "50 min geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
@@ -32,7 +32,7 @@
       "titel": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "beschrijving": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
       "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -41,16 +41,16 @@
       "titel": "Swedish military seeks to take over Russian-owned estate near naval base",
       "beschrijving": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
       "url": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
       "titel": "Country-icoon Dolly Parton (9 to 5, Jolene) op 80-jarige leeftijd overleden",
-      "beschrijving": "De Amerikaanse country-artiest Dolly Parton is vandaag op 80-jarige leeftijd overleden. Dat heeft haar familie via haar Facebook- en Instagramaccount bekendgemaakt. Haar neef en hoofd beveiliging, Brian Seaver, zegt in een videobericht dat zij is overleden. Parton heeft hem jaren geleden al benaderd om deze video uit te zenden na haar overlijden. Over de oorzaak van het overlijden zegt hij niets, ",
+      "beschrijving": "De Amerikaanse country-artiest Dolly Parton is vandaag op 80-jarige leeftijd overleden. Dat heeft haar familie via haar Facebook- en Instagramaccount bekendgemaakt. Parton verkocht tijdens haar leven wereldwijd meer dan 100 miljoen platen en is daarmee een van de bestverkopende artiesten in de geschiedenis. Ze heeft ruim 3000 nummers op haar naam staan, die ze voor zichzelf en voor andere artieste",
       "url": "https://nos.nl/l/2628296",
-      "datum": "38 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +59,7 @@
       "titel": "Ook over Europa razen regelmatig tornado's, maar 'kans op een zware blijft klein'",
       "beschrijving": "Als een tornado in het nieuws komt, heeft die vaak ergens in de VS huisgehouden. Maar ook in Europa komen ze regelmatig voor. In de afgelopen tien jaar zijn in Europa, inclusief Rusland, jaarlijks gemiddeld zo'n 380 tornado's geregistreerd, zegt meteoroloog Pieter Groenemeijer. Hij is als expert op het gebied van extreem weer verbonden aan het European Severe Storms Laboratory (ESSL). Gistermiddag",
       "url": "https://nos.nl/l/2628295",
-      "datum": "44 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +68,7 @@
       "titel": "Canada slaat terug in handelsoorlog met VS: importheffing op miljarden aan producten",
       "beschrijving": "Canada voert invoerheffingen in op zo'n 17 miljard euro aan producten uit de VS. Dat is het antwoord op hogere invoerheffingen die president Trump afgelopen weekend instelde in de handelsoorlog met het land. De heffingen van 15, 25 of 50 procent gaan gelden voor zo'n 500 producten, zoals aluminium, meubels, kaas, elektronica en witgoed. Het nieuwe tarief gaat 8 september in, over precies twee weke",
       "url": "https://nos.nl/l/2628288",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +77,7 @@
       "titel": "Amnesty hekelt 'onmenselijk' politiegeweld tegen Indiase Kakkerlak-betogers",
       "beschrijving": "Traangas, hagel, wapenstokken, stroomstootwapens, rubberen kogels en vuurwapens. De Indiase politie greep eind vorige maand keihard in bij de anti-overheidsprotesten van de Kakkerlakken-beweging. Dat gebeurde met \"dodelijk, onmenselijk en onwettig\" geweld, oordeelt Amnesty International op basis van verzamelde getuigenverklaringen, foto's en video's. Een maand geleden bereikten wekenlange demonstr",
       "url": "https://nos.nl/l/2628283",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +86,7 @@
       "titel": "Al meer dan 300 zieken door eieren met salmonella in België",
       "beschrijving": "In België zijn al zeker 300 mensen ziek geworden na het eten van eieren die met salmonella waren besmet. De eieren komen van een grote kippenhouderij in Geel, net over de grens onder Tilburg. Volgens het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) gaat het om de grootste salmonella-besmetting ooit in België. In Nederland zijn op kleine schaal eieren van het bedrijf verkocht, ",
       "url": "https://nos.nl/l/2628279",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +95,7 @@
       "titel": "Brand in Belgische Ardennen mogelijk ontstaan door landbouwmachine",
       "beschrijving": "Justitie in België heeft aanwijzingen dat de grote natuurbrand in de Hoge Venen is ontstaan door een landbouwmachine. Volgens het parket van Luik blijkt dat uit de eerste bevindingen van het onderzoek. Hoe die landbouwmachine de brand kon veroorzaken vertelt het parket niet. Maar eerder werden online beelden gepubliceerd van een landbouwmachine in het gebied die in brand zou staan. Het is nog geen",
       "url": "https://nos.nl/l/2628278",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +104,7 @@
       "titel": "Amerikaanse media: CIA-directeur Ratcliffe duikt op in Moskou",
       "beschrijving": "Amerikaanse media melden dat de directeur van de inlichtingendienst CIA John Ratcliffe in het geheim naar Moskou is gereisd voor besprekingen met Russische functionarissen. Het is nog onduidelijk waar die besprekingen over gaan. De CIA, het Witte Huis en het Kremlin hebben nog niet op vragen van journalisten gereageerd. Het is het eerste bezoek van Ratcliffe aan Moskou sinds zijn aantreden in janu",
       "url": "https://nos.nl/l/2628270",
-      "datum": "3 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +113,7 @@
       "titel": "Ook vermiste vader van dood gevonden Belgische kleuter waarschijnlijk gevonden",
       "beschrijving": "Het lijkt erop dat in België ook de vermiste vader dood is teruggevonden van de kleuter van wie de politie gisteren waarschijnlijk het lichaam vond. De 29-jarige Bryan Brigou en zijn 5-jarige zoon Tyméo moeten nog officieel worden geïdentificeerd, maar dat lijkt een formaliteit. Gisteren werd in een bosgebied bij Onhaye in de provincie Namen het lichaam van een kind gevonden. Het slachtoffer had d",
       "url": "https://nos.nl/l/2628263",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,7 +122,7 @@
       "titel": "Chinese kunstenaar krijgt maximale straf voor 'beledigende' beelden van Mao",
       "beschrijving": "De Chinese kunstenaar Gao Zhen is veroordeeld tot een celstraf van drie jaar vanwege het beledigen van 'Chinese helden'. Gao maakt satirische werken, zoals beelden van de voormalige Chinese leider Mao Zedong. De uitspraak is gebaseerd op een wet die China in 2018 invoerde. Met die wet tegen \"inbreuk op de reputatie van helden\" werd vrijwel alle kritiek op Chinese leidersfiguren verboden. Een van d",
       "url": "https://nos.nl/l/2628262",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -131,25 +131,43 @@
       "titel": "Europees hof eist vrijlating Turkse zakenman Kavala: detentie tekent repressie",
       "beschrijving": "Turkije moet zakenman en filantroop Osman Kavala onmiddellijk vrijlaten, oordeelt het Europees Hof voor de Rechten van de Mens (EHRM). Het hof stelt dat zijn zaak een \"systematisch probleem\" blootlegt in Turkije dat \"gekenmerkt wordt door de detentie en vervolging van politieke tegenstanders, mensenrechtenactivisten en journalisten\". De 68-jarige Kavala zit sinds 2017 vast en werd in 2022 veroorde",
       "url": "https://nos.nl/l/2628261",
-      "datum": "4 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
+      "titel": "Israeli protesters block aid trucks from reaching Gaza",
+      "beschrijving": "Israeli protesters block aid trucks from reaching Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss",
+      "datum": "32 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Video: Israeli forces raid UN training centre and raise Israeli flag",
+      "beschrijving": "Itamar Ben-Gvir celebrated after Israeli forces raided a UN-operated facility in occupied East Jerusalem.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
+      "datum": "40 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
       "beschrijving": "Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.",
       "url": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
-      "datum": "29 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+      "titel": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
       "beschrijving": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
       "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
-      "datum": "41 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -158,33 +176,15 @@
       "titel": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
       "beschrijving": "Survey indicates majority of Democrats in first six states to vote for 2028 nominee believe Israel committing genocide.",
       "url": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Photos: Rohingya refugees rally nine years after Myanmar exodus",
-      "beschrijving": "Tens of thousands of Rohingya in Bangladesh protest, demanding safe return to Myanmar&#039;s Rakhine state.",
-      "url": "https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-      "beschrijving": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-      "datum": "49 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
     "Lockerbie bombing trial postponed days before it was due to start",
+    "Syria’s economy poised for improvement after US sanctions removal",
     "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
     "China hits out at 'illegal' new US sanctions on Iran and trading partners",
     "Swedish military seeks to take over Russian-owned estate near naval base",
