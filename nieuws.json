@@ -1,161 +1,170 @@
 {
-  "bijgewerkt": "28 Aug 2026 01:22 UTC",
+  "bijgewerkt": "28 Aug 2026 14:09 UTC",
   "artikelen": [
-    {
-      "titel": "Russische militair gedood door autobom in Sint-Petersburg",
-      "beschrijving": "Een Russische militair is gedood door een bom die onder zijn auto was geplaatst. Dat melden Russische functionarissen. De auto explodeerde in een wijk in Sint-Petersburg waar militairen wonen. De militair was niet de enige die in de auto zat. Zijn vrouw raakte zwaargewond en is in het ziekenhuis opgenomen. Over de identiteit van de militair is verder niets bekendgemaakt door de Russische autoritei",
-      "url": "https://nos.nl/l/2628559",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Haiti police confront public frustration after deadly gang attack kills 47",
-      "beschrijving": "The attack in Kenscoff, a community where crime had been declining, has raised questions about Haiti&#039;s security.",
-      "url": "https://www.aljazeera.com/news/2026/8/27/haiti-police-confront-public-frustration-after-deadly-gang-attack-kills-47?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
     {
       "titel": "Two killed in 'domestic violence incident' at school near Berlin",
       "beschrijving": "Police have arrested a 19-year-old male suspect after an incident in which two people were killed near the German capital.",
       "url": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "21 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
-      "beschrijving": "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage.",
-      "url": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
-      "regio": "VS",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Congo begint met vaccineren tegen grootste ebola-uitbraak ooit",
-      "beschrijving": "Congo is begonnen met het vaccineren van mensen tegen ebola. De vaccinatiecampagne is donderdag gestart in Kisangani, in het oosten van het land. Bij de vaccinatiecampagne wordt het vaccin Ervebo gebruikt. Daar zit een belangrijke onzekerheid aan: de huidige uitbraak wordt veroorzaakt door het Bundibugyo-type van het ebolavirus, terwijl Ervebo is goedgekeurd voor bescherming tegen een ander type, ",
-      "url": "https://nos.nl/l/2628586",
-      "datum": "30 min geleden",
-      "regio": "Afrika",
+      "titel": "Postuum Prince-album geeft inkijkje in zijn rijke oeuvre: 'Hij was een genre opzich'",
+      "beschrijving": "Liefhebbers van Prince zijn vandaag getrakteerd op een verzameling van tien niet-uitgebrachte nummers van de muzieklegende. Het album Priceless bestrijkt vrijwel zijn hele carrière: van I Am You uit 1977 tot How Come U Don't Call Me Now Anymore, een live-opname uit zijn laatste tournee in 2016. Een maand na dat optreden overleed Prince plots op 57-jarige leeftijd. Sinds zijn dood is veel werk van ",
+      "url": "https://nos.nl/l/2628657",
+      "datum": "8 min geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Trump hernoemt Lake Ontario naar Lake America: 'Nu nog een oceaan'",
-      "beschrijving": "De Amerikaanse president Donald Trump heeft Lake Ontario officieel laten omdopen tot 'Lake America'. Hij ondertekende daarvoor een decreet waarmee de naam in de Amerikaanse geografische registers wordt aangepast. Canada is niet verplicht de nieuwe naam over te nemen. Trump zette zijn handtekening aan zijn bureau in het Witte Huis. Achter hem stond een kaart waarop boven Lake Ontario al 'Lake Ameri",
-      "url": "https://nos.nl/l/2628585",
+      "titel": "Podcast De Dag: de gletsjer, de vloedgolf, de ramp",
+      "beschrijving": "Een glacioloog probeert aan de hand van de tot nu toe beschikbare informatie in de podcast te reconstrueren wat er voorafgaand aan de ramp in Nepal en Tibet gebeurd kan zijn. Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. Woensdagochtend brak op een berg in het grensgebied van Nepal en Tibet een enorme brok",
+      "url": "https://nos.nl/l/2628654",
+      "datum": "51 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Rusland en Oekraïne bestoken elkaar opnieuw met drones",
+      "beschrijving": "Oekraïense drones hebben vannacht een olieopslag en een appartementencomplex van vijf verdiepingen geraakt in Sevastopol op het door Rusland bezette Krim-schiereiland. Dat melden Russische persbureaus op basis van Russische autoriteiten. Daarbij zouden vier mensen gewond zijn geraakt. Rusland heeft vannacht een reeks drone-aanvallen uitgevoerd op het distributiecentrum van post- en koeriersbedrijf",
+      "url": "https://nos.nl/l/2628634",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nieuwe koning Haakon bij ministerraad, samen met kroonprinses",
+      "beschrijving": "Enkele uren na het overlijden van zijn vader is het Noorse kabinet langs geweest bij de nieuwe koning Haakon VIII. Op het paleis in Oslo ontving het nieuwe staatshoofd samen met zijn 22-jarige dochter Ingrid Alexandra premier Støre en de andere bewindslieden. De ingelaste zitting was bedoeld om de regering officieel op de hoogte te stellen van het overlijden van het staatshoofd. Haakon (53) nam er",
+      "url": "https://nos.nl/l/2628630",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Gemengde gevoelens bij slachtoffers Mladic: 'Zijn dood neemt de pijn niet weg'",
+      "beschrijving": "De dood van de veroordeelde oorlogsmisdadiger Ratko Mladic, gisteren in een ziekenhuis in Den Haag, leidt tot gemengde gevoelens bij de nabestaanden van zijn slachtoffers. Zijn overlijden neemt de pijn van wat er 31 jaar geleden is gebeurd niet weg, zegt Munira Subasic van de Moeders van Srebrenica. Mladic was verantwoordelijk voor de genocide op ruim 8000 Bosnische moslims in de enclave Srebrenic",
+      "url": "https://nos.nl/l/2628612",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Weer kunstroof uit museum: kostbare halsketting van Egyptische koningin gestolen in Wenen",
+      "beschrijving": "Bij een kunstroof op klaarlichte dag in een museum in Wenen is gisteren een diamanten halsketting gestolen. Het sieraad met 673 diamanten behoorde ooit toe aan de Egyptische koningin Nazli. De Oostenrijkse politie meldt dat twee mannen die als bezoeker waren binnengekomen om 14:00 uur de vitrine insloegen. Er waren toen meerdere bezoekers in de zaal. De mannen gingen doelbewust te werk in Museum v",
+      "url": "https://nos.nl/l/2628610",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Net ontstaan meer Tibet stroomt over, 'beheersbare' nieuwe golf door rampgebied",
+      "beschrijving": "In Tibet, vlak bij de grens met Nepal, is een hooggelegen meer overstroomd nadat een natuurlijke dam is gebarsten. Het meer ontstond deze week nadat een gletsjer was afgebroken die de grote stortvloed in Nepal en Tibet veroorzaakte. Voor zover bekend is er nog niets gemeld over eventuele nieuwe schade of slachtoffers. De Chinese autoriteiten in Tibet omschreven de golf als beheersbaar, ondanks dat",
+      "url": "https://nos.nl/l/2628608",
+      "datum": "7 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Amerikaanse immigratiedienst ICE bestelt stroomschokhandschoenen, critici verontrust",
+      "beschrijving": "De Amerikaanse immigratiedienst ICE heeft een bestelling van bijna 15 miljoen dollar geplaatst voor 6000 stroomschokhandschoenen voor agenten. Volgens de dienst biedt de uitrusting de mogelijkheid om met minder geweld op te treden, maar critici vrezen juist dat het geweld erdoor zal toenemen. De Generated Low Output Voltage Emitter (GLOVE) lijkt op een gewone handschoen, maar kan met een druk op e",
+      "url": "https://nos.nl/l/2628605",
+      "datum": "7 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 28/8: Uitspraak genocide-verdachte Rwanda • Hockeymannen in halve finale WK",
+      "beschrijving": "Goedemorgen! De rechtbank in Den Haag doet vandaag uitspraak tegen een man uit Ede die betrokken zou zijn bij de genocide in Rwanda en de Nederlandse hockeymannen nemen het in de halve finale van het WK op tegen Spanje. Eerst het weer: vanochtend is het op de meeste plaatsen droog met geregeld ruimte voor de zon. Vanmiddag trekken stevige buien over het land, daarbij is kans op onweer en windstote",
+      "url": "https://nos.nl/l/2628596",
+      "datum": "9 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Luchtvaartautoriteit VS wil verkeersleiders ontslaan na dodelijke botsing op LaGuardia",
+      "beschrijving": "De Amerikaanse luchtvaartautoriteit FAA wil twee luchtverkeersleiders ontslaan die op 22 maart voortijdig hun werk zouden hebben verlaten, kort voordat op luchthaven LaGuardia in New York een Air Canada-vliegtuig in botsing kwam met een brandweerwagen. Dat melden bronnen aan persbureau Reuters na eerdere berichtgeving van The Wall Street Journal en The New York Times. Bij het ongeluk kwamen beide ",
+      "url": "https://nos.nl/l/2628587",
+      "datum": "12 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+      "beschrijving": "Al Jazeera investigation reveals UK public money flowing to companies linked to Israeli settlements in occupied land.",
+      "url": "https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss",
+      "datum": "29 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Qatar pledges support for efforts to end Libya’s political division",
+      "beschrijving": "Qatari minister meets army chief amid efforts to bridge longstanding political divisions in Libya.",
+      "url": "https://www.aljazeera.com/news/2026/8/28/qatar-pledges-support-for-efforts-to-end-libyas-political-division?traffic_source=rss",
+      "datum": "50 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Narrow escape for woman as Russian drone hits residential area",
+      "beschrijving": "Video shows the moment a Russian attack hit a parking lot near Ukraine’s capital.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/narrow-escape-for-woman-as-russian-drone-hits-residential-area?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "VS",
+      "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Spaanse man glijdt uit van boot na vangen tonijn op zee en wordt al dagen vermist",
-      "beschrijving": "Een Spaanse man wordt al negen dagen vermist, nadat hij in de Middellandse Zee overboord is gevallen. Zijn vrouw dobberde drie dagen rond op zee voordat ze kon worden gered, schrijven Spaanse media. De 66-jarige Juan José Mutilba Obregón en zijn vrouw Carmen Díez (67) begonnen hun zeiltocht op 17 augustus vanaf de Siciliaanse havenstad Syracuse. Het stel uit Burgos was op weg naar Pylos op het Gri",
-      "url": "https://nos.nl/l/2628568",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Demonstranten in Ceuta houden hulpgoederen Rode Kruis tegen",
-      "beschrijving": "Zo'n tweehonderd demonstranten hebben in de Spaanse exclave Ceuta de weg naar het strand van Trampolín geblokkeerd om een transport van het Rode Kruis tegen te houden. De organisatie kwam voedsel brengen voor de migranten op het strand. \"Het Rode Kruis is de maffia\", scandeerden inwoners volgens lokale media. De politie begeleidde de vrachtwagens van het Rode Kruis richting het strand, waar de org",
-      "url": "https://nos.nl/l/2628565",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Belangrijke weersatelliet met ogen op Europa de ruimte in",
-      "beschrijving": "De kans op hevige regenbuien en onweer neemt toe naarmate de aarde verder opwarmt. Om dat goed in de gaten te houden, lanceerde de Europese organisatie EUMETSAT vanavond opnieuw een belangrijke weersatelliet. De satelliet is de tweede van deze generatie, de eerste werd gelanceerd in december 2022. Hij hangt straks op 36.000 kilometer hoogte boven de evenaar. Daar draait hij met de aarde mee en hou",
-      "url": "https://nos.nl/l/2628562",
-      "datum": "5 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Woede in Kameroen na achtste moord op vrouw in ruim week tijd",
-      "beschrijving": "In iets meer dan een week tijd zijn er in Kameroen zeker acht vrouwen vermoord. Politici en beroemdheden in het land uiten hun zorgen en roepen de overheid op om meer te doen om vrouwen en meisjes te beschermen. Het aantal vrouwen dat gedood wordt in het land stijgt al jaren. Tussen januari en april dit jaar werden zeker 50 vrouwen vermoord, volgens de officiële cijfers. In het hele jaar daarvoor ",
-      "url": "https://nos.nl/l/2628546",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dieven stelen vliegensvlug gouden schat uit Spaans museum",
-      "beschrijving": "Uit het archeologisch museum van Villena, nabij de Spaanse stad Alicante, is een groot deel van een prehistorische gouden schat gestolen. Dieven sloegen vanochtend vroeg toe en namen onder meer ringen, armbanden en kommen mee. De kunstroof was \"supersnel en superprofessioneel\", zegt een woordvoerder van de gemeenteraad van Villena tegen Spaanse media. De dieven waren slechts vier minuten in het mu",
-      "url": "https://nos.nl/l/2628541",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Gletsjer Nepal was 'onopgemerkte tijdbom', mogelijk geholpen door opwarming",
-      "beschrijving": "De enorme ravage in Nepal en Tibet lijkt het gevolg van een tikkende tijdbom die onopgemerkt is gebleven totdat het te laat was. Dat is de eerste inschatting die deskundigen amper een dag later maken over de afgebroken gletsjer in de Himalaya. Hoewel de komende dagen en weken meer duidelijk moet worden over wat zich heeft voltrokken, is het mogelijk dat die tijdbom mede aan het tikken is gebracht ",
-      "url": "https://nos.nl/l/2628534",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Meer flessen en blikjes met statiegeld ingezameld, maar norm nog niet gehaald",
-      "beschrijving": "Ook dit jaar worden minder statiegeldflessen- en blikjes ingezameld dan wettelijk is vereist. Dat verwacht producentenorganisatie Verpact. Hoewel het inzamelpercentage is gestegen, wordt de wettelijke doelstelling van 90 procent waarschijnlijk niet gehaald, staat in een jaarverslag. Volgens een prognose wordt dit jaar tussen 77 en 81 procent van de statiegeldflessen ingezameld. Bij blikjes is dat ",
-      "url": "https://nos.nl/l/2628529",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
-      "beschrijving": "Iran says it is preparing to draft conditions to open the Strait of Hormuz following mediator requests.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss",
+      "titel": "After six months of war, what have US, Iran gained and lost?",
+      "beschrijving": "Many of the US president&#039;s goals remain unfulfilled, despite claims of victory.",
+      "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-      "beschrijving": "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "titel": "Dutch court sentences man to life over Rwanda genocide",
+      "beschrijving": "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-      "beschrijving": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
-      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Trump administration illegally retaliated against Anthropic, judge rules",
+      "beschrijving": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "datum": "10 uur geleden",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Russische militair gedood door autobom in Sint-Petersburg",
-    "Haiti police confront public frustration after deadly gang attack kills 47",
     "Two killed in 'domestic violence incident' at school near Berlin",
-    "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
-    "Congo begint met vaccineren tegen grootste ebola-uitbraak ooit",
-    "Trump hernoemt Lake Ontario naar Lake America: 'Nu nog een oceaan'",
-    "Spaanse man glijdt uit van boot na vangen tonijn op zee en wordt al dagen vermist",
-    "Demonstranten in Ceuta houden hulpgoederen Rode Kruis tegen",
-    "Belangrijke weersatelliet met ogen op Europa de ruimte in",
-    "Woede in Kameroen na achtste moord op vrouw in ruim week tijd"
+    "Postuum Prince-album geeft inkijkje in zijn rijke oeuvre: 'Hij was een genre opzich'",
+    "Podcast De Dag: de gletsjer, de vloedgolf, de ramp",
+    "Rusland en Oekraïne bestoken elkaar opnieuw met drones",
+    "Nieuwe koning Haakon bij ministerraad, samen met kroonprinses",
+    "Gemengde gevoelens bij slachtoffers Mladic: 'Zijn dood neemt de pijn niet weg'",
+    "Weer kunstroof uit museum: kostbare halsketting van Egyptische koningin gestolen in Wenen",
+    "Net ontstaan meer Tibet stroomt over, 'beheersbare' nieuwe golf door rampgebied",
+    "Amerikaanse immigratiedienst ICE bestelt stroomschokhandschoenen, critici verontrust",
+    "Wekdienst 28/8: Uitspraak genocide-verdachte Rwanda • Hockeymannen in halve finale WK"
   ]
 }
