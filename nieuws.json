@@ -1,29 +1,74 @@
 {
-  "bijgewerkt": "29 Aug 2026 13:04 UTC",
+  "bijgewerkt": "29 Aug 2026 17:35 UTC",
   "artikelen": [
     {
       "titel": "Grote explosie na Russische luchtaanval, zeker 37 doden gemeld",
       "beschrijving": "Bij een Russische droneaanval op een dorp in de buurt van Kyiv zijn volgens de Oekraïense autoriteiten zeker 37 mensen gedood. Ook raakten tientallen inwoners van het dorp Myla gewond. De Oekraïense president Zelensky schrijft op X dat er een opslagplaats werd getroffen, gevolgd door een explosie. Het lijkt erop dat er explosieven lagen in het geraakte gebouw. Omliggende huizen en een verzorgingst",
       "url": "https://nos.nl/l/2628754",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
-      "beschrijving": "Ukraine&#039;s President Zelenskyy says warehouse was struck, &#039;followed by a detonation&#039;, causing a major fire.",
-      "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+      "titel": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+      "beschrijving": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Muitende militairen in Niger, explosies gehoord bij hoofdstad",
+      "beschrijving": "In het West-Afrikaanse Niger hebben muitende militairen het vuur geopend op meerdere plekken in de hoofdstad Niamey. Dat bevestigt het ministerie van Defensie, dat spreekt van een \"breuk met de militaire discipline\". Het ministerie stelt dat ordetroepen de controle over de aangevallen locaties nu weer overnemen. De aankondiging kwam op de staatstelevisie, die eerder op de dag op zwart was gegaan. ",
+      "url": "https://nos.nl/l/2628804",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Niger military says it is regaining control after attempted mutiny",
+      "beschrijving": "Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss",
+      "datum": "32 min geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Waarom we zo weinig zien en horen over de overstroming in Tibet",
+      "beschrijving": "In China beheerst de overstroming bij de Gyirong-grensovergang al dagen het nieuws en de sociale media. Volgens de laatste informatie van het Chinese staatspersbureau Xinhua zijn er aan Chinese zijde 554 vermisten, twee mensen zijn gered en zeven personen zijn omgekomen. Maar de Chinese staatsmedia zijn dan ook praktisch de enige informatiebron over de situatie in Tibet. De afschuwelijke ramp laat",
+      "url": "https://nos.nl/l/2628809",
+      "datum": "1 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Noodweer laat spoor van verwoesting achter in Noord-Italië",
+      "beschrijving": "Twee regio's in Noord-Italië gaan de noodtoestand uitroepen vanwege noodweer. Afgelopen nacht werd de regio Veneto getroffen door zware hagel- en regenbuien, die gepaard gingen met hevige windstoten. De schade is groot, zegt de gouverneur van de regio. Ook de stad Cremona in de regio Lombardije werd gistermiddag opgeschrikt door zware hagelbuien. Daar raakten 43 mensen gewond. Geen van hen verkeer",
+      "url": "https://nos.nl/l/2628803",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nederlandse wandelaar (40) verdronken in Italië",
+      "beschrijving": "In het noordwesten van Italië is een Nederlandse wandelaar om het leven gekomen. De 40-jarige man verdronk na een val in een rivier, melden Italiaanse media. Die schrijven ook dat de man 35 jaar oud was, maar zijn familie laat aan de NOS weten dat hij 40 was. De zus van de man woont in Milaan en had hem als vermist opgegeven. De auto waarmee de man op pad was stond geregistreerd op haar naam en st",
+      "url": "https://nos.nl/l/2628792",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Alcoholwaarschuwing verdeelt Belgen: belangrijk advies of betuttelend?",
       "beschrijving": "In België is deze week een discussie losgebarsten over plannen om alcoholreclames van een nieuwe waarschuwing te voorzien: \"alcohol schaadt de gezondheid\". Wetenschappelijk gezien is daar weinig op af te dingen, maar liefhebbers vinden de campagne belerend. \"We weten zelf dat we niet te veel suiker, zout en rood vlees moeten eten. Dat weten we ook van alcohol\", reageert Walter De Donder, burgemees",
       "url": "https://nos.nl/l/2628779",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -32,7 +77,7 @@
       "titel": "Nog 400 schepen vast in Perzische Golf, Iran claimt controle over Straat van Hormuz",
       "beschrijving": "Sinds het begin van de Iranoorlog een half jaar geleden liggen nog altijd 400 schepen vast in de Perzische Golf. Dat meldt de Internationale Maritieme Organisatie (IMO). Ook zitten nog 6000 opvarenden vast, zegt de organisatie. \"Zes maanden na het begin van het conflict in het Midden-Oosten is de situatie in de Straat van Hormuz nog steeds onopgelost\", aldus IMO's secretaris-generaal Arsenio Domin",
       "url": "https://nos.nl/l/2628772",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +86,7 @@
       "titel": "Nederlands speurhondenteam gaat zoeken naar vermiste Rodney Leysner in Suriname",
       "beschrijving": "Speurhonden van de Nederlandse Stichting Reddingshonden RHWW gaat volgende week in Suriname helpen bij de zoektocht naar de vermiste Rodney Leysner (52). De Nederlandse ondernemer en filmproducent is sinds twee weken vermist. RHWW stuurt acht hondengeleiders met acht speurhonden en zeven ondersteunende specialisten. Dat bevestigt de stichting uit Duiven aan de NOS na berichtgeving van het Surinaam",
       "url": "https://nos.nl/l/2628764",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +95,7 @@
       "titel": "Delen van Berlijnse spionagetunnel na 70 jaar teruggevonden",
       "beschrijving": "Op een legerkazerne in het oosten van Duitsland zijn delen teruggevonden van een CIA-spionagetunnel. De drie buizen hoorden bij een tunnel die Amerikaanse en Britse geheime diensten in de jaren 50 bouwden tussen het democratische West-Berlijn en communistisch Oost-Duitsland. De tunnel van 450 meter liep van de West-Berlijnse wijk Rudow naar het dorp Altglienicke, dat in de invloedssfeer lag van de",
       "url": "https://nos.nl/l/2628760",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,71 +104,26 @@
       "titel": "IJslanders naar de stembus: wel of niet onderhandelen over EU-lidmaatschap?",
       "beschrijving": "In IJsland is vandaag een referendum over de vraag of de gesprekken over toetreding tot de Europese Unie (EU) moeten worden hervat. In de peilingen voorafgaand aan de stemming gingen het ja-kamp en nee-kamp gelijk op. IJsland behoort al wel tot de Schengenzone, de Europese Economische Ruimte en de NAVO. Naar aanleiding van de economische crisis diende het land in 2009 een verzoek in om lid te word",
       "url": "https://nos.nl/l/2628757",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Boete voor Witte Huismedewerker die gokte op woorden uit Trump-toespraken",
-      "beschrijving": "Een medewerker van het Witte Huis die gokte op welke woorden president Trump in toespraken zou zeggen, moet anderhalve ton betalen aan een financiële waakhond. Gabriel Perez kon makkelijk binnenlopen bij de weddenschappen, omdat hij de speeches vooraf al te zien kreeg. Het was namelijk Perez' taak om de toespraken van Trump in diens teleprompter te laden, het apparaat dat de president gebruikt om ",
-      "url": "https://nos.nl/l/2628753",
-      "datum": "4 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Noorwegen rouwt om overleden koning Harald, rouwregister geopend in Oslo",
-      "beschrijving": "Het overlijden van koning Harald V heeft Noorwegen in diepe rouw gedompeld. Vanaf 10.00 uur is het stadhuis van Oslo geopend voor publiek dat het condoleanceregister wil ondertekenen. Ook op andere plaatsen in het land is dat mogelijk. Tot 18.00 uur kunnen mensen op het stadhuis in Oslo terecht. De gemeente zegt dat mensen rekening moeten houden met wachttijd. Harald V, ook wel de koning van het v",
-      "url": "https://nos.nl/l/2628745",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "VN: 200.000 mensen gedwongen terug naar Haïti, waar bendes heersen",
-      "beschrijving": "Zeker 200.000 mensen zijn in de afgelopen acht maanden gedwongen teruggestuurd naar Haïti. Dat meldt de VN in een vergadering van de Veiligheidsraad. Het nieuws komst slechts enkele dagen nadat bij aanvallen van gewapende bendes in Haïti bijna vijftig mensen om het leven kwamen, onder wie vijf kinderen. Haïti zit sinds de zomer van 2021 zonder president, nadat deze in zijn slaapkamer werd doodgesc",
-      "url": "https://nos.nl/l/2628743",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nashville wil naam vliegveld veranderen als eerbetoon aan Dolly Parton",
-      "beschrijving": "De luchthaven van de Amerikaanse stad Nashville krijgt binnenkort de naam van Dolly Parton. De gouverneur van de staat Tennessee en de luchthavendirectie scharen zich achter een plan daarvoor van fans. Parton kwam uit Tennessee en kocht in 1972 het landgoed net buiten de stad, waar ze afgelopen week ook overleed. Nashville de hoofdstad van Tennessee, staat bekend als Music City en country music ca",
-      "url": "https://nos.nl/l/2628740",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports",
-      "beschrijving": "The 23-year-old French forward would bolster new boss Andoni Iraola&#039;s squad after the departure of Mohamed Salah.",
-      "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "Israeli army arrests six Palestinians after settler violence in West Bank",
+      "beschrijving": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+      "datum": "26 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-      "beschrijving": "Iran&#039;s president said sanctions and the US naval blockade had caused exports and imports to slump by nearly 35 percent.",
-      "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US revokes visa of former Iraqi minister after watchlist listing",
-      "beschrijving": "The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist&#039;.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
+      "titel": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+      "beschrijving": "Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
+      "datum": "41 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -131,7 +131,7 @@
       "titel": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "beschrijving": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
       "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -140,7 +140,7 @@
       "titel": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "beschrijving": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -149,7 +149,7 @@
       "titel": "Close race as Iceland votes on whether to restart talks on joining EU",
       "beschrijving": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
       "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -157,14 +157,14 @@
   ],
   "ticker": [
     "Grote explosie na Russische luchtaanval, zeker 37 doden gemeld",
-    "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+    "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+    "Muitende militairen in Niger, explosies gehoord bij hoofdstad",
+    "Niger military says it is regaining control after attempted mutiny",
+    "Waarom we zo weinig zien en horen over de overstroming in Tibet",
+    "Noodweer laat spoor van verwoesting achter in Noord-Italië",
+    "Nederlandse wandelaar (40) verdronken in Italië",
     "Alcoholwaarschuwing verdeelt Belgen: belangrijk advies of betuttelend?",
     "Nog 400 schepen vast in Perzische Golf, Iran claimt controle over Straat van Hormuz",
-    "Nederlands speurhondenteam gaat zoeken naar vermiste Rodney Leysner in Suriname",
-    "Delen van Berlijnse spionagetunnel na 70 jaar teruggevonden",
-    "IJslanders naar de stembus: wel of niet onderhandelen over EU-lidmaatschap?",
-    "Boete voor Witte Huismedewerker die gokte op woorden uit Trump-toespraken",
-    "Noorwegen rouwt om overleden koning Harald, rouwregister geopend in Oslo",
-    "VN: 200.000 mensen gedwongen terug naar Haïti, waar bendes heersen"
+    "Nederlands speurhondenteam gaat zoeken naar vermiste Rodney Leysner in Suriname"
   ]
 }
