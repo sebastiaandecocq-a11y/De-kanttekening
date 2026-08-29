@@ -1,119 +1,128 @@
 {
-  "bijgewerkt": "29 Aug 2026 06:53 UTC",
+  "bijgewerkt": "29 Aug 2026 13:04 UTC",
   "artikelen": [
     {
-      "titel": "Atoomagentschap VN meldt drone-aanvallen bij kerncentrale Zaporizja",
-      "beschrijving": "Het Internationaal Atoomenergieagentschap (IAEA) meldt dat er deze week drie drone-aanvallen zijn geweest bij de kerncentrale Zaporizja in het zuidoosten van Oekraïne. Het stralingsniveau is volgens het atoomagentschap normaal gebleven. De drone-aanvallen vonden dinsdag en woensdag plaats. De eerste drone-aanval was bij een koelvijver die gebruikt wordt om de kerninstallatie mee af te koelen. Daar",
-      "url": "https://nos.nl/l/2628672",
-      "datum": "14 uur geleden",
+      "titel": "Grote explosie na Russische luchtaanval, zeker 37 doden gemeld",
+      "beschrijving": "Bij een Russische droneaanval op een dorp in de buurt van Kyiv zijn volgens de Oekraïense autoriteiten zeker 37 mensen gedood. Ook raakten tientallen inwoners van het dorp Myla gewond. De Oekraïense president Zelensky schrijft op X dat er een opslagplaats werd getroffen, gevolgd door een explosie. Het lijkt erop dat er explosieven lagen in het geraakte gebouw. Omliggende huizen en een verzorgingst",
+      "url": "https://nos.nl/l/2628754",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+      "beschrijving": "Ukraine&#039;s President Zelenskyy says warehouse was struck, &#039;followed by a detonation&#039;, causing a major fire.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Alcoholwaarschuwing verdeelt Belgen: belangrijk advies of betuttelend?",
+      "beschrijving": "In België is deze week een discussie losgebarsten over plannen om alcoholreclames van een nieuwe waarschuwing te voorzien: \"alcohol schaadt de gezondheid\". Wetenschappelijk gezien is daar weinig op af te dingen, maar liefhebbers vinden de campagne belerend. \"We weten zelf dat we niet te veel suiker, zout en rood vlees moeten eten. Dat weten we ook van alcohol\", reageert Walter De Donder, burgemees",
+      "url": "https://nos.nl/l/2628779",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nog 400 schepen vast in Perzische Golf, Iran claimt controle over Straat van Hormuz",
+      "beschrijving": "Sinds het begin van de Iranoorlog een half jaar geleden liggen nog altijd 400 schepen vast in de Perzische Golf. Dat meldt de Internationale Maritieme Organisatie (IMO). Ook zitten nog 6000 opvarenden vast, zegt de organisatie. \"Zes maanden na het begin van het conflict in het Midden-Oosten is de situatie in de Straat van Hormuz nog steeds onopgelost\", aldus IMO's secretaris-generaal Arsenio Domin",
+      "url": "https://nos.nl/l/2628772",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nederlands speurhondenteam gaat zoeken naar vermiste Rodney Leysner in Suriname",
+      "beschrijving": "Speurhonden van de Nederlandse Stichting Reddingshonden RHWW gaat volgende week in Suriname helpen bij de zoektocht naar de vermiste Rodney Leysner (52). De Nederlandse ondernemer en filmproducent is sinds twee weken vermist. RHWW stuurt acht hondengeleiders met acht speurhonden en zeven ondersteunende specialisten. Dat bevestigt de stichting uit Duiven aan de NOS na berichtgeving van het Surinaam",
+      "url": "https://nos.nl/l/2628764",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Delen van Berlijnse spionagetunnel na 70 jaar teruggevonden",
+      "beschrijving": "Op een legerkazerne in het oosten van Duitsland zijn delen teruggevonden van een CIA-spionagetunnel. De drie buizen hoorden bij een tunnel die Amerikaanse en Britse geheime diensten in de jaren 50 bouwden tussen het democratische West-Berlijn en communistisch Oost-Duitsland. De tunnel van 450 meter liep van de West-Berlijnse wijk Rudow naar het dorp Altglienicke, dat in de invloedssfeer lag van de",
+      "url": "https://nos.nl/l/2628760",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "IJslanders naar de stembus: wel of niet onderhandelen over EU-lidmaatschap?",
+      "beschrijving": "In IJsland is vandaag een referendum over de vraag of de gesprekken over toetreding tot de Europese Unie (EU) moeten worden hervat. In de peilingen voorafgaand aan de stemming gingen het ja-kamp en nee-kamp gelijk op. IJsland behoort al wel tot de Schengenzone, de Europese Economische Ruimte en de NAVO. Naar aanleiding van de economische crisis diende het land in 2009 een verzoek in om lid te word",
+      "url": "https://nos.nl/l/2628757",
+      "datum": "3 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Boete voor Witte Huismedewerker die gokte op woorden uit Trump-toespraken",
+      "beschrijving": "Een medewerker van het Witte Huis die gokte op welke woorden president Trump in toespraken zou zeggen, moet anderhalve ton betalen aan een financiële waakhond. Gabriel Perez kon makkelijk binnenlopen bij de weddenschappen, omdat hij de speeches vooraf al te zien kreeg. Het was namelijk Perez' taak om de toespraken van Trump in diens teleprompter te laden, het apparaat dat de president gebruikt om ",
+      "url": "https://nos.nl/l/2628753",
+      "datum": "4 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Noorwegen rouwt om overleden koning Harald, rouwregister geopend in Oslo",
+      "beschrijving": "Het overlijden van koning Harald V heeft Noorwegen in diepe rouw gedompeld. Vanaf 10.00 uur is het stadhuis van Oslo geopend voor publiek dat het condoleanceregister wil ondertekenen. Ook op andere plaatsen in het land is dat mogelijk. Tot 18.00 uur kunnen mensen op het stadhuis in Oslo terecht. De gemeente zegt dat mensen rekening moeten houden met wachttijd. Harald V, ook wel de koning van het v",
+      "url": "https://nos.nl/l/2628745",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "VN: 200.000 mensen gedwongen terug naar Haïti, waar bendes heersen",
+      "beschrijving": "Zeker 200.000 mensen zijn in de afgelopen acht maanden gedwongen teruggestuurd naar Haïti. Dat meldt de VN in een vergadering van de Veiligheidsraad. Het nieuws komst slechts enkele dagen nadat bij aanvallen van gewapende bendes in Haïti bijna vijftig mensen om het leven kwamen, onder wie vijf kinderen. Haïti zit sinds de zomer van 2021 zonder president, nadat deze in zijn slaapkamer werd doodgesc",
+      "url": "https://nos.nl/l/2628743",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Nashville wil naam vliegveld veranderen als eerbetoon aan Dolly Parton",
       "beschrijving": "De luchthaven van de Amerikaanse stad Nashville krijgt binnenkort de naam van Dolly Parton. De gouverneur van de staat Tennessee en de luchthavendirectie scharen zich achter een plan daarvoor van fans. Parton kwam uit Tennessee en kocht in 1972 het landgoed net buiten de stad, waar ze afgelopen week ook overleed. Nashville de hoofdstad van Tennessee, staat bekend als Music City en country music ca",
       "url": "https://nos.nl/l/2628740",
-      "datum": "15 min geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Rechter laat 'afgedwongen' bekentenis 9/11-brein niet toe als bewijs",
-      "beschrijving": "Een bekentenis door het vermoedelijke brein achter de aanslagen van 9/11 mag van een Amerikaanse militaire rechter niet worden gebruikt in zijn proces. De rechter oordeelde dat niet duidelijk is of Khalid Sheikh Mohammed zijn verklaring wel vrijwillig heeft afgelegd. Het oordeel zou een nieuwe vertraging kunnen betekenen in het proces over de aanslagen uit 2001 in New York en Washington als aankla",
-      "url": "https://nos.nl/l/2628736",
-      "datum": "53 min geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Trump: VS krijgt controle over 65 miljard vaten Venezolaanse olie",
-      "beschrijving": "President Trump heeft bekendgemaakt dat de Verenigde Staten een overeenkomst hebben gesloten met Venezuela om de controle over te nemen over 65 miljard vaten uit de olievoorraad van het Zuid-Amerikaanse land. In een bericht op zijn eigen socialemediakanaal Truth Social claimt hij dat de Amerikaanse oliereserves hiermee meer dan verdubbelen en belooft hij het Amerikaanse volk dat de energieprijzen ",
-      "url": "https://nos.nl/l/2628729",
-      "datum": "5 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Groot bord valt op bezoekers christelijk festival in VK, dode en gewonden",
-      "beschrijving": "Een 41-jarige man is gisteren om het leven gekomen door een ongeluk tijdens het Big Church Festival in het Engelse West Sussex. Een groot bord viel op festivalgangers, waarbij zeker zes anderen gewond raakten. Zij zijn voor behandeling naar het ziekenhuis gebracht, meldt de politie van Sussex. De man uit Eastbourne is ter plekke overleden. Het bord was onderdeel van het decor van het podium. Er wo",
-      "url": "https://nos.nl/l/2628728",
-      "datum": "7 uur geleden",
+      "titel": "Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports",
+      "beschrijving": "The 23-year-old French forward would bolster new boss Andoni Iraola&#039;s squad after the departure of Mohamed Salah.",
+      "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Britten proberen met exportverbod Rembrandt voor eigen land te behouden",
-      "beschrijving": "De Britse overheid heeft een tijdelijk exportverbod ingesteld voor een schilderij van de beroemde Nederlandse kunstschilder Rembrandt van Rijn. Het ministerie van Cultuur probeert te voorkomen dat het schilderij naar het buitenland vertrekt. Het gaat om het portret van Catrina Hooghsaet, geschilderd in 1657. Het schilderij heeft volgens het ministerie van Cultuur een geschatte waarde van omgereken",
-      "url": "https://nos.nl/l/2628727",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Oud-president Moreno van Ecuador schuldig bevonden aan corruptie",
-      "beschrijving": "De voormalige president van Ecuador, Lenín Moreno, is schuldig bevonden aan corruptie. Het hof acht bewezen dat Moreno is omgekocht in een zaak die draait om de toekenning van contracten voor de bouw van een waterkrachtcentrale. Hij is veroordeeld tot vijf jaar cel en zal zijn straf onder huisarrest uitzitten, meldt persbureau AP. De waterkrachtcentrale aan de Coca-rivier in het noordoosten van he",
-      "url": "https://nos.nl/l/2628725",
-      "datum": "9 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Paus Leo opnieuw op lijst van best geklede mensen",
-      "beschrijving": "Een modeliefhebber is hij niet, maar toch is paus Leo voor de derde keer terechtgekomen op een toonaangevende lijst van goedgeklede mensen. Het Amerikaanse modetijdschrift Vanity Fair heeft voor het eerst in tien jaar weer een lijst met de meest stijlvolle mensen gepubliceerd en daarop prijkt ook de paus. Eerder werd hij al door Vogue en The New York Times genoemd. Vanity Fair plaatste na wekenlan",
-      "url": "https://nos.nl/l/2628721",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Spanje vraagt Europese grenswacht Frontex om hulp met migranten in Ceuta",
-      "beschrijving": "De Spaanse regering heeft de Europese Commissie gevraagd om hulp van grenswacht Frontex voor het identificeren van migranten in Ceuta. Ook zou Frontex extra tolken moeten leveren voor het vertalen van gesprekken. De Spaanse exclave in Noord-Afrika werd eind juli bestormd door tienduizenden migranten vanuit Marokko. Duizenden van hen zwerven nog op straat. De regering wil verder dat operatie Minerv",
-      "url": "https://nos.nl/l/2628716",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Veel hulp nodig in Nepal en Tibet, maar alles zit tegen",
-      "beschrijving": "Medische hulp verlenen, water uitdelen en mensen bevrijden die geïsoleerd zijn geraakt door weggevaagde bruggen en wegen. Dat en meer willen hulporganisaties doen om de mensen in Nepal en Tibet te helpen, maar ze krijgen het niet goed voor elkaar. Allerlei problemen bedreigen de hulpverlening. Bij de ramp zijn zeker 579 mensen omgekomen in Nepal. In Tibet zijn tot nu toe vijf doden gemeld. De verw",
-      "url": "https://nos.nl/l/2628695",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Six months into the Iran war, a new Gulf security architecture is emerging",
-      "beschrijving": "Gulf states are building overlapping partnerships that complement, rather than replace, the US security role.",
-      "url": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss",
-      "datum": "41 min geleden",
+      "titel": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+      "beschrijving": "Iran&#039;s president said sanctions and the US naval blockade had caused exports and imports to slump by nearly 35 percent.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Nepal and China resume flood rescue as death toll surpasses 600",
-      "beschrijving": "Rescue operations have resumed after a brief pause, but experts caution of danger from a newly formed lake.",
-      "url": "https://www.aljazeera.com/news/2026/8/29/nepal-and-china-resume-flood-rescue-as-death-toll-nears-600?traffic_source=rss",
+      "titel": "US revokes visa of former Iraqi minister after watchlist listing",
+      "beschrijving": "The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist&#039;.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss",
       "datum": "3 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Guinea-Bissau votes on a stronger presidency: What’s at stake?",
-      "beschrijving": "The proposed constitution would give the president more power and reshape parliament and elections.",
-      "url": "https://www.aljazeera.com/news/2026/8/29/guinea-bissau-votes-on-a-stronger-presidency-whats-at-stake?traffic_source=rss",
-      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -122,8 +131,17 @@
       "titel": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "beschrijving": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
       "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "beschrijving": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "datum": "8 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -131,40 +149,22 @@
       "titel": "Close race as Iceland votes on whether to restart talks on joining EU",
       "beschrijving": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
       "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "beschrijving": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Berlin is being blackmailed by hackers, mayor says",
-      "beschrijving": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Atoomagentschap VN meldt drone-aanvallen bij kerncentrale Zaporizja",
-    "Nashville wil naam vliegveld veranderen als eerbetoon aan Dolly Parton",
-    "Rechter laat 'afgedwongen' bekentenis 9/11-brein niet toe als bewijs",
-    "Trump: VS krijgt controle over 65 miljard vaten Venezolaanse olie",
-    "Groot bord valt op bezoekers christelijk festival in VK, dode en gewonden",
-    "Britten proberen met exportverbod Rembrandt voor eigen land te behouden",
-    "Oud-president Moreno van Ecuador schuldig bevonden aan corruptie",
-    "Paus Leo opnieuw op lijst van best geklede mensen",
-    "Spanje vraagt Europese grenswacht Frontex om hulp met migranten in Ceuta",
-    "Veel hulp nodig in Nepal en Tibet, maar alles zit tegen"
+    "Grote explosie na Russische luchtaanval, zeker 37 doden gemeld",
+    "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+    "Alcoholwaarschuwing verdeelt Belgen: belangrijk advies of betuttelend?",
+    "Nog 400 schepen vast in Perzische Golf, Iran claimt controle over Straat van Hormuz",
+    "Nederlands speurhondenteam gaat zoeken naar vermiste Rodney Leysner in Suriname",
+    "Delen van Berlijnse spionagetunnel na 70 jaar teruggevonden",
+    "IJslanders naar de stembus: wel of niet onderhandelen over EU-lidmaatschap?",
+    "Boete voor Witte Huismedewerker die gokte op woorden uit Trump-toespraken",
+    "Noorwegen rouwt om overleden koning Harald, rouwregister geopend in Oslo",
+    "VN: 200.000 mensen gedwongen terug naar Haïti, waar bendes heersen"
   ]
 }
