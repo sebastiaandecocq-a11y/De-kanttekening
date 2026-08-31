@@ -1,12 +1,21 @@
 {
-  "bijgewerkt": "31 Aug 2026 16:53 UTC",
+  "bijgewerkt": "31 Aug 2026 21:48 UTC",
   "artikelen": [
     {
-      "titel": "Why has Greece signed a $3.5bn missile deal with Israel?",
-      "beschrijving": "Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye&#039;s growing capabilities.",
-      "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
+      "titel": "Ukrainians mourn community leader killed in Russian strike on Myla",
+      "beschrijving": "Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "What to know: US court hearing held for alleged Lockerbie bombmaker",
+      "beschrijving": "Abu Agila Mohammad Mas’ud Kheir Al-Marimi is the third person charged in the downing of Pan Am Flight 103.",
+      "url": "https://www.aljazeera.com/news/2026/8/31/what-to-know-us-court-hearing-held-for-alleged-lockerbie-bombmaker?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -14,7 +23,7 @@
       "titel": "Man arrested after Swiss rave shooting that killed woman",
       "beschrijving": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
       "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,16 +32,70 @@
       "titel": "Thaise badplaats treft voorbereidingen voor komst Amerikaanse militairen",
       "beschrijving": "De Thaise badplaats Pattaya treft volop maatregelen voordat het Amerikaanse vliegdekschip Abraham Lincoln een tussenstop maakt in een nabijgelegen haven. Naar verwachting komt het vliegdekschip deze week aan. De politie heeft afgelopen weekend enkele tientallen prostituees opgepakt, meldt persbureau Reuters. Ook worden er extra veiligheidsmaatregelen getroffen. Zo zullen er extra patrouilles zijn ",
       "url": "https://nos.nl/l/2629143",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Franse oud-premier Édouard Balladur (97) overleden",
+      "beschrijving": "In Parijs is de Franse oud-premier Édouard Balladur overleden. Dat heeft zijn familie laten weten aan persbureau AFP. Hij was 97 jaar. Balladur werd geboren in het Turkse Izmir, in een bankiersfamilie van Armeense komaf. Als kind verhuisde hij met zijn ouders naar Frankrijk. Na een studie rechten in Parijs begon hij halverwege de jaren 60 zijn politieke carrière als adviseur van premier Georges Po",
+      "url": "https://nos.nl/l/2629189",
+      "datum": "51 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Poolse autoriteiten onderzoeken buitenlandse sabotage bij brand dronefabriek",
+      "beschrijving": "Het Poolse Openbaar Ministerie heeft een onderzoek geopend naar de brand die vannacht woedde in een dronefabriek. Het OM zegt te onderzoeken of het gaat om een terroristisch misdrijf en brandstichting waarbij buitenlandse inlichtingendiensten betrokken waren. De fabriek, WB Electronics, is een van de grootste particuliere defensiebedrijven van Polen. Er worden onder meer verkenningsdrones gemaakt ",
+      "url": "https://nos.nl/l/2629187",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Tweede dode door overstroming Grand Canyon, nog 15 vermisten",
+      "beschrijving": "Zeker twee mensen zijn omgekomen in de Grand Canyon, in de Amerikaanse staat Arizona. Delen van het gebied werden dit weekend getroffen door hevige overstromingen. Eerder vandaag werd al een 46-jarige man overleden aangetroffen, nu is daar een tweede slachtoffer bijgekomen, melden de autoriteiten. Over de identiteit of leeftijd van de tweede dode wordt niets gedeeld. Nog ongeveer vijftien anderen ",
+      "url": "https://nos.nl/l/2629176",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Tientallen sterfgevallen in ICE-detentiecentra: ‘ze behandelen mensen als afval’",
+      "beschrijving": "Afgelopen maand arresteerde immigratiedienst ICE 50.000 mensen. In de in Trumps woorden \"grootste deportatiecampagne in de geschiedenis van Amerika\" zijn vele honderdduizenden mensen uitgezet. Het is een nietsontziende campagne die diepe sporen nalaat. Sinds Trumps aantreden vielen er tientallen doden in ICE-detentiecentra. \"Vele honderdduizenden immigranten zijn opgepakt en onder erbarmelijke oms",
+      "url": "https://nos.nl/l/2629170",
+      "datum": "3 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Schooldirecteur redde in Nepal 1643 kinderen voordat overstroming school verwoestte",
+      "beschrijving": "De Nepalese schooldirecteur Rajendra Dawadi kreeg vorige week woensdag iets na 09.00 uur ineens vier telefoontjes: er kwam een enorme modderstroom zijn kant op, werd hem verteld. Hij moest zich samen met zijn leerlingen zo snel mogelijk naar veilig gebied begeven. Hij twijfelde geen moment, vertelt hij aan de BBC. De urgentie van de situatie werd hem snel duidelijk, ook omdat vrijwel gelijktijdig ",
+      "url": "https://nos.nl/l/2629162",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vermiste Nederlanders in rampgebied Nepal nog niet gevonden, zoektocht wel gestart",
+      "beschrijving": "De drie vermiste Nederlanders in het overstromingsgebied tussen Nepal en Tibet zijn nog altijd niet gevonden. Dat zegt de Nepalese politie tegen persbureau ANP. Wel is de zoektocht begonnen op plekken waar zij mogelijk zijn verdwenen, aldus de politie. Het dodental in Nepal en Tibet staat op 955. Daarnaast zijn nog meer dan 4400 mensen vermist, onder wie honderden toeristen. Duizenden gebouwen zij",
+      "url": "https://nos.nl/l/2629157",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "EU onderschept schip van de Russische schaduwvloot op Middellandse Zee",
       "beschrijving": "De Europese maritieme missie op de Middellandse Zee heeft gisteren een olietanker onderschept die vermoedelijk deel uitmaakt van de Russische schaduwvloot. Dat heeft EU-buitenlandchef Kallas bekendgemaakt. \"De illegale olieverkoop door schepen van de schaduwvloot vormt een cruciale levensader voor de Russische oorlog in Oekraïne, en we zullen deze blijven afsnijden\", schrijft Kallas op X. De marin",
       "url": "https://nos.nl/l/2629153",
-      "datum": "53 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +104,7 @@
       "titel": "België waarschuwt voor escalatie na beledigende post van ambassadeur VS",
       "beschrijving": "De Belgische minister van Buitenlandse Zaken Prévot wil dat de Amerikaanse ambassadeur in Brussel stopt met het beledigen van Belgische politici. Dat liet hij weten nadat hij ambassadeur Bill White voor de tweede keer dit jaar op het matje had geroepen voor beledigende uitspraken op sociale media. White zette vorige week een met AI bewerkte foto van de Belgische minister Vandenbroucke van Volksgez",
       "url": "https://nos.nl/l/2629150",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,130 +113,76 @@
       "titel": "Historische dag voor België: na bijna 160 jaar nieuw strafwetboek",
       "beschrijving": "In België zal morgen een nieuw strafwetboek in werking treden, de eerste volledige herziening sinds de tijd van Napoleon. Het nieuwe wetboek geldt voor alle misdrijven gepleegd vanaf 1 september. Dat betekent dat rechters en advocaten voorlopig moeten schakelen tussen twee wetboeken. Een van de grootste wijzigingen is dat alleen het begrip 'misdrijf' wordt gebruikt, in plaats van de eerdere onderv",
       "url": "https://nos.nl/l/2629142",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Noorse Marius Borg Høiby mag aanwezig zijn bij begrafenis koning Harald",
-      "beschrijving": "De 29-jarige Marius Borg Høiby mag de uitvaart van koning Harald bijwonen, dat bevestigt de politie van Noorwegen aan de Noorse media. Dit zal Høiby wel moeten doen met een enkelband om. Half juni veroordeelde de rechtbank hem tot vier jaar cel, onder meer voor twee verkrachtingen en twee gevallen van huiselijk geweld. Op de dag van zijn veroordeling lieten de advocaten van Høiby al weten de veroo",
-      "url": "https://nos.nl/l/2629136",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "Putin and Xi affirm strategic alliance amid ‘unpredictable’ world",
+      "beschrijving": "The Russian and Chinese leaders met on the sidelines of the SCO summit.",
+      "url": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss",
+      "datum": "34 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Algerije wil doodstraf hervatten voor brandstichters na fatale natuurbranden",
-      "beschrijving": "De Algerijnse president Tebboune wil dat de uitvoering van de doodstraf wordt hervat voor mensen die opzettelijk brandstichten. De aankondiging volgt op de natuurbranden die het oosten en noorden van Algerije teisterden, waarbij zeker twaalf mensen omkwamen. Algerije kent nog altijd de doodstraf, maar voert sinds 1993 geen executies meer uit. Daarmee geldt al 33 jaar een moratorium, een tijdelijke",
-      "url": "https://nos.nl/l/2629135",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Israëlische kolonisten vielen Amerikaanse tv-ploeg aan",
-      "beschrijving": "Israëlische kolonisten hebben op de bezette Westelijke Jordaanoever zaterdag een Amerikaanse tv-ploeg aangevallen, evenals een Palestijnse vrouw die door die ploeg geïnterviewd werd. De 51-jarige Aida Ahmed Abdullah uit de plaats Jalud wees de journalisten van nieuwszender NBC waar zij en haar familie gewoond hadden voordat ze door kolonisten waren weggejaagd, schrijft NBC. Toen de vrouw werd geïn",
-      "url": "https://nos.nl/l/2629125",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Verdachte opgepakt na dodelijke schietpartij op rave in Zwitserland",
-      "beschrijving": "De Zwitserse politie heeft een 43-jarige man gearresteerd in verband met de dodelijke schietpartij op een feest in de stad Aarau. Het gaat om een man met de Zwitserse nationaliteit. De verdachte werd vannacht na een grootschalige zoekactie opgepakt, is te lezen in een verklaring. Waar de man werd gearresteerd, is niet bekendgemaakt. \"Onderzoek naar de precieze omstandigheden van het incident, even",
-      "url": "https://nos.nl/l/2629121",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Spanje en Italië verlengen grenscontroles over en weer met vijftien dagen",
-      "beschrijving": "De Spaanse regering verlengt de grenscontroles voor reizigers die per zee of per vliegtuig vanuit Italië het land binnenkomen met vijftien dagen. Het besluit volgt kort op het nieuws dat ook de Italiaanse regering de grenscontroles voor reizigers uit Spanje met dezelfde termijn verlengt. De Italianen legden het strengere toezicht een maand geleden op nadat migranten vanuit Marokko massaal de grens",
-      "url": "https://nos.nl/l/2629119",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zuid-Korea veroordeelt leider controversiële Moonsekte tot twee jaar cel",
-      "beschrijving": "De leider van de controversiële Verenigingskerk is door een Zuid-Koreaanse rechtbank veroordeeld tot twee jaar cel wegens corruptie. Hak Ja Han heeft volgens de rechter de vrouw van de afgezette Zuid-Koreaanse president Yoon omgekocht en kerkelijke gelden verduisterd. De rechtbank van Seoul heeft vastgesteld dat de kerk van Hak twee Chanel-tassen en een diamanten halsketting heeft geschonken aan K",
-      "url": "https://nos.nl/l/2629102",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Israeli strikes kill at least five Palestinians in Gaza City",
-      "beschrijving": "At least five Palestinians have been killed in two Israeli attacks in Gaza City.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
+      "titel": "Israeli outposts expand as Palestinian homes are demolished",
+      "beschrijving": "Israeli forces demolish Palestinian homes in Nablus, while in Hebron settlers cleared land for a new outpost.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump says Iran is ‘dead’, vows to respond after renewed clashes",
-      "beschrijving": "US president promises to hit Iran and calls for the country&#039;s leaders to be prosecuted for killing protesters.",
-      "url": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss",
+      "titel": "Lebanon asks Greece to help enforce agreement with Israel",
+      "beschrijving": "After Greece agrees to Israeli weapons deal, Joseph Aoun asks Athens to help advance US-brokered framework agreement.",
+      "url": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Iran",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Is Trump testing the limits of US power?",
-      "beschrijving": "With weeks to go before US midterm elections, are President Trump&#039;s policies helping or hurting his Republican Party?",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "War and heat: Why are wheat prices soaring?",
-      "beschrijving": "Russia and Ukraine have stepped up attacks on their respective grain terminals in the Black Sea.",
-      "url": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring?traffic_source=rss",
+      "titel": "Far-right Israeli Minister Ben-Gvir and settlers storm Al-Aqsa Mosque",
+      "beschrijving": "Israeli Minister Ben-Gvir storms Al-Aqsa Mosque compound with settlers, violating decades-old status quo arrangement.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/far-right-israeli-minister-ben-gvir-and-settlers-storm-al-aqsa-mosque?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US and Iran trade strikes for first time in weeks",
-      "beschrijving": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
     },
     {
       "titel": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
       "beschrijving": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
       "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "US and Iran trade strikes for first time in weeks",
+      "beschrijving": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "datum": "8 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Why has Greece signed a $3.5bn missile deal with Israel?",
+    "Ukrainians mourn community leader killed in Russian strike on Myla",
+    "What to know: US court hearing held for alleged Lockerbie bombmaker",
     "Man arrested after Swiss rave shooting that killed woman",
     "Thaise badplaats treft voorbereidingen voor komst Amerikaanse militairen",
-    "EU onderschept schip van de Russische schaduwvloot op Middellandse Zee",
-    "België waarschuwt voor escalatie na beledigende post van ambassadeur VS",
-    "Historische dag voor België: na bijna 160 jaar nieuw strafwetboek",
-    "Noorse Marius Borg Høiby mag aanwezig zijn bij begrafenis koning Harald",
-    "Algerije wil doodstraf hervatten voor brandstichters na fatale natuurbranden",
-    "Israëlische kolonisten vielen Amerikaanse tv-ploeg aan",
-    "Verdachte opgepakt na dodelijke schietpartij op rave in Zwitserland"
+    "Franse oud-premier Édouard Balladur (97) overleden",
+    "Poolse autoriteiten onderzoeken buitenlandse sabotage bij brand dronefabriek",
+    "Tweede dode door overstroming Grand Canyon, nog 15 vermisten",
+    "Tientallen sterfgevallen in ICE-detentiecentra: ‘ze behandelen mensen als afval’",
+    "Schooldirecteur redde in Nepal 1643 kinderen voordat overstroming school verwoestte",
+    "Vermiste Nederlanders in rampgebied Nepal nog niet gevonden, zoektocht wel gestart"
   ]
 }
