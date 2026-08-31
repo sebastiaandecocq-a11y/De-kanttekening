@@ -1,30 +1,21 @@
 {
-  "bijgewerkt": "31 Aug 2026 01:13 UTC",
+  "bijgewerkt": "31 Aug 2026 08:23 UTC",
   "artikelen": [
     {
-      "titel": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
-      "beschrijving": "US Central Command says its forces bombed two rocket launchers of the IRGC on Larak Island.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Iran targets Jordan after first US attack in a month",
+      "beschrijving": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+      "datum": "5 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "titel": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
       "beschrijving": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
       "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "beschrijving": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
@@ -32,7 +23,7 @@
       "titel": "Russia says it helped to repel Niger attempted coup",
       "beschrijving": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
       "url": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -41,7 +32,7 @@
       "titel": "British woman killed in stabbing at German railway station",
       "beschrijving": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
       "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -50,25 +41,61 @@
       "titel": "Ultraorthodox verzet tegen dienstplicht: belangrijk verkiezingsthema in Israël",
       "beschrijving": "Veel ultraorthodoxe joden in Israël blijven zich verzetten tegen de militaire dienstplicht. Voor hen is het bestuderen van de Thora het belangrijkst. Ondertussen zijn verschillende oppositieleiders duidelijk: ook de ultraorthodoxen moeten het leger in. Daarmee is de dienstplicht opnieuw een belangrijk thema in aanloop naar de Israëlische verkiezingen eind oktober. \"Als je de hele dag de heilige te",
       "url": "https://nos.nl/l/2628896",
-      "datum": "16 uur geleden",
+      "datum": "23 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "VS wil met een 'antikartelcoalitie' militaire operaties in Latijns-Amerika",
-      "beschrijving": "\"Wij gaan slechte dingen met slechte mensen doen\", sprak Pete Hegseth, de Amerikaanse minister van Defensie, twee weken geleden vanuit de jungle van Panama. In het Midden-Amerikaanse land werd voor het eerst in dertien jaar een grootscheepse militaire oefening gehouden, met legerhelikopters, militairen en schepen uit de VS en een handvol Latijns-Amerikaanse landen. Vervolgens kwam Hegseth met een ",
-      "url": "https://nos.nl/l/2628880",
-      "datum": "19 uur geleden",
-      "regio": "Wereld",
+      "titel": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+      "beschrijving": "The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.",
+      "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Canada 'slaat terug' met enorm bord bij Lake Ontario in strijd om naamsverandering",
+      "beschrijving": "De Amerikaanse president en Canada blijven verwikkeld in een verbale strijd om de naam van het Lake Ontario op de grens van beide landen. Nadat president Trump vrijdag een decreet had ondertekend waardoor het meer in de Amerikaanse overheidsdocumenten voortaan Lake America heet, sloeg de premier van de Canadese provincie Ontario, Doug Ford, afgelopen weekend terug met een enorm bord. Hij onthulde ",
+      "url": "https://nos.nl/l/2629030",
+      "datum": "2 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "VS valt Iraanse installaties aan, Iran bestookt Amerikaanse bases",
-      "beschrijving": "De Verenigde Staten hebben aanvallen uitgevoerd op het Iraanse eiland Larak, melden internationale persbureaus na berichtgeving van de Amerikaanse nieuwssite Axios. Het gaat om aanvallen op twee Iraanse lanceerinstallaties op het eiland, dat ligt in het noordelijke deel van de Straat van Hormuz. Daar zouden troepen van de Revolutionaire Garde zijn waargenomen die zich voorbereidden om raketten met",
-      "url": "https://nos.nl/l/2629007",
+      "titel": "Wekdienst 31/8: Coronaverhoren met Schouten en Van der Staaij • Regio Midden weer naar school",
+      "beschrijving": "Goedemorgen! Vandaag gaan de coronaverhoren verder met oud-minister en huidig burgemeester van Rotterdam Carola Schouten en voormalig SGP-voorman Kees van der Staaij. En in de laatste regio beginnen de scholen weer. Eerst het weer: vandaag trekken buien over het land, soms met onweer. Tussendoor is korte tijd ruimte voor de zon. Daarbij staat een matige tot krachtige westenwind, waarbij soms zware",
+      "url": "https://nos.nl/l/2629025",
+      "datum": "3 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Dode en vermisten na plotselinge overstromingen in Grand Canyon",
+      "beschrijving": "In de Grand Canyon, in de Amerikaanse staat Arizona, is een toerist om het leven gekomen na plotselinge overstromingen in de kloof. Met zeker veertien andere toeristen die in het gebied waren is nog geen contact geweest, zeggen de lokale autoriteiten. Het dodelijke slachtoffer is een 46-jarige man. De autoriteiten meldden gisteravond dat zijn lichaam was gevonden langs de Coloradorivier, die door ",
+      "url": "https://nos.nl/l/2629019",
       "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Scholen op Sint-Maarten blijven dicht vanwege slecht weer",
+      "beschrijving": "Op het Caribische eiland Sint-Maarten blijven de scholen vandaag dicht vanwege slecht weer. Voor het eiland geldt een waarschuwing voor zware buien als gevolg van tropische storm Dolly. Ook op andere plekken in het Caribisch deel van het Koninkrijk, zoals Saba en Sint-Eustatius, wordt rekening gehouden met overlast als gevolg van zware regenval. Zo stelt de overheid van Saba: \"Zware regenbuien kun",
+      "url": "https://nos.nl/l/2629018",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "VS valt na weken weer Iraanse installaties aan, Iran bestookt Amerikaanse bases",
+      "beschrijving": "De Verenigde Staten hebben aanvallen uitgevoerd op het Iraanse eiland Larak. Het gaat om aanvallen op twee Iraanse lanceerinstallaties op het eiland, dat ligt in het noordelijke deel van de Straat van Hormuz. Er zouden troepen van de Revolutionaire Garde zijn waargenomen die zich voorbereidden om raketten met zeemijnen richting de zeestraat te lanceren. Iraanse staatsmedia schrijven dat in de buur",
+      "url": "https://nos.nl/l/2629007",
+      "datum": "12 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +104,7 @@
       "titel": "NASA lanceert ruimtetelescoop die het donkere heelal moet onderzoeken",
       "beschrijving": "NASA heeft een nieuwe telescoop gelanceerd die wetenschappers meer inzicht moet geven in donkere materie en donkere energie, en werelden buiten ons zonnestelsel. Ook hoopt de Amerikaanse ruimtevaartorganisatie antwoorden te vinden op de vraag waarom het heelal blijft uitdijen. Het gaat om de Nancy Grace Roman Space Telescope, een NASA-project van 4 miljard dollar. De telescoop werd vandaag gelance",
       "url": "https://nos.nl/l/2628999",
-      "datum": "6 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,16 +113,16 @@
       "titel": "Bemanning van bij Cyprus gezonken veerboot gearresteerd",
       "beschrijving": "De kapitein en overige zeven bemanningsleden van de veerboot die vanmiddag ten noorden van Cyprus kapseisde, zijn opgepakt. Dat heeft de premier van Noord-Cyprus verklaard. Waar de aangehouden bemanningsleden van worden verdacht, zei hij niet. Het schip met daarop volgens de autoriteiten 267 opvarenden vertrok rond het middaguur vanaf de haven van Girne richting de Turkse kustplaats Tasucu. Zo'n 6",
       "url": "https://nos.nl/l/2628996",
-      "datum": "6 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Zeven doden na omslaan boot bij Cyprus, zoektocht naar 23 vermisten op zee",
-      "beschrijving": "Aan de noordkant van Cyprus is een schip met zo'n 270 opvarenden gekapseisd. Daarbij zijn zeker zeven mensen om het leven gekomen, zegt de premier van Noord-Cyprus tegen de Turkse CNN. De veerboot vertrok rond het middaguur uit de haven van Girne. Kort daarna is het op zo'n 6 kilometer uit de kust omgeslagen, schrijft het Turkse ministerie van Binnenlandse Zaken. Op beelden is te zien dat tientall",
+      "beschrijving": "Aan de noordkant van Cyprus is een schip met zo'n 270 opvarenden gekapseisd. Daarbij zijn zeker zeven mensen om het leven gekomen, zegt de premier van Noord-Cyprus tegen de Turkse CNN. De veerboot vertrok rond het middaguur uit de haven van Girne. Kort daarna sloeg die zo'n 6 kilometer van de kust om, schrijft het Turkse ministerie van Binnenlandse Zaken. Op beelden is te zien dat tientallen mense",
       "url": "https://nos.nl/l/2628913",
-      "datum": "13 uur geleden",
+      "datum": "20 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,94 +131,67 @@
       "titel": "Vliegtuigen scheren rakelings over vol rugbystadion: 'Geen woorden voor'",
       "beschrijving": "\"Dat was nogal riskant\" en \"Dit had kunnen uitlopen op een catastrofe\". Op sociale media wordt geschokt gereageerd onder video's van vliegtuigen die heel laag over een stadion in Kaapstad vliegen. De zogenoemde flyover werd gedaan voorafgaand aan een rugbywedstrijd tussen Zuid-Afrika en Nieuw-Zeeland. Op beelden lijken de passagiersvliegtuigen slechts enkele meters boven het stadion te vliegen, te",
       "url": "https://nos.nl/l/2628909",
-      "datum": "14 uur geleden",
+      "datum": "21 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Waarschuwingen voor nieuwe overstromingen Nepal, dodental gestegen tot 804",
-      "beschrijving": "In Nepal wordt opnieuw gewaarschuwd voor overstromingen na de verwoestende stortvloed van deze week. Het waterpeil in de buurt van de Bhote Koshi-rivier in het noorden is gestegen. Die rivier overstroomde woensdag, waarna de stortvloed verder op gang kwam. De rampenbestrijdingsdienst in het land roept mensen op alert te blijven in de gebieden rond de rivier. Er wordt gevreesd voor een nieuwe vloed",
-      "url": "https://nos.nl/l/2628893",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dode en gewonden door schietpartij bij rave in Zwitserland",
-      "beschrijving": "In de Zwitserse stad Aarau zijn vannacht bij een rave schoten gelost. Een vrouw van 22 is om het leven gekomen. Er zijn vijf gewonden, vier jonge mannen en een jonge vrouw. Die zijn naar het ziekenhuis gebracht, meldt de politie. De politie en hulpdiensten zijn massaal uitgerukt. Het feest was op de paardenrenbaan in de wijk Schachen. Halverwege de nacht zouden er schoten zijn afgevuurd op de meni",
-      "url": "https://nos.nl/l/2628883",
-      "datum": "19 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 30/8: NASA wil nieuwe ruimtetelescoop lanceren • WK mountainbike met Van der Poel en Pieterse",
-      "beschrijving": "Goedemorgen! Vandaag wil de Amerikaanse ruimtevaartorganisatie NASA een nieuwe ruimtetelescoop lanceren. En in het Italiaanse Val di Sole wordt het WK mountainbiken gefietst. Eerst het weer: Verspreid over het land buien, maar vanmiddag droog met geregeld zon. Het wordt maximaal 20 tot 22 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamheden en hier alles over d",
-      "url": "https://nos.nl/l/2628879",
-      "datum": "19 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
-      "beschrijving": "Ten months after a coup, military leaders say the referendum is designed to stabilise future civilian governments.",
-      "url": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Global coral reef coverage risks irreversible decline, new report warns",
+      "beschrijving": "Coral reefs make up just 1 percent of ocean coverage, but host a quarter of all life in the sea.",
+      "url": "https://www.aljazeera.com/news/2026/8/31/global-coral-reef-coverage-risks-irreversible-decline-new-report-warns?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israeli strike kills 3-year-old child in Gaza",
-      "beschrijving": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
-      "datum": "4 uur geleden",
+      "titel": "Two Palestinians reported dead as Israeli forces raid Nablus",
+      "beschrijving": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+      "datum": "5 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Jose Andres renews call for investigation into WCK Gaza staff killings",
-      "beschrijving": "World Central Kitchen founder José Andrés is renewing his call for an independent investigation into Israeli strikes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "US and Iran trade strikes for first time in weeks",
+      "beschrijving": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
-      "beschrijving": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
-      "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "'A giant leap forward': Nasa launches powerful new space telescope",
       "beschrijving": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
       "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "beschrijving": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 dagen geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
-    "Eight killed and others missing after ferry capsizes off northern Cyprus",
-    "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+    "Iran targets Jordan after first US attack in a month",
+    "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
     "Russia says it helped to repel Niger attempted coup",
     "British woman killed in stabbing at German railway station",
     "Ultraorthodox verzet tegen dienstplicht: belangrijk verkiezingsthema in Israël",
-    "VS wil met een 'antikartelcoalitie' militaire operaties in Latijns-Amerika",
-    "VS valt Iraanse installaties aan, Iran bestookt Amerikaanse bases",
-    "NASA lanceert ruimtetelescoop die het donkere heelal moet onderzoeken",
-    "Bemanning van bij Cyprus gezonken veerboot gearresteerd"
+    "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+    "Canada 'slaat terug' met enorm bord bij Lake Ontario in strijd om naamsverandering",
+    "Wekdienst 31/8: Coronaverhoren met Schouten en Van der Staaij • Regio Midden weer naar school",
+    "Dode en vermisten na plotselinge overstromingen in Grand Canyon",
+    "Scholen op Sint-Maarten blijven dicht vanwege slecht weer"
   ]
 }
