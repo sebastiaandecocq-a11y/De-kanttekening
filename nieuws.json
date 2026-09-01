@@ -1,47 +1,92 @@
 {
-  "bijgewerkt": "01 Sep 2026 07:31 UTC",
+  "bijgewerkt": "01 Sep 2026 13:17 UTC",
   "artikelen": [
     {
-      "titel": "Elf doden Russische luchtaanvallen op Oekraïne, treininfrastructuur geraakt",
-      "beschrijving": "Bij Russische aanvallen op Oekraïne zijn negen mensen om het leven gekomen en zeker veertien gewond geraakt, melden de autoriteiten van het land. Ook raakten zeker tien mensen gewond, onder wie ook kinderen. Het is de zesde dag op rij van Russische aanvallen op en rond de hoofdstad. Kyiv en nabijgelegen gebieden werden onder vuur genomen met onder meer ballistische raketten en drones, schrijft de ",
+      "titel": "Elf doden bij Russische luchtaanvallen op Oekraïne, spoorfaciliteiten geraakt",
+      "beschrijving": "Bij Russische aanvallen op Oekraïne zijn negen mensen om het leven gekomen en zeker veertien gewond geraakt, melden de Oekraïense autoriteiten. Onder hen zijn ook kinderen. Het is de zesde dag op rij van Russische aanvallen op en rond de hoofdstad. Kyiv en nabijgelegen gebied werden onder vuur genomen met onder meer ballistische raketten en drones, schrijft de Kyiv Independent. Daarbij werden drie",
       "url": "https://nos.nl/l/2629199",
-      "datum": "4 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Teen faces life over livestream of San Diego mosque attack",
-      "beschrijving": "A 17-year-old girl has been indicted in North Carolina on murder and conspiracy charges",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/teen-faces-life-over-livestream-of-san-diego-mosque-attack?traffic_source=rss",
-      "datum": "51 min geleden",
+      "titel": "Two killed after ammunition-laden vehicle explodes in Syria’s Idlib",
+      "beschrijving": "Several people injured in the incident that took place in the Idlib countryside, state media reports.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Oil prices climb as US, Iranian attacks stoke fears of escalation",
-      "beschrijving": "After peaking at $94.40 a barrel on August 21, Brent has been trading in the range of $86-$91 since the MoU lapsed.",
-      "url": "https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
+      "titel": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "beschrijving": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Teen girl charged with murder over recording of San Diego mosque attack",
+      "beschrijving": "Prosecutors say the 17-year-old from North Carolina also published a manifesto from the two teenage shooters in the 18 May attack.",
+      "url": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "What to know about the US primary election in Massachusetts",
+      "beschrijving": "Competitive House races and a Senate showdown will put US Democrats’ progressive-moderate divide to the test.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/what-to-know-about-the-us-primary-election-in-massachusetts?traffic_source=rss",
+      "datum": "41 min geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "EU considers military mission to replace UN peacekeepers in South Lebanon",
-      "beschrijving": "Analysts say Israel could benefit when UNIFIL&#039;s mandate expires on December 31.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss",
+      "titel": "Noorse koning Haakon VIII legt in parlement eed af, Mette-Marit laat verstek gaan",
+      "beschrijving": "De nieuwe Noorse koning heeft voor het parlement de eed afgelegd. Haakon VIII volgt zijn vader op, koning Harald V, die afgelopen vrijdag overleed op 89-jarige leeftijd. De Noren hebben al ruim een eeuw geen kroning meer en de eedaflegging is daarmee formeel een nog belangrijker moment. De 53-jarige koning Haakon VIII werd in Oslo in een open auto van het paleis naar het parlement gereden, een afs",
+      "url": "https://nos.nl/l/2629267",
+      "datum": "22 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Dieven slaan hun slag in Californië met enorme roof bierblikjes",
+      "beschrijving": "\"Aan de dief: we nemen het je niet kwalijk dat je tegenover je vrienden wilt opscheppen over hoeveel van ons bier je hebt, we hadden alleen gehoopt dat je het op een eervolle manier had verkregen.\" Met deze oproep op sociale media probeert een grote bierbrouwer in Californië een enorme partij bierblikjes terug te krijgen. De diefstal was al op 17 augustus, bij een distributiecentrum van bierbrouwe",
+      "url": "https://nos.nl/l/2629261",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Dodental Nepal boven de 1000, 'hoop op redden van mensen eigenlijk opgegeven'",
+      "beschrijving": "Vijf dagen na de verwoestende stortvloed in Nepal en Tibet wordt de hoop op het vinden van overlevenden steeds kleiner. Het dodental is inmiddels opgelopen tot boven de duizend. \"Het acute zoeken naar mensen en het mensen redden, die hoop is eigenlijk al opgegeven\", zegt Ilse Bennink die zich met haar Stichting Diyo Nepal inzet voor slachtoffers in het rampgebied. In Nepal zijn inmiddels 1003 dode",
+      "url": "https://nos.nl/l/2629256",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Bijzondere gouden munt uit Curaçao van ruim 200 jaar oud geveild voor recordbedrag",
+      "beschrijving": "In de VS is een zeldzame gouden munt uit Curaçao geveild voor 390.400 dollar, ruim 336.000 euro. Nooit eerder werd er zoveel geld neergelegd voor een munt uit de voormalige Nederlandse kolonie in het Caribisch gebied, laat het veilinghuis weten. Er was een gerekend op een minimale prijs van 100.000 dollar. Het muntstuk is van 180 reaal, de munteenheid van Curaçao tot 1828. Het geldstuk komt uit on",
+      "url": "https://nos.nl/l/2629253",
       "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Onderminister en 'drone guy' Trump stapt op, 'onvrede over koers Hegseth'",
       "beschrijving": "De Amerikaanse onderminister van het Leger Dan Driscoll is opgestapt. Een officiële reden is niet gegeven, maar achter de schermen speelt volgens Amerikaanse media een conflict met defensieminister Pete Hegseth. Afgelopen tijd waren er meer positiewisselingen en ontslagen bij de krijgsmacht. In april werd de hoogste militair, generaal Randy George, door Hegseth ontslagen. Dat is een bondgenoot en ",
       "url": "https://nos.nl/l/2629221",
-      "datum": "12 min geleden",
+      "datum": "5 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +95,7 @@
       "titel": "Dode bij steekincident Times Square, politie schiet dader dood",
       "beschrijving": "Op het drukke Times Square in New York is een vrouw doodgestoken. Er raakte ook iemand gewond. De dader is doodgeschoten door de politie. Rond 16.30 uur plaatselijke tijd trok een 49-jarige vrouw twee messen uit een boodschappentas en stak een man van 68 die uit een metrostation gelopen kwam in zijn buik. Vlak daarna stak ze ook een 32-jarige vrouw in haar buik. Beide slachtoffers leken willekeuri",
       "url": "https://nos.nl/l/2629208",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +104,7 @@
       "titel": "Sabotage, hacks en drones: Europa zoekt antwoord op Russische dreiging",
       "beschrijving": "Wat wordt het Europese antwoord op steeds agressievere vormen van 'hybride acties' van Rusland? Over die vraag buigen zich komende dagen de EU-ministers van Defensie en Buitenlandse Zaken in Ierland. De lange lijst van sabotageacties, hacks en andere aanvallen in Europa zijn een bron van grote zorg. De incidenten worden steeds gevaarlijker: eind augustus schakelden gevechtsvliegtuigen in Roemenië ",
       "url": "https://nos.nl/l/2629207",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +113,7 @@
       "titel": "Wekdienst 1/9: Pools smartphoneverbod op scholen • Shein gaat naar de beurs in Hongkong",
       "beschrijving": "Goedemorgen! Polen voert een verbod in voor mobiele telefoons op scholen en Shein gaat naar de beurs in Hongkong Eerst het weer: vanochtend vooral in het zuiden en noorden enkele buien. Vanmiddag blijft het droog en is het 20 of 21 graden. De wind komt uit het westen. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamheden en hier alles over de situatie op het spoor. Wat ",
       "url": "https://nos.nl/l/2629200",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,71 +122,53 @@
       "titel": "Bendelid na 30 jaar veroordeeld voor moord op rapper 2Pac",
       "beschrijving": "Voormalig bendelid Duane Davis is door een jury in de Amerikaanse stad Las Vegas veroordeeld voor de moord op hiphoplegende 2Pac in 1996. De jury acht bewezen dat Duane 'Keffe D' Davis de moord op de rapper heeft beraamd. Tupac Shakur, beter bekend als 2Pac, is een van de bekendste rappers ooit. In de jaren 90 werd hij wereldberoemd met hits als California Love, Dear Mama en Keep Ya Head Up. Hij h",
       "url": "https://nos.nl/l/2629198",
-      "datum": "5 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "91-jarige Amerikaan loopt Appalachian Trail van 3500 kilometer en vestigt record",
-      "beschrijving": "De 91-jarige Amerikaan Dale Sanders is de oudste wandelaar ter wereld die de Appalachian Trail heeft uitgelopen. Hij begon op 6 september vorig jaar aan de bekende langeafstandswandelroute en kwam vandaag na 3530 kilometer aan op de Mount Katahdin in de Amerikaanse staat Maine. De wandeltocht ging niet zonder slag of stoot, schrijft ABC News. Tijdens de poging om het record te verbreken viel Sande",
-      "url": "https://nos.nl/l/2629195",
-      "datum": "8 uur geleden",
+      "titel": "Qatar planning to host Formula One, MotoGP despite Middle East conflict",
+      "beschrijving": "The Qatar Grand Prix and MotoGP races scheduled for November are expected to go ahead, local organisers say.",
+      "url": "https://www.aljazeera.com/sports/2026/9/1/qatar-planning-to-host-formula-one-motogp-despite-middle-east-conflict?traffic_source=rss",
+      "datum": "14 min geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Franse oud-premier Édouard Balladur (97) overleden",
-      "beschrijving": "In Parijs is de Franse oud-premier Édouard Balladur overleden. Dat heeft zijn familie laten weten aan persbureau AFP. Hij was 97 jaar. Balladur werd geboren in het Turkse Izmir, in een bankiersfamilie van Armeense komaf. Als kind verhuisde hij met zijn ouders naar Frankrijk. Na een studie rechten in Parijs begon hij halverwege de jaren 60 zijn politieke carrière als adviseur van premier Georges Po",
-      "url": "https://nos.nl/l/2629189",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Poolse autoriteiten onderzoeken buitenlandse sabotage bij brand dronefabriek",
-      "beschrijving": "Het Poolse Openbaar Ministerie heeft een onderzoek geopend naar de brand die vannacht woedde in een dronefabriek. Het OM zegt te onderzoeken of het gaat om een terroristisch misdrijf en brandstichting waarbij buitenlandse inlichtingendiensten betrokken waren. De fabriek, WB Electronics, is een van de grootste particuliere defensiebedrijven van Polen. Er worden onder meer verkenningsdrones gemaakt ",
-      "url": "https://nos.nl/l/2629187",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Tweede dode door overstroming Grand Canyon, nog 15 vermisten",
-      "beschrijving": "Zeker twee mensen zijn omgekomen in de Grand Canyon, in de Amerikaanse staat Arizona. Delen van het gebied werden dit weekend getroffen door hevige overstromingen. Eerder vandaag werd al een 46-jarige man overleden aangetroffen, nu is daar een tweede slachtoffer bijgekomen, melden de autoriteiten. Over de identiteit of leeftijd van de tweede dode wordt niets gedeeld. Nog ongeveer vijftien anderen ",
-      "url": "https://nos.nl/l/2629176",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses",
-      "beschrijving": "Israeli ministers escalate campaign rhetoric with AI ads as Gaza strikes widen ahead of tight October election.",
-      "url": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss",
-      "datum": "28 min geleden",
-      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israeli forces raze West Bank homes as EU weighs ban on settlement goods",
-      "beschrijving": "Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss",
+      "titel": "Iran urges US to honour commitments under MoU",
+      "beschrijving": "Tehran calls for Washington to respect terms of MoU after attacks send tensions soaring in the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss",
+      "datum": "16 min geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Pakistan wins Indus waters battle at The Hague, but India threat remains",
+      "beschrijving": "The Permanent Court of Arbitration says the treaty remains binding. But India has rejected the findings.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/pakistan-wins-indus-waters-battle-at-the-hague-but-india-threat-remains?traffic_source=rss",
+      "datum": "52 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
+      "beschrijving": "Trump signals harsher response as US-Iran hostilities escalate, raising fears of prolonged conflict in the Gulf region.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Abroad and at odds: How the war has divided Iranians in the diaspora",
+      "beschrijving": "Many Iranians in the diaspora remain caught in the paradox of opposing the war and the government in Tehran.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Algeria’s president seeks death penalty for those who start forest fires",
-      "beschrijving": "Abdelmadjid Tebboune&#039;s call comes after wildfires killed at least 12 people and injured 54 in northeastern Algeria.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/algerias-president-seeks-death-penalty-for-those-who-start-forest-fires?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -149,40 +176,22 @@
       "titel": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
       "beschrijving": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
       "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "How catastrophic flash flood unfolded at remote Nepal-China border point",
-      "beschrijving": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "US army secretary resigns after months of tension",
-      "beschrijving": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
-      "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Elf doden Russische luchtaanvallen op Oekraïne, treininfrastructuur geraakt",
-    "Teen faces life over livestream of San Diego mosque attack",
-    "Oil prices climb as US, Iranian attacks stoke fears of escalation",
-    "EU considers military mission to replace UN peacekeepers in South Lebanon",
-    "Onderminister en 'drone guy' Trump stapt op, 'onvrede over koers Hegseth'",
-    "Dode bij steekincident Times Square, politie schiet dader dood",
-    "Sabotage, hacks en drones: Europa zoekt antwoord op Russische dreiging",
-    "Wekdienst 1/9: Pools smartphoneverbod op scholen • Shein gaat naar de beurs in Hongkong",
-    "Bendelid na 30 jaar veroordeeld voor moord op rapper 2Pac",
-    "91-jarige Amerikaan loopt Appalachian Trail van 3500 kilometer en vestigt record"
+    "Elf doden bij Russische luchtaanvallen op Oekraïne, spoorfaciliteiten geraakt",
+    "Two killed after ammunition-laden vehicle explodes in Syria’s Idlib",
+    "Russian attack hits rail workers in new deadly strikes on Kyiv",
+    "Teen girl charged with murder over recording of San Diego mosque attack",
+    "What to know about the US primary election in Massachusetts",
+    "Noorse koning Haakon VIII legt in parlement eed af, Mette-Marit laat verstek gaan",
+    "Dieven slaan hun slag in Californië met enorme roof bierblikjes",
+    "Dodental Nepal boven de 1000, 'hoop op redden van mensen eigenlijk opgegeven'",
+    "Bijzondere gouden munt uit Curaçao van ruim 200 jaar oud geveild voor recordbedrag",
+    "Onderminister en 'drone guy' Trump stapt op, 'onvrede over koers Hegseth'"
   ]
 }
