@@ -1,38 +1,83 @@
 {
-  "bijgewerkt": "01 Sep 2026 20:48 UTC",
+  "bijgewerkt": "01 Sep 2026 23:09 UTC",
   "artikelen": [
     {
       "titel": "VS valt Iraanse doelen aan, Iran dreigt met vergeldingsaanvallen",
       "beschrijving": "De Verenigde Staten hebben opnieuw aanvallen uitgevoerd op Iraanse doelen. De aanvallen werden gemeld door het Amerikaanse militaire commando voor het Midden-Oosten (Centcom). Ze zijn een reactie op de pogingen tot aanslagen op schepen in de Straat van Hormuz en Amerikaanse troepen in de regio, aldus Centcom. Iraanse media hebben explosies gemeld in delen van het zuiden van Iran. Zo zijn er aanval",
       "url": "https://nos.nl/l/2629313",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Man in België overleden na aanval van geelpoothoornaars",
-      "beschrijving": "Een steek van een insect wordt iemand zelden fataal, maar toch is er in België een man overleden nadat hij was gestoken door geelpoothoornaars, die tot voor kort Aziatische hoornaars werden genoemd. Afgelopen week werd de 60-jarige Eddy De Mulder aangevallen door een nest geelpoothoornaars en belandde in een coma, schrijft de Vlaamse krant HLN. Hij overleed een paar dagen later. Op donderdagavond ",
+      "titel": "Man in België hersendood na aanval van geelpoothoornaars",
+      "beschrijving": "In België is een man hersendood verklaard nadat hij was gestoken door geelpoothoornaars, insecten die tot voor kort Aziatische hoornaars werden genoemd. Afgelopen week werd de 60-jarige Eddy De Mulder aangevallen door een nest geelpoothoornaars en belandde in een coma, schrijft de Vlaamse omroep VRT. Op donderdagavond liep De Mulder naar zijn stal om zijn pony nog wat hooi te geven, vertelt zijn n",
       "url": "https://nos.nl/l/2629306",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
+      "titel": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+      "beschrijving": "The IAEA said lack of information and access to facilities to verify Iran&#039;s nuclear material is a proliferation concern.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Deadly car bomb attack at Colombia police station",
+      "beschrijving": "Deadly car bomb attack at Colombia police station",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+      "beschrijving": "Three Palestinian children were among four people killed in Israeli strikes on Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Germany says Russia behind Leipzig airport drone attack",
       "beschrijving": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
       "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "US strikes Iran as state media reports four killed at wedding party",
+      "beschrijving": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Russische webwinkel Ozon laat verkopers goederen opslaan in Kazachstan",
+      "beschrijving": "De Russische webwinkel Ozon biedt verkopers die hun producten via de webwinkel verkopen de mogelijkheid om hun voorraad voortaan op te slaan in buurland Kazachstan. \"Van daaruit leveren we de bestelling probleemloos aan klanten in Rusland en dankzij de snelle levering aan lokale Ozon-klanten zal de omzet in Kazachstan en Kirgizië ook toenemen\", laat het bedrijf in een persverklaring op Telegram we",
+      "url": "https://nos.nl/l/2629320",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Wrak van veerbootongeluk bij Cyprus mogelijk gevonden, nog steeds 20 vermisten",
       "beschrijving": "Het wrak van de veerboot die zondag ten noorden van Cyprus kapseisde, is mogelijk gevonden. Eerder vandaag hield de Turks-Cypriotische leider Tufan Erhurman een persconferentie bij de haven van Girne, vanwaar het schip vertrok. Sinds de ramp is daar een crisiscentrum ingesteld. \"De locatie van een object, waarvan momenteel wordt aangenomen dat het het gezonken schip is, is vastgesteld. Dit object ",
       "url": "https://nos.nl/l/2629314",
-      "datum": "41 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +86,7 @@
       "titel": "Zwaar getroffen bergdorp Betrawati in Nepal krijgt eindelijk eerste noodhulp",
       "beschrijving": "De klok in de toren van het bankgebouw in Betrawati staat stil op 09.30 uur. Dat is het moment waarop de vloedgolf het punt bereikte waar de rivieren Trishuli en Betrawati hier samenvloeien. Het dorp raakte vrijwel afgesloten van de buitenwereld. Naast het bankgebouw zijn enkel nog de bovenste verdiepingen van een paar gebouwen te zien aan de eens zo drukke winkelstraat van de stad. Er is geen str",
       "url": "https://nos.nl/l/2629311",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +95,7 @@
       "titel": "Duitsland houdt Rusland verantwoordelijk voor drone met explosieven in Leipzig",
       "beschrijving": "Rusland zit achter de drone die begin vorige maand werd aangetroffen bij het vliegveld van Leipzig. Dat hebben de Duitse ministers Dobrindt en Wadephul bekendgemaakt op een persconferentie. Begin augustus werd een drone aangetroffen bij het vliegveld in de buurt van een Oekraïens vrachtvliegtuig. Die drone bleek geladen met zeer explosieve stoffen en een ontsteker. Later die maand zijn nog twee dr",
       "url": "https://nos.nl/l/2629293",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +104,7 @@
       "titel": "Explosieven gevonden bij Duits hoogspanningsstation, doelwit mogelijk kolencentrale",
       "beschrijving": "De Duitse politie heeft vanochtend bij een hoogspanningsstation in Turnow-Preilack in de deelstaat Brandenburg meerdere explosieven aangetroffen. Die explosieven zouden \"zelfgemaakt\" zijn en lijken op vuurwerkexplosieven. Volgens de politie is er minstens één explosie geweest, maar ontplofte de rest van de explosieven niet, aldus Der Spiegel. De explosie richtte schade aan, maar hoe groot die scha",
       "url": "https://nos.nl/l/2629291",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +113,7 @@
       "titel": "Russen bestoken massaal Oekraïense boekensector: 'Ze vernietigen mijn hele cultuur'",
       "beschrijving": "Rusland heeft de afgelopen weken met ballistische raketten acht à negen miljoen Oekraïense boeken vernietigd. Dat is ongeveer een derde van alle boeken die jaarlijks in Oekraïne worden gedrukt. Een groot deel daarvan is schoolboeken. Vandaag is de eerste schooldag in Oekraïne. Veel kinderen zullen hun leerjaar beginnen zonder lesmateriaal. Als gevolg van een reeks van zeker zeven luchtaanvallen, d",
       "url": "https://nos.nl/l/2629284",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +122,7 @@
       "titel": "Noorse koning Haakon VIII legt in parlement eed af, Mette-Marit laat verstek gaan",
       "beschrijving": "De nieuwe Noorse koning heeft voor het parlement de eed afgelegd. Haakon VIII volgt zijn vader op, koning Harald V, die afgelopen vrijdag overleed op 89-jarige leeftijd. De Noren hebben al ruim een eeuw geen kroning meer en de eedaflegging is daarmee formeel een nog belangrijker moment. De 53-jarige koning Haakon VIII werd in Oslo in een open auto van het paleis naar het parlement gereden, een afs",
       "url": "https://nos.nl/l/2629267",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,112 +131,67 @@
       "titel": "Dieven slaan hun slag in Californië met enorme roof bierblikjes",
       "beschrijving": "\"Aan de dief: we nemen het je niet kwalijk dat je tegenover je vrienden wilt opscheppen over hoeveel van ons bier je hebt, we hadden alleen gehoopt dat je het op een eervolle manier had verkregen.\" Met deze oproep op sociale media probeert een grote bierbrouwer in Californië een enorme partij blikjes bier terug te krijgen. De diefstal was al op 17 augustus, bij een distributiecentrum van bierbrouw",
       "url": "https://nos.nl/l/2629261",
-      "datum": "8 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Dodental Nepal boven de 1000, 'hoop op redden van mensen eigenlijk opgegeven'",
-      "beschrijving": "Vijf dagen na de verwoestende stortvloed in Nepal en Tibet wordt de hoop op het vinden van overlevenden steeds kleiner. Het dodental is inmiddels opgelopen tot boven de duizend. \"Het acute zoeken naar mensen en het mensen redden, die hoop is eigenlijk al opgegeven\", zegt Ilse Bennink die zich met haar Stichting Diyo Nepal inzet voor slachtoffers in het rampgebied. In Nepal zijn inmiddels 1003 dode",
-      "url": "https://nos.nl/l/2629256",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "What’s driven the defence deal between Israel and Greece?",
-      "beschrijving": "Two countries sign $3.5bn weapons agreement.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
-      "datum": "12 min geleden",
+      "titel": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
+      "beschrijving": "Cisco employees allege harassment after internal activism against technology sales to the Israeli military.",
+      "url": "https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss",
+      "datum": "15 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Munitions vehicle explodes killing five in Idlib",
-      "beschrijving": "At least five people were killed and several others wounded when a vehicle carrying munitions exploded in Binnish",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "China’s Xi makes his first visit to Egypt in a decade",
-      "beschrijving": "Chinese President Xi Jinping arrived in Cairo and was greeted by Egyptian President Abdel Fattah el-Sisi.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/chinas-xi-makes-his-first-visit-to-egypt-in-a-decade?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "US urges G20 to cut trade imbalances, focus on China",
+      "beschrijving": "US Treasury Secretary Bessent urges other G20 countries to do more to protect their economies from Chinese imports.",
+      "url": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
+      "datum": "47 min geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israel’s multiple wars see finance, defence ministries clash over spending",
-      "beschrijving": "Spiraling costs of Israel&#039;s conflicts deepen rift between finance and defense ministries ahead of budget decisions.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Hakainde Hichilema returns as Zambia’s president following disputed vote",
-      "beschrijving": "Incumbent is inaugurated with his main rival in last month&#039;s election jailed and the courts shuttered.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Belgian mayor blocks club from hosting Israeli opponent in Europa League",
-      "beschrijving": "Union Saint-Gilloise were to host Hapoel Beer-Sheva in Europa League, but Belgian mayor insists on different venue.",
-      "url": "https://www.aljazeera.com/sports/2026/9/1/belgian-mayor-blocks-club-from-hosting-israeli-opponent-in-europa-league?traffic_source=rss",
+      "titel": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+      "beschrijving": "President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
-      "beschrijving": "Water quality in embattled Palestinian enclave already poor; flooding will exacerbate threat to health, says UN agency.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US launches more strikes on Iran as state media reports explosions",
-      "beschrijving": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "datum": "21 min geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
     },
     {
       "titel": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
       "beschrijving": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
       "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "datum": "15 uur geleden",
+      "datum": "18 uur geleden",
       "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+      "beschrijving": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "VS valt Iraanse doelen aan, Iran dreigt met vergeldingsaanvallen",
-    "Man in België overleden na aanval van geelpoothoornaars",
+    "Man in België hersendood na aanval van geelpoothoornaars",
+    "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+    "Deadly car bomb attack at Colombia police station",
+    "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
     "Germany says Russia behind Leipzig airport drone attack",
+    "US strikes Iran as state media reports four killed at wedding party",
+    "Russische webwinkel Ozon laat verkopers goederen opslaan in Kazachstan",
     "Wrak van veerbootongeluk bij Cyprus mogelijk gevonden, nog steeds 20 vermisten",
-    "Zwaar getroffen bergdorp Betrawati in Nepal krijgt eindelijk eerste noodhulp",
-    "Duitsland houdt Rusland verantwoordelijk voor drone met explosieven in Leipzig",
-    "Explosieven gevonden bij Duits hoogspanningsstation, doelwit mogelijk kolencentrale",
-    "Russen bestoken massaal Oekraïense boekensector: 'Ze vernietigen mijn hele cultuur'",
-    "Noorse koning Haakon VIII legt in parlement eed af, Mette-Marit laat verstek gaan",
-    "Dieven slaan hun slag in Californië met enorme roof bierblikjes"
+    "Zwaar getroffen bergdorp Betrawati in Nepal krijgt eindelijk eerste noodhulp"
   ]
 }
