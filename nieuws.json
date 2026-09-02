@@ -1,56 +1,101 @@
 {
-  "bijgewerkt": "02 Sep 2026 13:25 UTC",
+  "bijgewerkt": "02 Sep 2026 17:44 UTC",
   "artikelen": [
     {
       "titel": "Zelensky waarschuwt luchtvaart voor massale droneaanvallen op Rusland",
       "beschrijving": "De Oekraïense president Zelensky waarschuwt alle luchtvaartmaatschappijen dat ze het Russische luchtruim moeten mijden. Volgens hem vliegen daar nu zo veel Oekraïense drones rond dat vliegtuigen voor de burgerluchtvaart het risico lopen geraakt te worden. \"We willen elke luchtvaartmaatschappij die het Russische luchtruim benut waarschuwen en iedereen die gebruikmaakt van Russische vliegvelden: het",
       "url": "https://nos.nl/l/2629368",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "What is Iran’s Castle Breaker missile, used against US bases?",
-      "beschrijving": "Kheibar Shekan, Iran&#039;s medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss",
-      "datum": "46 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
-      "beschrijving": "A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
+      "titel": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "beschrijving": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "beschrijving": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "datum": "11 min geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "BBC World"
     },
     {
       "titel": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
       "beschrijving": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
       "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Franse tiener (18) wilde voetballer Mbappé en 25 anderen ontvoeren",
+      "beschrijving": "In Frankrijk wordt een 18-jarige ervan verdacht het brein te zijn van een criminele bende die overvallen pleegde en vermogende mensen als de voetballer Kylian Mbappé wilde ontvoeren en beroven. Hij zou instructies via de app Snapchat hebben verstuurd, schrijven Franse media. De Franse autoriteiten kwamen Clément L. op het spoor na een mislukte overval bij een horlogemaker in Neuilly-sur-Seine afge",
+      "url": "https://nos.nl/l/2629408",
+      "datum": "2 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Russisch ‘spionagehuis’ in hart van Berlijn moet dicht: ‘We waren te mild'",
+      "beschrijving": "Na ruim veertig jaar komt er een einde aan het Russische Huis in Berlijn. Volgens Duitse en Franse veiligheidsdiensten zijn er aanwijzingen dat Rusland spionage-operaties uitvoert vanuit deze cultuurinstelling. Gisteravond kondigde Duitsland de sluiting aan, als vergelding voor de Russische rol bij een aanslagpoging in Leipzig. Het Russische Huis houdt de deuren vandaag al gesloten. Een medewerker",
+      "url": "https://nos.nl/l/2629401",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Belgische minister wil kentekenplaat op elektrische steps om schietincidenten",
+      "beschrijving": "De Belgische minister van Binnenlandse Zaken Quintin wil kentekenplaten voor elektrische steps invoeren. Hij zei dat in een commissievergadering van het Belgische parlement over de vele schietincidenten de laatste tijd tussen drugsbendes in Brussel. \"Ik heb het in deze commissie over drie feiten gehad die de afgelopen 36 uur hebben plaatsgevonden\", zei minister Quintin. \"Bij twee van die feiten we",
+      "url": "https://nos.nl/l/2629390",
+      "datum": "2 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Oekraïense veiligheidsdiensten raken onderling in gevecht in Kyiv",
+      "beschrijving": "In Kyiv zijn verschillende Oekraïense inlichtingendiensten met elkaar in gevecht geraakt. Daarbij zijn gewonden gevallen, zo meldt de binnenlandse veiligheidsdienst SBOe in een verklaring op sociale media. Agenten van deze dienst, vergelijkbaar met de Nederlandse inlichtingendienst AIVD, waren bezig met een huiszoeking toen ze werden aangevallen door agenten van HOeR, de militaire inlichtingendien",
+      "url": "https://nos.nl/l/2629386",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Onhoudbare situatie in exclave Ceuta stelt de Spaanse regering op de proef",
+      "beschrijving": "Een maand na de bestorming van de grenshekken in de Spaanse exclave Ceuta wordt de situatie steeds kritieker. Met nog duizenden migranten in de exclave aan de Noord-Afrikaanse kust loopt de druk op de Spaanse regering op. Vanavond zullen de pleinen in veel Spaanse steden vollopen met mensen die hun steun betuigen aan de inwoners van Ceuta. De manifestatie die in eerste instantie was opgezet om die",
+      "url": "https://nos.nl/l/2629379",
+      "datum": "3 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Von der Leyen: drone-incident Leipzig toont 'nieuwe realiteit' in Europa",
       "beschrijving": "De poging tot een droneaanval in de Duitse stad Leipzig is volgens voorzitter Von der Leyen van de Europese Commissie een nieuwe escalatie van Russische activiteiten op Europese bodem. \"Dit was een aanval met militair materiaal, uitgevoerd door Russische agenten op het grondgebied van de Europese Unie\", zei Von der Leyen vandaag tegen journalisten in Brussel. 'Twee verdachten in beeld' Duitse medi",
       "url": "https://nos.nl/l/2629373",
-      "datum": "10 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "22 doden bij busongeluk in Egypte",
-      "beschrijving": "Bij een busongeluk in Egypte zijn 22 mensen omgekomen. Dat melden de lokale autoriteiten. Het ongeluk gebeurde vanochtend op de weg tussen de kustplaatsjes Dahab en Nuweiba. Dat zijn populaire toeristenbestemmingen aan de Rode Zeekust in het oosten van het Sinaï-schiereiland. Volgens de Jordaanse nieuwszender Al-Mamlaka was de bus vanuit Caïro op weg naar de Jordaanse stad Amman. Het voertuig zou ",
+      "beschrijving": "Bij een busongeluk in Egypte zijn 22 mensen omgekomen. Dat melden de lokale autoriteiten. Het ongeluk gebeurde vanochtend op de weg tussen de kustplaatsjes Dahab en Nuweiba. Dat zijn populaire toeristenbestemmingen aan de Golf van Akaba in het oosten van het Sinaï-schiereiland. Volgens de Jordaanse nieuwszender Al-Mamlaka was de bus vanuit Caïro op weg naar de Jordaanse stad Amman. Het voertuig zo",
       "url": "https://nos.nl/l/2629356",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +104,7 @@
       "titel": "Ruim 3000 mensen overleden aan ebola in Congo",
       "beschrijving": "In de Democratische Republiek Congo zijn inmiddels meer dan 3000 mensen overleden aan ebola. De gezondheidsautoriteiten in het Centraal-Afrikaanse land hebben dat bekendgemaakt. Sinds de uitbraak van de ziekte, medio mei. raakten voor zover bekend 6186 mensen besmet. Bijna de helft van die mensen overleed er dus aan. Vooral jonge kinderen overlijden vaak aan ebola. De huidige uitbraak is een van d",
       "url": "https://nos.nl/l/2629350",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,115 +113,70 @@
       "titel": "Explosie bij Duits hoogspanningsstation onderzocht als terrorisme",
       "beschrijving": "De Duitse politie onderzoekt of er sprake was van een terroristisch motief bij de explosie en sabotage bij een hoogspanningsstation, gisterochtend in de oostelijke deelstaat Brandenburg. Wie de explosieven bij het station heeft achtergelaten en of er een organisatie achter de aanval zit, is niet bekend. Ook de Duitse binnenlandse veiligheidsdienst is bij het onderzoek betrokken. Deelstaatminister ",
       "url": "https://nos.nl/l/2629342",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Minister Berendsen: contact met vermiste Nederlandse in Nepal",
-      "beschrijving": "Er is contact geweest met een van de vermiste Nederlanders na de overstroming in Nepal. Dat heeft minister Berendsen van Buitenlandse Zaken gezegd in de Ierse stad Wicklow, voorafgaand aan overleg met EU-buitenlandministers. Het gaat om een van de drie Nederlanders die vermist waren sinds de vloedgolf in Nepal en Tibet. De vrouw woont in Nepal en is in de hoofdstad Kathmandu, licht een woordvoerde",
-      "url": "https://nos.nl/l/2629338",
-      "datum": "5 uur geleden",
+      "titel": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
+      "beschrijving": "Activists say four organisers of flotilla that sought to break Gaza blockade have been held in Tunisia since March.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
+      "datum": "34 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Deadly bus crash in Egypt’s Sinai kills 22, injures 28",
+      "beschrijving": "A deadly bus crash in Egypt’s South Sinai killed 22 people and injured 28",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/deadly-bus-crash-in-egypts-sinai-kills-22-injures-28?traffic_source=rss",
+      "datum": "51 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Na Google zwicht ook Apple: op kaarten heet Lake Ontario nu Lake America",
-      "beschrijving": "Na Google gaat ook Apple de naam van Lake Ontario wijzigen naar Lake America in zijn uitingen, zoals Apple Maps. De Amerikaanse president Trump had de bedrijven bevolen dit te doen, onder meer vanwege de handelsoorlog die zijn regering voert met Canada. Vorige week ondertekende Trump een decreet waardoor het meer in Amerikaanse overheidsdocumenten voortaan Lake America heet. Het meer ligt op de gr",
-      "url": "https://nos.nl/l/2629337",
-      "datum": "5 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 2/9: Coronaverhoren met Ollongren en Grapperhaus • Laatste dag voetbaltransfermarkt",
-      "beschrijving": "Goedemorgen! In Den Haag gaan de coronaverhoren weer verder en de voetbalsters van PSV en Ajax doen een laatste gooi naar het hoofdtoernooi van de Champions League. Eerst het weer: vandaag wisselen de zon en wolkenvelden elkaar af. Tijdens de ochtend maakt vooral het westen kans op een bui. In de middag ontstaan dieper landinwaarts juist enkele buien. Het wordt maximaal 22 graden. Ga je vandaag op",
-      "url": "https://nos.nl/l/2629332",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hongkongse activist Joshua Wong bekent schuld: 'Zegt meer over Hongkong dan over hem'",
-      "beschrijving": "De Hongkongse pro-democratie-activist Joshua Wong heeft voor de rechtbank bekend schuldig te zijn aan samenzwering met buitenlandse partijen. Het voormalige boegbeeld van de pro-democratiebeweging in de miljoenenstad blijft daardoor waarschijnlijk langer in de cel. Wong (29) zit nu al een gevangenisstraf uit voor een andere zaak. Volgens de aanklagers heeft Wong in 2020 geprobeerd om buitenlandse ",
-      "url": "https://nos.nl/l/2629330",
-      "datum": "9 uur geleden",
+      "titel": "WHO chief warns Ebola response must ramp up to stem DRC outbreak",
+      "beschrijving": "Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Bemanning USS Abraham Lincoln na 285 dagen weer aan wal",
-      "beschrijving": "Het Amerikaanse vliegdekschip USS Abraham Lincoln is aangemeerd in Thailand. Daarmee is voor de 5000 opvarenden een einde gekomen aan een tocht van 9,5 maand zonder vaste grond onder de voeten. Vanwege de extreem lange missie werd het wel en wee op de Lincoln recent onderwerp van gesprek in de Amerikaanse media en politiek. De opvarenden zouden uitgeput zijn en de leefomstandigheden aan boord zoud",
-      "url": "https://nos.nl/l/2629327",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
-      "beschrijving": "Putin accuses Zelenskyy of &#039;terrorism&#039;, while Ukraine warns foreign airlines against using Russian airspace.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss",
-      "datum": "29 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Bodies excavated from worst flood-hit district near Nepal-China border",
-      "beschrijving": "Bodies are being excavated from the mud in Nepal&#039;s Rusawa district, which was devastated by the glacial flood.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss",
-      "datum": "32 min geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Killing at Sea",
-      "beschrijving": "Three families, two bombings and a hidden war: uncovering the lives behind Operation Southern Spear&#039;s dead.",
-      "url": "https://www.aljazeera.com/video/fault-lines/2026/9/2/killing-at-sea?traffic_source=rss",
+      "titel": "Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules",
+      "beschrijving": "Appeals panel says only military tribunals may assess court-martial convictions in blow to former Afghan war prisoner.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Why US troops have a history in this raucous Thai city",
-      "beschrijving": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
-      "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "beschrijving": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "beschrijving": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+      "titel": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
+      "beschrijving": "Israeli Prime Minister Benjamin Netanyahu has said Israel does not plan to withdraw from Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "China’s Xi urges new Middle East security framework during rare Egypt visit",
+      "beschrijving": "Chinese, Egyptian leaders discuss the US-Israel war on Iran, which has prompted regional powers to rethink defence.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-urges-new-middle-east-security-framework-during-rare-egypt-visit?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
     },
     {
       "titel": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "beschrijving": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
       "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "datum": "20 min geleden",
+      "datum": "55 min geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -184,14 +184,14 @@
   ],
   "ticker": [
     "Zelensky waarschuwt luchtvaart voor massale droneaanvallen op Rusland",
-    "What is Iran’s Castle Breaker missile, used against US bases?",
-    "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
+    "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+    "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
     "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-    "Von der Leyen: drone-incident Leipzig toont 'nieuwe realiteit' in Europa",
-    "22 doden bij busongeluk in Egypte",
-    "Ruim 3000 mensen overleden aan ebola in Congo",
-    "Explosie bij Duits hoogspanningsstation onderzocht als terrorisme",
-    "Minister Berendsen: contact met vermiste Nederlandse in Nepal",
-    "Na Google zwicht ook Apple: op kaarten heet Lake Ontario nu Lake America"
+    "Franse tiener (18) wilde voetballer Mbappé en 25 anderen ontvoeren",
+    "Russisch ‘spionagehuis’ in hart van Berlijn moet dicht: ‘We waren te mild'",
+    "Belgische minister wil kentekenplaat op elektrische steps om schietincidenten",
+    "Oekraïense veiligheidsdiensten raken onderling in gevecht in Kyiv",
+    "Onhoudbare situatie in exclave Ceuta stelt de Spaanse regering op de proef",
+    "Von der Leyen: drone-incident Leipzig toont 'nieuwe realiteit' in Europa"
   ]
 }
