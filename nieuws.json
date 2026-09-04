@@ -1,56 +1,83 @@
 {
-  "bijgewerkt": "04 Sep 2026 08:40 UTC",
+  "bijgewerkt": "04 Sep 2026 13:18 UTC",
   "artikelen": [
     {
-      "titel": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
-      "beschrijving": "Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast.",
-      "url": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "VS",
+      "titel": "Brand na Oekraïense droneaanval op oliedepot in Russische badplaats Sotsji",
+      "beschrijving": "Oekraïne heeft vannacht een droneaanval uitgevoerd op een oliedepot in de Zuid-Russische stad Sotsji, waardoor brand uitbrak. Ook zou een Russische luchtafweerinstallatie zijn geraakt. Op Russische Telegram-kanalen worden beelden gedeeld van grote vlammen en dikke zwarte rookwolken boven de stad. Volgens het onafhankelijke Russische medium Astra gaat het om een oliedepot van Rosneft-Kubannefteprod",
+      "url": "https://nos.nl/l/2629625",
+      "datum": "4 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
       "titel": "US investigating if missile hit Iran wedding, Vance says",
       "beschrijving": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
       "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Why Pakistan overhauled its military command structure after five decades",
-      "beschrijving": "New legislation gives Pakistan&#039;s military chief sweeping command powers, raising questions about oversight.",
-      "url": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Russische drones vliegen Roemenië binnen: ‘De oorlog stopt niet bij de Donau’",
+      "beschrijving": "Rusland heeft de aanvallen op Oekraïense havensteden aan de Donau flink opgevoerd en de gevolgen zijn merkbaar in buurland Roemenië. Sinds het begin van de oorlog registreerde dat land 133 droneaanvallen op Oekraïense doelen vlak bij de grens. 44 keer drongen drones het Roemeense luchtruim binnen. Alleen al dit jaar gebeurde dat 25 keer. Ook deze week nog. \"Het is als kijken naar een livestream\", ",
+      "url": "https://nos.nl/l/2629630",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
+      "beschrijving": "The nationalist party is poised to win more than 40 percent of the votes in the state.",
+      "url": "https://www.aljazeera.com/news/2026/9/4/germanys-far-right-eyes-election-breakthrough-as-afd-surges-in-saxony?traffic_source=rss",
+      "datum": "58 min geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Argentina’s Milei threatens sanctions over Falklands oil drilling",
-      "beschrijving": "Argentina’s President Javier Milei has threatened sanctions against oil companies operating off the Falklands.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss",
+      "titel": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+      "beschrijving": "Argentina&#039;s president accused of political machinations as he eyes shifting US stance on Las Malvinas.",
+      "url": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "4/9 in Nieuwsuur: Massadonor al tien jaar bekend bij instanties • Onderhandelingen Oekraïne • Thuistaal in het onderwijs",
+      "beschrijving": "Massadonor Simon al bijna tien jaar bekend bij instanties Ook de Inspectie Gezondheidszorg en Jeugd (IGJ) en de beroepsgroep van gynaecologen NVOG wisten al in 2017 dat spermadonor Simon een massadonor was. Dat erkennen beide instanties na vragen van Nieuwsuur. De instanties bespraken de zaak destijds uitgebreid met het ministerie van Volksgezondheid (VWS). Maar ze informeerden ouders niet. Simon ",
+      "url": "https://nos.nl/l/2629648",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Witte Huis maakt videospel van uitzetten migranten",
+      "beschrijving": "Het Witte Huis heeft een aantal computerspelletjes gemaakt, waaronder één waarin spelers migranten moeten tegenhouden en uitzetten. Mensenrechtenorganisaties reageren geschokt. De game Rio Run is gebaseerd op de bekende game Snake. In het nieuwe spel achtervolgt de Amerikaanse grensbaas Tom Homan migranten langs de Rio Grande, de grensrivier tussen de Verenigde Staten en Mexico. In Build the wall,",
+      "url": "https://nos.nl/l/2629641",
+      "datum": "2 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Opnieuw sabotagepoging bij elektriciteitsstation in Duitsland",
+      "beschrijving": "Tussen Keulen en Düsseldorf zijn gisteravond drie ontstekingsmechanismen gevonden in de buurt van een transformatorstation. De politie vermoedt dat iemand de stroomvoorziening wilde saboteren. De ontdekking in de buurt van het transformatorstation Dormagen-Gohr volgt op een reeks van sabotageacties. Er was dinsdagochtend een explosie bij een hoogspanningsstation in de oostelijke deelstaat Brandenb",
+      "url": "https://nos.nl/l/2629629",
       "datum": "3 uur geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-      "beschrijving": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Twee mannen in Nepal gered uit tunnel, mogelijk meer mensen nog in leven",
       "beschrijving": "In Nepal zijn twee mannen gered die vastzaten in een tunnel van een waterkrachtcentrale. Dat schrijft een lokaal parlementslid op Facebook. Mogelijk worden er nog meer mensen uit de tunnel gehaald. Een van de geredde mannen zou hebben verteld dat er meer mensen nog in leven zijn. De redding komt meer dan een week na de verwoestende vloedgolf in Nepal en Tibet. Bij de overstromingen kwamen in Nepal",
       "url": "https://nos.nl/l/2629604",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +86,7 @@
       "titel": "Regering-Meloni langstzittende van Italië sinds de Tweede Wereldoorlog",
       "beschrijving": "Giorgia Meloni is vandaag 1413 dagen premier van Italië. Daarmee leidt ze de langstzittende Italiaanse regering sinds de Tweede Wereldoorlog. Op 22 oktober 2022 werd Meloni als eerste vrouwelijke premier beëdigd door president Mattarella. Ze werd premier van het meest rechtse kabinet sinds de Tweede Wereldoorlog. Haar partij, Fratelli d'Italia, met roots in het neofascisme, werd met ruim 26 procen",
       "url": "https://nos.nl/l/2629598",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +95,7 @@
       "titel": "Wekdienst 4/9: Staking in Nederlandse havens • Record voor de Italiaanse premier Meloni",
       "beschrijving": "Goedemorgen! In de Nederlandse havens wordt gestaakt, en in de Italiaanse stad Bari is het feest omdat de regering van Meloni de langstzittende is in Italië sinds 1946. Eerst het weer: vandaag waait het stevig, met windkracht 5 in het binnenland en windkracht 7 aan de kust. Er zijn in de kustgebieden ook zware windstoten tot 90 km per uur mogelijk. In het noorden is het vanochtend regenachtig, van",
       "url": "https://nos.nl/l/2629596",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +104,7 @@
       "titel": "Argentijnse president Milei gaat oliebedrijven bij Falklandeilanden aanpakken",
       "beschrijving": "De Argentijnse president Javier Milei zegt dat zijn land sancties gaat opleggen aan oliebedrijven die actief zijn op en rond de Falklandeilanden, een eilandengroep die bij het Verenigd Koninkrijk hoort. In een tv-toespraak zei Milei dat hij een decreet heeft ondertekend waarmee dit spoedig in gang wordt gezet. Hij zei niet welke bedrijven hij wil aanpakken, en op welke manier precies. Milei claimt",
       "url": "https://nos.nl/l/2629585",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,112 +113,85 @@
       "titel": "Dodental veerramp bij Cyprus opgelopen tot tien, nog 18 vermisten",
       "beschrijving": "Reddingswerkers hebben voor de kust van Cyprus nog een lichaam geborgen van het schip dat afgelopen weekend zonk. Het dodental staat nu op tien, 18 mensen worden nog vermist. Na het kapseizen van de hogesnelheids-veerboot werden 239 mensen gered. Acht doden werden al snel gevonden, maar twintig mensen waren toen nog vermist. Afgelopen woensdag vonden zeedrones het wrak op een diepte van een halve ",
       "url": "https://nos.nl/l/2629584",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nederlander wint Ig Nobelprijs voor duizenden begraven onderbroeken",
-      "beschrijving": "Met zijn onderzoek naar duizenden begraven onderbroeken heeft een Nederlandse wetenschapper een Ig Nobelprijs gewonnen. Het doel was om meer inzicht te krijgen in de activiteit van allerlei organismen in de grond. Ieder jaar worden deze Ig Nobelprijzen uitgereikt aan wetenschappers die met hun onderzoeken mensen aan het lachen maken en aan het denken zetten. Dit jaar was het thema schimmel. Met dr",
-      "url": "https://nos.nl/l/2629573",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Lichaam Mladic aangekomen in Servië, zaterdag herdenking in Belgrado",
-      "beschrijving": "Het lichaam van de overleden Bosnisch-Servische legerleider en oorlogsmisdadiger Ratko Mladic is aangekomen in Servië. Zaterdag staat een herdenking gepland in het \"culturele huis\" van het leger in het centrum van de hoofdstad Belgrado. Mladic zal geen staatsbegrafenis krijgen. Vanmiddag werd het lichaam op het vliegveld van Rotterdam overgedragen aan de familie. Mladic werd met een Servisch reger",
-      "url": "https://nos.nl/l/2629570",
       "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "AfD wil onderwijs Saksen-Anhalt radicaal veranderen, zorgen bij scholen",
-      "beschrijving": "Niets minder dan het land redden, belooft de AfD in aanloop naar de verkiezingen in Saksen-Anhalt op 6 september. Want er is veel mis volgens de partij, die in de deelstaat door de binnenlandse veiligheidsdienst als 'bewezen extreemrechts' is bestempeld. Volgens de peilingen is de kans groot dat ze haar belofte moet gaan waarmaken. De partij staat rond 43 procent, bijna twee keer zoveel als de CDU",
-      "url": "https://nos.nl/l/2629566",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
+      "titel": "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
+      "beschrijving": "Ben-Gvir sets out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss",
+      "datum": "10 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Acapulco, nooit hersteld van de vorige El Niño, zet zich schrap voor zwaar orkaanseizoen",
-      "beschrijving": "Met een enorm geraas slaan de golven zich stuk op het zand. Niemand zwemt in de baai van de Mexicaanse stad Acapulco, de stroming is hier ijzersterk. Toch zijn veel Mexicaanse vakantiegangers naar het witte strand gekomen, met een parasol tegen de schroeiende zon, om te kijken naar de Grote Oceaan. Hoog boven de strandgangers torenen witte flats uit. Veel van de flats staan leeg. Sommige gebouwen,",
-      "url": "https://nos.nl/l/2629561",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
+      "titel": "US envoys headed to Russia and Ukraine to relaunch mediation",
+      "beschrijving": "The return of Washington&#039;s negotiators raises hope of progress towards a settlement to end Moscow&#039;s war on Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss",
+      "datum": "26 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Honderden leerlingen ziek door gratis schoolmaaltijd in Indonesië",
-      "beschrijving": "Op Java hebben 777 leerlingen en docenten een voedselvergiftiging opgelopen door een gratis schoolmaaltijd. Het aantal zieken door gratis schoolvoedsel in Indonesië is in drie dagen tijd opgelopen naar meer dan 1700. De leerlingen en docenten van een middelbare school in Midden-Java kregen diarree en moesten overgeven na het eten van gegrilde kip, zegt de directeur van de school. Een kantinemedewe",
-      "url": "https://nos.nl/l/2629560",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
+      "titel": "As the China-US AI race reaches Cairo, Egypt faces a strategic decision",
+      "beschrijving": "Egypt walks a tightrope as China and the US vie for dominance in AI data centre development.",
+      "url": "https://www.aljazeera.com/news/2026/9/4/as-the-china-us-ai-race-reaches-cairo-egypt-faces-a-strategic-decision?traffic_source=rss",
+      "datum": "41 min geleden",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
-      "beschrijving": "Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.",
-      "url": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
+      "titel": "South Korea mulls ‘contributions’ in Strait of Hormuz",
+      "beschrijving": "Seoul heavily affected by closure of strategic waterway and under heavy US pressure for participation against Iran.",
+      "url": "https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran war: Why US midterms could be a pivotal moment",
+      "beschrijving": "Rising prices and opposition to war may pressure Trump to de-escalate until after the midterms, analysts say.",
+      "url": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "No shelter or water, yet Lebanese return home, defying Israel.",
-      "beschrijving": "Residents are returning to villages in southern Lebanon devastated by Israel’s invasion.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/aje-onl-nf_south-lebanon-residents-return-to-devastated-villages-040926?traffic_source=rss",
+      "titel": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+      "beschrijving": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
       "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Arsenal sell Martinelli to Al-Hilal in post-transfer deadline day deal",
-      "beschrijving": "Brazil forward Gabriel Martinelli transfers to Saudi Pro League side Al-Hilal from Premier League champions Arsenal.",
-      "url": "https://www.aljazeera.com/sports/2026/9/4/arsenal-sell-martinelli-to-al-hilal-in-post-transfer-deadline-day-deal?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-      "beschrijving": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "beschrijving": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
-      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 dagen geleden",
-      "regio": "Wereld",
+      "titel": "US diesel prices hit an all-time-high",
+      "beschrijving": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
+    "Brand na Oekraïense droneaanval op oliedepot in Russische badplaats Sotsji",
     "US investigating if missile hit Iran wedding, Vance says",
-    "Why Pakistan overhauled its military command structure after five decades",
-    "Argentina’s Milei threatens sanctions over Falklands oil drilling",
-    "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+    "Russische drones vliegen Roemenië binnen: ‘De oorlog stopt niet bij de Donau’",
+    "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
+    "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+    "4/9 in Nieuwsuur: Massadonor al tien jaar bekend bij instanties • Onderhandelingen Oekraïne • Thuistaal in het onderwijs",
+    "Witte Huis maakt videospel van uitzetten migranten",
+    "Opnieuw sabotagepoging bij elektriciteitsstation in Duitsland",
     "Twee mannen in Nepal gered uit tunnel, mogelijk meer mensen nog in leven",
-    "Regering-Meloni langstzittende van Italië sinds de Tweede Wereldoorlog",
-    "Wekdienst 4/9: Staking in Nederlandse havens • Record voor de Italiaanse premier Meloni",
-    "Argentijnse president Milei gaat oliebedrijven bij Falklandeilanden aanpakken",
-    "Dodental veerramp bij Cyprus opgelopen tot tien, nog 18 vermisten"
+    "Regering-Meloni langstzittende van Italië sinds de Tweede Wereldoorlog"
   ]
 }
