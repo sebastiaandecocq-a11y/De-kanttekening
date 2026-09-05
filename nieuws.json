@@ -1,11 +1,11 @@
 {
-  "bijgewerkt": "05 Sep 2026 21:00 UTC",
+  "bijgewerkt": "05 Sep 2026 23:38 UTC",
   "artikelen": [
     {
       "titel": "VS en Iran claimen over en weer vergeldingsaanvallen op tankers",
       "beschrijving": "De Verenigde Staten en Iran zeggen vandaag aanvallen over en weer te hebben uitgevoerd op schepen in de regio. De VS kondigde eerst aan drie Iraanse olietankers te hebben uitgeschakeld. Later op de avond claimde de Iraanse Revolutionaire Garde aanvallen te hebben uitgevoerd op zes schepen. De marine van de Revolutionaire Garde zegt vanavond drie olietankers in de Straat van Hormuz te hebben aangev",
       "url": "https://nos.nl/l/2629810",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,7 +14,7 @@
       "titel": "Klopjacht in Duitsland op verdachte van aanvallen elektriciteitscentrales",
       "beschrijving": "De Duitse politie is een klopjacht begonnen op een 48-jarige klimaatactivist die zegt verantwoordelijk te zijn voor aanslagpogingen op het Duitse energienet van afgelopen week. Gisteravond heeft een zwaarbewapend politieteam het voertuig van de activist, Daniel V., in een bos in de deelstaat Noordrijn-Westfalen in beslag genomen. V. was met zijn opvallende, hoge vrachtwagen die is omgebouwd tot ca",
       "url": "https://nos.nl/l/2629797",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -23,34 +23,52 @@
       "titel": "Colombian government reports three killed in rebel attack on military post",
       "beschrijving": "Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.",
       "url": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
-      "datum": "57 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Two pilots killed after Greek fighter jet crashes during an air show",
-      "beschrijving": "Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "beschrijving": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "datum": "54 min geleden",
+      "regio": "Iran",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "At least two dead in blast at Bolivia military barracks",
       "beschrijving": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
       "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Gesprekken Poetin met VS over Oekraïne klaar, Rusland: 'Was constructief gesprek'",
+      "beschrijving": "De Russische president Vladimir Poetin heeft gisteren de Amerikaanse gezanten Steve Witkoff en Jared Kushner gesproken in het Kremlin. Onderwerp van gesprek was de oorlog in Oekraïne. Witkoff en Kushner waren in Moskou in een poging de onderhandelingen over een einde aan de oorlog in Oekraïne \"verder vooruit te brengen\", zoals de Amerikaanse president Trump eerder aankondigde. De bijeenkomst duurd",
+      "url": "https://nos.nl/l/2629865",
+      "datum": "12 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vijf kinderen in Australië gewond door weggewaaide springkussens",
+      "beschrijving": "In één dag tijd zijn vijf kinderen in Australië gewond geraakt op springkussens. Toen ze aan het springen waren, werden de springkussens door windvlagen de lucht in geslingerd. In de deelstaat Victoria, in het zuidoosten van het land vielen een jongen en een meisje op een verjaardagsfeestje uit een springkasteel dat door de wind werd gegrepen. Zij werden ter plekke behandeld aan hun verwondingen e",
+      "url": "https://nos.nl/l/2629864",
+      "datum": "43 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "President Poetin ontvangt Amerikaanse gezanten Kushner en Witkoff in Kremlin",
       "beschrijving": "De ontmoeting in het Kremlin tussen de Russische president Vladimir Poetin en de Amerikaanse gezanten Steve Witkoff en Jared Kushner is begonnen. De twee zijn naar Moskou afgereisd in een poging de onderhandelingen over een einde aan de oorlog in Oekraïne \"verder vooruit te brengen\", zoals de Amerikaanse president Trump eerder aankondigde. Voor aanvang van het overleg wisselden Poetin, Witkoff en ",
       "url": "https://nos.nl/l/2629841",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +77,7 @@
       "titel": "Belangrijke internationale afspraken gemaakt over killerrobots",
       "beschrijving": "In Genève hebben 128 landen een belangrijke stap gezet om te voorkomen dat het in de toekomst uit de hand loopt met killerrobots. Het gaat om afspraken over wapensystemen die met behulp van kunstmatige intelligentie zelfstandig doelwitten identificeren, selecteren en aanvallen. Het is een race tegen de klok, doordat machines nu al vaker over leven en dood beslissen. Denk bijvoorbeeld aan de oorlog",
       "url": "https://nos.nl/l/2629828",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "Houthi's beginnen offensief, een van de zwaarste gevechten in Jemen in jaren",
       "beschrijving": "In het zuidwesten van Jemen zijn hevige gevechten uitgebroken tussen de Houthi-rebellen en het Jemenitische staatsleger. De Houthi's zijn een offensief begonnen met vermoedelijk als doel om controle te krijgen over de Bab el-Mandeb, de zeestraat tussen Jemen en de Hoorn van Afrika. De zee-engte verbindt de Rode Zee en de Golf van Aden en is belangrijk voor het vervoer van olie. De gevechten braken",
       "url": "https://nos.nl/l/2629798",
-      "datum": "5 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Protestmars in Zagreb tegen trage Kroatische overheid in afvalschandaal",
       "beschrijving": "In Zagreb, de hoofdstad van Kroatië, hebben tienduizenden mensen een protestmars gehouden tegen de regering. Ze vinden dat die te weinig doet om een afvalschandaal op te lossen. Het protest was één van de grootste in Kroatië in jaren en had de naam Loop voor Lika gekregen, naar het bergachtige gebied waar het afval is gedumpt. Vorig jaar februari werd ontdekt dat minstens 34.000 ton afval illegaal",
       "url": "https://nos.nl/l/2629800",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +104,7 @@
       "titel": "Duitsers zetten criminele statushouders uit, Kamerleden willen zelfde aanpak hier",
       "beschrijving": "Duitsland zet bij wijze van proef de zwaarste criminele vreemdelingen met een taskforce sneller het land uit. Veroordeelde criminelen krijgen een keuze: kortere celstraf, in ruil voor directe uitzetting. Vorig jaar waren dat 105 zware delinquenten. Zij kozen voor snellere vrijlating in ruil voor terugkeer naar hun eigen land. Nederland kent die wettelijke mogelijkheid ook, maar maakt daar in de pr",
       "url": "https://nos.nl/l/2629791",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,34 +113,34 @@
       "titel": "Griekse straaljager stort neer tijdens luchtshow, piloten omgekomen",
       "beschrijving": "Een straaljager van de Griekse luchtmacht is vanmiddag neergestort tijdens een luchtshow ten noorden van Athene. De twee piloten aan boord van het toestel hebben het ongeluk niet overleefd. Na de crash ontstond brand, die grote donkere rookwolken veroorzaakte. Een cameraploeg filmde toen het vliegtuig neerstortte: Het incident vond vanmiddag rond 15.00 uur lokale tijd plaats tijdens de Athens Flyi",
       "url": "https://nos.nl/l/2629790",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "5/9 in Nieuwsuur: Angst in Oekraïne voor Russische drone-innovaties • Succesvolle Duitse proef met uitzetten asielzoekers",
-      "beschrijving": "Angst in Oekraïne voor Russische drone-innovaties Terwijl de Amerikanen een poging doen om vredesonderhandelingen weer op gang te krijgen, lijkt Oekraïne het momentum dat het eerder dit jaar in de oorlog had enigszins kwijt. Vooral omdat Moskou de zwakke plek van Oekraïne kent: het tekort aan luchtafweer. Daarbij spelen de van oorsprong Iraanse Shahed-drones een grote rol. Want deze drones weten d",
-      "url": "https://nos.nl/l/2629787",
-      "datum": "7 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Fuel tanker blast in western Iran kills at least 10",
+      "beschrijving": "At least six other people were injured in the tanker blast on Iran&#039;s Hamedan-Sanandaj highway, officials say.",
+      "url": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
+      "datum": "31 min geleden",
+      "regio": "Iran",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Witkoff en Kushner gearriveerd in Moskou, met 'een idee voor vrede'",
-      "beschrijving": "De Amerikaanse gezanten Steve Witkoff en Jared Kushner zijn aangekomen in Moskou. Op foto's van persbureau Reuters is te zien hoe zij op de internationale luchthaven Vnoekovo, ten zuidwesten van Moskou, worden ontvangen door een afgevaardigde van de Russische president Poetin. De twee Amerikanen hebben van president Trump een volmacht gekregen om Poetin vandaag \"een idee voor vrede\" te presenteren",
-      "url": "https://nos.nl/l/2629777",
-      "datum": "9 uur geleden",
-      "regio": "VS",
+      "titel": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+      "beschrijving": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
       "beschrijving": "Al Jazeera reporter challenged US Ambassador to Israel Mike Huckabee after he called violent Israeli settlers a minority",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -131,7 +149,7 @@
       "titel": "France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’",
       "beschrijving": "Niger&#039;s government has widened its blame to unnamed neighbours a week after the assault on a military base.",
       "url": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -140,28 +158,10 @@
       "titel": "Jerusalem Daily: raids, settlers & sieges",
       "beschrijving": "Mike Huckabee visits as settlers attack Palestinians, Israeli forces carry out raids and arrests.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US envoys meet Putin in Moscow for Ukraine talks",
-      "beschrijving": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "datum": "44 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "beschrijving": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "datum": "18 min geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
     },
     {
       "titel": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -171,27 +171,18 @@
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
-    },
-    {
-      "titel": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "beschrijving": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "datum": "21 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
     }
   ],
   "ticker": [
     "VS en Iran claimen over en weer vergeldingsaanvallen op tankers",
     "Klopjacht in Duitsland op verdachte van aanvallen elektriciteitscentrales",
     "Colombian government reports three killed in rebel attack on military post",
-    "Two pilots killed after Greek fighter jet crashes during an air show",
+    "US and Iran trade retaliatory attacks on ships as conflict flares",
     "At least two dead in blast at Bolivia military barracks",
+    "Gesprekken Poetin met VS over Oekraïne klaar, Rusland: 'Was constructief gesprek'",
+    "Vijf kinderen in Australië gewond door weggewaaide springkussens",
     "President Poetin ontvangt Amerikaanse gezanten Kushner en Witkoff in Kremlin",
     "Belangrijke internationale afspraken gemaakt over killerrobots",
-    "Houthi's beginnen offensief, een van de zwaarste gevechten in Jemen in jaren",
-    "Protestmars in Zagreb tegen trage Kroatische overheid in afvalschandaal",
-    "Duitsers zetten criminele statushouders uit, Kamerleden willen zelfde aanpak hier"
+    "Houthi's beginnen offensief, een van de zwaarste gevechten in Jemen in jaren"
   ]
 }
