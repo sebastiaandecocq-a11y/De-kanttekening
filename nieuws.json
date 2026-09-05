@@ -1,38 +1,92 @@
 {
-  "bijgewerkt": "05 Sep 2026 00:44 UTC",
+  "bijgewerkt": "05 Sep 2026 05:24 UTC",
   "artikelen": [
     {
       "titel": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
       "beschrijving": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
       "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Argentine couple to return Nazi-looted painting to rightful owner",
-      "beschrijving": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
+      "titel": "Wekdienst 5/9: Gezanten VS naar Rusland en Oekraïne • Topper Ajax-PSV",
+      "beschrijving": "Goedemorgen! De Amerikaanse gezanten Steve Witkoff en Jared Kushner gaan naar Moskou en Kyiv. En in Amsterdam wordt de topper tussen Ajax en PSV gespeeld. Eerst het weer: vandaag wisselen zon en wolken elkaar af en komen vooral in het noorden eerst enkele buien voor. Vanmiddag wordt het vanuit het westen geleidelijk overal droog. Bij een stevige westenwind wordt het 18 tot 21 graden. Ga je vandaag",
+      "url": "https://nos.nl/l/2629737",
+      "datum": "54 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "NOS"
     },
     {
-      "titel": "Costa Rican president signals openness to domestic US military operations",
-      "beschrijving": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
-      "url": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Blasts at Bolivian military base kill at least 10, injure dozens",
+      "beschrijving": "Authorities say seven people are still missing after deadly explosions at a facility storing pyrotechnic material.",
+      "url": "https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "At least two dead in blast at Bolivia military barracks",
+      "beschrijving": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Podcast De Dag: als de AfD het voor het zeggen krijgt in Saksen-Anhalt",
+      "beschrijving": "De rechtsradicale partij stevent af op een forse verkiezingswinst in de Duitse deelstaat en zou daar niet alleen de grootste partij kunnen worden, maar door het kiessysteem ook als enige partij kunnen gaan regeren. Alternative für Deutschland wil in dat geval enkele radicale veranderingen doorvoeren, met name in het onderwijs. Deze aflevering van De Dag luister je via NPO Luister en alle andere po",
+      "url": "https://nos.nl/l/2629739",
+      "datum": "24 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Charismatische parfumverkoper leidt AfD in Saksen-Anhalt mogelijk naar absolute macht",
+      "beschrijving": "Ulrich Siegmund straalt van oor tot oor. Bij een campagnebijeenkomst wordt de leider van de AfD in Saksen-Anhalt, zoals overal waar hij komt, toegejuicht door aanhangers. \"Ulli! Ulli!\", klinkt het. Bij de deelstaatverkiezingen morgen kan zijn partij de absolute meerderheid halen en vervolgens alleen regeren. Siegmund ruikt het premierschap. Het zou voor het eerst sinds de Tweede Wereldoorlog zijn ",
+      "url": "https://nos.nl/l/2629738",
+      "datum": "51 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Betwiste Florentiner-diamant voor het eerst in honderd jaar weer te zien",
+      "beschrijving": "De wereldberoemde Florentiner-diamant is na een eeuw weer te zien in een museum. Dit weekend opent een tentoonstelling in de Canadese stad Quebec, waar de lang verloren gewaande schat als hoogtepunt wordt gepresenteerd. De Canadese overheid heeft de diamant intussen juridisch beschermd tegen claims uit Europa. De 137-karaats Florentiner-diamant is honderden jaren oud en omgeven door mysteries en l",
+      "url": "https://nos.nl/l/2629732",
+      "datum": "2 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Meerdere doden en tientallen gewonden bij explosies op legerbasis in Bolivia",
+      "beschrijving": "Bij twee explosies op een legerbasis in de Boliviaanse gemeente Viacha, in de buurt van hoofdstad La Paz, zijn meerdere doden en tientallen gewonden gevallen. Het is onduidelijk wat de oorzaak van de explosies is. \"Er heeft zich een explosie voorgedaan in een ruimte waar pyrotechnisch materiaal was opgeslagen\", schrijft minister van Defensie Urenda. \"Op dit moment ligt onze prioriteit bij de mense",
+      "url": "https://nos.nl/l/2629731",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Door Trump gewenste strengere regels voor poststemmen weer geblokkeerd",
+      "beschrijving": "Een Amerikaanse rechter in Boston heeft opnieuw verboden dat de regering van president Donald Trump strengere regels invoert voor stemmen per post. Trump wil die regels invoeren voor de tussentijdse verkiezingen in november. Volgens districtsrechter Indira Talwani is er een te grote kans dat kiezers worden uitgesloten als de plannen door zouden gaan. \"De staten die de zaak hebben aangespannen, zij",
+      "url": "https://nos.nl/l/2629730",
+      "datum": "3 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Australiër huurt helikopter om vrouw in Nepal te zoeken, nog zeker 5000 vermisten",
       "beschrijving": "Een wanhopige Australiër heeft een helikopter gehuurd om zijn vrouw in het rampgebied in Nepal te zoeken. Nog altijd worden zeker 5053 mensen vermist, onder wie 583 buitenlanders. Velen van hen waren op een bedevaartstocht. De vrouw van Australiër Bhavin Patel was ook op pelgrimstocht in het gebied. Zij maakte deel uit van een groep volgelingen van de Indiase yogi Sadhguru. Deze groep, waar ook de",
       "url": "https://nos.nl/l/2629729",
-      "datum": "15 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +95,7 @@
       "titel": "Steve Irwin 20 jaar na zijn dood nog steeds inspiratiebron voor dierenliefhebbers",
       "beschrijving": "Het is twintig jaar geleden dat de Australische dierenexpert en documentairemaker Steve Irwin overleed. Met zijn enthousiasme en liefde voor de natuur inspireerde de 'Crocodile Hunter' mensen wereldwijd. Natuur- en dierenexpert Floris Göbel keek als jongetje al op tegen Irwin: \"Ik kon als kind nooit stilzitten, behalve als ik naar hem keek op televisie.\" De Nederlandse presentator begon bij het Yo",
       "url": "https://nos.nl/l/2629727",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +104,7 @@
       "titel": "Jury komt er niet uit: proces tegen vrouw die kinderen wurgde nietig verklaard",
       "beschrijving": "Een rechter in de Verenigde Staten heeft het geruchtmakende proces tegen Lindsay Clancy nietig verklaard, nadat de jury na dagenlang beraad niet tot een oordeel was gekomen. In de zaak staat Clancy terecht voor de moord op haar drie kinderen. Ondanks de nietigverklaring kunnen aanklagers beslissen Clancy opnieuw te vervolgen. De 36-jarige Clancy, een voormalig verpleegkundige, staat terecht voor h",
       "url": "https://nos.nl/l/2629724",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,106 +113,61 @@
       "titel": "Door nazi's geroofd schilderij uit Argentijnse woonkamer terug naar erfgenaam",
       "beschrijving": "Een door nazi's gestolen schilderij uit de zogenoemde Goudstikker-collectie wordt teruggegeven aan een erfgenaam van de Joodse kunstverzamelaar. Een Argentijnse rechter heeft een schikking tussen de betrokken partijen daarover bekrachtigd. Het schilderij, genaamd Damesportret, dook vorig jaar op toen journalisten van het AD het werk zagen hangen op foto's in een verkoopadvertentie op een Argentijn",
       "url": "https://nos.nl/l/2629715",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hof in Missouri fluit Republikeinen terug bij slag om kiesdistricten",
-      "beschrijving": "Voor president Trump is het \"een zwarte dag voor het recht\", voor activisten in Missouri zegeviert dat recht juist. Het Hooggerechtshof van Missouri heeft een poging van het Republikeinse bestuur om kiesdistricten in hun eigen voordeel te hertekenen geblokkeerd. Eerst moet er een referendum over worden gehouden. Zowel Republikeinen als Democraten hertekenen de kiesdistricten al sinds jaar en dag i",
-      "url": "https://nos.nl/l/2629714",
-      "datum": "4 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "VN stemt voor nieuwe wereldkaart met grotere weergave van Afrika",
-      "beschrijving": "De Algemene Vergadering van de Verenigde Naties heeft voor een nieuwe wereldkaart gestemd die het Afrikaanse continent anders weergeeft. Dat meldt persbureau Reuters. In de resolutie staat dat wereldwijd moet worden ingezet op het gebruik van de Equal Earth-kaart, die de werkelijke grootte van landen weergeeft. Nu wordt meestal nog de mercatorprojectie gebruikt, waarop het hele Afrikaanse continen",
-      "url": "https://nos.nl/l/2629696",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Tate-broers in Roemenië aangeklaagd voor handel in minderjarigen",
-      "beschrijving": "Aanklagers in Roemenië hebben de omstreden influencer Andrew Tate officieel aangeklaagd voor mensenhandel in minderjarigen, witwassen, seks met een minderjarige en beïnvloeding van getuigen. Zijn broer Tristan wordt beschuldigd van medeplichtigheid. Volgens Roemeense aanklagers ronselden de Tate-broers hun slachtoffers door ze te verleiden en te beweren dat ze een relatie of huwelijk wilden. Vervo",
-      "url": "https://nos.nl/l/2629688",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Rusland valt hoofdkwartier Oekraïense veiligheidsdienst aan in hart van Kyiv",
-      "beschrijving": "Bij een Russische droneaanval op de Oekraïense hoofdstad Kyiv is het hoofdkwartier van de veiligheidsdienst SBU geraakt, meldt president Zelensky. De Oekraïense president zegt dat de drone rechtstreeks was gericht op het kantoor van het hoofd van de veiligheidsdienst in het gebouw. Zelensky meldt dat hij opdracht heeft gegeven tot \"een passende, concrete reactie die deze aanval weerspiegelt\". Daar",
-      "url": "https://nos.nl/l/2629678",
       "datum": "9 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Did Israel’s destruction of Gaza worsen its water crisis?",
+      "beschrijving": "Scientists say Israel’s destruction of Gaza’s sewage system may have worsened the Mediterranean&#039;s algae bloom crisis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/did-israels-destruction-of-gaza-worsen-its-water-crisis?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Trump sends envoys to Russia, Ukraine with new peace plan",
+      "beschrijving": "Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Denen willen uitgeprocedeerde asielzoekers volgend jaar buiten EU onderbrengen",
-      "beschrijving": "Denemarken wil komend jaar de eerste uitgeprocedeerde asielzoekers naar een uitzetcentrum buiten de EU sturen. Dat zegt de Deense minister van Immigratie en Integratie Morten Bødskov vandaag na een overleg tussen de asielministers van Nederland, Denemarken, Griekenland, Duitsland en Oostenrijk in Kopenhagen. Volgens de Griekse minister van Migratie kan de groep binnen een maand bekendmaken in welk",
-      "url": "https://nos.nl/l/2629666",
-      "datum": "10 uur geleden",
+      "titel": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
+      "beschrijving": "The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return.",
+      "url": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Reform UK opnieuw in opspraak door dubieuze donaties",
-      "beschrijving": "Twee partijkopstukken van Reform UK zijn opgestapt na een nieuw schandaal over partijdonaties. Uit geheime opnames blijkt dat Dan Jukes en James Orr mogelijk illegale donaties bespraken. De opnames werden gemaakt door Verbatim, een onderzoekscollectief dat is opgericht door journalisten van het Centre for Climate Change Reporting. De Britse zender Channel 4 controleerde de beelden op echtheid en b",
-      "url": "https://nos.nl/l/2629662",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
-      "beschrijving": "US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
-      "datum": "44 min geleden",
-      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "‘Small potatoes’: US President Trump downplays war on Iran",
-      "beschrijving": "Trump tells reporters the US is &#039;not fighting right now&#039; despite a recent exchange of fire with Iran.",
-      "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
-      "datum": "48 min geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
-      "beschrijving": "Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.",
-      "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+      "titel": "‘To challenge deadly blockade’: New flotilla mission sets sail for Gaza",
+      "beschrijving": "Human rights advocates call for diplomatic measures to guarantee flotilla safety and end Israel&#039;s deadly Gaza blockade.",
+      "url": "https://www.aljazeera.com/news/2026/9/5/to-challenge-deadly-blockade-new-flotilla-mission-sets-sail-for-gaza?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
-      "beschrijving": "Steve Witkoff and Jared Kushner will travel to Ukraine and Russia this weekend to help restart peace negotiations.",
-      "url": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
-      "datum": "3 uur geleden",
+      "titel": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "beschrijving": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "datum": "56 min geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "beschrijving": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
       "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,31 +176,22 @@
       "titel": "Germany's far-right AfD bids for first taste of power in eastern vote",
       "beschrijving": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
       "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "beschrijving": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-    "Argentine couple to return Nazi-looted painting to rightful owner",
-    "Costa Rican president signals openness to domestic US military operations",
-    "Australiër huurt helikopter om vrouw in Nepal te zoeken, nog zeker 5000 vermisten",
-    "Steve Irwin 20 jaar na zijn dood nog steeds inspiratiebron voor dierenliefhebbers",
-    "Jury komt er niet uit: proces tegen vrouw die kinderen wurgde nietig verklaard",
-    "Door nazi's geroofd schilderij uit Argentijnse woonkamer terug naar erfgenaam",
-    "Hof in Missouri fluit Republikeinen terug bij slag om kiesdistricten",
-    "VN stemt voor nieuwe wereldkaart met grotere weergave van Afrika",
-    "Tate-broers in Roemenië aangeklaagd voor handel in minderjarigen"
+    "Wekdienst 5/9: Gezanten VS naar Rusland en Oekraïne • Topper Ajax-PSV",
+    "Blasts at Bolivian military base kill at least 10, injure dozens",
+    "At least two dead in blast at Bolivia military barracks",
+    "Podcast De Dag: als de AfD het voor het zeggen krijgt in Saksen-Anhalt",
+    "Charismatische parfumverkoper leidt AfD in Saksen-Anhalt mogelijk naar absolute macht",
+    "Betwiste Florentiner-diamant voor het eerst in honderd jaar weer te zien",
+    "Meerdere doden en tientallen gewonden bij explosies op legerbasis in Bolivia",
+    "Door Trump gewenste strengere regels voor poststemmen weer geblokkeerd",
+    "Australiër huurt helikopter om vrouw in Nepal te zoeken, nog zeker 5000 vermisten"
   ]
 }
