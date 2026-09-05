@@ -1,56 +1,47 @@
 {
-  "bijgewerkt": "05 Sep 2026 13:45 UTC",
+  "bijgewerkt": "05 Sep 2026 16:39 UTC",
   "artikelen": [
     {
-      "titel": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
-      "beschrijving": "The attack on a crowded road comes amid fierce clashes across Taiz and Hodeidah and rapid civilian displacement.",
-      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
-      "datum": "51 min geleden",
-      "regio": "Wereld",
+      "titel": "US says it hit three Iranian oil tankers after attacks on warships",
+      "beschrijving": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
+      "datum": "49 min geleden",
+      "regio": "Iran",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Yemen government launches own air attacks on Houthis: What that means",
-      "beschrijving": "A major Houthi offensive towards Bab al-Mandeb has triggered some of Yemen’s worst fighting in years.",
-      "url": "https://www.aljazeera.com/news/2026/9/5/yemen-government-launches-own-air-attacks-on-houthis-what-that-means?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "beschrijving": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-      "datum": "21 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Wekdienst 5/9: Gezanten VS naar Rusland en Oekraïne • Topper Ajax-PSV",
-      "beschrijving": "Goedemorgen! De Amerikaanse gezanten Steve Witkoff en Jared Kushner gaan naar Moskou en Kyiv. En in Amsterdam wordt de topper tussen Ajax en PSV gespeeld. Eerst het weer: vandaag wisselen zon en wolken elkaar af en komen vooral in het noorden eerst enkele buien voor. Vanmiddag wordt het vanuit het westen geleidelijk overal droog. Bij een stevige westenwind wordt het 18 tot 21 graden. Ga je vandaag",
-      "url": "https://nos.nl/l/2629737",
-      "datum": "9 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "NOS"
     },
     {
       "titel": "At least two dead in blast at Bolivia military barracks",
       "beschrijving": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
       "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Griekse straaljager stort neer tijdens luchtshow, piloten omgekomen",
+      "beschrijving": "Een straaljager van de Griekse luchtmacht is vanmiddag neergestort tijdens een luchtshow ten noorden van Athene. De twee piloten aan boord van het toestel hebben het ongeluk niet overleefd. Na de crash ontstond brand, die grote donkere rookwolken veroorzaakte. Een cameraploeg filmde toen het vliegtuig neerstortte: Het incident vond vanmiddag rond 15.00 uur lokale tijd plaats tijdens de Athens Flyi",
+      "url": "https://nos.nl/l/2629790",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "5/9 in Nieuwsuur: Angst in Oekraïne voor Russische drone-innovaties • Succesvolle Duitse proef met uitzetten asielzoekers",
+      "beschrijving": "Angst in Oekraïne voor Russische drone-innovaties Terwijl de Amerikanen een poging doen om vredesonderhandelingen weer op gang te krijgen, lijkt Oekraïne het momentum dat het eerder dit jaar in de oorlog had enigszins kwijt. Vooral omdat Moskou de zwakke plek van Oekraïne kent: het tekort aan luchtafweer. Daarbij spelen de van oorsprong Iraanse Shahed-drones een grote rol. Want deze drones weten d",
+      "url": "https://nos.nl/l/2629787",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Witkoff en Kushner gearriveerd in Moskou, met 'een idee voor vrede'",
       "beschrijving": "De Amerikaanse gezanten Steve Witkoff en Jared Kushner zijn aangekomen in Moskou. Op foto's van persbureau Reuters is te zien hoe zij op de internationale luchthaven Vnoekovo, ten zuidwesten van Moskou, worden ontvangen door een afgevaardigde van de Russische president Poetin. De twee Amerikanen hebben van president Trump een volmacht gekregen om Poetin vandaag \"een idee voor vrede\" te presenteren",
       "url": "https://nos.nl/l/2629777",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +50,7 @@
       "titel": "Tetris neemt afstand van computerspel Witte Huis over tegenhouden migranten",
       "beschrijving": "De maker van computerspel Tetris distantieert zich van de game Build the Wall, die het Witte Huis gisteren lanceerde. Het nieuwe spel is gebaseerd op Tetris. Het doel van Build the Wall is om migranten tegen te houden. Spelers kunnen een muur bouwen om de grens \"te beschermen tegen de naderende horde\". \"The Tetris Company was niet betrokken bij de ontwikkeling van Build the Wall\", schrijft het bed",
       "url": "https://nos.nl/l/2629767",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +59,7 @@
       "titel": "Gemaskerde groep blokkeert enige tijd haven Dover met anti-immigratieprotest",
       "beschrijving": "In het Britse Dover heeft een grote groep gemaskerde mannen enkele uren de toegang tot de veerboot van en naar het Europese vasteland geblokkeerd. Het ging om een anti-immigratieprotest. Aan het begin van de ochtend verzamelde een groep van enkele honderden in het zwart geklede mannen zich bij de toegangswegen tot de veerhaven. Ze droegen allemaal gezichtsmaskers en scandeerden leuzen als \"Whose s",
       "url": "https://nos.nl/l/2629765",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +68,7 @@
       "titel": "'Pentagon opent met leugendetectors jacht op lekken over Iran-oorlog'",
       "beschrijving": "Het Pentagon heeft geprobeerd met leugendetectors te achterhalen welke defensiemedewerker geheime informatie naar de pers heeft gelekt. Dat gebeurde omdat president Trump furieus was dat iemand aan de pers had verklapt dat zijn Iran-oorlog tot grote munitietekorten leidt. The New York Times schrijft dat ongeveer vijftig medewerkers een verhoor moesten ondergaan, zowel militairen als burgers die vo",
       "url": "https://nos.nl/l/2629758",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +77,7 @@
       "titel": "Westnijlvirus rukt verder op: meer dan duizend besmettingen binnen Europa",
       "beschrijving": "In het afgelopen muggenseizoen zijn in Europa 1086 officiële besmettingen met het westnijlvirus geregistreerd. Dat blijkt uit cijfers van het Europees Centrum voor ziektepreventie en -bestrijding (ECDC). De infecties zijn vastgesteld in vijftien verschillende landen. Het gaat hierbij om besmettingen die mensen binnen Europa opliepen; mensen die besmet raakten buiten Europa zijn niet in de cijfers ",
       "url": "https://nos.nl/l/2629756",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +86,7 @@
       "titel": "Uit tunnel geredde Nepalees: 'Wilde iedereen redden, kon daarom zelf niet wegkomen'",
       "beschrijving": "De redding gisteren van twee Nepalezen uit een ondergelopen tunnelcomplex, biedt hoop dat er tien dagen na de vloedgolf nog meer mensen gered kunnen worden. Een van de mannen zei dat hij ondergronds contact had met andere opgesloten collega's. \"We hadden contact met wat vrienden, we spraken drie of vier mensen die dichtbij waren\", zei de 30-jarige Sanjay Sah tegen reddingswerkers toen hij uit de t",
       "url": "https://nos.nl/l/2629746",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +95,7 @@
       "titel": "Trump-vertrouweling Bartiromo ineens weg als presentator Fox News",
       "beschrijving": "Het plotselinge vertrek van een prominente Fox News-presentator wekt verbazing in de VS. De zender maakte donderdag bekend dat Maria Bartiromo haar laatste uitzending had gehad, zonder mee te delen waarom er afscheid van haar werd genomen. Mogelijk spelen te nauwe banden met de regering-Trump een rol. \"We danken Maria voor haar werk de afgelopen 12,5 jaar en wensen haar alle geluk in een nieuw hoo",
       "url": "https://nos.nl/l/2629743",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,43 +104,70 @@
       "titel": "Podcast De Dag: als de AfD het voor het zeggen krijgt in Saksen-Anhalt",
       "beschrijving": "De rechtsradicale partij stevent af op een forse verkiezingswinst in de Duitse deelstaat en zou daar niet alleen de grootste partij kunnen worden, maar door het kiessysteem ook als enige partij kunnen gaan regeren. Alternative für Deutschland wil in dat geval enkele radicale veranderingen doorvoeren, met name in het onderwijs. Deze aflevering van De Dag luister je via NPO Luister en alle andere po",
       "url": "https://nos.nl/l/2629739",
-      "datum": "8 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Charismatische parfumverkoper leidt AfD in Saksen-Anhalt mogelijk naar absolute meerderheid",
-      "beschrijving": "Ulrich Siegmund straalt van oor tot oor. Bij een campagnebijeenkomst wordt de leider van de rechts-radicale AfD in Saksen-Anhalt, zoals overal waar hij komt, toegejuicht door aanhangers. \"Ulli! Ulli!\", klinkt het. Bij de deelstaatverkiezingen morgen kan zijn partij de absolute meerderheid halen en vervolgens alleen regeren. Siegmund ruikt het premierschap. Het zou voor het eerst sinds de Tweede We",
-      "url": "https://nos.nl/l/2629738",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
-      "beschrijving": "Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest.",
-      "url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss",
-      "datum": "38 min geleden",
-      "regio": "Iran",
+      "titel": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+      "beschrijving": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
+      "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+      "datum": "21 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
-      "beschrijving": "Huckabee labels some of the settlers committing violence as &#039;terrorists&#039; though analysts say his visit is &#039;symbolic&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
+      "titel": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
+      "beschrijving": "Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.",
+      "url": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
+      "datum": "35 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israeli campaign of West Bank destruction moves on to region’s food basket",
+      "beschrijving": "Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank.",
+      "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
+      "beschrijving": "US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.",
+      "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Relatives hold cremations without bodies for Nepal’s missing flood victims",
+      "beschrijving": "Fewer than one in 10 recovered bodies of people killed in deadly floods has been formally identified.",
+      "url": "https://www.aljazeera.com/features/2026/9/5/relatives-hold-cremations-without-bodies-for-nepals-missing-flood-victims?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "beschrijving": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "datum": "26 min geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
       "titel": "US envoys arrive in Moscow ahead of Ukraine talks",
       "beschrijving": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "23 min geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -158,31 +176,22 @@
       "titel": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "beschrijving": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
       "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "datum": "20 uur geleden",
+      "datum": "23 uur geleden",
       "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "beschrijving": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
-    "Yemen government launches own air attacks on Houthis: What that means",
-    "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-    "Wekdienst 5/9: Gezanten VS naar Rusland en Oekraïne • Topper Ajax-PSV",
+    "US says it hit three Iranian oil tankers after attacks on warships",
     "At least two dead in blast at Bolivia military barracks",
+    "Griekse straaljager stort neer tijdens luchtshow, piloten omgekomen",
+    "5/9 in Nieuwsuur: Angst in Oekraïne voor Russische drone-innovaties • Succesvolle Duitse proef met uitzetten asielzoekers",
     "Witkoff en Kushner gearriveerd in Moskou, met 'een idee voor vrede'",
     "Tetris neemt afstand van computerspel Witte Huis over tegenhouden migranten",
     "Gemaskerde groep blokkeert enige tijd haven Dover met anti-immigratieprotest",
     "'Pentagon opent met leugendetectors jacht op lekken over Iran-oorlog'",
-    "Westnijlvirus rukt verder op: meer dan duizend besmettingen binnen Europa"
+    "Westnijlvirus rukt verder op: meer dan duizend besmettingen binnen Europa",
+    "Uit tunnel geredde Nepalees: 'Wilde iedereen redden, kon daarom zelf niet wegkomen'"
   ]
 }
