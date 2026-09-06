@@ -1,48 +1,12 @@
 {
-  "bijgewerkt": "06 Sep 2026 03:47 UTC",
+  "bijgewerkt": "06 Sep 2026 08:30 UTC",
   "artikelen": [
     {
-      "titel": "VS en Iran claimen over en weer vergeldingsaanvallen op tankers",
-      "beschrijving": "De Verenigde Staten en Iran zeggen gisteren aanvallen over en weer te hebben uitgevoerd op schepen in de regio. De VS kondigde eerst aan drie Iraanse olietankers te hebben uitgeschakeld. Later op de avond claimde de Iraanse Revolutionaire Garde aanvallen te hebben uitgevoerd op zes schepen. De marine van de Revolutionaire Garde zegt vanavond drie olietankers in de Straat van Hormuz te hebben aange",
-      "url": "https://nos.nl/l/2629810",
-      "datum": "11 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Klopjacht in Duitsland op verdachte van aanvallen elektriciteitscentrales",
-      "beschrijving": "De Duitse politie is een klopjacht begonnen op een 48-jarige klimaatactivist die zegt verantwoordelijk te zijn voor aanslagpogingen op het Duitse energienet van afgelopen week. Gisteravond heeft een zwaarbewapend politieteam het voertuig van de activist, Daniel V., in een bos in de deelstaat Noordrijn-Westfalen in beslag genomen. V. was met zijn opvallende, hoge vrachtwagen die is omgebouwd tot ca",
-      "url": "https://nos.nl/l/2629797",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
-      "beschrijving": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
-      "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
-      "datum": "50 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-      "beschrijving": "Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies.",
-      "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
-      "beschrijving": "IRGC launches new strikes after firing missiles at US warships as standoff in Strait of Hormuz intensifies.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+      "titel": "More than 20 killed in fire at wedding party in DR Congo",
+      "beschrijving": "Authorities have launched an investigation into a fire that killed 22 people at a wedding party in Kinshasa, DR Congo.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/more-than-20-killed-in-fire-at-wedding-party-in-dr-congo?traffic_source=rss",
       "datum": "3 uur geleden",
-      "regio": "Iran",
+      "regio": "Afrika",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -50,25 +14,70 @@
       "titel": "US and Iran trade retaliatory attacks on ships as conflict flares",
       "beschrijving": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
       "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Wekdienst 6/9: Motorcrosser Herlings kan wereldkampioen worden • Verkiezingen in Duitse deelstaat",
+      "beschrijving": "Goedemorgen! Motorcrosser Jeffrey Herlings kan vandaag bij de GP van Turkije wereldkampioen worden. En in Duitsland gaan kiezers in de deelstaat Saksen-Anhalt naar de stembus, de radicaal-rechtse partij AfD lijkt de grootste te worden. Eerst het weer: een zuidenwind voert warme lucht aan. Het wordt 21 tot 24 graden. Daarbij is het droog met wolken en zon. Ga je vandaag op pad? Hier vind je het ove",
+      "url": "https://nos.nl/l/2629878",
+      "datum": "2 uur geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
       "titel": "At least two dead in blast at Bolivia military barracks",
       "beschrijving": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
       "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "17 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Amerikaans vliegdekschip USS Abraham Lincoln verlaat Thailand",
+      "beschrijving": "Het Amerikaanse vliegdekschip USS Abraham Lincoln is na vijf dagen vertrokken uit Thailand. Bijna 5000 bemanningsleden zijn meer dan negen maanden na hun vertrek uit de Verenigde Staten onderweg naar de haven van San Diego. De afgelopen vijf dagen lag de Lincoln in de Thaise haven Laem Chabang, dicht bij de badplaats Pattaya. De badplaats is Amerikaanse soldaten niet onbekend: tijdens de Vietnamoo",
+      "url": "https://nos.nl/l/2629887",
+      "datum": "8 min geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Europa reikt Groenland de hand, Von der Leyen komt miljoenen brengen",
+      "beschrijving": "Voorzitter van de Europese Commissie Ursula von der Leyen begint vandaag aan een tweedaags bezoek aan de hoofdstad Nuuk. En volgens de Britse zakenkrant de Financial Times komt ze niet met lege handen: de Europese Unie gaat er 200 miljoen euro investeren. Dat geld zou gaan naar de cruciale grondstoffenindustrie, hernieuwbare energie en versterking van het bestuurlijk apparaat van Groenland. De inv",
+      "url": "https://nos.nl/l/2629879",
+      "datum": "1 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Twaalf mensen ter dood veroordeeld in Egypte, onder wie presentatrice misdaadshow",
+      "beschrijving": "De Egyptische televisiepresentatrice Sarah Khalifa is samen met elf anderen ter dood veroordeeld in een omvangrijke drugszaak. Volgens de krant Al-Ahram maakten zij deel uit van een criminele bende die grondstoffen importeerde voor de productie van drugs, met de bedoeling die te verkopen. Volgens de autoriteiten is meer dan 750 kilo aan verdovende middelen en grondstoffen voor drugs bij de bende a",
+      "url": "https://nos.nl/l/2629877",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Stemlokalen geopend in Saksen-Anhalt, heel Duitsland kijkt gespannen mee",
+      "beschrijving": "In Saksen-Anhalt zijn de stemlokalen geopend voor verkiezingen die door heel Duitsland worden gevolgd. Bij de deelstaatverkiezingen zal de rechts-radicale Alternative für Deutschland (AfD) naar verwachting de beste uitslag ooit boeken. Door het kiesstelsel is zelfs een absolute meerderheid denkbaar, waarmee de partij alleen kan regeren. In peilingen is de AfD al maanden twee keer groter dan de num",
+      "url": "https://nos.nl/l/2629871",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Vluchten Jakarta uitgesteld vanwege uitbarsting vulkaan Anak Krakatau",
       "beschrijving": "De Indonesische vulkaan Anak Krakatau is vanochtend uitgebarsten. Omdat vulkanische as over delen van West-Indonesië dreef, werden alle vluchten op de internationale luchthaven Soekarno-Hatta geannuleerd of uitgesteld. De vulkaan barstte volgens het Indonesische geologische agentschap rond 03.50 uur in de ochtend (lokale tijd) ongeveer 30 seconden uit. Er zijn geen slachtoffers gemeld en niemand w",
       "url": "https://nos.nl/l/2629868",
-      "datum": "32 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +86,7 @@
       "titel": "Gesprekken Poetin met VS over Oekraïne klaar, Rusland: 'Was constructief gesprek'",
       "beschrijving": "De Russische president Vladimir Poetin heeft gisteren de Amerikaanse gezanten Steve Witkoff en Jared Kushner gesproken in het Kremlin. Onderwerp van gesprek was de oorlog in Oekraïne. Witkoff en Kushner waren in Moskou in een poging de onderhandelingen over een einde aan de oorlog in Oekraïne \"verder vooruit te brengen\", zoals de Amerikaanse president Trump eerder aankondigde. De bijeenkomst duurd",
       "url": "https://nos.nl/l/2629865",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "Vijf kinderen in Australië gewond door weggewaaide springkussens",
       "beschrijving": "In één dag tijd zijn vijf kinderen in Australië gewond geraakt op springkussens. Toen ze aan het springen waren, werden de springkussens door windvlagen de lucht in geslingerd. In de deelstaat Victoria, in het zuidoosten van het land vielen een jongen en een meisje op een verjaardagsfeestje uit een springkasteel dat door de wind werd gegrepen. Zij werden ter plekke behandeld aan hun verwondingen e",
       "url": "https://nos.nl/l/2629864",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +104,7 @@
       "titel": "President Poetin ontvangt Amerikaanse gezanten Kushner en Witkoff in Kremlin",
       "beschrijving": "De ontmoeting in het Kremlin tussen de Russische president Vladimir Poetin en de Amerikaanse gezanten Steve Witkoff en Jared Kushner is begonnen. De twee zijn naar Moskou afgereisd in een poging de onderhandelingen over een einde aan de oorlog in Oekraïne \"verder vooruit te brengen\", zoals de Amerikaanse president Trump eerder aankondigde. Voor aanvang van het overleg wisselden Poetin, Witkoff en ",
       "url": "https://nos.nl/l/2629841",
-      "datum": "8 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,61 +113,52 @@
       "titel": "Belangrijke internationale afspraken gemaakt over killerrobots",
       "beschrijving": "In Genève hebben 128 landen een belangrijke stap gezet om te voorkomen dat het in de toekomst uit de hand loopt met killerrobots. Het gaat om afspraken over wapensystemen die met behulp van kunstmatige intelligentie zelfstandig doelwitten identificeren, selecteren en aanvallen. Het is een race tegen de klok, doordat machines nu al vaker over leven en dood beslissen. Denk bijvoorbeeld aan de oorlog",
       "url": "https://nos.nl/l/2629828",
-      "datum": "10 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Houthi's beginnen offensief, een van de zwaarste gevechten in Jemen in jaren",
-      "beschrijving": "In het zuidwesten van Jemen zijn hevige gevechten uitgebroken tussen de Houthi-rebellen en het Jemenitische staatsleger. De Houthi's zijn een offensief begonnen met vermoedelijk als doel om controle te krijgen over de Bab el-Mandeb, de zeestraat tussen Jemen en de Hoorn van Afrika. De zee-engte verbindt de Rode Zee en de Golf van Aden en is belangrijk voor het vervoer van olie. De gevechten braken",
-      "url": "https://nos.nl/l/2629798",
-      "datum": "11 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Protestmars in Zagreb tegen trage Kroatische overheid in afvalschandaal",
-      "beschrijving": "In Zagreb, de hoofdstad van Kroatië, hebben tienduizenden mensen een protestmars gehouden tegen de regering. Ze vinden dat die te weinig doet om een afvalschandaal op te lossen. Het protest was één van de grootste in Kroatië in jaren en had de naam Loop voor Lika gekregen, naar het bergachtige gebied waar het afval is gedumpt. Vorig jaar februari werd ontdekt dat minstens 34.000 ton afval illegaal",
-      "url": "https://nos.nl/l/2629800",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Duitsers zetten criminele statushouders uit, Kamerleden willen zelfde aanpak hier",
-      "beschrijving": "Duitsland zet bij wijze van proef de zwaarste criminele vreemdelingen met een taskforce sneller het land uit. Veroordeelde criminelen krijgen een keuze: kortere celstraf, in ruil voor directe uitzetting. Vorig jaar waren dat 105 zware delinquenten. Zij kozen voor snellere vrijlating in ruil voor terugkeer naar hun eigen land. Nederland kent die wettelijke mogelijkheid ook, maar maakt daar in de pr",
-      "url": "https://nos.nl/l/2629791",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Fuel tanker blast in western Iran kills at least 10",
-      "beschrijving": "At least six other people were injured in the tanker blast on Iran&#039;s Hamedan-Sanandaj highway, officials say.",
-      "url": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-      "beschrijving": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-      "datum": "6 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-      "beschrijving": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "titel": "FIFA’s Infantino avoids questions on his future amid growing uncertainty",
+      "beschrijving": "Upon arrival at the U-20 Women&#039;s World Cup, Infantino remained tight-lipped about his re-election as FIFA president.",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty?traffic_source=rss",
       "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+      "beschrijving": "Al Jazeera finds 17 settlement-linked companies hold 2.1 billion pounds in UK public contracts.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Yemeni forces claim strategic district amid intensified Houthi clashes",
+      "beschrijving": "More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.",
+      "url": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
+      "beschrijving": "Israeli PM Benjamin Netanyahu has dismissed accusations about his government’s alleged ties to Qatar as ‘one big bluff’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "beschrijving": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -174,15 +174,15 @@
     }
   ],
   "ticker": [
-    "VS en Iran claimen over en weer vergeldingsaanvallen op tankers",
-    "Klopjacht in Duitsland op verdachte van aanvallen elektriciteitscentrales",
-    "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
-    "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-    "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
+    "More than 20 killed in fire at wedding party in DR Congo",
     "US and Iran trade retaliatory attacks on ships as conflict flares",
+    "Wekdienst 6/9: Motorcrosser Herlings kan wereldkampioen worden • Verkiezingen in Duitse deelstaat",
     "At least two dead in blast at Bolivia military barracks",
+    "Amerikaans vliegdekschip USS Abraham Lincoln verlaat Thailand",
+    "Europa reikt Groenland de hand, Von der Leyen komt miljoenen brengen",
+    "Twaalf mensen ter dood veroordeeld in Egypte, onder wie presentatrice misdaadshow",
+    "Stemlokalen geopend in Saksen-Anhalt, heel Duitsland kijkt gespannen mee",
     "Vluchten Jakarta uitgesteld vanwege uitbarsting vulkaan Anak Krakatau",
-    "Gesprekken Poetin met VS over Oekraïne klaar, Rusland: 'Was constructief gesprek'",
-    "Vijf kinderen in Australië gewond door weggewaaide springkussens"
+    "Gesprekken Poetin met VS over Oekraïne klaar, Rusland: 'Was constructief gesprek'"
   ]
 }
