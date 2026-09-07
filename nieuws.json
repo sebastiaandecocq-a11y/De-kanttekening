@@ -1,38 +1,101 @@
 {
-  "bijgewerkt": "07 Sep 2026 03:46 UTC",
+  "bijgewerkt": "07 Sep 2026 09:07 UTC",
   "artikelen": [
     {
       "titel": "Scheepvaartverkeer Hormuz valt weer bijna stil na hernieuwde aanvallen over en weer",
       "beschrijving": "De scheepvaart in de Straat van Hormuz is dit weekend bijna weer volledig stilgevallen na aanvallen van de VS en Iran over en weer. Zaterdag passeerden er slechts twee schepen, op zondag waren dat er zes. Het tiendaagse gemiddelde kwam daarmee uit op tien, berekende scheepvaartanalist Kpler. Dat is het laagste aantal sinds mei, toen de oorlog nog volop woedde. De VS viel gisteren drie Iraanse olie",
       "url": "https://nos.nl/l/2629994",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Eight-year-old Gaza girl killed by Israel on first day of school",
-      "beschrijving": "An eight-year-old girl and her father were killed when an Israeli strike hit their vehicle on her first day of school.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Israeli air attacks kill at least 11 people in southern Lebanon",
+      "beschrijving": "Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "beschrijving": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
-      "regio": "Iran",
+      "titel": "Six children among 11 people killed in Indonesian market fire",
+      "beschrijving": "A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ten killed and dozens injured in Mexico fireworks blast",
+      "beschrijving": "Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Armed assailant attacks Ohio Democratic candidate during campaign stop",
+      "beschrijving": "Patrick Havas, 38, arrested with weapons after injuring several at Ohio Democrat Amy Acton’s campaign stop.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/armed-assailant-attacks-ohio-democratic-candidate-during-campaign-stop?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Oorlogsmisdadiger Mladic opgebaard in Belgrado, duizenden mensen verwacht",
+      "beschrijving": "In Belgrado zijn al honderden mensen samengekomen voor de begrafenis van de voormalige Bosnisch-Servische legerleider en oorlogsmisdadiger Ratko Mladic. Hij overleed eind augustus op 84-jarige leeftijd in de gevangenis in Scheveningen. Vanmiddag wordt hij begraven. Bij de dienst zijn onder meer familieleden, oud-militairen, functionarissen en de Servische minister van Justitie, Nenad Vujic, aanwez",
+      "url": "https://nos.nl/l/2630017",
+      "datum": "1 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Felicitaties en bezorgde reacties op monsterzege AfD in Saksen-Anhalt",
+      "beschrijving": "De grote verkiezingswinst van de rechts-radicale Alternative für Deutschland (AfD) in de Duitse deelstaat Saksen-Anhalt leidt tot gemengde reacties in binnen- en buitenland. Er klinken felicitaties van rechtse partijen in Europa, andere politici uiten hun zorgen over wat deze uitslag betekent voor Duitsland en de rest van Europa. \"Alle democratische partijen moeten de diepe vertrouwenscrisis die o",
+      "url": "https://nos.nl/l/2630012",
+      "datum": "1 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Duizenden extra vluchten geschrapt in Indonesië na vulkaanuitbarsting",
+      "beschrijving": "In Indonesië worden duizenden extra vluchten geannuleerd, vanwege aanhoudende vulkanische as boven delen van het land. Dat meldt de Indonesische minister van Transport. Afgelopen weekend kondigde de minister ook al honderden geschrapte vluchten aan, nadat vulkaan Anak Krakatau was uitgebarsten. Het gaat om zeven vliegvelden die voorlopig dicht blijven; de internationale luchthaven Soekarno-Hatta b",
+      "url": "https://nos.nl/l/2630011",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Rode Kruis luidt noodklok: steeds minder hulpgoederen bereiken Gaza",
+      "beschrijving": "Het Nederlandse Rode Kruis trekt opnieuw aan de bel om de situatie in Gaza. Volgens de hulporganisatie kwamen er in de maand augustus slechts 93 pallets met hulpgoederen bij de Palestijnse Rode Halve Maan terecht, het Rode Kruis in Gaza, terwijl dat er in november vorig jaar nog ruim 1500 waren. Volgens het Rode Kruis heeft de hulpverlening in Gaza een kritiek dieptepunt bereikt; niet eerder sinds",
+      "url": "https://nos.nl/l/2630005",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 7/9: Mladic begraven in Servië • Rutte opnieuw verhoord",
+      "beschrijving": "Goedemorgen! Oud-premier Mark Rutte verschijnt opnieuw voor de parlementaire enquêtecommissie corona en in Servië wordt de oud-generaal en oorlogsmisdadiger Ratko Mladic begraven. Eerst het weer: Vandaag zijn er flinke zonnige perioden die worden afgewisseld door enkele wolkenvelden. Bij een matige tot vrij krachtige zuidwestenwind wordt het 24 tot 28 graden en daarmee wordt het op veel plaatsen z",
+      "url": "https://nos.nl/l/2629999",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Geen absolute meerderheid, maar AfD-zege laat Duitse politiek op grondvesten trillen",
       "beschrijving": "De deelstaatverkiezingen in Saksen-Anhalt zijn uitgelopen op niets minder dan een politieke krimi. Tot diep in de nacht bleef onzeker of de rechts-radicale AfD de absolute meerderheid in zetels heeft gehaald. Zelfs Tatort, de heilige tv-krimi op zondagavond, moest op het laatste moment wijken voor extra nieuwsuitzendingen. In de voorlopige uitslag komt de AfD, die in Saksen-Anhalt door de veilighe",
       "url": "https://nos.nl/l/2629993",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,16 +104,16 @@
       "titel": "Gouverneurskandidaat Ohio belaagd door man met vuurwapen",
       "beschrijving": "In de Amerikaanse staat Ohio is een man opgepakt die met een vuurwapen in de buurt van de Democratische gouverneurskandidaat Amy Acton probeerde te komen. Beveiligers konden hem aanhouden voordat hij de politica bereikte. Het incident gebeurde in de plaats Canfield, tussen Cleveland en Pittsburgh, waar Acton op de plaatselijke braderie kiezers ontmoette. Enkele omstanders raakten gewond toen de ma",
       "url": "https://nos.nl/l/2629992",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Tientallen slachtoffers door vuurwerkexplosie bij kerk in Mexico",
-      "beschrijving": "Een vuurwerkexplosie bij een kerk in Mexico heeft aan zeker tien mensen het leven gekost. Tientallen mensen raakten gewond, onder wie ook kinderen. Het ging zaterdagavond mis bij een religieus festival ter ere van de beschermheilige van de plaats Temascalcingo, ruim 150 kilometer ten noordwesten van Mexico-Stad. Blijkbaar ging een voorraad vuurwerk af in een magazijn. Het was toen juist druk met m",
+      "beschrijving": "Een vuurwerkexplosie bij een kerk in Mexico heeft aan zeker tien mensen het leven gekost. Tientallen mensen raakten gewond, onder wie ook kinderen. Het ging zaterdagavond mis bij een religieus festival ter ere van de beschermheilige van de plaats Temascalcingo, ruim 150 kilometer ten noordwesten van Mexico-Stad. Blijkbaar ging een voorraad vuurwerk af in een magazijn. Hoe groot de ravage is, is go",
       "url": "https://nos.nl/l/2629991",
-      "datum": "5 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,106 +122,61 @@
       "titel": "Amazon-vrachtvliegtuig schiet door na landing en raakt auto's bij luchthaven Miami",
       "beschrijving": "Bij Miami International Airport is een Boeing 767-vrachtvliegtuig van webwinkelgigant Amazon op een nabijgelegen weg terechtgekomen. Volgens de brandweer van Miami-Dade raakte het vliegtuig daarbij meerdere voertuigen. Er vielen in totaal vijf doden, het is niet duidelijk of dat inzittenden van het vliegtuig of de auto's waren. Vijf personen raakten gewond, drie van hen zijn er ernstig aan toe. Om",
       "url": "https://nos.nl/l/2629983",
-      "datum": "8 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Massale processie in Moskou moet politieke steun van kerk aan Kremlin tonen",
-      "beschrijving": "Tienduizenden Russisch-orthodoxe gelovigen hebben vandaag deelgenomen aan een urenlange processie in het centrum van Moskou. Met patriarch Kirill aan het hoofd ging de optocht van de monumentale Verlosserskathedraal naar een eeuwenoud vrouwenklooster, een afstand van 7 kilometer. Vanwege de strenge veiligheidsmaatregelen moesten deelnemers uren in de rij staan voor ze zich konden aansluiten bij de",
-      "url": "https://nos.nl/l/2629981",
-      "datum": "8 uur geleden",
+      "titel": "Arsenal vs Chelsea: Gunners stamp authority, but Blues are contenders too",
+      "beschrijving": "Arsenal&#039;s strong defence and reliable attack edge Chelsea&#039;s bravery and intent in the Premier League&#039;s biggest clash.",
+      "url": "https://www.aljazeera.com/sports/2026/9/7/arsenal-vs-chelsea-gunners-stamp-authority-but-blues-are-contenders-too?traffic_source=rss",
+      "datum": "16 min geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Deense koningin Margrethe opgenomen in ziekenhuis na onwelwording",
-      "beschrijving": "De Deense koningin Margrethe is opgenomen in het Rigshospitalet in Kopenhagen. Ze werd naar het ziekenhuis gebracht nadat ze onwel was geworden. Dat meldt het Deense koningshuis. Bij de 86-jarige koningin is een bloedophoping in haar heup vastgesteld. Ook is sprake van lichte uitdroging. Beide worden behandeld. Margrethe II is sinds 14 januari 2024 geen regerend vorstin meer. Ze deed toen vrijwill",
-      "url": "https://nos.nl/l/2629970",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Monsterzege AfD in Saksen-Anhalt, nog onzeker of partij alleen kan regeren",
-      "beschrijving": "De rechts-radicale partij Alternative für Deutschland (AfD) is in de Duitse deelstaat Saksen-Anhalt zoals verwacht de grootste geworden. De partij krijgt volgens een prognose van de uitslag ruim 44 procent van de stemmen, meer dan was gepeild. De winst van de AfD lijkt niet voldoende voor een absolute meerderheid van de zetels in het deelstaatparlement, iets wat wel voor mogelijk werd gehouden. Om",
-      "url": "https://nos.nl/l/2629958",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Koninklijke familie herdenkt overleden prins Claus, op zijn 100ste geboortedag",
-      "beschrijving": "Prins Claus is in Duitsland herdacht in het bijzijn van prinses Beatrix, koning Willem-Alexander en prins Constantijn. Claus was de man van Beatrix, hij overleed in 2002 en zou vandaag 100 jaar zijn geworden. De herdenking was in de Noord-Duitse plaats Hitzacker, waar Claus von Amsberg werd geboren. Beatrix, Willem-Alexander en Constantijn bezochten een monument voor Claus en wandelden over de Pri",
-      "url": "https://nos.nl/l/2629953",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Kwart eeuw na 9/11 wordt ook stilgestaan bij de 'ruim 9000' latere slachtoffers",
-      "beschrijving": "Het is vrijdag 25 jaar geleden dat al-Qaida-kapers vliegtuigen in de twee WTC-torens in New York vlogen. Een derde vliegtuig boorde zich in het Pentagon, vlak bij Washington, en een vierde vliegtuig stortte neer in een weiland in Pennsylvania. De aanslag was met bijna drieduizend slachtoffers de dodelijkste terreurdaad ooit. Maar het aantal slachtoffers van de giftige stoffen die uit de puinresten",
-      "url": "https://nos.nl/l/2629948",
-      "datum": "12 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran to announce restricted zone outside Strait of Hormuz",
-      "beschrijving": "Iran&#039;s security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
-      "beschrijving": "Adidas is facing calls for a boycott after featuring a former Israeli soldier in a campaign for amputees.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Israeli man wounded in stabbing in occupied West Bank",
+      "beschrijving": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-wounded-in-stabbing-in-occupied-west-bank?traffic_source=rss",
+      "datum": "36 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
-      "beschrijving": "Leader Kim Jong Un says vessel will form part of Pyongyang&#039;s nuclear response system, strengthen naval forces.",
-      "url": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Noord-Korea",
+      "titel": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
+      "beschrijving": "Manila defence chief says Washington gave &#039;definite assurances&#039; that its commitments to the Philippines remain.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
+      "datum": "5 uur geleden",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
-      "beschrijving": "Move comes as Iran&#039;s top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
-      "datum": "3 uur geleden",
+      "titel": "Iran to announce restricted zone outside Strait of Hormuz",
+      "beschrijving": "Iran&#039;s security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
+      "datum": "6 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "beschrijving": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Israeli strikes in southern Lebanese village kill nine",
+      "beschrijving": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "datum": "10 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "beschrijving": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "titel": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "beschrijving": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "datum": "12 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -166,14 +184,14 @@
   ],
   "ticker": [
     "Scheepvaartverkeer Hormuz valt weer bijna stil na hernieuwde aanvallen over en weer",
-    "Eight-year-old Gaza girl killed by Israel on first day of school",
-    "Iran warns of 'faster, heavier, more painful response' to US attacks",
-    "Geen absolute meerderheid, maar AfD-zege laat Duitse politiek op grondvesten trillen",
-    "Gouverneurskandidaat Ohio belaagd door man met vuurwapen",
-    "Tientallen slachtoffers door vuurwerkexplosie bij kerk in Mexico",
-    "Amazon-vrachtvliegtuig schiet door na landing en raakt auto's bij luchthaven Miami",
-    "Massale processie in Moskou moet politieke steun van kerk aan Kremlin tonen",
-    "Deense koningin Margrethe opgenomen in ziekenhuis na onwelwording",
-    "Monsterzege AfD in Saksen-Anhalt, nog onzeker of partij alleen kan regeren"
+    "Israeli air attacks kill at least 11 people in southern Lebanon",
+    "Six children among 11 people killed in Indonesian market fire",
+    "Ten killed and dozens injured in Mexico fireworks blast",
+    "Armed assailant attacks Ohio Democratic candidate during campaign stop",
+    "Oorlogsmisdadiger Mladic opgebaard in Belgrado, duizenden mensen verwacht",
+    "Felicitaties en bezorgde reacties op monsterzege AfD in Saksen-Anhalt",
+    "Duizenden extra vluchten geschrapt in Indonesië na vulkaanuitbarsting",
+    "Rode Kruis luidt noodklok: steeds minder hulpgoederen bereiken Gaza",
+    "Wekdienst 7/9: Mladic begraven in Servië • Rutte opnieuw verhoord"
   ]
 }
