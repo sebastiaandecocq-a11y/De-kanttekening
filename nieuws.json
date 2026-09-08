@@ -1,56 +1,74 @@
 {
-  "bijgewerkt": "08 Sep 2026 07:03 UTC",
+  "bijgewerkt": "08 Sep 2026 12:43 UTC",
   "artikelen": [
+    {
+      "titel": "Rusland hervat aanvallen op Kyiv na vertrek Amerikaanse diplomaten",
+      "beschrijving": "Rusland heeft de Oekraïense hoofdstad Kyiv met ballistische raketten aangevallen, nadat de Amerikaanse diplomaten Witkoff en Kushner uit de Oekraïense hoofdstad waren vertrokken. De twee Amerikanen waren afgelopen week in Moskou en vervolgens in Kyiv voor vredesonderhandelingen. Zeker twee mensen zijn omgekomen en tien mensen zijn gewond geraakt door de Russische aanvallen, stelt de burgemeester v",
+      "url": "https://nos.nl/l/2630145",
+      "datum": "5 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "73 gewonden bij Houthi-aanvallen op Saudi-Arabië",
       "beschrijving": "Bij een reeks aanvallen van de door Iran gesteunde Houthi-rebellen op Saudi-Arabië zijn vanochtend 73 gewonden gevallen. Dat melden de Saudische autoriteiten. Volgens een woordvoerder van de door Saudi-Arabië geleide coalitie die tegen de Houthi's uit Jemen vecht, waren onder meer burgerdoelen en economische voorzieningen het doelwit. De aanvallen vonden plaats in en rond de Saudische steden Abha,",
       "url": "https://nos.nl/l/2630138",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-      "beschrijving": "Spokesperson for Saudi-led coalition says Houthis have hit civilian sites in Abha, Khamis Mushait, Jizan and Najran.",
-      "url": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+      "beschrijving": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "BRICS summit may be the only place another Iran ceasefire can be built",
+      "beschrijving": "Its members and partners have brokered every ceasefire so far and hold the relationships needed to build the next one.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss",
+      "datum": "42 min geleden",
+      "regio": "Iran",
+      "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "beschrijving": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "beschrijving": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "VS",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "beschrijving": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
+      "titel": "What to watch in the US’s New Hampshire and Rhode Island primary elections",
+      "beschrijving": "Some of the US midterm election&#039;s biggest themes will play out in these New England states&#039; most notable races.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Verdachte van saboteren Duitse stroomnet aangehouden in buurt Nederlandse grens",
+      "beschrijving": "De man die ervan wordt verdacht meerdere sabotagepogingen te hebben gedaan op het Duitse energienet, is opgepakt. Hij werd volgens veiligheidsbronnen van de Frankfurter Allgemeine Zeitung aangehouden bij een verkeerscontrole nabij Weisweiler, een plek op zo'n 20 kilometer van de Nederlandse grens bij Limburg. Het Duitse persbureau DPA meldt dat de politie de man in de buurt van de elektriciteitsce",
+      "url": "https://nos.nl/l/2630170",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Dieven stelen Renoirs uit Frans museum, laten deel buit achter in tuin",
+      "beschrijving": "Uit een museum in het zuiden van Frankrijk zijn vanochtend vroeg twee schilderijen van de Franse schilder Renoir gestolen. Twee dieven namen in eerste instantie vier schilderijen mee, maar ze lieten twee daarvan achter tijdens hun vlucht. De waarde van de vier werken wordt geschat op 9 miljoen euro. Hoeveel de twee nog vermiste schilderijen waard zijn, is niet bekendgemaakt. Volgens verschillende ",
+      "url": "https://nos.nl/l/2630167",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Wekdienst 8/9: Besluit over toekomst omroep Ongehoord Nederland • Manifestatie tegen bezuinigingen",
       "beschrijving": "Goedemorgen! Minister Letschert beslist over de licentie van Ongehoord Nederland en een grote manifestatie in Den Haag tegen bezuinigingen op de sociale zekerheid. Eerst het weer: vandaag is er veel bewolking, in het zuidoosten komt af en toe de zon tevoorschijn. In de loop van de dag volgt vanuit het westen een gebied met regen. Het wordt voor de regen uit nog zo'n 24 graden in het zuidoosten. In",
       "url": "https://nos.nl/l/2630132",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +77,7 @@
       "titel": "Luchthaven van Jakarta weer open na uitbarsting vulkaan Anak Krakatau",
       "beschrijving": "Indonesië heeft de internationale luchthaven van Jakarta en nog vier andere vliegvelden heropend na de uitbarsting van een vulkaan. Anak Krakatau barstte dit weekend uit, waarna acht luchthavens om veiligheidsredenen werden gesloten. Meer dan 340.000 reizigers werden daardoor getroffen. Bijna 3000 vluchten waren vertraagd, verplaatst of geannuleerd. Vijf luchthavens kunnen vanaf vandaag weer open,",
       "url": "https://nos.nl/l/2630129",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "Hoogste aanklager Oekraïne stapt op vanwege corruptiezaak",
       "beschrijving": "De hoogste aanklager van Oekraïne, Roeslan Kravtsjenko, heeft zijn ontslag ingediend. De procureur-generaal is verwikkeld in een corruptiezaak. Medewerkers van Kravtsjenko zouden zich voor omgerekend tienduizenden euro's hebben laten omkopen door malafide callcenters. Bij die callcenters zijn oplichters actief. Door steekpenningen te betalen aan aanklagers zouden die een oogje toeknijpen. Vorige w",
       "url": "https://nos.nl/l/2630128",
-      "datum": "5 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Doden vliegtuigcrash Miami waren inzittenden van voertuigen op de grond",
       "beschrijving": "De vijf mensen die zondag in de Amerikaanse stad Miami om het leven kwamen toen een vrachtvliegtuig van de landingsbaan schoot, waren inzittenden van twee voertuigen die geramd werden. Het gaat om inzittenden van een busje van een schoonmaakbedrijf en van een auto die eigendom is van de internationale luchthaven van Miami. Het toestel van webwinkel Amazon reed zondagmiddag door onbekende oorzaak v",
       "url": "https://nos.nl/l/2630127",
-      "datum": "8 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +104,7 @@
       "titel": "Staking op Eiffeltoren na uitsluiting vrouwelijke medewerkers",
       "beschrijving": "De Eiffeltoren was vandaag de hele dag gesloten voor publiek vanwege een staking. Het personeel protesteerde tegen het wegsturen van het vrouwelijk personeel afgelopen zaterdag. Dat zou volgens de krant Le Parisien zijn gebeurd op verzoek van een hindoeïstische geloofsgemeenschap die het iconische monument in Parijs bezocht. De ongeveer honderd leden van de religieuze groep brachten een bezoek aan",
       "url": "https://nos.nl/l/2630121",
-      "datum": "10 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,71 +113,53 @@
       "titel": "Felle emoties op straat om AfD-winst: van 'geschiedenis herhaalt zich' tot 'redding nabij'",
       "beschrijving": "De Duitse deelstaat Saksen-Anhalt is tot op het bot verdeeld. De ene helft heeft bij de deelstaatverkiezingen gestemd op de protestpartijen AfD en BSW en ziet die als de 'redding' van het land. De andere helft stemde vooral tégen de AfD, met een stem op midden- en linkse partijen, om de democratie te 'redden'. In het stadje Burg is de verdeeldheid voelbaar op straat. Een groep mannen bespreekt de ",
       "url": "https://nos.nl/l/2630111",
-      "datum": "12 uur geleden",
+      "datum": "18 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Dag van nationale rouw in Nepal, groeiende kritiek op tempo reddingswerk",
-      "beschrijving": "In Nepal is een dag van nationale rouw gehouden, bijna twee weken na de verwoestende overstroming in het grensgebied met Tibet. Vlaggen van overheidsgebouwen hingen halfstok en families hadden de gelegenheid om laatste rituelen voor overleden dierbaren uit te voeren. In de hoofdstad Kathmandu werden op meerdere plekken waken gehouden, waarbij kaarsjes werden aangestoken om de slachtoffers te herde",
-      "url": "https://nos.nl/l/2630107",
-      "datum": "13 uur geleden",
+      "titel": "Sudan’s healthcare system on brink of collapse, MSF warns",
+      "beschrijving": "More than a third of Sudan&#039;s health facilities are nonoperational as aid cuts deepen crisis, medical charity says.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss",
+      "datum": "30 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Britse autoriteiten onderzoeken misdragingen bij anti-immigratieprotest in Portsmouth",
-      "beschrijving": "De Britse autoriteiten zijn een onderzoek gestart naar deelnemers aan een anti-immigratieprotest in Portsmouth. Meerdere agenten raakten gewond, ook werden dienstvoertuigen vernield. Honderden demonstranten verzamelden zich afgelopen nacht in de Zuid-Engelse kuststad. Ze wilden voorkomen dat migranten die met een boot het Kanaal hadden overgestoken de stad zouden verlaten en naar opvangcentra zoud",
-      "url": "https://nos.nl/l/2630106",
-      "datum": "13 uur geleden",
+      "titel": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
+      "beschrijving": "Saudi Arabia promises firm retaliation after Houthi strikes injure 73 and disrupt energy facilities in southern cities.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Oorlogsmisdadiger Mladic onder grote belangstelling begraven in Belgrado",
-      "beschrijving": "In de Servische hoofdstad Belgrado hebben duizenden mensen de uitvaart van de veroordeelde oorlogsmisdadiger Ratko Mladic bijgewoond. De voormalige Bosnisch-Servische legerleider overleed eind augustus op 84-jarige leeftijd in de gevangenis in Scheveningen. Afgelopen donderdag is zijn lichaam overgebracht naar Servië. Belangstellenden, onder wie een aantal oorlogsveteranen, waren massaal naar de k",
-      "url": "https://nos.nl/l/2630097",
-      "datum": "14 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Palestine weekly: Israeli ministers push for depopulation of Gaza",
-      "beschrijving": "Ethnic cleansing plans move from slogans to policy proposals, amid West Bank demolitions and mounting deaths in Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss",
+      "titel": "Israeli forces kill Palestinian man and withhold his body near Nablus",
+      "beschrijving": "Israeli forces shot and killed a Palestinian man amid raids and arrests across the occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/israeli-forces-kill-palestinian-man-and-withhold-his-body-near-nablus?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Polls suggest tight presidential race as Brazil marks Independence Day",
-      "beschrijving": "Brazil has marked Independence Day with the two main candidates for October’s presidential election holding events.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "As Sweden heads to polls, Israel and Palestine policies are on the ballot",
+      "beschrijving": "With the left-wing coalition ahead in polling, the current right-wing government&#039;s policies could soon be up for debate.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "‘House moved like jelly’ says resident near Bolivia barracks blast",
-      "beschrijving": "Reports are emerging from the powerful explosion at a military barracks in Bolivia that killed at least nine people.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Saudi political analyst says ‘No prolonged war with the Houthis’",
+      "beschrijving": "Khaled Batarfi, a Saudi political analyst, says the war with the Houthis will not be ‘prolonged’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
-      "beschrijving": "US envoy says &#039;encouraged&#039; by talks as White House official told Reuters next steps to be announced in coming weeks.",
-      "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -167,31 +167,31 @@
       "titel": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
       "beschrijving": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
       "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "19 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Flight recorders recovered from Amazon cargo plane crash",
-      "beschrijving": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
+      "titel": "At least two people dead after Russian strikes on Kyiv",
+      "beschrijving": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Rusland hervat aanvallen op Kyiv na vertrek Amerikaanse diplomaten",
     "73 gewonden bij Houthi-aanvallen op Saudi-Arabië",
-    "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-    "Palestinian parents fear for children's lives at school as settler attacks grow",
-    "Trump threatens to stop sale of Canadian Bombardier jets in US",
-    "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+    "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+    "BRICS summit may be the only place another Iran ceasefire can be built",
+    "What to watch in the US’s New Hampshire and Rhode Island primary elections",
+    "Verdachte van saboteren Duitse stroomnet aangehouden in buurt Nederlandse grens",
+    "Dieven stelen Renoirs uit Frans museum, laten deel buit achter in tuin",
     "Wekdienst 8/9: Besluit over toekomst omroep Ongehoord Nederland • Manifestatie tegen bezuinigingen",
     "Luchthaven van Jakarta weer open na uitbarsting vulkaan Anak Krakatau",
-    "Hoogste aanklager Oekraïne stapt op vanwege corruptiezaak",
-    "Doden vliegtuigcrash Miami waren inzittenden van voertuigen op de grond",
-    "Staking op Eiffeltoren na uitsluiting vrouwelijke medewerkers"
+    "Hoogste aanklager Oekraïne stapt op vanwege corruptiezaak"
   ]
 }
