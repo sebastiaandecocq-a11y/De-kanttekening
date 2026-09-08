@@ -1,11 +1,11 @@
 {
-  "bijgewerkt": "08 Sep 2026 12:43 UTC",
+  "bijgewerkt": "08 Sep 2026 17:08 UTC",
   "artikelen": [
     {
       "titel": "Rusland hervat aanvallen op Kyiv na vertrek Amerikaanse diplomaten",
       "beschrijving": "Rusland heeft de Oekraïense hoofdstad Kyiv met ballistische raketten aangevallen, nadat de Amerikaanse diplomaten Witkoff en Kushner uit de Oekraïense hoofdstad waren vertrokken. De twee Amerikanen waren afgelopen week in Moskou en vervolgens in Kyiv voor vredesonderhandelingen. Zeker twee mensen zijn omgekomen en tien mensen zijn gewond geraakt door de Russische aanvallen, stelt de burgemeester v",
       "url": "https://nos.nl/l/2630145",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,43 +14,97 @@
       "titel": "73 gewonden bij Houthi-aanvallen op Saudi-Arabië",
       "beschrijving": "Bij een reeks aanvallen van de door Iran gesteunde Houthi-rebellen op Saudi-Arabië zijn vanochtend 73 gewonden gevallen. Dat melden de Saudische autoriteiten. Volgens een woordvoerder van de door Saudi-Arabië geleide coalitie die tegen de Houthi's uit Jemen vecht, waren onder meer burgerdoelen en economische voorzieningen het doelwit. De aanvallen vonden plaats in en rond de Saudische steden Abha,",
       "url": "https://nos.nl/l/2630138",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "beschrijving": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "titel": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "beschrijving": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "datum": "31 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "beschrijving": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
+      "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
+      "beschrijving": "The New York mayor says newly released documents show asbestos \"nearly everywhere\" around Ground Zero.",
+      "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
       "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "BRICS summit may be the only place another Iran ceasefire can be built",
-      "beschrijving": "Its members and partners have brokered every ceasefire so far and hold the relationships needed to build the next one.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss",
-      "datum": "42 min geleden",
-      "regio": "Iran",
+      "titel": "Sabotage suspect held in Germany after spate of attacks on power grid",
+      "beschrijving": "The suspect had reportedly claimed responsibility for attacks on electricity substations in letters.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese",
+      "beschrijving": "UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "What to watch in the US’s New Hampshire and Rhode Island primary elections",
-      "beschrijving": "Some of the US midterm election&#039;s biggest themes will play out in these New England states&#039; most notable races.",
-      "url": "https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "Jerusalem Daily: UK announces sanctions on Israeli settlement goods",
+      "beschrijving": "The UK’s foreign secretary has announced a ban on trade with goods from Israeli settlements in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/jerusalem-daily-uk-announces-sanctions-on-israeli-settlement-goods?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "VK, Frankrijk en Canada komen met importverbod voor goederen uit nederzettingen Westoever",
+      "beschrijving": "Het Verenigd Koninkrijk, Frankrijk en Canada voeren een importverbod in op goederen uit Israëlische nederzettingen op de bezette Westelijke Jordaanoever. Dat maakte de Britse buitenlandminister Miliband vanmiddag in het Lagerhuis bekend. Ook komen er sancties tegen bedrijven en individuen die de uitbreiding van de illegale nederzettingen faciliteren met bijvoorbeeld financiële dienstverlening en i",
+      "url": "https://nos.nl/l/2630205",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "EU-ministers veroordelen eerbetoon Mladic: 'Onverenigbaar met Europese waarden'",
+      "beschrijving": "Een dag na de begrafenis van Ratko Mladic regent het vanuit Europa veroordelingen over het grote eerbetoon aan de veroordeelde oorlogsmisdadiger waarmee de uitvaart gepaard ging. Zo bestempelt voorzitter van de Europese Commissie Von der Leyen de beelden van de begrafenis als \"schokkend\". Ze noemt specifiek de officiële steun en de aanwezigheid van hoge Servische functionarissen bij de begrafenis ",
+      "url": "https://nos.nl/l/2630201",
+      "datum": "1 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Kan de AfD na overwinning in Saksen-Anhalt de opmars doorzetten?",
+      "beschrijving": "De klinkende overwinning van Alternative für Deutschland (AfD) in Saksen-Anhalt heeft het afgelopen weekend veel stof doen opwaaien. In Duitsland én daarbuiten. Waar vanuit de rechterflank in Europa optimistische reacties klinken, uiten veel politici ook hun zorgen over wat deze overwinning voor de toekomst van Duitsland en Europa kan betekenen. Op 20 september hoopt de AfD ook winst te boeken bij",
+      "url": "https://nos.nl/l/2630179",
+      "datum": "4 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Verdachte van saboteren Duitse stroomnet aangehouden in buurt Nederlandse grens",
       "beschrijving": "De man die ervan wordt verdacht meerdere sabotagepogingen te hebben gedaan op het Duitse energienet, is opgepakt. Hij werd volgens veiligheidsbronnen van de Frankfurter Allgemeine Zeitung aangehouden bij een verkeerscontrole nabij Weisweiler, een plek op zo'n 20 kilometer van de Nederlandse grens bij Limburg. Het Duitse persbureau DPA meldt dat de politie de man in de buurt van de elektriciteitsce",
       "url": "https://nos.nl/l/2630170",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +113,7 @@
       "titel": "Dieven stelen Renoirs uit Frans museum, laten deel buit achter in tuin",
       "beschrijving": "Uit een museum in het zuiden van Frankrijk zijn vanochtend vroeg twee schilderijen van de Franse schilder Renoir gestolen. Twee dieven namen in eerste instantie vier schilderijen mee, maar ze lieten twee daarvan achter tijdens hun vlucht. De waarde van de vier werken wordt geschat op 9 miljoen euro. Hoeveel de twee nog vermiste schilderijen waard zijn, is niet bekendgemaakt. Volgens verschillende ",
       "url": "https://nos.nl/l/2630167",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +122,7 @@
       "titel": "Wekdienst 8/9: Besluit over toekomst omroep Ongehoord Nederland • Manifestatie tegen bezuinigingen",
       "beschrijving": "Goedemorgen! Minister Letschert beslist over de licentie van Ongehoord Nederland en een grote manifestatie in Den Haag tegen bezuinigingen op de sociale zekerheid. Eerst het weer: vandaag is er veel bewolking, in het zuidoosten komt af en toe de zon tevoorschijn. In de loop van de dag volgt vanuit het westen een gebied met regen. Het wordt voor de regen uit nog zo'n 24 graden in het zuidoosten. In",
       "url": "https://nos.nl/l/2630132",
-      "datum": "8 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +131,7 @@
       "titel": "Luchthaven van Jakarta weer open na uitbarsting vulkaan Anak Krakatau",
       "beschrijving": "Indonesië heeft de internationale luchthaven van Jakarta en nog vier andere vliegvelden heropend na de uitbarsting van een vulkaan. Anak Krakatau barstte dit weekend uit, waarna acht luchthavens om veiligheidsredenen werden gesloten. Meer dan 340.000 reizigers werden daardoor getroffen. Bijna 3000 vluchten waren vertraagd, verplaatst of geannuleerd. Vijf luchthavens kunnen vanaf vandaag weer open,",
       "url": "https://nos.nl/l/2630129",
-      "datum": "10 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,112 +140,58 @@
       "titel": "Hoogste aanklager Oekraïne stapt op vanwege corruptiezaak",
       "beschrijving": "De hoogste aanklager van Oekraïne, Roeslan Kravtsjenko, heeft zijn ontslag ingediend. De procureur-generaal is verwikkeld in een corruptiezaak. Medewerkers van Kravtsjenko zouden zich voor omgerekend tienduizenden euro's hebben laten omkopen door malafide callcenters. Bij die callcenters zijn oplichters actief. Door steekpenningen te betalen aan aanklagers zouden die een oogje toeknijpen. Vorige w",
       "url": "https://nos.nl/l/2630128",
-      "datum": "11 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Doden vliegtuigcrash Miami waren inzittenden van voertuigen op de grond",
-      "beschrijving": "De vijf mensen die zondag in de Amerikaanse stad Miami om het leven kwamen toen een vrachtvliegtuig van de landingsbaan schoot, waren inzittenden van twee voertuigen die geramd werden. Het gaat om inzittenden van een busje van een schoonmaakbedrijf en van een auto die eigendom is van de internationale luchthaven van Miami. Het toestel van webwinkel Amazon reed zondagmiddag door onbekende oorzaak v",
-      "url": "https://nos.nl/l/2630127",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Staking op Eiffeltoren na uitsluiting vrouwelijke medewerkers",
-      "beschrijving": "De Eiffeltoren was vandaag de hele dag gesloten voor publiek vanwege een staking. Het personeel protesteerde tegen het wegsturen van het vrouwelijk personeel afgelopen zaterdag. Dat zou volgens de krant Le Parisien zijn gebeurd op verzoek van een hindoeïstische geloofsgemeenschap die het iconische monument in Parijs bezocht. De ongeveer honderd leden van de religieuze groep brachten een bezoek aan",
-      "url": "https://nos.nl/l/2630121",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Felle emoties op straat om AfD-winst: van 'geschiedenis herhaalt zich' tot 'redding nabij'",
-      "beschrijving": "De Duitse deelstaat Saksen-Anhalt is tot op het bot verdeeld. De ene helft heeft bij de deelstaatverkiezingen gestemd op de protestpartijen AfD en BSW en ziet die als de 'redding' van het land. De andere helft stemde vooral tégen de AfD, met een stem op midden- en linkse partijen, om de democratie te 'redden'. In het stadje Burg is de verdeeldheid voelbaar op straat. Een groep mannen bespreekt de ",
-      "url": "https://nos.nl/l/2630111",
-      "datum": "18 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Sudan’s healthcare system on brink of collapse, MSF warns",
-      "beschrijving": "More than a third of Sudan&#039;s health facilities are nonoperational as aid cuts deepen crisis, medical charity says.",
-      "url": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss",
-      "datum": "30 min geleden",
-      "regio": "Wereld",
+      "titel": "Israeli strikes transform Lebanese city into ghost town",
+      "beschrijving": "Nabatieh, once southern Lebanon’s economic centre, is now a ghost town as Israel intensifies attacks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss",
+      "datum": "48 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
-      "beschrijving": "Saudi Arabia promises firm retaliation after Houthi strikes injure 73 and disrupt energy facilities in southern cities.",
-      "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israeli forces kill Palestinian man and withhold his body near Nablus",
-      "beschrijving": "Israeli forces shot and killed a Palestinian man amid raids and arrests across the occupied West Bank.",
-      "url": "https://www.aljazeera.com/news/2026/9/8/israeli-forces-kill-palestinian-man-and-withhold-his-body-near-nablus?traffic_source=rss",
+      "titel": "Israeli academia accused of systemic apartheid against Palestinians",
+      "beschrijving": "A legal report exposes how Israeli universities use a dual-track disciplinary system to target Palestinian students.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "As Sweden heads to polls, Israel and Palestine policies are on the ballot",
-      "beschrijving": "With the left-wing coalition ahead in polling, the current right-wing government&#039;s policies could soon be up for debate.",
-      "url": "https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot?traffic_source=rss",
+      "titel": "Hungary expels 10 Russian diplomats, Moscow promises harsh response",
+      "beschrijving": "Russia promises &#039;harsh and painful&#039; response following Hungary&#039;s expulsion of its diplomats.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/hungary-expels-russian-diplomats-over-unacceptable-activities?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "The shift in British policy on Israel is palpable",
+      "beschrijving": "But progress could be threatened if there is a new more diplomatic government in Israel.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Saudi political analyst says ‘No prolonged war with the Houthis’",
-      "beschrijving": "Khaled Batarfi, a Saudi political analyst, says the war with the Houthis will not be ‘prolonged’.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-      "beschrijving": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "datum": "19 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "At least two people dead after Russian strikes on Kyiv",
-      "beschrijving": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
     }
   ],
   "ticker": [
     "Rusland hervat aanvallen op Kyiv na vertrek Amerikaanse diplomaten",
     "73 gewonden bij Houthi-aanvallen op Saudi-Arabië",
-    "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-    "BRICS summit may be the only place another Iran ceasefire can be built",
-    "What to watch in the US’s New Hampshire and Rhode Island primary elections",
-    "Verdachte van saboteren Duitse stroomnet aangehouden in buurt Nederlandse grens",
-    "Dieven stelen Renoirs uit Frans museum, laten deel buit achter in tuin",
-    "Wekdienst 8/9: Besluit over toekomst omroep Ongehoord Nederland • Manifestatie tegen bezuinigingen",
-    "Luchthaven van Jakarta weer open na uitbarsting vulkaan Anak Krakatau",
-    "Hoogste aanklager Oekraïne stapt op vanwege corruptiezaak"
+    "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+    "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+    "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
+    "Sabotage suspect held in Germany after spate of attacks on power grid",
+    "UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese",
+    "Jerusalem Daily: UK announces sanctions on Israeli settlement goods",
+    "VK, Frankrijk en Canada komen met importverbod voor goederen uit nederzettingen Westoever",
+    "EU-ministers veroordelen eerbetoon Mladic: 'Onverenigbaar met Europese waarden'"
   ]
 }
