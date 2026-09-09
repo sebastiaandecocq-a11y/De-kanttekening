@@ -1,47 +1,92 @@
 {
-  "bijgewerkt": "09 Sep 2026 08:50 UTC",
+  "bijgewerkt": "09 Sep 2026 13:35 UTC",
   "artikelen": [
     {
-      "titel": "25 jaar na de aanslagen van 9/11 zet Trump het mes in terreurbestrijding",
-      "beschrijving": "Sinds 11 september 2001 zijn er geen grootschalige terroristische aanslagen meer geweest in de Verenigde Staten. Maar experts maken zich grote zorgen of Amerika 25 jaar later nog steeds 'op scherp' staat, nu president Trump het mes heeft gezet in delen van de terrorismebestrijding. \"Schokkend en frustrerend\", noemt voormalig terrorismebestrijder Michael Duffin het, die vorig jaar werd ontslagen. \"",
-      "url": "https://nos.nl/l/2630244",
-      "datum": "11 uur geleden",
-      "regio": "VS",
+      "titel": "Dodental na luchtaanval op Houthi-gevangenis in Jemen loopt op tot 23",
+      "beschrijving": "Bij een luchtaanval op een gevangenis in het noorden van Jemen zijn zeker 23 mensen om het leven gekomen. Reddingswerkers hebben vandaag vier lichamen geborgen uit het puin van de gevangenis, die maandag instortte na een aanval van de door Saudi-Arabië geleide coalitie. De gevangenis stond in de strategisch gelegen stad Hazm, in de provincie Jawf. Volgens de Houthi's wordt nog gezocht naar zeven v",
+      "url": "https://nos.nl/l/2630314",
+      "datum": "1 uur geleden",
+      "regio": "Midden-Oosten",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "In maps and charts: Russian and Ukrainian attacks on civilian targets",
-      "beschrijving": "Al Jazeera visualises how attacks on civilian infrastructure have more than doubled during the course of the war.",
-      "url": "https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss",
-      "datum": "8 min geleden",
-      "regio": "Oekraïne",
+      "titel": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
+      "beschrijving": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
+      "datum": "32 min geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russian drone attack kills two at Ukraine-Moldova border crossing",
-      "beschrijving": "Russian drones strike Ukraine-Moldova border in Odesa, killing two and injuring three civilians, officials confirm.",
-      "url": "https://www.aljazeera.com/news/2026/9/9/russian-drone-attack-kills-two-at-ukraine-moldova-border-crossing?traffic_source=rss",
-      "datum": "44 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
-      "beschrijving": "Many Iranians cannot access or afford life-saving drugs, but authorities say pharmaceutical sector will not collapse.",
-      "url": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade?traffic_source=rss",
+      "titel": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
+      "beschrijving": "Benchmark Brent crude hits $100, shaking markets and fuelling concerns over rising inflation pressures worldwide.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "beschrijving": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "datum": "5 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Russia and Ukraine exchange strikes as two killed at Moldova border",
+      "beschrijving": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Family of killed teen call for death penalty in D4vd trial",
+      "beschrijving": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
+      "url": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "How has Israel hit back against sanctions by the UK, others?",
+      "beschrijving": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Merz valt AfD in Bondsdag hard aan: 'Partij wil etnische zuivering'",
+      "beschrijving": "De Duitse bondskanselier Merz heeft in het eerste plenaire debat na de verkiezingen in Saksen-Anhalt hard uitgehaald naar de winnaar AfD. De rechts-radicale partij is volgens Merz een gevaar voor het land. De plannen voor wat de AfD \"remigratie\" noemt staan gelijk aan etnische zuivering, aldus de bondskanselier. De AfD, die in Saksen-Anhalt door de veiligheidsdienst als extreemrechts is bestempeld",
+      "url": "https://nos.nl/l/2630307",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vluchten vanuit VK hervat na grote storing, nog wel vertraging",
+      "beschrijving": "In het Verenigd Koninkrijk is het vliegverkeer vanochtend vroeg na een grote storing weer opgestart. Maar door de opgelopen achterstanden zijn de problemen voor reizigers van en naar het VK en Ierland nog niet voorbij. Ze moeten nog de hele dag rekening houden met flinke vertragingen. Gisteren en vannacht werden door een technische storing in het systeem van de Britse luchtverkeersleiding op lucht",
+      "url": "https://nos.nl/l/2630297",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Man (22) uit Singapore bekent diefstal van 200 miljoen aan cryptomunten",
       "beschrijving": "Een 22-jarige man uit Singapore heeft in de Verenigde Staten schuld bekend aan de diefstal van bitcoins ter waarde van 245 miljoen dollar (ruim 200 miljoen euro). Het is een van de grootste cryptodiefstallen uit de Amerikaanse geschiedenis. Malone Lam bekende schuld aan een aanklacht wegens deelname aan een criminele organisatie. Hij zou samen met een groep medeverdachten in augustus 2024 een inwo",
       "url": "https://nos.nl/l/2630276",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +95,7 @@
       "titel": "Noren nemen afscheid van koning Harald, zoon Haakon wacht moeilijke tijd",
       "beschrijving": "Vanuit het hele land komen Noren vandaag naar Oslo om afscheid te nemen van koning Harald, die eind vorige maand op 89-jarige leeftijd overleed als oudste vorst van Europa. Harald wordt beschouwd als een vader die de Noren met elkaar verbond. Tegelijkertijd laat hij een verzwakt koningshuis achter en gaat zijn zoon, nu koning Haakon VIII, een moeilijke tijd tegemoet. Aan de voorwerpen die tussen d",
       "url": "https://nos.nl/l/2630264",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +104,7 @@
       "titel": "Wekdienst 9/9: 24-uursstaking in het ov • Uitvaart koning Harald",
       "beschrijving": "Goedemorgen! In het hele land wordt vandaag gestaakt in het openbaar vervoer. En in Noorwegen vindt de uitvaart plaats van de eind vorige maand overleden koning Harald. Eerst het weer: vandaag is het wisselvallig met felle buien, soms met onweer en hagel. Daarbij waait een stevige westen- tot noordwestenwind, vooral aan de kust. Tijdens droge perioden is het wisselend bewolkt en 18 à 19 graden. Ga",
       "url": "https://nos.nl/l/2630262",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +113,7 @@
       "titel": "Vrijspraak in moordzaak Maltese journalist leidt tot woede, nieuwe beelden openbaar gemaakt",
       "beschrijving": "In Malta zijn beelden gepubliceerd waarop zakenman Yorgen Fenech tegenover de politie zegt dat hij aanvankelijk 'OK' gaf om door te gaan met het plan om onderzoeksjournalist Daphne Caruana Galizia te laten vermoorden. De opnames van het politieverhoor uit 2019 zijn zondag door de Sunday Times of Malta openbaar gemaakt. Fenech zegt daarin ook dat hij het plan drie dagen later probeerde af te blazen",
       "url": "https://nos.nl/l/2630260",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +122,7 @@
       "titel": "Gone in 60 seconds? Zinkgat bedreigt strandvilla van Nicolas Cage",
       "beschrijving": "De oprit van een villa van acteur Nicolas Cage in Californië is in de grond gezakt. Voor het huis aan het strand in Malibu is een groot gat te zien. Het zinkgat ontstond als gevolg van orkaan Marie. De storm bereikte de westkust van de VS zelf niet, maar veroorzaakte wel regen en gevaarlijke golven in de omgeving van Los Angeles. Op meerdere plekken in Malibu heeft het natuurgeweld de bodem wegges",
       "url": "https://nos.nl/l/2630258",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +131,7 @@
       "titel": "Trump verbiedt invoer van Canadese zuivel, alcohol en motorfietsen",
       "beschrijving": "De VS gaat de import van zuivelproducten, motorfietsen en de meeste alcoholische dranken uit Canada verbieden. Het is de volgende stap in de escalerende handelsoorlog tussen de twee buurlanden. Het verbod gaat over drie weken in, maakte het Witte Huis dinsdag bekend. Het is een reactie op Canadese importheffingen op Amerikaanse goederen, die dinsdag in zijn gegaan. Deze heffingen van 15, 25 of 50 ",
       "url": "https://nos.nl/l/2630256",
-      "datum": "8 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,103 +140,58 @@
       "titel": "VS en Iran blijven elkaars schepen bestoken, Iraanse olietankers getroffen",
       "beschrijving": "De VS heeft dinsdag opnieuw meerdere Iraanse olietankers aangevallen. Volgens het Amerikaanse leger is het een vergelding voor nieuwe Iraanse raketaanvallen op een Amerikaans marineschip. Volgens de Iraanse staatsmedia zijn twee tankers geraakt in de omgeving van de zuidelijke havenstad Jask, bij de Straat van Hormuz. De bemanning van beide schepen is met reddingsboten naar de kust gebracht. Een o",
       "url": "https://nos.nl/l/2630254",
-      "datum": "10 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Drie Nederlanders opgepakt na schietpartij en achtervolging in Marbella",
-      "beschrijving": "In de Zuid-Spaanse badplaats Marbella zijn drie Nederlanders opgepakt na een schietpartij, melden Spaanse media. Een persoon raakte daarbij gewond aan zijn been. Het incident vond plaats rond 14.00 uur in de buurt van het strand. Verschillende mensen werden opgeschrikt door schoten en waarschuwden de hulpdiensten, schrijft de lokale krant Diario Sur. Die kwamen ter plekke om de gewonde man te verz",
-      "url": "https://nos.nl/l/2630239",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Storing bij Britse luchtverkeersleiding, tientallen vluchten op Schiphol geschrapt",
-      "beschrijving": "Door een technische storing in het systeem van de Britse luchtverkeersleiding zijn op luchthavens in het Verenigd Koninkrijk en Ierland ruim 1000 vluchten geschrapt. Ook passagiers op Schiphol hebben last van de storing. Een woordvoerder van Schiphol heeft aan persbureau ANP laten weten dat sinds het begin van de storing vanmiddag 58 vluchten tussen de luchthaven en het Verenigd Koninkrijk zijn ge",
-      "url": "https://nos.nl/l/2630234",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Video: Protesters shut down UNHCR headquarters in Tripoli, Libya",
-      "beschrijving": "The United Nations refugee agency headquarters in Tripoli, Libya, has been sealed shut by protesters.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss",
-      "datum": "11 min geleden",
+      "titel": "AI researcher quits Anthropic saying AI race ‘could kill us all’",
+      "beschrijving": "AI researcher warns the industry is racing towards superintelligent AI that could improve itself beyond human control.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss",
+      "datum": "49 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "What ‘right’ and ‘left’ mean in Israel today",
-      "beschrijving": "In Israel, the left-right divide is shaped less by economics than by positions on Palestinian statehood and occupation.",
-      "url": "https://www.aljazeera.com/news/2026/9/9/what-right-and-left-mean-in-israel-today?traffic_source=rss",
+      "titel": "Video: Dozens protest potential Strait of Hormuz deployment",
+      "beschrijving": "Almost 100 anti-war activists protested on Wednesday outside the Sejong Centre in Seoul.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-dozens-protest-potential-strait-of-hormuz-deployment?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Oil hits $100 a barrel for first time since July after US strikes",
+      "titel": "Republican midterm convention 2026: What to know about Trump’s Dallas event",
+      "beschrijving": "Trump and JD Vance headline the unusual two-day Republican convention before the November midterm elections.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/republican-midterm-convention-2026-what-to-know-about-trumps-dallas-event?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "beschrijving": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
       "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-      "beschrijving": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-      "beschrijving": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
-      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-      "beschrijving": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
-      "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Hong Kong's first leader after British handover dies",
-      "beschrijving": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
-      "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "25 jaar na de aanslagen van 9/11 zet Trump het mes in terreurbestrijding",
-    "In maps and charts: Russian and Ukrainian attacks on civilian targets",
-    "Russian drone attack kills two at Ukraine-Moldova border crossing",
-    "Medicine shortages grow in Iran as US tightens sanctions, blockade",
-    "Man (22) uit Singapore bekent diefstal van 200 miljoen aan cryptomunten",
-    "Noren nemen afscheid van koning Harald, zoon Haakon wacht moeilijke tijd",
-    "Wekdienst 9/9: 24-uursstaking in het ov • Uitvaart koning Harald",
-    "Vrijspraak in moordzaak Maltese journalist leidt tot woede, nieuwe beelden openbaar gemaakt",
-    "Gone in 60 seconds? Zinkgat bedreigt strandvilla van Nicolas Cage",
-    "Trump verbiedt invoer van Canadese zuivel, alcohol en motorfietsen"
+    "Dodental na luchtaanval op Houthi-gevangenis in Jemen loopt op tot 23",
+    "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
+    "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
+    "Germany's Merz attacks AfD in stormy debate after far-right election win",
+    "Russia and Ukraine exchange strikes as two killed at Moldova border",
+    "Family of killed teen call for death penalty in D4vd trial",
+    "How has Israel hit back against sanctions by the UK, others?",
+    "Merz valt AfD in Bondsdag hard aan: 'Partij wil etnische zuivering'",
+    "Vluchten vanuit VK hervat na grote storing, nog wel vertraging",
+    "Man (22) uit Singapore bekent diefstal van 200 miljoen aan cryptomunten"
   ]
 }
