@@ -1,56 +1,110 @@
 {
-  "bijgewerkt": "10 Sep 2026 13:26 UTC",
+  "bijgewerkt": "10 Sep 2026 17:34 UTC",
   "artikelen": [
     {
-      "titel": "Calls grow for investigation after ICE attacks protesters",
-      "beschrijving": "Calls grow for investigation after ICE attacks protesters",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/calls-grow-for-investigation-after-ice-attacks-protesters?traffic_source=rss",
+      "titel": "At least 20 killed in school fire in rebel-held DR Congo city",
+      "beschrijving": "Victims from the fire in AFC/M23-held Bukavu include primary school students, say officials and media reports.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/at-least-20-killed-in-school-fire-in-rebel-held-dr-congo-city?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "regio": "Afrika",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israel will never stop me speaking up for Palestine",
-      "beschrijving": "Israel’s decision to bar British MPs exposes how far it will go to avoid scrutiny over its treatment of Palestinians.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/10/israel-will-never-stop-me-speaking-up-for-palestine?traffic_source=rss",
+      "titel": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "beschrijving": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "urgentie": "hoog",
+      "bron": "BBC World"
     },
     {
-      "titel": "Watch: Is Trump's $5,000 election pledge legal?",
-      "beschrijving": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "VS",
+      "titel": "Trump’s Iran war now has a midterm election problem",
+      "beschrijving": "Trump has tied the end of his war on Iran to the midterms. But with Iran holding firm, the political cost is mounting.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem?traffic_source=rss",
+      "datum": "51 min geleden",
+      "regio": "Iran",
       "urgentie": "midden",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Iran war won't end until after crucial November elections, says Trump",
       "beschrijving": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
       "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-      "beschrijving": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
-      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "titel": "Podcast De Dag: reizen met de nachttrein door Europa",
+      "beschrijving": "Treinreizigers kunnen vanaf vandaag ook met de nachttrein naar Milaan. Een van de weinige internationale routes die in de nacht worden aangeboden. Volgens vervoerseconoom aan de Vrije Universiteit Erik Verhoef is er momentum voor de Europese nachttrein. Het is duurzaam en er is 's nachts nog wél plek op het spoor. En uit onderzoek blijkt ook dat meer dan 80% van de Europeanen een nachttrein zou ov",
+      "url": "https://nos.nl/l/2630487",
+      "datum": "40 min geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Tapijt van Bayeux-mania breekt uit in Londen, duizenden willen het kleed zien",
+      "beschrijving": "Op de eerste dag dat het Tapijt van Bayeux in het Verenigd Koninkrijk is te zien is er een heuse mania uitgebroken rondom het duizend jaar oude kunstwerk. Uren voordat de deuren van het British Museum in Londen opengingen, stonden er al lange rijen. Eerder gingen in de voorverkoop al duizenden kaartjes over de toonbank en een café aan de overkant van het museum heeft een eigen versie van het wandk",
+      "url": "https://nos.nl/l/2630485",
+      "datum": "49 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Amerika zet NAVO onder druk in hetze tegen Internationaal Strafhof",
+      "beschrijving": "Bij pogingen het Internationaal Strafhof \"steen voor steen af te breken\" zet Amerika ook NAVO-bondgenoten onder druk hieraan mee te helpen en zich terug te trekken uit het hof. Dat bevestigen ingewijden aan de NOS na publicatie van website Politico. Op een bijeenkomst van NAVO-ambassadeurs in juli zei Matthew Whitaker, die de VS in de militaire alliantie vertegenwoordigt, dat het land nauwlettend ",
+      "url": "https://nos.nl/l/2630472",
+      "datum": "2 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Houthi's boeken grote terreinwinst in Jemen, nemen strategische havenstad in",
+      "beschrijving": "De Houthi's in Jemen hebben de havenstad Mokka ingenomen. Dat meldt persbureau Reuters, op basis van militaire bronnen van de Jemenitische regering. De inname van de stad markeert de grootste verschuiving van de frontlinies in vier jaar tijd. Vorige week begonnen de Houthi's, die worden gesteund door Iran, een offensief met vermoedelijk als doel om controle te krijgen over Bab el-Mandeb, de belang",
+      "url": "https://nos.nl/l/2630470",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Familie doorkruist Marokko op zoek naar vermiste Ouadoud (22) uit Zeist",
+      "beschrijving": "In Marokko is de zoektocht naar de vermiste Ouadoud Rabbaj uit Zeist nog steeds in volle gang. De 22-jarige verdween op zondag 19 juli in de stad Tanger, waar hij op vakantie was met zijn ouders. Sindsdien is niets meer van hem vernomen. Twee maanden na zijn verdwijning zet zijn vader, Khadir Rabbaj, de zoektocht in Marokko vol vertrouwen voort. In de afgelopen weken heeft hij, samen met negen vri",
+      "url": "https://nos.nl/l/2630469",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zeker 25 doden bij brand op vrachtschip in Chinese haven",
+      "beschrijving": "Bij een brand op een vrachtschip in een Chinese haven zijn 25 mensen omgekomen. Dat melden Chinese staatsmedia. Het schip lag in een droogdok in de haven van Qingdao, in het noordoosten van het land, waar het werd gerepareerd. De brand brak uit rond 11.00 uur lokale tijd en was ruim drie uur later geblust. Het Chinese staatspersbureau Xinhua meldt dat er 42 mensen aan boord waren; twaalf van hen k",
+      "url": "https://nos.nl/l/2630461",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Sierra Leone beschuldigt Nederland van neo-kolonialisme vanwege Bolle Jos",
+      "beschrijving": "In een interview met een tv-station in Sierra Leone, de vermoedelijke verblijfplaats van Bolle Jos, heeft Justitieminister David van Weel de druk op het land opgevoerd. Hij wil dat Sierra Leone de drugscrimineel uitlevert. Maar zijn uitlatingen vallen daar alles behalve goed. De premier van het land beschuldigt Van Weel ervan dat hij zich opstelt als kolonialist, als overheerser. Volgens Van Weel ",
+      "url": "https://nos.nl/l/2630455",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Schrikkelseconde moet verdwijnen, klok pas over eeuwen weer bijgesteld",
-      "beschrijving": "Komende maand valt in Parijs een besluit dat nog lang zal nagalmen: de toekomst van de schrikkelseconde staat op het spel. Ruim een halve eeuw na de invoering wil de gezaghebbende Algemene Conferentie voor Maten en Gewichten (CGMP) er weer vanaf. In plaats ervan moet er een 'schrikkeluur' komen, waardoor klokken de komende eeuwen niet meer hoeven te worden bijgesteld. Het leek een goed idee in 197",
+      "beschrijving": "Komende maand valt in Parijs een besluit dat nog lang zal nagalmen: de toekomst van de schrikkelseconde staat op het spel. Ruim een halve eeuw na de invoering wil de gezaghebbende Algemene Conferentie voor Maten en Gewichten (CGMP) er weer van af. In plaats ervan moet er een 'schrikkeluur' komen, waardoor klokken de komende eeuwen niet meer hoeven te worden bijgesteld. Het leek een goed idee in 19",
       "url": "https://nos.nl/l/2630443",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +113,7 @@
       "titel": "Deen vindt in achtertuin bij toeval grootste Vikingschat ooit",
       "beschrijving": "In de Deense plaats Rebild, iets ten zuiden van Aalborg, is een man die een terras aanlegde in zijn achtertuin op een grote Vikingschat gestuit. De 18,5 kilo wegende zilverschat was daar zo'n duizend jaar geleden begraven in een aardewerken vat. Het is de grootste zilverschat uit de Vikingtijd die ooit in Denemarken is gevonden. \"Het had slechts een paar uurtjes hard tuinieren moeten zijn om hardn",
       "url": "https://nos.nl/l/2630439",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,130 +122,76 @@
       "titel": "Nederlandse lichtinstallatie brengt Twin Towers voor even terug in New York",
       "beschrijving": "Een enorme lichtinstallatie heeft de Twin Towers 25 jaar na de aanslagen in New York even laten terugkeren in het hart van de stad. Bijna 3000 drones vormden gisteravond de lijnen van de twee wolkenkrabbers die op 11 september 2001 het doelwit waren van de terreuraanslagen van Al-Qaida. Het aantal gebruikte drones, precies 2977, verwijst naar het aantal slachtoffers. De lichtinstallatie is mede on",
       "url": "https://nos.nl/l/2630433",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Vlucht Zelensky bedreigd door drones: 'Realiteit waarmee hij wordt geconfronteerd'",
-      "beschrijving": "Het vliegtuig van de Oekraïense president Zelensky heeft dinsdag in Moldavië te maken gehad met een dreigende drone-aanval. Volgens Noorse politici, die hij gisteren ontmoette, is dat een type dreiging waar hij dagelijks mee te maken heeft. Zelensky woonde gisteren de uitvaart van de Noorse koning Harald bij. Hij reisde een dag eerder vanuit Moldavië naar Noorwegen, maar zijn vlucht werd korte tij",
-      "url": "https://nos.nl/l/2630408",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Doden en tientallen vermisten na brand op veerboot Filipijnen, zoektocht op zee gaat door",
-      "beschrijving": "Bij een brand op een veerboot in de Filipijnen zijn zeker vijf mensen om het leven gekomen. Tientallen mensen worden nog vermist. De lokale autoriteiten gaan nu uit van 86 vermiste opvarenden, maar omdat de reddingsoperatie nog gaande is, kan dat aantal nog worden bijgesteld, meldt de kustwacht. Tot nu toe zijn ruim veertig passagiers gered, nadat woensdag aan het begin van de avond (lokale tijd) ",
-      "url": "https://nos.nl/l/2630401",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 10/9: Laatste dag coronaverhoren • Moord op Charlie Kirk herdacht",
-      "beschrijving": "Goedemorgen! Vandaag is de laatste dag van de openbare coronaverhoren door de parlementaire enquêtecommissie. En in Utah wordt herdacht dat vorig jaar de rechtse activist Charlie Kirk werd neergeschoten. Er is een herdenking gepland maar er is ook protest. Eerst het weer: op de meeste plaatsen blijft het vandaag droog. In het noorden kan wel een bui vallen. Zon en wolken wisselen elkaar af met tem",
-      "url": "https://nos.nl/l/2630397",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Trump belooft Amerikanen 5000 dollar als Congres Republikeins blijft",
-      "beschrijving": "President Trump heeft elke volwassen Amerikaan een uitkering van 5000 dollar beloofd als de Republikeinen de meerderheid behouden in het Congres. Hij deed die opmerkelijke financiële belofte tijdens de eerste Republikeinse midterm-conventie ooit, voor een jaar waarin tussentijdse verkiezingen worden gehouden. \"Als de Republikeinen zowel het Huis als de Senaat winnen, zal ik vanwege onze enorme eco",
-      "url": "https://nos.nl/l/2630396",
-      "datum": "8 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Piloot gecrasht Amazon-vliegtuig waarschuwde collega voor te hoge snelheid",
-      "beschrijving": "Een piloot van het Amazon-vrachtvliegtuig dat van de landingsbaan schoot in Miami, waarschuwde zijn collega in de cockpit dat het vliegtuig te snel ging. Afgelopen weekend gleed het toestel door een nog onbekende oorzaak van de landingsbaan af. Daarbij kwamen vijf mensen om het leven. Een van de piloten waarschuwde gedurende de laatste 2 minuten voordat het misging dat ze de landingsbaan met een t",
-      "url": "https://nos.nl/l/2630388",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Spaanse geheime dienst waarschuwde eigen regering en Marokko voor bestorming Ceuta",
-      "beschrijving": "De Spaanse geheime dienst waarschuwde de Marokkaanse en Spaanse autoriteiten voor de massale oversteek van migranten naar Ceuta, de Spaanse exclave aan de Noord-Afrikaanse kust. Dat blijkt uit documenten die de Spaanse overheid vandaag heeft vrijgegeven. De regering gaf vandaag veertig inlichtingenrapporten, waarschuwingen en berichten vrij met betrekking tot Ceuta. Premier Sanchez had beloofd dez",
-      "url": "https://nos.nl/l/2630375",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Brit (31) aangeklaagd om voorbereiden sabotageactie voor Russische geheime dienst",
-      "beschrijving": "Het Britse Openbaar Ministerie heeft een man aangeklaagd die ervan wordt beschuldigd een sabotageactie te hebben voorbereid voor Rusland. Hij zou zijn benaderd door de GRU, de Russische militaire inlichtingendienst. Details zijn niet bekendgemaakt. De 31-jarige Brit werd vrijdag door een antiterrorisme-eenheid van de Londense politie gearresteerd in een woning in de Engelse stad Swindon. Op een an",
-      "url": "https://nos.nl/l/2630372",
-      "datum": "17 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "At least 25 dead after cargo ship catches fire in China",
-      "beschrijving": "Fire breaks out on ship being repaired in the port of Qingdao, eastern China.",
-      "url": "https://www.aljazeera.com/news/2026/9/10/at-least-25-dead-after-cargo-ship-catches-fire-in-china?traffic_source=rss",
-      "datum": "41 min geleden",
-      "regio": "China/Taiwan",
+      "titel": "Jerusalem Daily: Israeli strikes devastate Gaza",
+      "beschrijving": "Israeli air strikes have killed and injured dozens across Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Algeria says cutting diplomatic ties with UAE",
-      "beschrijving": "Relations have been strained for years, as the two countries took differing positions on several regional issues.",
-      "url": "https://www.aljazeera.com/news/2026/9/10/algeria-says-cutting-diplomatic-ties-with-uae?traffic_source=rss",
+      "titel": "Oil jumps to $105, pushing up chances of a US interest rate increase",
+      "beschrijving": "Prices spiked as attacks on oil tankers escalated in the Middle East.",
+      "url": "https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Is Egypt’s Hamza Abdelkarim set to be Barcelona’s next breakout star?",
-      "beschrijving": "Four goals in five games made the 18-year-old striker Barcelona&#039;s top scorer during preseason.",
-      "url": "https://www.aljazeera.com/sports/2026/9/10/is-egypts-hamza-abdelkarim-set-to-be-barcelonas-next-breakout-star?traffic_source=rss",
+      "titel": "UN expert Albanese, protesters warn against Italy’s anti-Semitism bill",
+      "beschrijving": "Protesters in Rome and UN Special Rapporteur Francesca Albanese, warn proposed law could silence criticism of Israel.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "The Houthis are testing the limits of Saudi restraint",
-      "beschrijving": "Riyadh needs to restore deterrence without being pulled back into a prolonged Yemen war.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss",
+      "titel": "Protests outside Israeli embassy in Bangkok over badly behaved tourists",
+      "beschrijving": "Protests outside Israeli embassy in Bangkok over badly behaved tourists",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/protests-outside-israeli-embassy-in-bangkok-over-badly-behaved-tourists?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "IAEA accuses Iran of ‘noncompliance’",
-      "beschrijving": "Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.",
-      "url": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "beschrijving": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "beschrijving": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Calls grow for investigation after ICE attacks protesters",
-    "Israel will never stop me speaking up for Palestine",
-    "Watch: Is Trump's $5,000 election pledge legal?",
+    "At least 20 killed in school fire in rebel-held DR Congo city",
+    "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+    "Trump’s Iran war now has a midterm election problem",
     "Iran war won't end until after crucial November elections, says Trump",
-    "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-    "Schrikkelseconde moet verdwijnen, klok pas over eeuwen weer bijgesteld",
-    "Deen vindt in achtertuin bij toeval grootste Vikingschat ooit",
-    "Nederlandse lichtinstallatie brengt Twin Towers voor even terug in New York",
-    "Vlucht Zelensky bedreigd door drones: 'Realiteit waarmee hij wordt geconfronteerd'",
-    "Doden en tientallen vermisten na brand op veerboot Filipijnen, zoektocht op zee gaat door"
+    "Podcast De Dag: reizen met de nachttrein door Europa",
+    "Tapijt van Bayeux-mania breekt uit in Londen, duizenden willen het kleed zien",
+    "Amerika zet NAVO onder druk in hetze tegen Internationaal Strafhof",
+    "Houthi's boeken grote terreinwinst in Jemen, nemen strategische havenstad in",
+    "Familie doorkruist Marokko op zoek naar vermiste Ouadoud (22) uit Zeist",
+    "Zeker 25 doden bij brand op vrachtschip in Chinese haven"
   ]
 }
