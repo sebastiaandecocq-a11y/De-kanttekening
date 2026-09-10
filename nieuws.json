@@ -1,20 +1,38 @@
 {
-  "bijgewerkt": "09 Sep 2026 23:04 UTC",
+  "bijgewerkt": "10 Sep 2026 03:54 UTC",
   "artikelen": [
     {
       "titel": "Oekraïense droneaanval in Russische 'gashoofdstad', op 2800 kilometer van de grens",
       "beschrijving": "Oekraïense drones hebben een aanval uitgevoerd diep in Rusland op een belangrijke gasstad in Siberië. Het is volgens Oekraïne de eerste Oekraïense droneaanval zo diep in Rusland. De aanval werd bekendgemaakt door de Russische gouverneur van de regio. Hij meldde dat de aanval was afgewend, maar dat de brokstukken brand hadden veroorzaakt. Volgens de gouverneur raakte niemand gewond. Hij riep inwone",
       "url": "https://nos.nl/l/2630370",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
+      "titel": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
+      "beschrijving": "Israeli prime minister denies claim that UAE president warned him of Hamas plans before the 2023 attacks.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
+      "datum": "39 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why is Iran bombing Jordan’s Al-Azraq base?",
+      "beschrijving": "Iran has increased its targeting of Jordan’s Muwaffaq Salti Air Base near Al-Azraq in recent weeks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss",
+      "datum": "52 min geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Iran referred to UN Security Council for nuclear non-compliance",
       "beschrijving": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
       "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,34 +41,34 @@
       "titel": "Germany's Merz attacks AfD in stormy debate after far-right election win",
       "beschrijving": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
       "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Trump says Iran war ‘will end immediately’ after US midterm elections",
-      "beschrijving": "The president added the US is not looking to restart negotiations with Iran after the failure of previous ceasefires.",
-      "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
       "titel": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
       "beschrijving": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
       "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Piloot gecrasht Amazon-vliegtuig waarschuwde collega voor te hoge snelheid",
+      "beschrijving": "Een piloot van het Amazon-vrachtvliegtuig dat van de landingsbaan schoot in Miami, waarschuwde zijn collega in de cockpit dat het vliegtuig te snel ging. Afgelopen weekend gleed het toestel door een nog onbekende oorzaak van de landingsbaan af. Daarbij kwamen vijf mensen om het leven. Een van de piloten waarschuwde gedurende de laatste 2 minuten voordat het misging dat ze de landingsbaan met een t",
+      "url": "https://nos.nl/l/2630388",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Spaanse geheime dienst waarschuwde eigen regering en Marokko voor bestorming Ceuta",
       "beschrijving": "De Spaanse geheime dienst waarschuwde de Marokkaanse en Spaanse autoriteiten voor de massale oversteek van migranten naar Ceuta, de Spaanse exclave aan de Noord-Afrikaanse kust. Dat blijkt uit documenten die de Spaanse overheid vandaag heeft vrijgegeven. De regering gaf vandaag veertig inlichtingenrapporten, waarschuwingen en berichten vrij met betrekking tot Ceuta. Premier Sanchez had beloofd dez",
       "url": "https://nos.nl/l/2630375",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +77,7 @@
       "titel": "Brit (31) aangeklaagd om voorbereiden sabotageactie voor Russische geheime dienst",
       "beschrijving": "Het Britse Openbaar Ministerie heeft een man aangeklaagd die ervan wordt beschuldigd een sabotageactie te hebben voorbereid voor Rusland. Hij zou zijn benaderd door de GRU, de Russische militaire inlichtingendienst. Details zijn niet bekendgemaakt. De 31-jarige Brit werd vrijdag door een antiterrorisme-eenheid van de Londense politie gearresteerd in een woning in de Engelse stad Swindon. Op een an",
       "url": "https://nos.nl/l/2630372",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "Gebrek aan drinkwater aanjager van nieuwe demonstraties in Tunesië",
       "beschrijving": "Onder de Tunesische bevolking neemt de onvrede over de staat van het land toe. Sinds het aantreden van president Saied in 2019 is de repressie toegenomen. Journalisten, activisten en politici die kritiek hebben op de regering belanden steeds vaker in de gevangenis. Nu basisvoorzieningen zoals elektriciteit en stromend water niet meer vanzelfsprekend zijn, gaan Tunesiërs de straat op om te demonstr",
       "url": "https://nos.nl/l/2630365",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Vermeende witwasbankier van Bolle Jos en Taghi opgepakt",
       "beschrijving": "Een van de grootste 'onderwereldbankiers' ter wereld is opgepakt. Het gaat om Muhammad A. (46), die miljarden zou hebben witgewassen namens Nederlandse topcriminelen als 'Bolle Jos' en Ridouan Taghi. De man staat binnen de wereld van cocaïnehandel bekend als 'Saad de Paak'. Die naam verwijst naar zijn geboorteland Pakistan. Hij is opgepakt in Dubai en zit daar vast. De aanhouding was in juli al, m",
       "url": "https://nos.nl/l/2630358",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +104,7 @@
       "titel": "Amerikaanse hulporganisatie krijgt donatie van 50 miljoen dollar",
       "beschrijving": "Americares heeft aangekondigd wereldwijd meer medicijnen te kunnen leveren. De hulporganisatie heeft de grootste donatie in haar 47-jarige bestaan ontvangen. Een niet nader genoemde familie uit de staat Connecticut doneerde 50 miljoen dollar (omgerekend bijna 43 miljoen euro). De donatie zal over een periode van vijf jaar worden gespreid. De familie wordt niet bij naam genoemd, maar zou de hulporg",
       "url": "https://nos.nl/l/2630353",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +113,7 @@
       "titel": "EU-landen laten honderden miljarden euro's om van Russisch gas af te komen liggen",
       "beschrijving": "Een monsterbedrag bedoeld om de 27 EU-lidstaten minder afhankelijk te maken van Russisch fossiele brandstoffen blijft op de plank liggen. \"Vier jaar na de start is REPowerEU tot stilstand gekomen, terwijl er honderden miljarden euro's beschikbaar zijn\", zegt Mihails Kozlovs van de Europese Rekenkamer, de organisatie die controleert of EU-geld goed wordt gebruikt. Het programma werd in 2022 in het ",
       "url": "https://nos.nl/l/2630344",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +122,7 @@
       "titel": "Nog steeds oplaaiend vuur in Hoge Venen, metersdiep smeulend veen is de boosdoener",
       "beschrijving": "De brand in het Belgische natuurgebied Hoge Venen is al een paar weken onder controle, nadat een gebied zo groot als Vlieland werd verwoest. Het vuur is uit, maar onder de grond gebeurt iets bijzonders. De brand woedt meters diep nog steeds op sommige plekken, en daarom wordt het gebied gericht natgehouden met sproeiers. Niels Bouwens coördineert de bestrijding van de brand in Hoge Venen. \"Er zijn",
       "url": "https://nos.nl/l/2630342",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,85 +131,67 @@
       "titel": "Noorse koning Harald naar zijn laatste rustplaats gebracht in Oslo",
       "beschrijving": "Noorwegen heeft vandaag afscheid genomen van oud-koning Harald. In de hoofdstad Oslo kwamen tienduizenden mensen bij elkaar om een laatste groet te brengen. Harald overleed op 28 augustus op 89-jarige leeftijd als het oudste staatshoofd van Europa. Hij zat sinds 1991 op de troon en wordt beschouwd als nasjonens bestefar, \"grootvader der natie\" die de Noren met elkaar verbond. Meer dan 46.000 mense",
       "url": "https://nos.nl/l/2630341",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Laagste prijs niet meer leidend: nieuwe aanbestedingsregels EU moeten China tegenwicht bieden",
-      "beschrijving": "Bij publieke aanbestedingen moet de focus meer op kwaliteit komen te liggen en minder op de laagste prijs. De Europese Commissie presenteert daarvoor vandaag een wetsvoorstel. De aanpassing moet ertoe leiden dat publiek geld meer gaat bijdragen aan Europese doelstellingen op het gebied van innovatie, klimaat en strategische onafhankelijkheid. Bovendien moet het straks makkelijker zijn een goedkoop",
-      "url": "https://nos.nl/l/2630333",
-      "datum": "8 uur geleden",
-      "regio": "China/Taiwan",
+      "titel": "Trump vows to be at centre of US midterms: Republican convention takeaways",
+      "beschrijving": "Trump says, &#039;Pretend I’m on the ballot,&#039; as he rallies Republicans ahead of challenging midterm elections.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/trump-vows-to-be-at-centre-of-us-midterms-republican-convention-takeaways?traffic_source=rss",
+      "datum": "52 min geleden",
+      "regio": "VS",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
-      "beschrijving": "Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.",
-      "url": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss",
+      "titel": "Thousands protest in Ljubljana as Slovenia opens Israel’s first embassy",
+      "beschrijving": "Nationalist Prime Minister Janez Jansa resets ties with Israel, sparking protests and an impeachment bid.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/thousands-protest-in-ljubljana-as-slovenia-opens-israels-first-embassy?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Tunisian flotilla activists remain jailed as hunger striker worsens",
+      "beschrijving": "The four have been held since March in a financial investigation linked to organisers of the Global Sumud Flotilla.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/tunisian-flotilla-activists-remain-jailed-as-hunger-striker-worsens?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump says Putin wants to make a deal to end Ukraine war",
-      "beschrijving": "US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
-      "beschrijving": "Pro-Palestinian protesters gathered in Slovenia’s capital to oppose the opening of Israel’s first resident embassy.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss",
+      "titel": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention",
+      "beschrijving": "Pennsylvania senator who has clashed with party over Israel support says he will reject &#039;the extremes and socialism&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "beschrijving": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "beschrijving": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "beschrijving": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
-      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "titel": "Spain’s spy agency warned of mass crossings into Ceuta before border crisis",
+      "beschrijving": "Declassified documents show Madrid and Morocco were warned of plans by migrants to breach the Ceuta border.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/spains-spy-agency-warned-of-mass-migrant-crossing-to-ceuta-before-crisis?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     }
   ],
   "ticker": [
     "Oekraïense droneaanval in Russische 'gashoofdstad', op 2800 kilometer van de grens",
+    "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
+    "Why is Iran bombing Jordan’s Al-Azraq base?",
     "Iran referred to UN Security Council for nuclear non-compliance",
     "Germany's Merz attacks AfD in stormy debate after far-right election win",
-    "Trump says Iran war ‘will end immediately’ after US midterm elections",
     "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+    "Piloot gecrasht Amazon-vliegtuig waarschuwde collega voor te hoge snelheid",
     "Spaanse geheime dienst waarschuwde eigen regering en Marokko voor bestorming Ceuta",
     "Brit (31) aangeklaagd om voorbereiden sabotageactie voor Russische geheime dienst",
-    "Gebrek aan drinkwater aanjager van nieuwe demonstraties in Tunesië",
-    "Vermeende witwasbankier van Bolle Jos en Taghi opgepakt",
-    "Amerikaanse hulporganisatie krijgt donatie van 50 miljoen dollar"
+    "Gebrek aan drinkwater aanjager van nieuwe demonstraties in Tunesië"
   ]
 }
