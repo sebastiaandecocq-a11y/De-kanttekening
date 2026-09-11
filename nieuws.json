@@ -1,20 +1,38 @@
 {
-  "bijgewerkt": "11 Sep 2026 03:51 UTC",
+  "bijgewerkt": "11 Sep 2026 08:45 UTC",
   "artikelen": [
+    {
+      "titel": "Wekdienst 11/9: 25 jaar na aanslagen VS • Staking bouwsector",
+      "beschrijving": "Goedemorgen! Vandaag is het 25 jaar geleden dat in de Verenigde aanslagen werden gepleegd op de Twin Towers en het Pentagon. In de VS zijn op verschillende plekken herdenkingen. Eerst het weer: vanmorgen is het bewolkt en valt van tijd tot tijd regen of motregen. Vanmiddag wordt het in het westen droger en breekt soms de zon door. In het oosten blijven enkele buien mogelijk. Bij een zwakke tot mat",
+      "url": "https://nos.nl/l/2630519",
+      "datum": "4 uur geleden",
+      "regio": "VS",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Vijf doden en 67 gewonden bij Russische aanval op winkelcentrum in Oekraïne",
       "beschrijving": "Bij een Russische aanval op een winkelcentrum in de Oekraïense stad Pavlohrad zijn vijf mensen omgekomen en 67 mensen gewond geraakt. Onder de gewonden zijn drie tieners. Dat melden Oekraïense autoriteiten. Het winkelcentrum werd donderdag overdag getroffen, toen er veel mensen op straat waren. Het is nog niet officieel vastgesteld welk type wapen is gebruikt. Ook twee hulpverleners raakten gewond",
       "url": "https://nos.nl/l/2630511",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
+      "titel": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+      "beschrijving": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
+      "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+      "datum": "10 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
       "titel": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
       "beschrijving": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
       "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,25 +41,61 @@
       "titel": "More than 20 children killed in DR Congo school fire",
       "beschrijving": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
       "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Afrika",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
-      "beschrijving": "Russian, Iranian leaders due to hold talks with India&#039;s Modi at summit dominated by wars in Middle East and Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+      "titel": "BRICS summit: Is the bloc truly challenging a Western-dominated world?",
+      "beschrijving": "Some experts say BRICS need not replace the West to succeed - only make Western dominance harder to exercise.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/bric-by-bric-has-brics-challenged-the-western-dominated-world?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Storm laat verwoestend spoor achter in Hawaï, zeker twee doden",
+      "beschrijving": "In de Amerikaanse staat Hawaï zijn zeker twee doden gevallen door een storm die deze week over de eilandengroep trok. De lokale autoriteiten zijn begonnen met de grootschalige herstelwerkzaamheden die zeker twee weken zullen duren. De storm heeft met windsnelheden van zo'n 177 kilometer per uur een verwoestend spoor achtergelaten. Vooral het noordelijke eiland Kauai is zwaar getroffen. Tienduizend",
+      "url": "https://nos.nl/l/2630546",
+      "datum": "17 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Enorme explosies in Zuid-Libanon, Israël zegt complex Hezbollah te hebben verwoest",
+      "beschrijving": "Israël heeft gisteravond zware aanvallen uitgevoerd in Zuid-Libanon. Daarbij is volgens premier Netanyahu een ondergronds complex van Hezbollah vernietigd. Op beelden is te zien dat er enorme explosies waren bij de strategisch gelegen Ali Taher-heuvelrug. Die ligt op 15 kilometer van de grens met Israël. Volgens Libanese veiligheidsbronnen, die persbureau Reuters in juli sprak, heeft Hezbollah in ",
+      "url": "https://nos.nl/l/2630529",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Bus geborgen na ongeluk in Zwitserland, slachtofferaantal nog onduidelijk",
+      "beschrijving": "Meer dan zestien uur na het zware ongeluk met een Nederlandse bus in Zwitserland is het aantal slachtoffers nog steeds onduidelijk. De Zwitserse politie zei eerder dat er meerdere doden en gewonden zijn gevallen, maar aantallen werden niet genoemd. De politie zegt dat eerst de nabestaanden op de hoogte moeten worden gebracht. Hulpdiensten zijn de hele avond bezig geweest met de berging van de lich",
+      "url": "https://nos.nl/l/2630523",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Herdenking van 9/11 in New York na 25 jaar onder hoogspanning",
+      "beschrijving": "Rond de 25e herdenking van 9/11, de aanslagen op 11 september 2001 in de VS, brengt de stad een grote politiemacht op de been. Veel wegen zijn afgesloten voor gemotoriseerd verkeer. Een kwarteeuw lang was de 9/11-herdenking een dag van bezinning en vooral nationale eenheid. De nabestaanden van degenen die omkwamen door de aanval stonden centraal, maar nu dreigt het verharde politieke klimaat in de",
+      "url": "https://nos.nl/l/2630521",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Celstraffen tot ruim 7 jaar voor Hongkongse activisten na Tiananmen-herdenkingen",
       "beschrijving": "Drie activisten in Hongkong zijn veroordeeld tot gevangenisstraffen van vijf tot ruim zeven jaar vanwege het organiseren van herdenkingen van het Tiananmen-bloedbad in 1989. De activisten werden vorige maand al veroordeeld, nu is de strafmaat bepaald. Lee Cheuk-yan en Chow Hang-tung kregen respectievelijk zeven jaar en zeven jaar en drie maanden cel. Albert Ho werd veroordeeld tot vijf jaar en twe",
       "url": "https://nos.nl/l/2630515",
-      "datum": "25 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +104,7 @@
       "titel": "Drugsgebruik in het pleistoceen: in Indonesië waren ze er al vroeg bij",
       "beschrijving": "Dat het gebruik van verdovende middelen niet is voorbehouden aan de moderne tijd, is misschien niet zo gek. Maar wetenschappers hebben nu ontdekt dat we nog verder terug de tijd in moeten dan we al dachten. Op het Indonesische eiland Sulawesi gebruikten mensen mogelijk al 25.000 jaar geleden een bewustzijnveranderende noot: de betelnoot. Dat schrijven onderzoekers in het wetenschappelijke tijdschr",
       "url": "https://nos.nl/l/2630512",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,116 +113,53 @@
       "titel": "Klimaatactivist Daniel V. plande ruim 150 sabotageacties, in Duitsland en buurlanden",
       "beschrijving": "De Duitse klimaatactivist die dinsdag na een klopjacht werd opgepakt, plande meer dan 150 sabotageacties. Dat blijkt uit onderzoek naar de man, dat vandaag werd gepresenteerd door de minister van Binnenlandse Zaken van de Duitse deelstaat Noordrijn-Westfalen. Volgens minister Herbert Reul, zijn er meer \"mogelijke plaatsen delict\" aan het licht gekomen waar de 48-jarige Daniel V. een aanval had wil",
       "url": "https://nos.nl/l/2630499",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Talkshowhost Jimmy Kimmel schrapt gesprek met Democraat 'na druk regering-Trump'",
-      "beschrijving": "Een gesprek met een politieke tegenstander van president Trump mag niet op tv worden uitgezonden in de show van de Amerikaanse presentator Jimmy Kimmel. Dat zei de presentator gisteren in zijn eigen programma. Het gesprek met Democraat James Talarico, dat vandaag zou worden uitgezonden, is geschrapt en zal alleen op YouTube te zien zijn. Talarico is momenteel kandidaat voor de senaat in de staat T",
-      "url": "https://nos.nl/l/2630497",
-      "datum": "8 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Brand in Congo verwoest twee scholen, zeker 24 kinderen omgekomen",
-      "beschrijving": "Bij een grote brand op twee scholen in de stad Bukavu, in het oosten van de Democratische Republiek Congo, zijn zeker 24 kinderen om het leven gekomen. Lokale media melden dat het gaat om 19 meisjes en 5 jongens, allen onder de tien jaar. Ze zouden zijn gestorven toen ze probeerden te vluchten voor het vuur. Ook is er een onbekend aantal volwassenen omgekomen. Daarnaast zijn er volgens lokale auto",
-      "url": "https://nos.nl/l/2630496",
-      "datum": "8 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Doden bij busongeluk met Nederlands reisgezelschap in Zwitserland",
-      "beschrijving": "Bij een ernstig ongeluk met een Nederlandse bus in Zwitserland zijn doden en gewonden gevallen. Dat meldt de politie van het Zwitserse kanton Graubünden en wordt bevestigd door de Nederlandse reisbrancheorganisatie ANVR. Het gaat om een busreis van de Nederlandse organisatie Oad. Er waren 49 mensen aan boord, 48 passagiers en een chauffeur, maar hoeveel slachtoffers er zijn, is nog niet bekendgema",
-      "url": "https://nos.nl/l/2630492",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Podcast De Dag: reizen met de nachttrein door Europa",
-      "beschrijving": "Treinreizigers kunnen vanaf vandaag ook met de nachttrein naar Milaan. Een van de weinige internationale routes die in de nacht worden aangeboden. Volgens vervoerseconoom aan de Vrije Universiteit Erik Verhoef is er momentum voor de Europese nachttrein. Het is duurzaam en er is 's nachts nog wél plek op het spoor. En uit onderzoek blijkt ook dat meer dan 80% van de Europeanen een nachttrein zou ov",
-      "url": "https://nos.nl/l/2630487",
-      "datum": "10 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Tapijt van Bayeux-mania breekt uit in Londen, duizenden willen het kleed zien",
-      "beschrijving": "Op de eerste dag dat het Tapijt van Bayeux in het Verenigd Koninkrijk is te zien is er een heuse mania uitgebroken rondom het duizend jaar oude kunstwerk. Uren voordat de deuren van het British Museum in Londen opengingen, stonden er al lange rijen. Eerder gingen in de voorverkoop al duizenden kaartjes over de toonbank en een café aan de overkant van het museum heeft een eigen versie van het wandk",
-      "url": "https://nos.nl/l/2630485",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Amerika zet NAVO onder druk in hetze tegen Internationaal Strafhof",
-      "beschrijving": "Bij pogingen het Internationaal Strafhof \"steen voor steen af te breken\" zet Amerika ook NAVO-bondgenoten onder druk hieraan mee te helpen en zich terug te trekken uit het hof. Dat bevestigen ingewijden aan de NOS na publicatie van website Politico. Op een bijeenkomst van NAVO-ambassadeurs in juli zei Matthew Whitaker, die de VS in de militaire alliantie vertegenwoordigt, dat het land nauwlettend ",
-      "url": "https://nos.nl/l/2630472",
       "datum": "12 uur geleden",
-      "regio": "Europa",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
-      "beschrijving": "Protesters gather on final night as US Republicans seek to rally base ahead of consequential legislative elections.",
-      "url": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
-      "datum": "17 min geleden",
+      "titel": "What did 25 years of the “war on terror” leave behind?",
+      "beschrijving": "US forces have bombed somewhere every year since 2001. AJLabs maps the so-called “war on terror”.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
+      "datum": "25 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Taiwan vice president makes rare Europe visit for conference on democracy",
-      "beschrijving": "European Parliament&#039;s Pina Picierno says Hsiao&#039;s visit &#039;was kept secret until her arrival to protect her participation&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss",
-      "datum": "35 min geleden",
-      "regio": "China/Taiwan",
+      "titel": "How 9/11 helped Israel sell its war on Palestinians to America",
+      "beschrijving": "The &#039;war on terror&#039; made Israeli repression easier to present as part of a shared struggle against a common enemy.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
+      "datum": "27 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Young republicans break with Trump over Iran war",
-      "beschrijving": "A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
+      "titel": "Anthropic warns of bids to use AI to build biological weapons",
+      "beschrijving": "Experts urge stricter access to AI models as Anthropic reports rising misuse cases, including biological research risks.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-warns-of-bids-to-use-ai-to-build-biological-weapons?traffic_source=rss",
+      "datum": "36 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Settlers, soldiers, and Israeli impunity in the West Bank",
+      "beschrijving": "Armed settlers in military uniforms are seizing land and attacking Palestinian communities with near-total impunity.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/settlers-soldiers-and-israeli-impunity-in-the-west-bank?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Iran",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-      "beschrijving": "Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "beschrijving": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+      "titel": "Yemen's Houthis seize strategic Red Sea port of Mokha",
+      "beschrijving": "Mokha's capture brings the Iran-backed group closer to controlling a key international shipping route.",
       "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Can Trump really pay $5,000 to every American adult?",
-      "beschrijving": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -176,22 +167,31 @@
       "titel": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
       "beschrijving": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
       "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Can Trump really pay $5,000 to every American adult?",
+      "beschrijving": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "datum": "15 uur geleden",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Wekdienst 11/9: 25 jaar na aanslagen VS • Staking bouwsector",
     "Vijf doden en 67 gewonden bij Russische aanval op winkelcentrum in Oekraïne",
+    "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
     "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
     "More than 20 children killed in DR Congo school fire",
-    "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
-    "Celstraffen tot ruim 7 jaar voor Hongkongse activisten na Tiananmen-herdenkingen",
-    "Drugsgebruik in het pleistoceen: in Indonesië waren ze er al vroeg bij",
-    "Klimaatactivist Daniel V. plande ruim 150 sabotageacties, in Duitsland en buurlanden",
-    "Talkshowhost Jimmy Kimmel schrapt gesprek met Democraat 'na druk regering-Trump'",
-    "Brand in Congo verwoest twee scholen, zeker 24 kinderen omgekomen",
-    "Doden bij busongeluk met Nederlands reisgezelschap in Zwitserland"
+    "BRICS summit: Is the bloc truly challenging a Western-dominated world?",
+    "Storm laat verwoestend spoor achter in Hawaï, zeker twee doden",
+    "Enorme explosies in Zuid-Libanon, Israël zegt complex Hezbollah te hebben verwoest",
+    "Bus geborgen na ongeluk in Zwitserland, slachtofferaantal nog onduidelijk",
+    "Herdenking van 9/11 in New York na 25 jaar onder hoogspanning"
   ]
 }
