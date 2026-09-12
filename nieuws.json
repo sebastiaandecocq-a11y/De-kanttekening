@@ -1,11 +1,11 @@
 {
-  "bijgewerkt": "12 Sep 2026 03:53 UTC",
+  "bijgewerkt": "12 Sep 2026 08:30 UTC",
   "artikelen": [
     {
       "titel": "Zuid-Korea meldt afvuren ballistische raketten richting zee door Noord-Korea",
       "beschrijving": "Noord-Korea heeft vanaf de oostkust van het land ballistische raketten afgevuurd richting de Japanse Zee, meldt het Zuid-Koreaanse leger. De raketten zouden een afstand van zo'n 250 kilometer hebben afgelegd. Het kantoor van de Zuid-Koreaanse president roept Noord-Korea op om \"onmiddellijk\" te stoppen met het lanceren van de ballistische raketten en spreekt van schendingen van de VN-veiligheidsres",
       "url": "https://nos.nl/l/2630659",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Noord-Korea",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,43 +14,106 @@
       "titel": "Oliepijpleiding Saudi-Arabië dicht na aanvallen, 'schade bij pompstations'",
       "beschrijving": "In Saudi-Arabië is de oliepijpleiding van oost naar west uit voorzorg afgesloten omdat het systeem gisteren werd aangevallen. Dat meldt het Saudische ministerie van Energie. Via de 1200 kilometer lange pijpleiding vervoert Saudi-Arabië normaal gesproken ruwe olie vanaf de Perzische Golf naar de Rode Zee. Op deze manier kan de Straat van Hormuz worden omzeild voor olie-export. Daar is het al tijden",
       "url": "https://nos.nl/l/2630652",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-      "beschrijving": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
-      "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Noord-Korea",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Satellite image shows critical Saudi pipeline damaged in drone attack",
-      "beschrijving": "Saudi Arabia has shut its East-West oil pipeline after a drone attack. Riyadh says the attack originated in Iraq.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Former top US diplomat reveals mistakes made after 9/11 attacks",
-      "beschrijving": "Ambassador Zalmay Khalilzad describes misgivings about the US handling of the Afghanistan and Iraq wars.",
-      "url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
+      "titel": "Chileans clash over 9/11 military coup legacy",
+      "beschrijving": "Protesters and police have clashed in Chile, as the country marked 53 years of the military coup.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss",
       "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Aantal Ebolabesmettingen boven 7000, nu ook dode in grensprovincie",
+      "titel": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "beschrijving": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+      "beschrijving": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+      "datum": "7 uur geleden",
+      "regio": "VS",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "beschrijving": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "CIA geeft rond herdenking 9/11 topgeheime waarschuwingen over Bin Laden vrij",
+      "beschrijving": "De CIA heeft bij de 25ste herdenking van de aanslagen van 9/11 topgeheime documenten vrijgegeven waarin geschetst wordt wat de Amerikaanse president in de loop der jaren te horen kreeg over de dreiging van Al-Qaida. Grote onthullingen levert dat niet op, maar de documenten schetsen wel het crescendo aan waarschuwingen dat veiligheidsdiensten lieten horen in aanloop naar de aanslagen. Het gaat om 7",
+      "url": "https://nos.nl/l/2630671",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
+      "beschrijving": "Tariffs and geopolitical rifts dominate discussions at a critical BRICS summit in India&#039;s capital.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
+      "datum": "49 min geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "16 doden bij brand in verzorgingstehuis Chili",
+      "beschrijving": "Bij een brand in een verzorgingstehuis in Chili zijn zestien mensen om het leven gekomen. Het vuur brak uit in een wooncomplex voor ouderen in de plaats Pitrufquén, in het zuiden van het Zuid-Amerikaanse land. De brand brak 's avonds laat uit. Op foto's is te zien dat vlammen al snel het hele gebouw verzwolgen. Het is nog niet bekend wat de oorzaak is van de vuurzee. Tien mensen konden uit de vlam",
+      "url": "https://nos.nl/l/2630676",
+      "datum": "5 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Eerste Nederlanders weer onderweg naar huis na busongeluk Zwitserland",
+      "beschrijving": "De repatriëring van Nederlanders die betrokken waren bij het dodelijke busongeval in Zwitserland is vanochtend begonnen. Vanuit Oostenrijk is de eerste bus met acht mensen richting Nederland vertrokken, ziet een NOS-verslaggever ter plaatse. Vier van hen maakten deel uit van de groepsreis naar Oostenrijk, maar waren niet mee op dagtrip naar Zwitserland. Zij zaten dus niet in de verongelukte bus. T",
+      "url": "https://nos.nl/l/2630672",
+      "datum": "45 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Parijs maakt zich op voor comeback Céline Dion: 'Opgetogen, maar ook bezorgd'",
+      "beschrijving": "Speciale T-shirts en macarons, een golf aan treinkaartjes en hotelboekingen, zelfs een karaokeavond voor tienduizend man georganiseerd door de burgemeester: dat Céline Dion in Parijs verblijft zal weinig mensen in de Franse hoofdstad zijn ontgaan. In aanloop naar haar langverwachte concertreeks, die vanavond begint, is hier een 'Célinemania' losgebarsten. Ook gisteravond werd er uit volle borst ge",
+      "url": "https://nos.nl/l/2630662",
+      "datum": "3 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 12/9: Klimaatmars in Amsterdam • Comeback Céline Dion in Parijs",
+      "beschrijving": "Goedemorgen! Vandaag is er een klimaatmars in Amsterdam en Parijs maakt zich op voor de concertreeks van Céline Dion, die daar vanavond van start gaat. Eerst het weer: de dag begint op veel plaatsen grijs met mist en lage bewolking. In de loop van de dag breekt de zon steeds vaker door. Het blijft tot de avond droog. Bij een matige zuidwestenwind loopt de temperatuur op naar maximaal 20 tot 22 gra",
+      "url": "https://nos.nl/l/2630661",
+      "datum": "3 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Aantal ebolabesmettingen boven 7000, nu ook dode in grensprovincie",
       "beschrijving": "Het aantal gevallen van ebola in de Democratische Republiek Congo is opgelopen tot boven de 7000. Dat melden de autoriteiten van het land. Inmiddels zijn ruim 3300 mensen aan de ziekte overleden. De huidige uitbraak, die veroorzaakt wordt door de Bundibugyo-variant van het virus, geldt als de dodelijkste ooit in het Centraal-Afrikaanse land. Tegen de ziekte bestaat geen vaccin of medicijn. Het ond",
       "url": "https://nos.nl/l/2630657",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +122,7 @@
       "titel": "Trein met 186 passagiers ontspoord in Frankrijk, 18-jarige vrouw ernstig gewond",
       "beschrijving": "In het noorden van Frankrijk is op het traject tussen de steden Rouen en Caen rond 19.30 uur een regionale trein met meer dan 180 passagiers ontspoord. Volgens de lokale autoriteiten raakten hierbij 44 mensen gewond, een 18-jarige vrouw is in kritieke toestand overgebracht naar het ziekenhuis in Rouen. Volgens de krant Le Parisien ging het mis in de buurt van de plaats Oissel-sur-Seine. De krant s",
       "url": "https://nos.nl/l/2630655",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,116 +131,53 @@
       "titel": "Voor het eerst sporen van rondwandelende volwassen T. rex gevonden in VS",
       "beschrijving": "In de Amerikaanse staat North Dakota is voor het eerst een serie pootafdrukken van een volwassen T. rex gevonden. Een onderzoeksteam van een museum in Denver ontdekte de sporen vorig jaar en heeft zijn bevindingen nu gepubliceerd in het Journal of Vertebrate Paleontology. De versteende sporen werden gevonden in Hell Creek Formation, een gebied waar meer dinosporen zijn gevonden. Ze strekken zich u",
       "url": "https://nos.nl/l/2630653",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Flávio Bolsonaro verdacht van miljoenenfraude in schandaal rondom film over vader",
-      "beschrijving": "Het Braziliaanse hooggerechtshof en de federale politie zijn een grootschalig onderzoek begonnen naar presidentskandidaat Flávio Bolsonaro vanwege mogelijke corruptie en witwassen. Een maand voor de presidentsverkiezingen in Brazilië brengen de autoriteiten de uitdager van de huidige president Lula in verband met miljoenenfraude. Uit documenten die het hooggerechtshof gisteren naar buiten bracht, ",
-      "url": "https://nos.nl/l/2630636",
-      "datum": "7 uur geleden",
+      "titel": "How to plan a wedding when you don’t know what tomorrow will bring",
+      "beschrijving": "In Gaza, weddings have become acts of defiance. Couples marry in tents and rebuild, choosing love despite suffering.",
+      "url": "https://www.aljazeera.com/features/longform/2026/9/12/how-to-plan-a-wedding-when-you-dont-know-what-tomorrow-will-bring?traffic_source=rss",
+      "datum": "56 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "‘War on terror’: How 9/11 changed the language of conflict",
+      "beschrijving": "The events of September 11, 2001 spawned a new lexicon which effectively sanitised the erosion of human rights.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Wonden na 25 jaar nog vers: '9/11 is geschiedenis waar we nog middenin zitten'",
-      "beschrijving": "Na 25 jaar zijn de wonden van nabestaanden, overlevenden en hulpverleners nog altijd vers. De Amerikanen die de aanslagen op 11 september 2001 van dichtbij meemaakten, leven nog iedere dag met de gevolgen ervan. Vandaag was voor hen een dag van leven en dood, van leven en overleven, en van leven met de gevolgen. Een dag van verdriet en herinneren. En van opkrabbelen na die allesverwoestende terror",
-      "url": "https://nos.nl/l/2630625",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dodental van brand op Filipijnse veerboot loopt op tot 35, nog 54 vermisten",
-      "beschrijving": "Het dodental na de brand op een veerboot in de Filipijnen is gestegen naar 35. Er worden nog 54 mensen vermist. Gisterochtend werd nog gesproken over vijf doden, maar de verwachting was toen al dat het dodental zou oplopen. De brand brak woensdag aan het begin van de avond (lokale tijd) uit op de veerboot. De MV June was onderweg van de hoofdstad Manila naar Coron, in het westen van de Filipijnen.",
-      "url": "https://nos.nl/l/2630605",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Podcast De Dag: Vast in Guantanamo Bay",
-      "beschrijving": "Het is 25 jaar na 11 september 2001, de dag waarop de Verenigde Staten getroffen werden door de grootste terroristische aanval uit de geschiedenis. Het antwoord van toenmalig president George W. Bush was de war on terror, een jarenlange strijd tegen de terroristische organisatie Al Qaida. Amerika zette zijn verdachten niet vast in reguliere gevangenissen, maar op geheime plekken en in Guantanamo B",
-      "url": "https://nos.nl/l/2630602",
-      "datum": "13 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Noorse prinses Astrid (94) overleden, twee dagen na uitvaart van haar broer",
-      "beschrijving": "De Noorse prinses Astrid is op 94-jarige leeftijd overleden. Dat maakt het Noorse koningshuis bekend. Astrid is de de zus van koning Harald, die eind augustus overleed. De prinses overleed twee dagen na de uitvaart van haar broer, afgelopen woensdag. \"Tante Astrid was een belangrijke steun voor koning Harald en de rest van ons gezin\", zegt de nieuwe Noorse koning Haakon over zijn tante. \"We hebben",
-      "url": "https://nos.nl/l/2630596",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Putin and Pezeshkian call out US dominance ahead of BRICS",
-      "beschrijving": "The presidents of Iran and Russia have criticised US dollar dominance ahead of the BRICS summit in India.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/putin-and-pezeshkian-call-out-us-dominance-ahead-of-brics?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "BRICS meets in India: What’s on the agenda, why it matters",
+      "beschrijving": "This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
-      "beschrijving": "A briefer told Clinton in 1998 that bin Laden’s &#039;preferred option is to strike the US on its own soil in Washington&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "VS",
+      "titel": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "beschrijving": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+      "datum": "26 min geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "How Canadians are bracing for the impact of Trump’s trade war",
-      "beschrijving": "Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.",
-      "url": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
-      "beschrijving": "Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "beschrijving": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
       "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Israel says it has destroyed major underground Hezbollah base",
-      "beschrijving": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "beschrijving": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
@@ -185,13 +185,13 @@
   "ticker": [
     "Zuid-Korea meldt afvuren ballistische raketten richting zee door Noord-Korea",
     "Oliepijpleiding Saudi-Arabië dicht na aanvallen, 'schade bij pompstations'",
-    "North Korea fires ballistic missiles off eastern coast, Seoul says",
-    "Satellite image shows critical Saudi pipeline damaged in drone attack",
-    "Former top US diplomat reveals mistakes made after 9/11 attacks",
-    "Aantal Ebolabesmettingen boven 7000, nu ook dode in grensprovincie",
-    "Trein met 186 passagiers ontspoord in Frankrijk, 18-jarige vrouw ernstig gewond",
-    "Voor het eerst sporen van rondwandelende volwassen T. rex gevonden in VS",
-    "Flávio Bolsonaro verdacht van miljoenenfraude in schandaal rondom film over vader",
-    "Wonden na 25 jaar nog vers: '9/11 is geschiedenis waar we nog middenin zitten'"
+    "Chileans clash over 9/11 military coup legacy",
+    "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+    "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+    "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+    "CIA geeft rond herdenking 9/11 topgeheime waarschuwingen over Bin Laden vrij",
+    "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
+    "16 doden bij brand in verzorgingstehuis Chili",
+    "Eerste Nederlanders weer onderweg naar huis na busongeluk Zwitserland"
   ]
 }
