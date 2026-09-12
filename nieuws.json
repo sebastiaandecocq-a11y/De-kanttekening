@@ -1,21 +1,21 @@
 {
-  "bijgewerkt": "12 Sep 2026 12:44 UTC",
+  "bijgewerkt": "12 Sep 2026 16:05 UTC",
   "artikelen": [
     {
       "titel": "Zuid-Korea meldt afvuren ballistische raketten richting zee door Noord-Korea",
       "beschrijving": "Noord-Korea heeft vanaf de oostkust van het land ballistische raketten afgevuurd richting de Japanse Zee, meldt het Zuid-Koreaanse leger. De raketten zouden een afstand van zo'n 250 kilometer hebben afgelegd. Het kantoor van de Zuid-Koreaanse president roept Noord-Korea op om \"onmiddellijk\" te stoppen met het lanceren van de ballistische raketten en spreekt van schendingen van de VN-veiligheidsres",
       "url": "https://nos.nl/l/2630659",
-      "datum": "11 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Noord-Korea",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
-      "beschrijving": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
-      "datum": "33 min geleden",
-      "regio": "Iran",
+      "titel": "At least seven killed in fire at prison in northern Syria",
+      "beschrijving": "Inmates rioted following protests in the city of Kobane over the killing of former Kurdish fighter, state media reports.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/at-least-seven-killed-in-fire-at-prison-in-northern-syria?traffic_source=rss",
+      "datum": "39 min geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -23,7 +23,7 @@
       "titel": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "beschrijving": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
       "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "datum": "28 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,17 +32,8 @@
       "titel": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
       "beschrijving": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
       "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-      "beschrijving": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
-      "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "VS",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
@@ -50,7 +41,7 @@
       "titel": "CIA geeft rond herdenking 9/11 topgeheime waarschuwingen over Bin Laden vrij",
       "beschrijving": "De CIA heeft bij de 25ste herdenking van de aanslagen van 9/11 topgeheime documenten vrijgegeven waarin geschetst wordt wat de Amerikaanse president in de loop der jaren te horen kreeg over de dreiging van Al-Qaida. Grote onthullingen levert dat niet op, maar de documenten schetsen wel het crescendo aan waarschuwingen dat veiligheidsdiensten lieten horen in aanloop naar de aanslagen. Het gaat om 7",
       "url": "https://nos.nl/l/2630671",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
@@ -59,16 +50,34 @@
       "titel": "India’s Modi calls for empowerment of Global South at BRICS Summit",
       "beschrijving": "India’s Prime Minister Narendra Modi has called for an overhaul of global governance.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss",
-      "datum": "24 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "Misbruikt en gemarteld in Guantanamo: 'Ik voel me schuldig over mijn vrijheid'",
+      "beschrijving": "Nu woont hij in Nederland, maar Guantanamo Bay zal nooit uit het hoofd van Mohamedou Ould Slahi verdwijnen. \"Ik voel me schuldig dat ik vrij ben, dat ik in het mooiste land ter wereld mag wonen en elke dag van vrijheid mag genieten.\" \"Ik besefte hoe kwetsbaar je vrijheid is\", zegt Slahi over zijn tijd in de Amerikaanse marinebasis op Cuba waar de Verenigde Staten na de aanslagen van 11 september 2",
+      "url": "https://nos.nl/l/2630708",
+      "datum": "1 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Opnieuw miljoenendonaties voor partij Nigel Farage",
+      "beschrijving": "De Britse anti-immigratiepartij Reform UK heeft binnen twee dagen twee miljoenendonaties toegezegd gekregen. Gisteren kreeg de partij van Nigel Farage een donatie van zo'n 36 miljoen pond (42 miljoen euro) toegezegd van cryptomiljonair Ben Delo. Datzelfde bedrag is nu ook beloofd door cryptomiljonair Christopher Harborne, de grootste donateur van de partij. Volgens de BBC zijn het de grootste eenm",
+      "url": "https://nos.nl/l/2630705",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Weer brand in Bulgaarse wapenopslag, eigenaar eerder doelwit van Rusland",
-      "beschrijving": "Voor de tweede keer in korte tijd is er brand uitgebroken in een opslag van de Bulgaarse wapenfabrikant EMCO. Het vuur ontstond bij een loods bij de plaats Gorna Varpishta waar munitie en kruit ligt opgeslagen, de vlammen sloegen daarna over naar twee andere gebouwen. Bij de brand vielen geen slachtoffers. Aanwezige bewakers konden op tijd wegkomen. De brandweer stuurde een noodmelding aan omwonen",
+      "beschrijving": "Voor de tweede keer in korte tijd is brand uitgebroken in een opslag van de Bulgaarse wapenfabrikant EMCO. Het vuur ontstond bij een loods bij de plaats Gorna Varpishta waar munitie en kruit liggen opgeslagen. De vlammen sloegen daarna over naar twee andere gebouwen. Bij de brand vielen geen slachtoffers. Aanwezige bewakers konden op tijd wegkomen. De brandweer stuurde een noodmelding aan omwonend",
       "url": "https://nos.nl/l/2630684",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +86,7 @@
       "titel": "Vermoedens van sabotage bij ontspoorde trein in Noordwest-Frankrijk",
       "beschrijving": "Bij de trein die gisteravond in het noorden van Frankrijk ontspoorde was waarschijnlijk sprake van sabotage. Dat melden gerechtelijke bronnen aan Franse media. Bij de ontsporing tussen de steden Rouen en Caen raakten gisteren 44 mensen gewond. Een vrouw van 18 is er slecht aan toe en werd in kritieke toestand naar het ziekenhuis gebracht. Bronnen meldden gisteravond al aan media dat er een metalen",
       "url": "https://nos.nl/l/2630680",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "16 doden bij brand in verzorgingstehuis Chili",
       "beschrijving": "Bij een brand in een verzorgingstehuis in Chili zijn zestien mensen om het leven gekomen. Het vuur brak uit in een wooncomplex voor ouderen in de plaats Pitrufquén, in het zuiden van het Zuid-Amerikaanse land. De brand brak 's avonds laat uit. Op foto's is te zien dat vlammen al snel het hele gebouw verzwolgen. Het is nog niet bekend wat de oorzaak is van de vuurzee. Tien mensen konden uit de vlam",
       "url": "https://nos.nl/l/2630676",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +104,7 @@
       "titel": "Vier vrouwen en een man dodelijke slachtoffers busongeluk Zwitserland",
       "beschrijving": "De vijf Nederlanders die donderdag om het leven kwamen bij een busongeluk in Zwitserland zijn vier vrouwen en een man, meldt het ministerie van Buitenlandse Zaken. Het gaat om een vrouw van 71 uit Haarlem, een vrouw van 79 uit Rotterdam, een vrouw van 80 uit Maastricht, een vrouw van 75 uit de provincie Noord-Brabant en een man van 75 uit de provincie Groningen. Bij het ongeluk met een Oad-bus in ",
       "url": "https://nos.nl/l/2630672",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +113,7 @@
       "titel": "Parijs maakt zich op voor comeback Céline Dion: 'Opgetogen, maar ook bezorgd'",
       "beschrijving": "Speciale T-shirts en macarons, een golf aan treinkaartjes en hotelboekingen, zelfs een karaokeavond voor tienduizend man georganiseerd door de burgemeester: dat Céline Dion in Parijs verblijft zal weinig mensen in de Franse hoofdstad zijn ontgaan. In aanloop naar haar langverwachte concertreeks, die vanavond begint, is hier een 'Célinemania' losgebarsten. Ook gisteravond werd er uit volle borst ge",
       "url": "https://nos.nl/l/2630662",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,85 +122,58 @@
       "titel": "Wekdienst 12/9: Klimaatmars in Amsterdam • Comeback Céline Dion in Parijs",
       "beschrijving": "Goedemorgen! Vandaag is er een klimaatmars in Amsterdam en Parijs maakt zich op voor de concertreeks van Céline Dion, die daar vanavond van start gaat. Eerst het weer: de dag begint op veel plaatsen grijs met mist en lage bewolking. In de loop van de dag breekt de zon steeds vaker door. Het blijft tot de avond droog. Bij een matige zuidwestenwind loopt de temperatuur op naar maximaal 20 tot 22 gra",
       "url": "https://nos.nl/l/2630661",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Aantal ebolabesmettingen boven 7000, nu ook dode in grensprovincie",
-      "beschrijving": "Het aantal gevallen van ebola in de Democratische Republiek Congo is opgelopen tot boven de 7000. Dat melden de autoriteiten van het land. Inmiddels zijn ruim 3300 mensen aan de ziekte overleden. De huidige uitbraak, die veroorzaakt wordt door de Bundibugyo-variant van het virus, geldt als de dodelijkste ooit in het Centraal-Afrikaanse land. Tegen de ziekte bestaat geen vaccin of medicijn. Het ond",
-      "url": "https://nos.nl/l/2630657",
-      "datum": "13 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Trein met 186 passagiers ontspoord in Frankrijk, 18-jarige vrouw ernstig gewond",
-      "beschrijving": "In het noorden van Frankrijk is op het traject tussen de steden Rouen en Caen rond 19.30 uur een regionale trein met meer dan 180 passagiers ontspoord. Volgens de lokale autoriteiten raakten hierbij 44 mensen gewond, een 18-jarige vrouw is in kritieke toestand overgebracht naar het ziekenhuis in Rouen. Volgens de krant Le Parisien ging het mis in de buurt van de plaats Oissel-sur-Seine. De krant s",
-      "url": "https://nos.nl/l/2630655",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha",
-      "beschrijving": "Yemeni government forces says they launched air strikes on Houthi fighters along the Red Sea coast.",
-      "url": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha?traffic_source=rss",
-      "datum": "46 min geleden",
+      "titel": "Danish FA allege FIFA Legal Committee evaded questions on Infantino’s plan",
+      "beschrijving": "FIFA Legal Committee accused of evading questions on controversial World Cup proposal put forward by Gianni Infantino.",
+      "url": "https://www.aljazeera.com/sports/2026/9/12/danish-fa-say-fifa-legal-committee-evaded-questions-on-infantino-proposal?traffic_source=rss",
+      "datum": "49 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Left with nothing, people in Gaza are forced to rent generators by the hour",
-      "beschrijving": "Israel&#039;s destruction of homes and infrastructure in Gaza has forced Palestinians to rent generators by the hour.",
-      "url": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss",
+      "titel": "Iranian official tells Al Jazeera IAEA ruling was imposed by US and Israel",
+      "beschrijving": "Iranian official tells Al Jazeera an IAEA resolution on Tehran’s nuclear safeguards was ‘imposed’ by the US and Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-iranian-fm-spox-aj?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
-      "beschrijving": "Yemen’s Iran-aligned Houthis have been celebrating after seizing control of the Red Sea coast in a rapid offensive.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/houthis-celebrate-seizing-control-of-yemens-red-sea-coast?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Iran-backed Houthis seize strategic Mayun Island: Can they hold it?",
+      "beschrijving": "The takeover solidifies the group&#039;s position in the Bab al-Mandeb, but holding it long-term could be difficult.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "China’s marriage crisis: The search for love",
-      "beschrijving": "101 East explores how ancient traditions are getting a modern makeover as young Chinese seek new ways to find love.",
-      "url": "https://www.aljazeera.com/video/101-east/2026/9/12/chinas-marriage-crisis-the-search-for-love?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israel-Lebanon talks postponed as explosions rock southern Lebanon",
-      "beschrijving": "President Aoun says &#039;no new negotiations with Israel at the moment&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/9/12/israel-lebanon-talks-postponed-as-explosions-rock-southern-lebanon?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
+      "beschrijving": "Iranian officials have praised the Houthis&#039; victories but have not spoken about any imminent closure of Bab al-Mandeb.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
     "Zuid-Korea meldt afvuren ballistische raketten richting zee door Noord-Korea",
-    "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
+    "At least seven killed in fire at prison in northern Syria",
     "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
     "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-    "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
     "CIA geeft rond herdenking 9/11 topgeheime waarschuwingen over Bin Laden vrij",
     "India’s Modi calls for empowerment of Global South at BRICS Summit",
+    "Misbruikt en gemarteld in Guantanamo: 'Ik voel me schuldig over mijn vrijheid'",
+    "Opnieuw miljoenendonaties voor partij Nigel Farage",
     "Weer brand in Bulgaarse wapenopslag, eigenaar eerder doelwit van Rusland",
-    "Vermoedens van sabotage bij ontspoorde trein in Noordwest-Frankrijk",
-    "16 doden bij brand in verzorgingstehuis Chili"
+    "Vermoedens van sabotage bij ontspoorde trein in Noordwest-Frankrijk"
   ]
 }
