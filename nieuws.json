@@ -1,74 +1,65 @@
 {
-  "bijgewerkt": "13 Sep 2026 11:23 UTC",
+  "bijgewerkt": "13 Sep 2026 15:53 UTC",
   "artikelen": [
+    {
+      "titel": "Passagierstrein geraakt bij Russische aanvallen op Oekraïne, geen gewonden",
+      "beschrijving": "Rusland heeft Oekraïne vanochtend aangevallen met honderden drones. Daarbij is ook de locomotief geraakt van een passagierstrein tussen Kyiv en Warschau die vlak bij de grensovergang tussen Oekraïne en Polen reed. Volgens een woordvoerder van het nationale spoorwegbedrijf was de aanval op de trein in de regio Wolynië, op twee kilometer van de Poolse grens. Er vielen geen gewonden, ook omdat het tr",
+      "url": "https://nos.nl/l/2630838",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "'Geen aanwijzingen voor aanslag' bij ontsporing Franse trein",
       "beschrijving": "Er zijn geen aanwijzingen voor een aanslag bij de ontsporing van een regionale trein in het noorden van Frankrijk vrijdag. Dat heeft het OM in Rouen gezegd. Bij het ongeluk tussen Rouen en Caen vielen 44 gewonden, van wie een ernstig. De trein ontspoorde doordat een stuk spoorstaaf op de rails lag. Zaterdag meldde een anonieme politiebron aan het Franse persbureau AFP dat de politie sabotage vermo",
       "url": "https://nos.nl/l/2630778",
-      "datum": "11 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Israeli attack on Gaza kills two Palestinians",
-      "beschrijving": "Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.",
-      "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+      "titel": "World leaders gather in New Delhi for final day of BRICS summit",
+      "beschrijving": "BRICS leaders gathered in New Delhi for the final day of the summit amid divisions over the wars in Iran and Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss",
+      "datum": "12 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+      "beschrijving": "Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security.",
+      "url": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "beschrijving": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "datum": "23 uur geleden",
       "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "BBC World"
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "China en India spreken elkaar op BRICS-top, willen oplossing voor grensconflict",
-      "beschrijving": "China en India willen gezamenlijk toewerken naar een oplossing voor het grensgeschil tussen de twee landen. Dat meldt het Indiase ministerie van Buitenlandse Zaken na een ontmoeting tussen de Indiase premier Narendra Modi en de Chinese president Xi Jinping. De twee spraken elkaar vandaag op de BRICS-top in New Delhi. Het ministerie verklaarde na de ontmoeting dat \"de twee leiders zich hebben uitge",
-      "url": "https://nos.nl/l/2630749",
-      "datum": "16 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "midden",
+      "titel": "Invallen en arrestaties bij lhbti-organisaties in Turkije",
+      "beschrijving": "De autoriteiten in Turkije hebben invallen gedaan in de kantoren van zes lhbti-organisaties. Daarbij zijn volgens officiële berichten 26 mensen gearresteerd. Lhbti-organisatie Kaos GL spreekt van zeker vijftig arrestanten, van wie meer dan tien in hun eigen woning zijn opgepakt. Volgens de Turkse minister van Justitie richt het onderzoek zich op personen die onder meer prostitutie faciliteerden of",
+      "url": "https://nos.nl/l/2630816",
+      "datum": "3 uur geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "laag",
       "bron": "NOS"
-    },
-    {
-      "titel": "Niger military government reshuffles army command weeks after deadly mutiny",
-      "beschrijving": "New chief of staff appointed after failed mutiny tested military rulers&#039; grip on power.",
-      "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Voting under way in Sweden election that could see far right in government",
-      "beschrijving": "The far-right Sweden Democrats party could enter government for the first time if right-wing bloc wins.",
-      "url": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
     },
     {
       "titel": "Nieuwste fitnessrage Hyrox opvallend populair onder Chinese ouderen",
       "beschrijving": "Hyrox, een wereldwijde fitnesstrend, is in alle grote Chinese steden razend populair. Bij Hyrox moeten deelnemers een loodzwaar parcours afleggen: acht kilometer rennen, afgewisseld met acht verschillende krachtoefeningen, een slee met tientallen tot honderden kilo's vooruitduwen, of een stuk lopen met een zandzak in je nek. Dit weekend worden van 's ochtends vroeg tot 's avonds laat Hyrox-wedstri",
       "url": "https://nos.nl/l/2630791",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Veerboot gezonken in Indonesische wateren, 130 opvarenden vermist",
-      "beschrijving": "Indonesische reddingsdiensten zijn op zoek naar 130 opvarenden van een gekapseisd passagiersschip in de Javazee. 113 opvarenden zijn van zee gered en er zijn zes doden gevonden, aldus de reddingsdienst. De rest wordt nog vermist. Er waren 243 mensen aan boord, inclusief 30 bemanningsleden. De autoriteiten meldden aanvankelijk dat het schip, de Virgo Transport 8, vermist was geraakt. Inmiddels is d",
+      "titel": "Veerboot gezonken in Indonesische wateren, nog 129 opvarenden vermist",
+      "beschrijving": "Indonesische reddingsdiensten zijn op zoek naar 129 opvarenden van een gekapseisd passagiersschip in de Javazee. Zij worden vermist. Er zijn 108 opvarenden uit zee gered en zes doden gevonden, aldus de reddingsdienst. Er waren 243 mensen aan boord, inclusief 30 bemanningsleden. De autoriteiten meldden aanvankelijk dat het schip, de Virgo Transport 8, vermist was geraakt. Inmiddels is duidelijk dat",
       "url": "https://nos.nl/l/2630789",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +68,7 @@
       "titel": "Wekdienst 13/9: Zweden naar de stembus • Slotdag EK 3x3 basketbal",
       "beschrijving": "Goedemorgen! Vandaag stemt Zweden in de parlementsverkiezingen en het is de slotdag van de Europese kampioenschappen 3x3 basketbal. Eerst het weer: Vooral in het zuiden en midden van het land zijn er perioden met regen. In de loop van de middag wordt het vanuit het westen geleidelijk droger met af en toe zon. Bij een zwakke of matige zuidwestenwind wordt het 19 tot 21 graden. De komende dagen is e",
       "url": "https://nos.nl/l/2630785",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +77,7 @@
       "titel": "Republikeinen creëren rood schrikbeeld van blauwe Democraten",
       "beschrijving": "Voor Amerikanen is er volgens president Trump geen andere keuze bij de tussentijdse verkiezingen in november: een stem op de Republikeinen is de enige manier om te voorkomen dat een communistische partij het land overneemt. \"Ze noemen zichzelf socialisten, maar eigenlijk zijn het communisten\", zegt Trump over de Democratische partij. Het is een frame dat de Republikeinen de laatste tijd opvallend ",
       "url": "https://nos.nl/l/2630784",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +86,7 @@
       "titel": "Dodental veerbootbrand Filipijnen opgelopen tot 76",
       "beschrijving": "Het aantal doden van de brand op een veerboot op de Filipijnen is opgelopen tot 76. Dertien mensen worden nog vermist, hebben de plaatselijke autoriteiten bekendgemaakt. Vrijdag waren er 35 doden geteld. Sindsdien hebben reddingswerkers de stoffelijke resten van nog 41 slachtoffers gevonden. 43 opvarenden overleefden de brand. Er waren meer dan 130 mensen aan boord toen de brand woensdagavond uitb",
       "url": "https://nos.nl/l/2630780",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +95,7 @@
       "titel": "Demonstranten in Turks Üsküdar protesteren tegen arrestatie oppositieburgemeester",
       "beschrijving": "In het Turkse district Üsküdar zijn betogers dit weekend massaal de straat opgegaan om te protesteren tegen de arrestatie van burgemeester Sinem Dedetas. Volgens de oppositie waren er duizenden mensen aanwezig. Aanhangers van de oppositiepartij Yeni Parti noemen de arrestatie van Dedetas onrechtmatig en spreken van politieke vervolging van oppositiebestuurders. Dedetas werd in juli samen met vijf ",
       "url": "https://nos.nl/l/2630779",
-      "datum": "10 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,53 +104,44 @@
       "titel": "13 passagiers busongeluk Zwitserland terug in Nederland",
       "beschrijving": "Dertien passagiers die in de bus zaten die donderdag verongelukte in Zwitserland zijn teruggekeerd in Nederland. Een deel van hen is opgehaald met een bus. De komende dag zullen in ieder geval nog vijf mensen terugreizen, laat alarmcentrale Eurocross weten. Ze reizen per ambulance, taxi en vliegtuig naar huis. Er liggen nog elf passagiers in het ziekenhuis. Een van hen ligt op de intensive care. E",
       "url": "https://nos.nl/l/2630776",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Grondstofwinning in Tibet: 'Het is slecht voor onze gezondheid, maar ze luisteren niet'",
-      "beschrijving": "Voor China is het Tibetaanse Plateau een strategische regio vol grondstoffen en natuurlijke hulpbronnen. Al 75 jaar is China er de baas. Voor zijn hongerige economie delft Peking er mineralen en bouwt het er bijna 200 waterkrachtcentrales. Over die grondstofwinning \"hebben de Tibetanen zelf helemaal niks te zeggen\", vertelt Kate Saunders van de ngo Tibet Watch. Voor hen betekent het een krimpend e",
-      "url": "https://nos.nl/l/2630739",
       "datum": "17 uur geleden",
-      "regio": "China/Taiwan",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-      "beschrijving": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.",
-      "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-      "datum": "36 min geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-      "beschrijving": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
-      "datum": "3 uur geleden",
+      "titel": "What are the five pros and cons of artificial intelligence?",
+      "beschrijving": "AI creates new opportunities in programming and automation, but experts warn of risks to early-career workers.",
+      "url": "https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence?traffic_source=rss",
+      "datum": "49 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "About 1,400 Yemenis flee to Djibouti within 24 hours",
-      "beschrijving": "Refugees from Yemen arrive in Obock, Djibouti, as Houthis tighten their grip on the Bab al-Mandeb strait.",
-      "url": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
-      "datum": "6 uur geleden",
+      "titel": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
+      "beschrijving": "Houthi control of Bab al-Mandeb chokes Suez Canal revenues, triggers refugee flows, and exposes regional security gaps.",
+      "url": "https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss",
+      "datum": "52 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "beschrijving": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "How Israel’s destruction of south Lebanon is making displacement permanent",
+      "beschrijving": "With lost livelihoods, destroyed homes and little security, many displaced Lebanese are facing an entrenched reality.",
+      "url": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran war reshapes Brics ties but also exposes divisions",
+      "beschrijving": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -167,22 +149,22 @@
       "titel": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
       "beschrijving": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
       "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
+      "datum": "19 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Passagierstrein geraakt bij Russische aanvallen op Oekraïne, geen gewonden",
     "'Geen aanwijzingen voor aanslag' bij ontsporing Franse trein",
-    "Israeli attack on Gaza kills two Palestinians",
-    "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-    "China en India spreken elkaar op BRICS-top, willen oplossing voor grensconflict",
-    "Niger military government reshuffles army command weeks after deadly mutiny",
-    "Voting under way in Sweden election that could see far right in government",
+    "World leaders gather in New Delhi for final day of BRICS summit",
+    "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+    "Invallen en arrestaties bij lhbti-organisaties in Turkije",
     "Nieuwste fitnessrage Hyrox opvallend populair onder Chinese ouderen",
-    "Veerboot gezonken in Indonesische wateren, 130 opvarenden vermist",
+    "Veerboot gezonken in Indonesische wateren, nog 129 opvarenden vermist",
     "Wekdienst 13/9: Zweden naar de stembus • Slotdag EK 3x3 basketbal",
-    "Republikeinen creëren rood schrikbeeld van blauwe Democraten"
+    "Republikeinen creëren rood schrikbeeld van blauwe Democraten",
+    "Dodental veerbootbrand Filipijnen opgelopen tot 76"
   ]
 }
