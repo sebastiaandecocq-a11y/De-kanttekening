@@ -1,65 +1,92 @@
 {
-  "bijgewerkt": "14 Sep 2026 10:25 UTC",
+  "bijgewerkt": "14 Sep 2026 16:51 UTC",
   "artikelen": [
     {
-      "titel": "Polen verhoogt paraatheid na Russische aanval op passagierstrein Kyiv-Warschau",
-      "beschrijving": "De Poolse premier Tusk heeft tijdens een ingelaste persconferentie aangegeven dat zijn land overgaat tot 'een zeer verhoogde staat van paraatheid'. Hij verwacht \"de komende weken en maanden\" veel Russische aanvallen op Oekraïne. \"We kunnen helaas niet uitsluiten dat deze escalatie ook ons grondgebied zal raken. Ik hoop van niet. Ik hoop dat het ergste scenario zal uitblijven\", zei hij. Rusland hee",
-      "url": "https://nos.nl/l/2630838",
-      "datum": "19 uur geleden",
+      "titel": "Zorgen bij NAVO en EU over verdere escalatie na droneaanval Rusland op trein",
+      "beschrijving": "Vanuit heel Europa wordt vol verontwaardiging gereageerd op de Russische droneaanval op een Oekraïense trein die vanuit Kyiv onderweg was naar de Poolse hoofdstad Warschau. Bij de aanval gisteren vielen geen gewonden, het treinpersoneel was gewaarschuwd door de spoorwegen. \"De aanval laat zien hoe wanhopig Poetin is\", zegt NAVO-baas Mark Rutte. \"Een weloverwogen escalatie\" van de Russische preside",
+      "url": "https://nos.nl/l/2630975",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia",
-      "beschrijving": "Yemeni government forces have advanced in western Taiz after successfully repelling a Houthi offensive.",
-      "url": "https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Nek-aan-nekrace bij Zweedse parlementsverkiezingen: Centrumlinks nipt voor",
-      "beschrijving": "De centrumlinkse oppositie lijkt bij de parlementsverkiezingen in Zweden op een minieme winst af te stevenen. Met 94 procent van de stemmen geteld, staat het centrumlinkse oppositieblok op een kleine voorsprong, meldt de Zweedse publieke omroep SVT. De definitieve uitslag wordt woensdag verwacht. De stembureaus in Zweden sloten om 20.00 uur. Dat het centrumlinkse en het rechtse blok in de exitpoll",
-      "url": "https://nos.nl/l/2630889",
-      "datum": "15 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zweedse verkiezingen zijn spannende strijd tussen conservatieven, radicaalrechts en links",
-      "beschrijving": "In Zweden kunnen kiezers vandaag naar de stembus om een keus te maken voor een nieuwe rechtse of linkse regering. Bij de parlementsverkiezingen zijn er twee kampen gevormd. De huidige, conservatieve premier wordt dit keer gesteund door een radicaalrechtse partij en neemt het op tegen de laatste centrumlinkse premier. Recente peilingen duiden op een nek-aan-nekrace. In een peiling van afgelopen vri",
-      "url": "https://nos.nl/l/2630849",
-      "datum": "18 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
       "bron": "NOS"
     },
     {
       "titel": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "beschrijving": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
       "titel": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "beschrijving": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "beschrijving": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
       "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Drie mogelijke handlangers Bolle Jos opgepakt in Ghana",
+      "beschrijving": "De Ghanese drugswaakhond Nacoc heeft drie mogelijke handlangers van drugscrimineel Jos L., alias Bolle Jos, gearresteerd. Dat meldt de eenheid vandaag via een persbericht op X. De arrestaties volgen op een cocaïnevangst door de Franse douane, schrijft Nacoc. Daarmee wordt waarschijnlijk de partij van bijna 4000 kilo cocaïne bedoeld die vorige week maandag werd aangetroffen in de Franse haven van D",
+      "url": "https://nos.nl/l/2630983",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Kritiek op reclame met naakte Sydney Sweeney: 'Seksualiseren van vrouwensport'",
+      "beschrijving": "Een nieuwe campagne met Sydney Sweeney voor een gok-app leidt tot kritiek. In de reclame poseert de Amerikaanse actrice naakt met sportattributen. Veel vrouwelijke atleten reageren verbolgen op het spotje, omdat het vrouwelijke sporters zou seksualiseren. Het spotje voor de Amerikaanse sportweddenschappen-app Novig kwam vorige week woensdag uit. In de reclame poseert de 29-jarige actrice naakt met",
+      "url": "https://nos.nl/l/2630976",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vliegtuigje dat vertrok uit Hilversum neergestort in Duitsland, drie doden",
+      "beschrijving": "Bij de plaats Erkelenz net over de Duitse grens bij Roermond is een klein vliegtuigje neergestort, drie mensen zijn om het leven gekomen. Dat melden Duitse media. Het vliegtuig stond geregistreerd bij de Vliegschool Hilversum. \"Met grote bezorgdheid delen wij mee dat er een ongeval heeft plaatsgevonden in Duitsland met één van onze vliegtuigen, een Cessna 172. Omstandigheden rondom het incident zi",
+      "url": "https://nos.nl/l/2630973",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Belgische docente die weigerde hoofddoek af te doen ontslagen",
+      "beschrijving": "In de Belgische provincie Oost-Vlaanderen is docente Hadija Amajoud ontslagen omdat ze weigert les te geven zonder hoofddoek, schrijven Belgische media. Sinds september 2024 geldt er in de provincie een verbod op zichtbare religieuze tekens bij docenten. De docent legt zich er niet bij neer. \"Het gaat niet enkel over mijn hoofddoek of over mij persoonlijk. Voor mij gaat dit veel breder, over een f",
+      "url": "https://nos.nl/l/2630966",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Podcast De Dag: midden in Congo's dodelijkste ebola-uitbraak ooit",
+      "beschrijving": "Afrika-correspondent Elles van Gelder reisde naar het epicentrum van de dodelijkste ebola-uitbraak ooit, in het Oosten van de Democratische Republiek Congo. Ze hield voor de podcast een audiodagboek bij. Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. \"Het is bizar om mensen zo ziek te zien\", vertelt ze. \"He",
+      "url": "https://nos.nl/l/2630961",
+      "datum": "4 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "21 doden in Zuid-Afrika bij verkeersongeval met meerdere voertuigen",
+      "beschrijving": "Bij een frontale botsing tussen twee minibusjes en een derde voertuig in de provincie West-Kaap in Zuid-Afrika, zijn 21 mensen om het leven gekomen. Ook raakten volgens lokale autoriteiten meerdere mensen gewond. Volgens de overheidsinstantie die verantwoordelijk is voor de wegen in Zuid-Afrika, de RTMC, is het nog niet duidelijk wat de oorzaak is van het ongeluk. Mogelijk botste het derde voertui",
+      "url": "https://nos.nl/l/2630960",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Boven Iran neergeschoten bemanningslid F-15 vertelt over spectaculaire redding",
       "beschrijving": "Voor het eerst heeft een van de twee in Iran geredde bemanningsleden van een Amerikaanse F-15 zijn verhaal gedaan. Het toestel van de man werd door Iran neergehaald. Hij had zijn rug, arm en schouder gebroken na een harde landing, maar wist desondanks een groot stuk af te leggen om zich te verbergen. \"Ik was gewond, maar we trainen allemaal om met de dingen om te gaan die op ons pad komen\", zei he",
       "url": "https://nos.nl/l/2630932",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +95,7 @@
       "titel": "Dode na zinken veerboot bij Vanuatu, zoektocht naar zeker 30 vermisten",
       "beschrijving": "Reddingsdiensten van de eilandengroep Vanuatu in de Stille Oceaan zijn op zoek naar zeker dertig vermiste opvarenden van een veerboot die vrijdag tussen de eilanden Ambae en Santo is gezonken. Zeker één persoon is om het leven gekomen, maakte het kantoor van premier Napat bekend. Er waren 47 mensen aan boord, van wie er vijftien levend uit het water zijn gered. Het is niet bekendgemaakt of dit bem",
       "url": "https://nos.nl/l/2630922",
-      "datum": "4 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,94 +104,85 @@
       "titel": "Wekdienst 14/9: FNV komt met looneis • Emmy's uitgereikt in Los Angeles",
       "beschrijving": "Goedemorgen! Vandaag laat FNV weten waar de vakbond op inzet bij de loononderhandelingen dit jaar en in Los Angeles worden de belangrijkste tv-prijzen uitgereikt, de Emmy's. Eerst het weer: de dag begint mistig. Verder wisselen wolkenvelden en opklaringen elkaar af en is vooral in het zuiden wat regen mogelijk. Vanmiddag naast wolken ook af en toe zon en een enkele bui bij 20 tot 23 graden. Ga je ",
       "url": "https://nos.nl/l/2630916",
-      "datum": "5 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Al bijna ton opgehaald voor Belg die buurman zwaar mishandelde na vermeend misbruik",
-      "beschrijving": "In een inzamelingsactie voor de familie van een voor mishandeling veroordeelde Belg is al bijna 100.000 euro opgehaald. De 49-jarige Grégory Lenoci werd in augustus veroordeeld tot een gevangenisstraf van zeventien jaar voor poging tot moord. Hij mishandelde zijn buurman zwaar na vermeend misbruik van zijn 6-jarige stiefzoon. De zaak maakte veel los in België, waar sommige burgers en politici zoal",
-      "url": "https://nos.nl/l/2630910",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
+      "titel": "Why Middle East tensions are pushing oil prices above $100",
+      "beschrijving": "Brent crude has risen above $100 a barrel as war in Iran disrupts shipping through the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss",
+      "datum": "15 min geleden",
+      "regio": "Iran",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Kerken vrezen AfD-regering in Saksen-Anhalt: 'Willen ons naar hun hand zetten'",
-      "beschrijving": "Een week na de monsterzege van de AfD in Saksen-Anhalt lijkt een rechts-radicale deelstaatregering mogelijk. De partij, die in de deelstaat door de veiligheidsdienst als extreemrechts is bestempeld, gaat verkennende gesprekken voeren met de populistische partij BSW. Samen hebben zij een meerderheid. Dat leidt tot zorgen, angst en protest bij groepen en organisaties die mogelijk geraakt worden door",
-      "url": "https://nos.nl/l/2630878",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'Pelicot 2.0' in Oostenrijk: man opgepakt die vrouw drogeerde en liet misbruiken",
-      "beschrijving": "De Oostenrijkse politie heeft een man opgepakt die ervan wordt verdacht dat hij zijn vrouw een jaar lang heeft gedrogeerd en laten misbruiken door andere mannen. De vrouw is inmiddels overleden. De zaak heeft Oostenrijk geschokt en wordt door justitie omschreven als \"Pelicot 2.0\", schrijven Oostenrijkse media. De 39-jarige vrouw werd in de nacht van 25 op 26 juni door hulpdiensten zwaargewond aang",
-      "url": "https://nos.nl/l/2630864",
-      "datum": "17 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Invallen en arrestaties bij lhbti-organisaties in Turkije",
-      "beschrijving": "De autoriteiten in Turkije hebben invallen gedaan in de kantoren van zes lhbti-organisaties. Daarbij zijn volgens officiële berichten 26 mensen gearresteerd. Lhbti-organisatie Kaos GL spreekt van zeker vijftig arrestanten, van wie meer dan tien in hun eigen woning zijn opgepakt. Volgens de Turkse minister van Justitie richt het onderzoek zich op personen die onder meer prostitutie faciliteerden of",
-      "url": "https://nos.nl/l/2630816",
-      "datum": "22 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Lamine Yamal says he ‘deserves’ Ballon d’Or but Mbappe his main rival",
-      "beschrijving": "&#039;Mbappe and I are the two best in the world,&#039; Yamal says before claiming he&#039;d deserve to win the prestigious award.",
-      "url": "https://www.aljazeera.com/sports/2026/9/14/lamine-yamal-says-he-deserves-ballon-dor-but-mbappe-his-main-rival?traffic_source=rss",
+      "titel": "Eto’o faces allegations of embezzlement in Cameroon FA presidency role",
+      "beschrijving": "Ex-Chelsea and Barcelona striker Samuel Eto’o faces new allegations over Cameroon FA finances under his presidency.",
+      "url": "https://www.aljazeera.com/sports/2026/9/14/etoo-faces-allegations-of-embezzlement-in-cameroon-fa-presidency-role?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Animated map shows spread of illegal Israeli settlements across Palestine",
-      "beschrijving": "Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.",
-      "url": "https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss",
-      "datum": "4 uur geleden",
+      "titel": "Going to school under Israeli occupation",
+      "beschrijving": "In al-Mughayyir, a village north-east of Ramallah, going to school means passing soldiers just to get to class.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/going-to-school-under-israeli-occupation?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "beschrijving": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "datum": "15 uur geleden",
+      "titel": "Burnham must establish an inquiry into Britain’s role in the Gaza genocide",
+      "beschrijving": "Delaying scrutiny will not make questions about UK complicity in Gaza disappear.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/14/burnham-must-establish-an-inquiry-into-britains-role-in-the-gaza-genocide?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "China rejects AI ‘threat narratives’, urges global cooperation",
+      "beschrijving": "China called for international cooperation on artificial intelligence.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/china-rejects-ai-threat-narratives-urges-global-cooperation?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "China criticises idea it is in 'malicious competition' over AI",
+      "beschrijving": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Iran war reshapes Brics ties but also exposes divisions",
-      "beschrijving": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "datum": "23 uur geleden",
-      "regio": "Iran",
+      "titel": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "beschrijving": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Polen verhoogt paraatheid na Russische aanval op passagierstrein Kyiv-Warschau",
-    "Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia",
-    "Nek-aan-nekrace bij Zweedse parlementsverkiezingen: Centrumlinks nipt voor",
-    "Zweedse verkiezingen zijn spannende strijd tussen conservatieven, radicaalrechts en links",
+    "Zorgen bij NAVO en EU over verdere escalatie na droneaanval Rusland op trein",
     "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
     "Swedish left-wing bloc narrowly ahead with election too close to call",
-    "Boven Iran neergeschoten bemanningslid F-15 vertelt over spectaculaire redding",
-    "Dode na zinken veerboot bij Vanuatu, zoektocht naar zeker 30 vermisten",
-    "Wekdienst 14/9: FNV komt met looneis • Emmy's uitgereikt in Los Angeles",
-    "Al bijna ton opgehaald voor Belg die buurman zwaar mishandelde na vermeend misbruik"
+    "Drie mogelijke handlangers Bolle Jos opgepakt in Ghana",
+    "Kritiek op reclame met naakte Sydney Sweeney: 'Seksualiseren van vrouwensport'",
+    "Vliegtuigje dat vertrok uit Hilversum neergestort in Duitsland, drie doden",
+    "Belgische docente die weigerde hoofddoek af te doen ontslagen",
+    "Podcast De Dag: midden in Congo's dodelijkste ebola-uitbraak ooit",
+    "21 doden in Zuid-Afrika bij verkeersongeval met meerdere voertuigen",
+    "Boven Iran neergeschoten bemanningslid F-15 vertelt over spectaculaire redding"
   ]
 }
