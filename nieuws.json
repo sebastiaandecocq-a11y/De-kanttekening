@@ -1,20 +1,38 @@
 {
-  "bijgewerkt": "14 Sep 2026 16:51 UTC",
+  "bijgewerkt": "14 Sep 2026 20:47 UTC",
   "artikelen": [
     {
-      "titel": "Zorgen bij NAVO en EU over verdere escalatie na droneaanval Rusland op trein",
-      "beschrijving": "Vanuit heel Europa wordt vol verontwaardiging gereageerd op de Russische droneaanval op een Oekraïense trein die vanuit Kyiv onderweg was naar de Poolse hoofdstad Warschau. Bij de aanval gisteren vielen geen gewonden, het treinpersoneel was gewaarschuwd door de spoorwegen. \"De aanval laat zien hoe wanhopig Poetin is\", zegt NAVO-baas Mark Rutte. \"Een weloverwogen escalatie\" van de Russische preside",
-      "url": "https://nos.nl/l/2630975",
-      "datum": "2 uur geleden",
+      "titel": "Trump meldt einde energieaanvallen tussen Rusland en Oekraïne, Zelensky sceptisch",
+      "beschrijving": "Rusland en Oekraïne gaan volgens de Amerikaanse president Trump elkaars energievoorzieningen niet meer aanvallen. Dat zei Trump op zijn platform Truth Social, zonder verdere details te geven. De Oekraïense president Zelensky heeft in een reactie gezegd dat Oekraïne \"niet overtuigd is dat Rusland bereid is zich aan enig akkoord te houden\". \"Als onze partners klaar zijn om te garanderen dat Rusland ",
+      "url": "https://nos.nl/l/2631006",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
+      "titel": "Zorgen bij NAVO en EU over verdere escalatie na droneaanval Rusland op trein",
+      "beschrijving": "Vanuit heel Europa wordt vol verontwaardiging gereageerd op de Russische droneaanval op een Oekraïense trein die vanuit Kyiv onderweg was naar de Poolse hoofdstad Warschau. Bij de aanval gisteren vielen geen gewonden, het treinpersoneel was gewaarschuwd door de spoorwegen. \"De aanval laat zien hoe wanhopig Poetin is\", zegt NAVO-baas Mark Rutte. \"Een weloverwogen escalatie\" van de Russische preside",
+      "url": "https://nos.nl/l/2630975",
+      "datum": "6 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Funerals for children killed after fire spreads to school in DR Congo",
+      "beschrijving": "Memorial services were held for at least 28 children who were killed after a fire spread to their school in DR Congo.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/funerals-for-children-killed-after-fire-spreads-to-school-in-dr-congo?traffic_source=rss",
+      "datum": "57 min geleden",
+      "regio": "Afrika",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "beschrijving": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -23,16 +41,61 @@
       "titel": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "beschrijving": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
       "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Modeontwerper en 'glitterguru' Bob Mackie (87) overleden, kleedde Cher en Dolly Parton",
+      "beschrijving": "De Amerikaanse mode- en kostuumontwerper Bob Mackie is op 87-jarige leeftijd overleden, meldt zijn familie op Instagram. De ontwerper met de bijnamen Guru of Glitter en Sultan of Sequins stond bekend om zijn extravagante ontwerpen vol glitters voor onder anderen Cher, Tina Turner, Diana Ross, Barbra Streisand, Dolly Parton en Madonna. \"Een vrouw die mijn kleding draagt, is niet bang om op te valle",
+      "url": "https://nos.nl/l/2631009",
+      "datum": "42 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Belgisch OM eist 5 jaar cel tegen Nederlandse advocaat in groot drugsproces",
+      "beschrijving": "Het Openbaar Ministerie in België eist vijf jaar cel tegen de Nederlandse strafrechtadvocaat Cem Polat. Hij wordt verdacht van het doorspelen van vertrouwelijke informatie aan een Belgische drugsbaron. Polat was volgens het OM onderdeel van de criminele organisatie van Flor Bressers, de hoofdverdachte in een geruchtmakende Belgische strafzaak. Polat ontkent dat hij iets verkeerd heeft gedaan. Bres",
+      "url": "https://nos.nl/l/2631004",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "'Belangrijke oliepijpleiding door Saudi-Arabië blijft nog weken buiten gebruik'",
+      "beschrijving": "Een belangrijke Saudische oliepijpleiding die vrijdag bij een drone-aanval werd geraakt, blijft mogelijk nog weken buiten gebruik. Twee regionale functionarissen zeggen tegen persbureau AP dat de herstelwerkzaamheden naar verwachting tussen drie en vijf weken gaan duren. Saudi-Arabië gebruikt de 1200 kilometer lange East-West Pipeline, die dwars door het land loopt, om ruwe olie van havens aan de ",
+      "url": "https://nos.nl/l/2630998",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "OM eist tot zes jaar cel voor ronselen en uitbuiten Thaise vrouwen in Nederland",
+      "beschrijving": "Het OM heeft tot zes jaar cel geëist tegen vier Nederlandse verdachten in een groot onderzoek naar een internationaal netwerk dat Thaise vrouwen seksueel uitbuitte. In het onderzoek kwamen elf Thaise vrouwen naar voren als slachtoffer. Volgens het OM tekenden de vrouwen bij wervingsbureaus een zogenaamd contract voor visum en vervoer naar Nederland. In werkelijkheid werden ze opgezadeld met hoge s",
+      "url": "https://nos.nl/l/2630997",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Felle kritiek in Israël op Gaza-docu, minister wil nationaliteit makers intrekken",
+      "beschrijving": "De nieuwe documentaire NAZA levert flinke kritiek op vanuit Israël. In de film vertellen Israëlische militairen anoniem over het toestaan van grote aantallen burgerslachtoffers bij Israëlische aanvallen op Gaza. De minister van Cultuur en Sport Miki Zohar wil de Israëlische regisseurs hun nationaliteit ontnemen. Inmiddels hebben ook het leger en politici fel gereageerd. In de documentaire spreken ",
+      "url": "https://nos.nl/l/2630993",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Drie mogelijke handlangers Bolle Jos opgepakt in Ghana",
       "beschrijving": "De Ghanese drugswaakhond Nacoc heeft drie mogelijke handlangers van drugscrimineel Jos L., alias Bolle Jos, gearresteerd. Dat meldt de eenheid vandaag via een persbericht op X. De arrestaties volgen op een cocaïnevangst door de Franse douane, schrijft Nacoc. Daarmee wordt waarschijnlijk de partij van bijna 4000 kilo cocaïne bedoeld die vorige week maandag werd aangetroffen in de Franse haven van D",
       "url": "https://nos.nl/l/2630983",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +104,7 @@
       "titel": "Kritiek op reclame met naakte Sydney Sweeney: 'Seksualiseren van vrouwensport'",
       "beschrijving": "Een nieuwe campagne met Sydney Sweeney voor een gok-app leidt tot kritiek. In de reclame poseert de Amerikaanse actrice naakt met sportattributen. Veel vrouwelijke atleten reageren verbolgen op het spotje, omdat het vrouwelijke sporters zou seksualiseren. Het spotje voor de Amerikaanse sportweddenschappen-app Novig kwam vorige week woensdag uit. In de reclame poseert de 29-jarige actrice naakt met",
       "url": "https://nos.nl/l/2630976",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,107 +113,53 @@
       "titel": "Vliegtuigje dat vertrok uit Hilversum neergestort in Duitsland, drie doden",
       "beschrijving": "Bij de plaats Erkelenz net over de Duitse grens bij Roermond is een klein vliegtuigje neergestort, drie mensen zijn om het leven gekomen. Dat melden Duitse media. Het vliegtuig stond geregistreerd bij de Vliegschool Hilversum. \"Met grote bezorgdheid delen wij mee dat er een ongeval heeft plaatsgevonden in Duitsland met één van onze vliegtuigen, een Cessna 172. Omstandigheden rondom het incident zi",
       "url": "https://nos.nl/l/2630973",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Belgische docente die weigerde hoofddoek af te doen ontslagen",
-      "beschrijving": "In de Belgische provincie Oost-Vlaanderen is docente Hadija Amajoud ontslagen omdat ze weigert les te geven zonder hoofddoek, schrijven Belgische media. Sinds september 2024 geldt er in de provincie een verbod op zichtbare religieuze tekens bij docenten. De docent legt zich er niet bij neer. \"Het gaat niet enkel over mijn hoofddoek of over mij persoonlijk. Voor mij gaat dit veel breder, over een f",
-      "url": "https://nos.nl/l/2630966",
-      "datum": "4 uur geleden",
+      "titel": "Sudan aid networks at risk of collapse, UN agencies warn",
+      "beschrijving": "Without immediate donations, shelter and aid relief supplies could be depleted by the end of the month, says IOM.",
+      "url": "https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn?traffic_source=rss",
+      "datum": "56 min geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Podcast De Dag: midden in Congo's dodelijkste ebola-uitbraak ooit",
-      "beschrijving": "Afrika-correspondent Elles van Gelder reisde naar het epicentrum van de dodelijkste ebola-uitbraak ooit, in het Oosten van de Democratische Republiek Congo. Ze hield voor de podcast een audiodagboek bij. Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. \"Het is bizar om mensen zo ziek te zien\", vertelt ze. \"He",
-      "url": "https://nos.nl/l/2630961",
-      "datum": "4 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "21 doden in Zuid-Afrika bij verkeersongeval met meerdere voertuigen",
-      "beschrijving": "Bij een frontale botsing tussen twee minibusjes en een derde voertuig in de provincie West-Kaap in Zuid-Afrika, zijn 21 mensen om het leven gekomen. Ook raakten volgens lokale autoriteiten meerdere mensen gewond. Volgens de overheidsinstantie die verantwoordelijk is voor de wegen in Zuid-Afrika, de RTMC, is het nog niet duidelijk wat de oorzaak is van het ongeluk. Mogelijk botste het derde voertui",
-      "url": "https://nos.nl/l/2630960",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Boven Iran neergeschoten bemanningslid F-15 vertelt over spectaculaire redding",
-      "beschrijving": "Voor het eerst heeft een van de twee in Iran geredde bemanningsleden van een Amerikaanse F-15 zijn verhaal gedaan. Het toestel van de man werd door Iran neergehaald. Hij had zijn rug, arm en schouder gebroken na een harde landing, maar wist desondanks een groot stuk af te leggen om zich te verbergen. \"Ik was gewond, maar we trainen allemaal om met de dingen om te gaan die op ons pad komen\", zei he",
-      "url": "https://nos.nl/l/2630932",
-      "datum": "8 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dode na zinken veerboot bij Vanuatu, zoektocht naar zeker 30 vermisten",
-      "beschrijving": "Reddingsdiensten van de eilandengroep Vanuatu in de Stille Oceaan zijn op zoek naar zeker dertig vermiste opvarenden van een veerboot die vrijdag tussen de eilanden Ambae en Santo is gezonken. Zeker één persoon is om het leven gekomen, maakte het kantoor van premier Napat bekend. Er waren 47 mensen aan boord, van wie er vijftien levend uit het water zijn gered. Het is niet bekendgemaakt of dit bem",
-      "url": "https://nos.nl/l/2630922",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 14/9: FNV komt met looneis • Emmy's uitgereikt in Los Angeles",
-      "beschrijving": "Goedemorgen! Vandaag laat FNV weten waar de vakbond op inzet bij de loononderhandelingen dit jaar en in Los Angeles worden de belangrijkste tv-prijzen uitgereikt, de Emmy's. Eerst het weer: de dag begint mistig. Verder wisselen wolkenvelden en opklaringen elkaar af en is vooral in het zuiden wat regen mogelijk. Vanmiddag naast wolken ook af en toe zon en een enkele bui bij 20 tot 23 graden. Ga je ",
-      "url": "https://nos.nl/l/2630916",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Why Middle East tensions are pushing oil prices above $100",
-      "beschrijving": "Brent crude has risen above $100 a barrel as war in Iran disrupts shipping through the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss",
-      "datum": "15 min geleden",
-      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Eto’o faces allegations of embezzlement in Cameroon FA presidency role",
-      "beschrijving": "Ex-Chelsea and Barcelona striker Samuel Eto’o faces new allegations over Cameroon FA finances under his presidency.",
-      "url": "https://www.aljazeera.com/sports/2026/9/14/etoo-faces-allegations-of-embezzlement-in-cameroon-fa-presidency-role?traffic_source=rss",
+      "titel": "Trump says calls for more control on AI are a ‘SICK conspiracy’",
+      "beschrijving": "US president says current oversight is adequate and regulations could allow China to win AI competition.",
+      "url": "https://www.aljazeera.com/news/2026/9/14/trump-says-calls-for-more-control-on-ai-are-a-sick-conspiracy?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Going to school under Israeli occupation",
-      "beschrijving": "In al-Mughayyir, a village north-east of Ramallah, going to school means passing soldiers just to get to class.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/going-to-school-under-israeli-occupation?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Burnham must establish an inquiry into Britain’s role in the Gaza genocide",
-      "beschrijving": "Delaying scrutiny will not make questions about UK complicity in Gaza disappear.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/14/burnham-must-establish-an-inquiry-into-britains-role-in-the-gaza-genocide?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "China rejects AI ‘threat narratives’, urges global cooperation",
-      "beschrijving": "China called for international cooperation on artificial intelligence.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/china-rejects-ai-threat-narratives-urges-global-cooperation?traffic_source=rss",
-      "datum": "2 uur geleden",
       "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "NATO pledges increased Ukraine support as Russia strikes near border",
+      "beschrijving": "NATO chief Rutte insists Western allies will not be intimidated by Russian attacks meant to &#039;scare&#039; them off.",
+      "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Jerusalem Daily: A new report on the erosion of Palestinian life",
+      "beschrijving": "Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Carney pitches Canada to global investors amid US trade war",
+      "beschrijving": "Hundreds of investors overseeing nearly $120 trillion in assets will gather in Toronto for the Canada Investment Summit.",
+      "url": "https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -158,7 +167,7 @@
       "titel": "China criticises idea it is in 'malicious competition' over AI",
       "beschrijving": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
       "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,22 +176,22 @@
       "titel": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
       "beschrijving": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
       "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Trump meldt einde energieaanvallen tussen Rusland en Oekraïne, Zelensky sceptisch",
     "Zorgen bij NAVO en EU over verdere escalatie na droneaanval Rusland op trein",
+    "Funerals for children killed after fire spreads to school in DR Congo",
     "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
     "Swedish left-wing bloc narrowly ahead with election too close to call",
-    "Drie mogelijke handlangers Bolle Jos opgepakt in Ghana",
-    "Kritiek op reclame met naakte Sydney Sweeney: 'Seksualiseren van vrouwensport'",
-    "Vliegtuigje dat vertrok uit Hilversum neergestort in Duitsland, drie doden",
-    "Belgische docente die weigerde hoofddoek af te doen ontslagen",
-    "Podcast De Dag: midden in Congo's dodelijkste ebola-uitbraak ooit",
-    "21 doden in Zuid-Afrika bij verkeersongeval met meerdere voertuigen",
-    "Boven Iran neergeschoten bemanningslid F-15 vertelt over spectaculaire redding"
+    "Modeontwerper en 'glitterguru' Bob Mackie (87) overleden, kleedde Cher en Dolly Parton",
+    "Belgisch OM eist 5 jaar cel tegen Nederlandse advocaat in groot drugsproces",
+    "'Belangrijke oliepijpleiding door Saudi-Arabië blijft nog weken buiten gebruik'",
+    "OM eist tot zes jaar cel voor ronselen en uitbuiten Thaise vrouwen in Nederland",
+    "Felle kritiek in Israël op Gaza-docu, minister wil nationaliteit makers intrekken"
   ]
 }
