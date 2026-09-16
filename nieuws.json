@@ -1,20 +1,20 @@
 {
-  "bijgewerkt": "16 Sep 2026 16:29 UTC",
+  "bijgewerkt": "16 Sep 2026 19:54 UTC",
   "artikelen": [
     {
-      "titel": "Vijf doden bij droneaanval op Oekraïense bus, energieaanvallen niet gestopt",
-      "beschrijving": "Bij een Russische droneaanval op een passagiersbus in Oekraïne zijn vijf doden gevallen. Ook raakten zeker zeven mensen gewond. De aanval gebeurde in de buurt van de havenstad Nikopol. Op foto's van de wrakstukken is een witte bus te zien met kapotte ramen en bloed op de deur. Gouverneur Hanzha van de regio Dnipropetrovsk deelde deze op Telegram. \"De Russen hebben op bittere wijze een passagiersbu",
-      "url": "https://nos.nl/l/2631233",
-      "datum": "6 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Photos show widespread damage at US sites from Iranian attacks",
+      "beschrijving": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "hoog",
-      "bron": "NOS"
+      "bron": "BBC World"
     },
     {
       "titel": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "beschrijving": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+      "beschrijving": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
       "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,34 +23,106 @@
       "titel": "Journalist and pilot among three killed after news helicopter crashes in LA",
       "beschrijving": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
       "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’",
-      "beschrijving": "Former Republican Congresswoman Marjorie Taylor Greene slammed US President Donald Trump’s war on Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
+      "titel": "Italiaanse regering schrapt wegenbelasting in aanloop naar verkiezingen",
+      "beschrijving": "De Italiaanse regering schrapt voor volgend jaar de wegenbelasting. Dat wordt gepresenteerd als een compensatie voor de hoge benzine- en dieselprijzen. Critici zien het als een poging om de kiezer de paaien. Premier Meloni bestrijdt dat. Volgens haar is het wel degelijk de bedoeling om de wegenbelasting definitief af te schaffen. De Italianen kunnen volgend jaar meerdere keren naar de stembus, ook",
+      "url": "https://nos.nl/l/2631304",
+      "datum": "56 min geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Belarus laat 25 gevangenen vrij, VS schrapt sancties op twee bedrijven",
+      "beschrijving": "In Belarus zijn vandaag 25 gevangenen vrijgelaten. Dat meldt de Amerikaanse gezant John Coale op het socialemediaplatform X. Hij sprak met de Belarussische president Loekasjenko in hoofdstad Mink. De vrijlatingen komen in ruil voor het opheffen van Amerikaanse sancties op twee Belarussische bedrijven. Zo werden een verfproductiebedrijf en een staatsbedrijf dat toezicht houdt op de bosbouw- en papi",
+      "url": "https://nos.nl/l/2631278",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "UK trade unions back motion to boycott and sanction Israel",
+      "beschrijving": "Motion demands taking action to oppose the &#039;catastrophic destruction of Gaza&#039; and Israeli settler violence.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Why are election officials in the US preparing for chaos before midterms?",
-      "beschrijving": "Trump lashes out at justices who rejected his federal mail ballot plan, raising questions on his next electoral moves.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss",
+      "titel": "Belarus frees 25 political prisoners in return for US sanctions relief",
+      "beschrijving": "The Trump administration said more releases would be secured soon amid improved US-Belarus relations.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "Belgische politicus zit dertien uur vast op toilet: 'Nadenken en zen zijn'",
+      "beschrijving": "Een Belgische politicus moest naar het ziekenhuis nadat hij dertien uur op de wc had vastgezeten. Er moest een koevoet aan te pas komen om hem uit zijn benarde situatie te bevrijden, schrijven Belgische media. Frédéric Erens van de politieke partij Vlaams Belang was gisteren klaar met een commissievergadering in het Vlaams Parlement in Brussel en wilde rond 17.00 uur nog even snel naar de wc gaan ",
+      "url": "https://nos.nl/l/2631307",
+      "datum": "5 min geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Modemerk Giorgio Armani benoemt eerste creatief directeur van buiten de familie",
+      "beschrijving": "Dario Vitale wordt de nieuwe creatief directeur bij modemerk Giorgio Armani. Hij is de eerste ontwerper buiten de familie van Armani die voor die rol is aangesteld, maakte het bedrijf bekend. In de verklaring staat dat de komst van Vitale \"het begin van een nieuw hoofdstuk\" voor het merk markeert. Vitale begon zijn carrière bij het Canadese modemerk Dsquared² en werkte vijftien jaar bij het Italia",
+      "url": "https://nos.nl/l/2631292",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Meer artiesten onder politieke druk, 'dit is een big deal'",
+      "beschrijving": "Artiesten die politieke statements maken zijn van alle tijden. Protestliederen, uitspraken op awardshows of het opspelden van een pinnetje op de borst. Dit keer belandde de Amerikaanse rapper Macklemore in een geopolitieke wervelwind. Hij werd geschrapt als voorprogramma van de Britse zanger Ed Sheeran. Het is niet voor het eerst dat een artiest wordt geschrapt, maar de manier waarop en wie hierac",
+      "url": "https://nos.nl/l/2631291",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Liefde Canada-Europa bloeit op, zelfs (soort van) EU-lidmaatschap is nu een optie",
+      "beschrijving": "Europarlementariërs trakteerden Mark Carney vanochtend op luid applaus toen hij de politieke Brusselse arena betrad. Morgen speecht de Canadese premier in het Europees Parlement en de verwachting is dat hij Europa opnieuw de liefde verklaart. In Brussel wordt inmiddels serieus gesproken over EU-lidmaatschap voor het Noord-Amerikaanse land. Europese Commissie-voorzitter Von der Leyen ziet het ook z",
+      "url": "https://nos.nl/l/2631289",
+      "datum": "2 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Voortvluchtige Oussama B. gepakt in Parijs, hielp bij voorbereiden moord Derk Wiersum",
+      "beschrijving": "De voortvluchtige Oussama B. is gearresteerd in Parijs. Hij werd begin september in hoger beroep veroordeeld tot ruim elf jaar cel, onder meer voor betrokkenheid bij de voorbereiding van de moord op advocaat Derk Wiersum. Zijn advocaat Wesley van Soest bevestigt de arrestatie aan de NOS na berichtgeving van het AD. Volgens Van Soest was B. klaar met de alsmaar durende klopjacht. \"Ook had cliënt ge",
+      "url": "https://nos.nl/l/2631283",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Woede bij Kosovo-Albanezen over celstraf voor oud-president Thaci",
+      "beschrijving": "Kosovo-Albanezen reageren met teleurstelling, ongeloof en ook woede op de celstraf van 25 jaar voor oud-president Hashim Thaci. Het Kosovotribunaal in Den Haag veroordeelde hem en nog drie andere voormalige leiders van het Kosovo Bevrijdingsleger (UCK) vanochtend vanwege oorlogsmisdaden, waaronder vrijheidsberoving, mishandeling en marteling van honderden mensen, en de dood van 96 van hen. Het gin",
+      "url": "https://nos.nl/l/2631274",
+      "datum": "3 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Goudmijn in Sudan stort in, zeker 67 mensen omgekomen",
       "beschrijving": "In Sudan zijn zeker 67 mensen omgekomen doordat een goudmijn is ingestort. Reddingswerkers proberen slachtoffers en overlevenden onder het puin vandaan te halen. Dat zeggen twee overlevenden en reddingswerkers tegen verschillende persbureaus. Het gaat om een goudmijn in het woestijnplaatsje Al-Nuhud. Volgens lokale bronnen kwamen de tientallen mijnwerkers om het leven doordat de veiligheidsvoorsch",
       "url": "https://nos.nl/l/2631250",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,139 +131,67 @@
       "titel": "Mini-accounts en schermtijd: zo wil EU socialemediagebruik kinderen beperken",
       "beschrijving": "Geen totaalverbod, maar wel heel stevige beperkingen voor iedereen jonger dan 15 jaar. Dat is de kern van het wetsvoorstel van de Europese Commissie om het gebruik van sociale media door jongeren en kinderen aan banden te leggen. Een jaar geleden werd dat plan al aangekondigd, maar vandaag maakte Commissievoorzitter Von der Leyen bekend dat het socialemediaverbod voor kinderen er wat haar betreft ",
       "url": "https://nos.nl/l/2631247",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zeker 19 doden bij instorten van door oorlog beschadigd woongebouw in Gaza",
-      "beschrijving": "In Gaza-Stad zijn zeker negentien mensen omgekomen doordat een beschadigd wooncomplex is ingestort. In het gebouw woonden ontheemde Palestijnen. Er zitten mogelijk nog mensen vast onder het puin, meldt het Gazaanse ministerie van Gezondheid aan persbureau Reuters. Er zijn zeker acht kinderen en elf volwassenen omgekomen. Ook raakten 25 mensen gewond. In het gebouw woonden zes ontheemde gezinnen. H",
-      "url": "https://nos.nl/l/2631240",
-      "datum": "5 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Kosovaarse ex-president Thaci krijgt 25 jaar cel voor oorlogsmisdaden, rellen na vonnis",
-      "beschrijving": "Het Kosovotribunaal in Den Haag heeft Hashim Thaci, de voormalig president van Kosovo, veroordeeld tot 25 jaar cel. De internationale rechtbank ziet voldoende bewijs dat Thaci meerdere oorlogsmisdaden heeft gepleegd tijdens de Kosovo-oorlog in de jaren negentig, zoals moord, marteling en onmenselijke behandelingen. De aanklagers hadden begin dit jaar 45 jaar cel tegen Thaci geëist. Naast Thaci, di",
-      "url": "https://nos.nl/l/2631232",
-      "datum": "6 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Toekomst bondskanselier Merz aan zijden draadje, 'vertrek ligt op tafel'",
-      "beschrijving": "Nog voor de volgende verkiezingsnederlaag een feit is, wordt al openlijk over het einde van het kanselierschap van Friedrich Merz gesproken. Volgens Duitse media wordt in zijn partij CDU/CSU nagedacht over het vervangen van Merz. Zijn vertrek zou volgende week al kunnen plaatsvinden. Zondag zijn er deelstaatverkiezingen in Berlijn en het Oost-Duitse Mecklenburg-Voor-Pommeren (MV). Na de halvering ",
-      "url": "https://nos.nl/l/2631229",
       "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Meer dan 100.000 Japanners ouder dan 100 jaar, zorgen over sociale zekerheid",
-      "beschrijving": "In Japan zijn voor het eerst meer dan 100.000 mensen 100 jaar of ouder. Volgens het ministerie van Volksgezondheid zijn er nu 107.677 honderdjarigen, van wie 88 procent vrouw is. De oudste vrouw is de 114-jarige Kishimoto Fuyo, de oudste man is de 112-jarige Kato Hikaru. Japan heeft de oudste bevolking ter wereld en vergrijst sterk. Onderzoek uit 2023 liet zien dat één op de tien Japanners ouder i",
-      "url": "https://nos.nl/l/2631228",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Medewerker Franse naschoolse opvang krijgt jaar huisarrest voor seksueel misbruik",
-      "beschrijving": "In Parijs is een medewerker van een naschoolse opvang veroordeeld tot een jaar huisarrest voor het seksueel misbruiken van negen meisjes. Ook krijgt hij een voorwaardelijke celstraf van vier jaar. Het misbruik vond plaats op een school in Parijs tussen september 2022 en januari 2024 bij kinderen van 5 tot 10 jaar. De 38-jarige Michaël M. raakte hen aan op de rug, billen, en in één geval onder de k",
-      "url": "https://nos.nl/l/2631207",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Von der Leyen roept in jaarlijkse toespraak op tot oprichten Europese Veiligheidsraad",
-      "beschrijving": "De Europese Unie zal snel onafhankelijk moeten worden en zelf voor de veiligheid moeten zorgen. Dat zegt voorzitter van de Europese Commissie Ursula von der Leyen. In haar jaarlijkse speech roept ze op tot de oprichting van een Europese Veiligheidsraad. De EU zou samen met landen als Canada, het Verenigd Koninkrijk, Noorwegen en Oekraïne lid moeten zijn van die nieuw op te richten Veiligheidsraad.",
-      "url": "https://nos.nl/l/2631202",
-      "datum": "9 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Helikopter van NBC News stort neer tijdens filmen dodelijk ongeluk",
-      "beschrijving": "In Los Angeles is een helikopter van de Amerikaanse nieuwszender NBC neergestort, terwijl vanuit die helikopter een dodelijk busongeluk werd gefilmd. Ten minste twee inzittenden en iemand op de grond zijn om het leven gekomen, schrijft de Los Angeles Times. Twee anderen moesten naar het ziekenhuis. De gecrashte helikopter was de lucht in gegaan om verslag te doen van een ongeluk tussen een auto en",
-      "url": "https://nos.nl/l/2631196",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Sweden expels Iran embassy employee, citing security concerns",
-      "beschrijving": "Stockholm says Iran-backed groups are plotting against &#039;Jewish and Israeli interests&#039; in the country.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss",
-      "datum": "35 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Djibouti calls for assistance as thousands of Yemenis flee to country",
-      "beschrijving": "Djibouti&#039;s interior minister has warned that number of people arriving in the country already exceeds national capacity.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
+      "beschrijving": "US Senator Bill Cassidy presses Trump&#039;s pick for surgeon general on views over vaccines, public health.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss",
+      "datum": "8 min geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
-      "beschrijving": "Two people were killed in the assault on Gaza City - a paramedic and a 15-year-old boy returning from school.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
+      "beschrijving": "A 15-year-old boy was killed in a double-tap strike while trying to save a paramedic.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
+      "datum": "39 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-      "beschrijving": "High energy costs at the pump and strategic setback for US in the Iran war will likely cost Trump in the midterms.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics?traffic_source=rss",
+      "titel": "US Fed raises interest rates for first time in three years",
+      "beschrijving": "The 25 basis-point hike is the first raise in three years and comes before critical midterm elections in the US.",
+      "url": "https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Iran",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
-      "beschrijving": "Israel’s defence minister has pledged to remove Palestinians from the besieged Strip.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/egypts-el-sisi-rejects-displacement-of-palestinians-from-gaza?traffic_source=rss",
+      "titel": "Geopolitical divides fueling UN Security Council inaction, Guterres warns",
+      "beschrijving": "Guterres calls for urgent Security Council reform, says geopolitical divides hindering action on global crises.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Mahsa Amini death four years on: Iranians reflect on ‘Woman, Life, Freedom’",
-      "beschrijving": "Amnesty International says Iranian authorities committed crimes against humanity during the 2022-23 protests.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/four-years-on-iranians-reflect-on-impact-of-woman-life?traffic_source=rss",
+      "titel": "Kosovo’s former president guilty of war crimes",
+      "beschrijving": "Hashim Thaci, former President of Kosovo and KLA leader, has been found guilty of war crimes in the Hague.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Iran",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Vijf doden bij droneaanval op Oekraïense bus, energieaanvallen niet gestopt",
+    "Photos show widespread damage at US sites from Iranian attacks",
     "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
     "Journalist and pilot among three killed after news helicopter crashes in LA",
-    "Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’",
-    "Why are election officials in the US preparing for chaos before midterms?",
-    "Goudmijn in Sudan stort in, zeker 67 mensen omgekomen",
-    "Mini-accounts en schermtijd: zo wil EU socialemediagebruik kinderen beperken",
-    "Zeker 19 doden bij instorten van door oorlog beschadigd woongebouw in Gaza",
-    "Kosovaarse ex-president Thaci krijgt 25 jaar cel voor oorlogsmisdaden, rellen na vonnis",
-    "Toekomst bondskanselier Merz aan zijden draadje, 'vertrek ligt op tafel'"
+    "Italiaanse regering schrapt wegenbelasting in aanloop naar verkiezingen",
+    "Belarus laat 25 gevangenen vrij, VS schrapt sancties op twee bedrijven",
+    "UK trade unions back motion to boycott and sanction Israel",
+    "Belarus frees 25 political prisoners in return for US sanctions relief",
+    "Belgische politicus zit dertien uur vast op toilet: 'Nadenken en zen zijn'",
+    "Modemerk Giorgio Armani benoemt eerste creatief directeur van buiten de familie",
+    "Meer artiesten onder politieke druk, 'dit is een big deal'"
   ]
 }
