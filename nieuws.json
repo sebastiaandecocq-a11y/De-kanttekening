@@ -1,47 +1,110 @@
 {
-  "bijgewerkt": "16 Sep 2026 05:47 UTC",
+  "bijgewerkt": "16 Sep 2026 11:09 UTC",
   "artikelen": [
     {
-      "titel": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
-      "beschrijving": "Trump administration pushes $2.8bn bomb sale to Israel amid criticism over mass targeting of civilians in the region.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Vijf doden bij droneaanval op Oekraïense bus, energieaanvallen niet gestopt",
+      "beschrijving": "Bij een Russische droneaanval op een passagiersbus in Oekraïne zijn vijf doden gevallen. Ook raakten zeker zeven mensen gewond. De aanval gebeurde in de buurt van de havenstad Nikopol. Op foto's van de wrakstukken is een witte bus te zien met kapotte ramen en bloed op de deur. Gouverneur Hanzha van de regio Dnipropetrovsk deelde deze op Telegram. \"De Russen hebben op bittere wijze een passagiersbu",
+      "url": "https://nos.nl/l/2631233",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "At least five killed in Russian drone strike near Ukraine front line",
+      "beschrijving": "At least seven people also injured in attack near Nikopol in southeastern Ukraine, Dnipropetrovsk governor says.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "beschrijving": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
-      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
-      "regio": "Iran",
+      "titel": "At least 20 killed after war-damaged Gaza building collapses",
+      "beschrijving": "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "datum": "28 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "VS bouwde netwerk van militaire bases rond Iran, nu blijken die zelf doelwit",
-      "beschrijving": "De Amerikaanse marine onderzoekt of haar belangrijkste marinebasis in het Midden-Oosten nog wel moet worden hersteld. De schade die Iran heeft aangericht aan het hoofdkwartier van de Amerikaanse Vijfde Vloot in Bahrein tijdens de eerste maanden van de oorlog, is zo groot dat marineschepen er niet meer kunnen aanmeren. \"They blew the hell out of Bahrein\", zei de Amerikaanse waarnemend minister van ",
-      "url": "https://nos.nl/l/2631158",
-      "datum": "11 uur geleden",
-      "regio": "Iran",
-      "urgentie": "midden",
+      "titel": "Journalist and pilot among three killed after news helicopter crashes in LA",
+      "beschrijving": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Zeker 19 doden bij instorten van door oorlog beschadigd woongebouw in Gaza",
+      "beschrijving": "In Gaza-stad zijn zeker negentien mensen omgekomen doordat een beschadigd wooncomplex is ingestort. In het gebouw woonden ontheemde Palestijnen, de overleden slachtoffers zijn voornamelijk vrouwen en kinderen, meldt het Gazaanse ministerie van Gezondheid aan persbureau Reuters. Het gebouw was deels verwoest door Israëlische luchtaanvallen tijdens de oorlog en er waren waarschuwingen over de veilig",
+      "url": "https://nos.nl/l/2631240",
+      "datum": "5 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Denmark says Russian warship fired flares at military helicopter",
-      "beschrijving": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "datum": "18 uur geleden",
+      "titel": "Kosovaarse ex-president Thaci veroordeeld tot 25 jaar cel voor oorlogsmisdaden",
+      "beschrijving": "Het Kosovotribunaal in Den Haag heeft Hashim Thaci, de voormalig president van Kosovo, veroordeeld tot 25 jaar cel. De internationale rechtbank ziet voldoende bewijs dat Thaci meerdere oorlogsmisdaden heeft gepleegd tijdens de Kosovo-oorlog in de jaren negentig, zoals moord, marteling en onmenselijke behandelingen. De aanklagers hadden begin dit jaar 45 jaar cel tegen Thaci geëist. Naast Thaci, di",
+      "url": "https://nos.nl/l/2631232",
+      "datum": "1 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Toekomst bondskanselier Merz aan zijden draadje, 'vertrek ligt op tafel'",
+      "beschrijving": "Nog voor de volgende verkiezingsnederlaag een feit is, wordt al openlijk over het einde van het kanselierschap van Friedrich Merz gesproken. Volgens Duitse media wordt in zijn partij CDU/CSU nagedacht over het vervangen van Merz. Zijn vertrek zou volgende week al kunnen plaatsvinden. Zondag zijn er deelstaatverkiezingen in Berlijn en het Oost-Duitse Mecklenburg-Voor-Pommeren (MV). Na de halvering ",
+      "url": "https://nos.nl/l/2631229",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Meer dan 100.000 Japanners ouder dan 100 jaar, zorgen over sociale zekerheid",
+      "beschrijving": "In Japan zijn voor het eerst meer dan 100.000 mensen 100 jaar of ouder. Volgens het ministerie van Volksgezondheid zijn er nu 107.677 honderdjarigen, van wie 88 procent vrouw is. De oudste vrouw is de 114-jarige Kishimoto Fuyo, de oudste man is de 112-jarige Kato Hikaru. Japan heeft de oudste bevolking ter wereld en vergrijst sterk. Onderzoek uit 2023 liet zien dat één op de tien Japanners ouder i",
+      "url": "https://nos.nl/l/2631228",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Medewerker Franse naschoolse opvang krijgt jaar huisarrest voor seksueel misbruik",
+      "beschrijving": "In Parijs is een medewerker van een naschoolse opvang veroordeeld tot een jaar huisarrest voor het seksueel misbruiken van negen meisjes. Ook krijgt hij een voorwaardelijke celstraf van vier jaar. Het misbruik vond plaats op een school in Parijs tussen september 2022 en januari 2024 bij kinderen van 5 tot 10 jaar. De 38-jarige Michaël M. raakte hen aan op de rug, billen, en in één geval onder de k",
+      "url": "https://nos.nl/l/2631207",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Von der Leyen roept in jaarlijkse toespraak op tot oprichten Europese Veiligheidsraad",
+      "beschrijving": "De Europese Unie zal snel onafhankelijk moeten worden en zelf voor de veiligheid moeten zorgen. Dat zegt voorzitter van de Europese Commissie Ursula von der Leyen. In haar jaarlijkse speech roept ze op tot de oprichting van een Europese Veiligheidsraad. De EU zou samen met landen als Canada, het Verenigd Koninkrijk, Noorwegen en Oekraïne lid moeten zijn van die nieuw op te richten Veiligheidsraad.",
+      "url": "https://nos.nl/l/2631202",
+      "datum": "3 uur geleden",
       "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Helikopter van NBC News stort neer tijdens filmen dodelijk ongeluk",
+      "beschrijving": "In Los Angeles is een helikopter van de Amerikaanse nieuwszender NBC neergestort, terwijl vanuit die helikopter een dodelijk busongeluk werd gefilmd. Ten minste twee inzittenden en iemand op de grond zijn om het leven gekomen, schrijft de Los Angeles Times. Twee anderen moesten naar het ziekenhuis. De gecrashte helikopter was de lucht in gegaan om verslag te doen van een ongeluk tussen een auto en",
+      "url": "https://nos.nl/l/2631196",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Wekdienst 16/9: Algemene Beschouwingen • Rechtszaak explosie Osdorp",
       "beschrijving": "Goedemorgen! In politiek Den Haag beginnen de Algemene Beschouwingen en in Amsterdam is een eerste zitting over de explosie in een kelderbox onder een flatgebouw in Osdorp, waarbij in juni zeven mensen gewond raakten. Eerst het weer: vandaag wisselen zon, wolken en buien elkaar af. De temperatuur loopt op naar 17 tot 19 graden en er waait een stevige westenwind. Ga je vandaag op pad? Hier vind je ",
       "url": "https://nos.nl/l/2631193",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,148 +113,76 @@
       "titel": "Twee Iraanse boten vernietigd na poging Amerikaans vaartuig in beslag te nemen",
       "beschrijving": "Het Amerikaanse leger heeft twee Iraanse boten vernietigd die probeerden een onbemand vaartuig van de Amerikaanse marine in beslag te nemen. Dat meldt nieuwssite Axios op basis van meerdere functionarissen. Daarbij zouden meerdere opvarenden zijn omgekomen. Een woordvoerder van de Amerikaanse militaire commando voor het Midden-Oosten (Centcom), zegt dat twee kleine Iraanse boten een mislukte pogin",
       "url": "https://nos.nl/l/2631187",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zevende dode vrouw gevonden bij Johannesburg, politie waarschuwt vrouwen",
-      "beschrijving": "De Zuid-Afrikaanse politie roept vrouwen op extra voorzichtig te zijn, nadat vandaag opnieuw in het noordoosten van Johannesburg een dode vrouw is aangetroffen. Het gaat om het zevende vrouwenlichaam dat in twee maanden tijd in hetzelfde gebied is gevonden. Volgens de Zuid-Afrikaanse autoriteiten lijken de zaken met elkaar verband te houden. Het is volgens hen nog te vroeg om te zeggen of er sprak",
-      "url": "https://nos.nl/l/2631186",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Na exit Macklemore zit Ed Sheeran nu ook zonder band en supportacts",
-      "beschrijving": "Ed Sheerans begeleidingsband en drie acts die in zijn voorprogramma zouden spelen, hebben zich teruggetrokken. Ze steunen daarmee de Amerikaanse rapper Macklemore, die eveneens een aantal van Sheerans shows in de Verenigde Staten zou aftrappen, maar vanwege pro-Palestijnse uitspraken op het podium uit de tour is gezet. \"Een van de redenen waarom ik deze tournee wilde doen, was omdat ik hier op pod",
-      "url": "https://nos.nl/l/2631184",
-      "datum": "8 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Rechter blokkeert naam Trump op Kennedy Center weer, gebouw per direct dicht",
-      "beschrijving": "Een federale rechtbank in Washington D.C. heeft opnieuw verboden om de naam van president Trump op de gevel van het Kennedy Center te zetten of het bijbehorende plein naar hem te vernoemen. Vlak na het oordeel van de rechter besloot het bestuur van het culturele instituut om het centrum per direct te sluiten, omdat het gebouw niet veilig zou zijn. Daarmee duurt het getouwtrek om de naam van het ge",
-      "url": "https://nos.nl/l/2631169",
       "datum": "9 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "AIVD: Iran breekt online in bij dissidenten om gevoelige informatie te stelen",
-      "beschrijving": "Iran gebruikt spionagesoftware om gevoelige informatie te verzamelen over kritische Iraniërs die in het Westen wonen. Daarvoor waarschuwt de Nederlandse inlichtingendienst AIVD, samen met de Amerikaanse FBI en het Britse cybersecuritycentrum NCSC. Iraanse diensten proberen via sociale media contact te leggen met dissidenten, activisten en journalisten en hun vertrouwen te winnen. Daarna vragen de ",
-      "url": "https://nos.nl/l/2631145",
-      "datum": "13 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Brits ziekenhuis had moord op baby's kunnen voorkomen, oordeelt commissie",
-      "beschrijving": "Sommige baby's die door de Britse verpleegkundige Lucy Letby om het leven zijn gebracht, hadden gered kunnen worden. Dat zegt de commissie-Thirlwall die onderzoek deed naar de sterfgevallen. Volgens het vernietigende rapport hebben de leidinggevenden van het ziekenhuis \"op alle niveaus compleet gefaald\" bij het beschermen van de kinderen. De 36-jarige Letby werd in 2023 veroordeeld voor de moord o",
-      "url": "https://nos.nl/l/2631139",
-      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Zeker 150 demonstranten opgepakt bij lhbti-betoging tegen Turkse regering",
-      "beschrijving": "De Turkse politie heeft minstens 150 mensen opgepakt bij een betoging voor lhbti-rechten bij een rechtbank in Istanbul. De demonstranten hadden zich daar verzameld om te protesteren tegen de invallen bij lhbti-organisaties van afgelopen weekend, maar de politie verhinderde dat. Toen demonstranten leuzen begonnen te roepen werden zij opgepakt. Afgelopen weekend arresteerde de politie 26 mensen in I",
-      "url": "https://nos.nl/l/2631133",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Noors telecombedrijf mogelijk betrokken bij misdaden tegen menselijkheid Myanmar",
-      "beschrijving": "Een Noors telecombedrijf wordt verdacht van medeplichtigheid aan misdaden tegen de menselijkheid in Myanmar na de militaire staatsgreep in 2021. De Noorse politie heeft vandaag een inval gedaan bij het hoofdkantoor van Telenor in Oslo. De Noorse nationale recherche- en opsporingsdienst Kripos en de binnenlandse inlichtingen- en veiligheidsdienst PST zijn afzonderlijk een onderzoek begonnen naar de",
-      "url": "https://nos.nl/l/2631127",
-      "datum": "15 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "What’s the Pinglu Canal, China’s new gateway to Southeast Asia?",
-      "beschrijving": "China&#039;s first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss",
-      "datum": "22 min geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "At least 10 dead, dozens missing in Gaza building collapse",
-      "beschrijving": "At least 10 Palestinians are dead and up to 70 more are believed missing after a building collapsed in Gaza City.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss",
-      "datum": "40 min geleden",
+      "titel": "Israeli double-tap strike kills 15-year-old and paramedic in Gaza",
+      "beschrijving": "A child has been killed in an Israeli double-tap strike as he rushed to help a paramedic wounded in an earlier attack.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/09-16-sv-gaza-double-tap-strike?traffic_source=rss",
+      "datum": "47 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Gaza residential building collapses, six families reportedly trapped",
-      "beschrijving": "Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
+      "titel": "Former Kosovo President Hashim Thaci convicted of war crimes",
+      "beschrijving": "Thaci, 58, was sentenced to 25 years in prison for ‌crimes including murder, ​torture and illegal detention.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-convicted-of-war-crimes?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Human rights lawyer Noura Erakat arrested at hearing against Israel Bonds",
+      "beschrijving": "Palestinian human rights lawyer Noura Erakat was arrested in Florida after speaking against an Israel Bonds investment.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/human-rights-lawyer-noura-erakat-arrested-at-hearing-against-israel-bonds?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "China’s defence chief warns against coercion, avoids US, Japan mention",
-      "beschrijving": "Dong Jun pitches shared security governance and military cooperation while warning against coercion.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
-      "beschrijving": "Saudi Arabia has cancelled some oil deliveries to Europe after attacks shut down its export pipeline to the Red Sea.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
-      "beschrijving": "M23 controls large parts of eastern DRC as Kinshasa and Kigali remain divided over security and sovereignty.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss",
+      "titel": "US charges five people over alleged Russian plots",
+      "beschrijving": "Prosecutors said that the group worked on behalf of Russian intelligence services to carry out attacks and murders.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss",
       "datum": "4 uur geleden",
-      "regio": "Afrika",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "What weapon could the US have put into space?",
-      "beschrijving": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "datum": "15 uur geleden",
-      "regio": "Wereld",
+      "titel": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "beschrijving": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "datum": "14 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Philippines' Duterte seen in person for first time at International Criminal Court",
+      "beschrijving": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs.",
+      "url": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
+      "datum": "30 min geleden",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
-    "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-    "VS bouwde netwerk van militaire bases rond Iran, nu blijken die zelf doelwit",
-    "Denmark says Russian warship fired flares at military helicopter",
-    "Wekdienst 16/9: Algemene Beschouwingen • Rechtszaak explosie Osdorp",
-    "Twee Iraanse boten vernietigd na poging Amerikaans vaartuig in beslag te nemen",
-    "Zevende dode vrouw gevonden bij Johannesburg, politie waarschuwt vrouwen",
-    "Na exit Macklemore zit Ed Sheeran nu ook zonder band en supportacts",
-    "Rechter blokkeert naam Trump op Kennedy Center weer, gebouw per direct dicht",
-    "AIVD: Iran breekt online in bij dissidenten om gevoelige informatie te stelen"
+    "Vijf doden bij droneaanval op Oekraïense bus, energieaanvallen niet gestopt",
+    "At least five killed in Russian drone strike near Ukraine front line",
+    "At least 20 killed after war-damaged Gaza building collapses",
+    "Journalist and pilot among three killed after news helicopter crashes in LA",
+    "Zeker 19 doden bij instorten van door oorlog beschadigd woongebouw in Gaza",
+    "Kosovaarse ex-president Thaci veroordeeld tot 25 jaar cel voor oorlogsmisdaden",
+    "Toekomst bondskanselier Merz aan zijden draadje, 'vertrek ligt op tafel'",
+    "Meer dan 100.000 Japanners ouder dan 100 jaar, zorgen over sociale zekerheid",
+    "Medewerker Franse naschoolse opvang krijgt jaar huisarrest voor seksueel misbruik",
+    "Von der Leyen roept in jaarlijkse toespraak op tot oprichten Europese Veiligheidsraad"
   ]
 }
