@@ -1,65 +1,92 @@
 {
-  "bijgewerkt": "17 Sep 2026 07:23 UTC",
+  "bijgewerkt": "17 Sep 2026 13:12 UTC",
   "artikelen": [
-    {
-      "titel": "Photos show widespread damage at US sites from Iranian attacks",
-      "beschrijving": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "beschrijving": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
     {
       "titel": "VS dreigt met sancties als EU en Canada nauwer gaan samenwerken",
       "beschrijving": "De VS is bereid om handel met de Europese Unie stop te zetten, als de EU en Canada nauwer gaan samenwerken. Dat zegt de Amerikaanse president Trump. Woensdag riep EU-voorzitter Von der Leyen op tot intensievere samenwerking met Canada, onder meer op het gebied van handel en defensie. Canada zou dan het eerste 'geassocieerde lid' van de EU worden. Trump vindt de plannen van Von der Leyen \"lachwekke",
       "url": "https://nos.nl/l/2631337",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Palestijnse leider Abbas krijgt weer geen Amerikaans visum voor VN-top",
-      "beschrijving": "De regering-Trump staat voor het tweede jaar op rij niet toe dat de Palestijnse leider Mahmoud Abbas de Algemene Vergadering van de VN bezoekt. Die samenkomst van alle 193 lidstaten wordt volgende week gehouden, maar de Palestijnse delegatie krijgt geen visum voor de VS. In een persverklaring zegt het Amerikaanse ministerie van Buitenlandse Zaken dat er opnieuw geen visum wordt verleend omdat \"her",
-      "url": "https://nos.nl/l/2631333",
-      "datum": "2 uur geleden",
-      "regio": "VS",
+      "titel": "Swedish PM Kristersson resigns after election loss",
+      "beschrijving": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+      "datum": "31 min geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Ook Amerikaans lagerhuis stemt in met omvangrijk sanctiepakket tegen Rusland",
-      "beschrijving": "Het Amerikaanse parlement is akkoord gegaan met een omvangrijk sanctiepakket tegen Rusland, bedoeld om de Russische geldstromen voor de oorlog in Oekraïne af te knijpen. De Senaat had vorige maand al ingestemd met het pakket en woensdag gaf ook het Huis van Afgevaardigden groen licht. Het is nu aan president Trump om de wet te tekenen. Het wetsvoorstel is vernoemd naar de pas overleden Republikein",
-      "url": "https://nos.nl/l/2631325",
-      "datum": "5 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "NOS"
+      "bron": "BBC World"
     },
     {
       "titel": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
       "beschrijving": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
       "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Faillissementen en reorganisaties: Duitse groene-energiebedrijven kwakkelen",
+      "beschrijving": "Duitse wind- en zonne-energiebedrijven staan er niet goed voor. Na jaren van snelle groei, komen steeds meer bedrijven die zich bezighouden met groene energie in de problemen. Dat meldt persbureau Bloomberg. Deze maand vroeg een van Europa's grootste beheerders van zonneparken faillissement aan. Het Duitse Enerparc bezit zo'n 500 zonneparken, maar kwam met een schuld te zitten van ongeveer 3 milja",
+      "url": "https://nos.nl/l/2631389",
+      "datum": "12 min geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Canadese premier juicht hechtere band met EU toe in Europees Parlement",
+      "beschrijving": "Canada juicht het idee toe om het eerste buitengewoon lid van de Europese Unie te worden. Dat zei premier Carney in het Europees Parlement. Hij zei erbij dat het niet de bedoeling is om een nieuw verbond op te richten om te rivaliseren met de bestaande machtsblokken in de wereld. De plannen voor vergaande samenwerking zijn onder meer een reactie op de handelstarieven die de VS aan Canada en Europe",
+      "url": "https://nos.nl/l/2631386",
+      "datum": "35 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Veel mis met brandveiligheid Pakistaans ziekenhuis waar 14 baby's omkwamen",
+      "beschrijving": "Geen brandalarm of sprinklers en geblokkeerde vluchtroutes. Het ziekenhuis in de Pakistaanse stad Islamabad waar vorige maand veertien baby's omkwamen bij een grote brand had zelfs de meest basale brandveiligheidsmaatregelen niet op orde. Dat blijkt uit een overheidsrapport naar de brand dat is ingezien door de BBC. Het vuur ontstond eind augustus op de verloskundige afdeling van het Pakistan Inst",
+      "url": "https://nos.nl/l/2631370",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Colombiaanse politie pakt verdachte op voor betrokkenheid bij dood Nederlandse",
+      "beschrijving": "De Colombiaanse politie heeft een verdachte opgepakt voor betrokkenheid bij de dood van de Nederlandse vrouw Marlies Genz. Het lichaam van de 41-jarige vrouw uit Schagen werd eind mei aangetroffen in een meer in het westen van Colombia. De man werd gisteren in het centrum van de gemeente Salento gearresteerd, op zo'n 160 kilometer van hoofdstad Bogotá, meldt lokaal nieuwsmedium La Crónica del Quin",
+      "url": "https://nos.nl/l/2631369",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Australië scherpt visumbeleid aan, backpackers de dupe",
+      "beschrijving": "Slecht nieuws voor backpackers die met een enkeltje naar Australië willen gaan voor een jarenlang reisavontuur. De Australische minister Burke van Binnenlandse Zaken kondigde vandaag aan het visumbeleid voor buitenlandse migranten op meerdere fronten te willen aanscherpen. Dit kan grote gevolgen hebben voor de rugzaktoerist. Zo wil de regering het voor internationale studenten verbieden om tijdens",
+      "url": "https://nos.nl/l/2631365",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Popartkunstenaar Peter Max (88) overleden, hippie-icoon bekend om felle kleuren",
+      "beschrijving": "Popartkunstenaar Peter Max is afgelopen maandag in New York overleden. Dat heeft zijn zoon bekendgemaakt. Peter Max was 88, hij overleed na een lang ziekbed. Max werd in de jaren 60 bekend met psychedelische, felgekleurde werken, die wereldwijd enorm populair werden en in grote aantallen werden verkocht. Zijn werk werd kenmerkend voor het optimisme van de hippiebeweging, de flowerpower. Hij maakte",
+      "url": "https://nos.nl/l/2631356",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "AI-bazen in gesprek met koning Charles over AI en 'welzijn van mensheid'",
       "beschrijving": "De Britse koning Charles ontvangt vandaag AI-techbazen op zijn landgoed in Schotland, om te praten over hoe kunstmatige intelligentie kan worden ingezet \"voor het welzijn van de mensheid\". De timing van de koning is onberispelijk: het gesprek valt in de week waarin de grootste namen van de techwereld zelf waarschuwen dat \"mensen de controle over de technologie kunnen verliezen\" en oproepen tot mee",
       "url": "https://nos.nl/l/2631342",
-      "datum": "59 min geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +95,7 @@
       "titel": "Nederland vraagt Indonesische politie om hulp in corruptieonderzoek cardiologen",
       "beschrijving": "Het Nederlandse strafrechtelijke onderzoek naar corruptie door (voormalig) cardiologen van het Isala-ziekenhuis in Zwolle heeft zich uitgebreid naar Indonesië. Dat bevestigen het Openbaar Ministerie (OM), de FIOD en het Isala-ziekenhuis aan Nieuwsuur en Investico. Op verzoek van Justitie in Nederland voerde de Indonesische politie eind vorig jaar onderzoek uit bij een ziekenhuis in Jakarta, het Di",
       "url": "https://nos.nl/l/2631339",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,94 +104,58 @@
       "titel": "Nieuwe grote krater op de maan ontdekt: 'Gebeurt misschien eens in de eeuw'",
       "beschrijving": "De NASA heeft op de maan een nieuwe krater gevonden van 221 meter wijd en 41 meter diep. Volgens de ruimtevaartorganisatie ontstaat zo'n krater \"misschien slechts eens in de eeuw, zo niet langer\". De krater werd ontdekt op foto's die de Lunar Reconnaissance Orbiter (LRO) maakte, een maansonde die al 17 jaar in een baan op 100 kilometer hoogte van het hemellichaam metingen verricht met zeven versch",
       "url": "https://nos.nl/l/2631338",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Wekdienst 17/9: Dag 2 Algemene Beschouwingen • EU presenteert jongerenregels sociale media",
-      "beschrijving": "Goedemorgen! Vandaag staat de tweede en laatste dag van de Algemene Politieke Beschouwingen op de planning. En de Europese Unie presenteert wetgeving voor sociale media gebruik onder kinderen. Eerst het weer: vandaag begint droog, maar regen volgt vanuit het westen. Het wordt zo'n 16 tot 18 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamheden en hier alles over",
-      "url": "https://nos.nl/l/2631332",
+      "titel": "‘The drought has left its mark’: Slovenia’s potato lovers lament low yields",
+      "beschrijving": "Hundreds gather to share roast potatoes in northern Slovenia as think tank warns &#039;chips are down&#039; across Europe.",
+      "url": "https://www.aljazeera.com/news/2026/9/17/the-drought-has-left-its-mark-slovenias-potato-lovers-lament-low-yields?traffic_source=rss",
+      "datum": "43 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Gaza repairman helps journalists to keep documenting genocide",
+      "beschrijving": "As journalists in Gaza continue documenting the war, camera repairman Mohammed Radwan keeps damaged equipment in use.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dode bij overstromingen na zware regenval langs Spaanse oostkust",
-      "beschrijving": "In Spanje kampen meerdere regio's aan de oostkust met wateroverlast na hevige regenval. De riolering kan het water niet overal aan, waardoor wegen onder water zijn komen te staan, beekjes uitgroeien tot kolkende stromen en rivieren buiten hun oevers dreigen te treden. In de loop van de avond zijn waarschuwingsberichten verstuurd naar inwoners van de provincie Valencia en regio Almería. Daarin advi",
-      "url": "https://nos.nl/l/2631326",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Britse koning verwerpt aantijging broer Diana: 'Verstand vertroebeld'",
-      "beschrijving": "De Britse koning Charles heeft gereageerd op een nog uit te komen boek van Charles Spencer. Dat is de broer van koning Charles' eerste vrouw, prinses Diana. In zijn boek is Spencer kritisch over de houding van de Britse koning in de dagen na Diana's dood in 1997. Spencer beweert in zijn boek Swan Song dat koning Charles kort na Diana's dood tegen hem heeft gezegd: \"Maak je geen zorgen, we zullen h",
-      "url": "https://nos.nl/l/2631313",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Centrumlinkse oppositie in Zweden nipt groter dan rechts blok",
-      "beschrijving": "De Zweedse publieke omroep SVT heeft de centrumlinkse oppositiepartijen uitgeroepen tot winnaar van de verkiezingen. Daarmee komt een einde aan een spannende nek-aan-nekrace tussen links en rechts. Rond 17.00 uur vanmiddag was het verschil tussen de twee blokken slechts 26.169 stemmen. Met 99 procent van de stemmen geteld, stevenen de partijen onder leiding van oppositieleider Magdalena Andersson ",
-      "url": "https://nos.nl/l/2631311",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Israel weaponises AI for West Bank demolitions",
-      "beschrijving": "AI tools push forced evictions of Palestinians, automating demolitions in occupied territories under Israeli control.",
-      "url": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss",
-      "datum": "53 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Can AI regulation keep America ahead of China?",
-      "beschrijving": "As Washington debates how to regulate AI, industry experts say that governance doesn’t have to mean hitting the brakes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_can-ai-regulation-keep-america-ahead-of-china-170926?traffic_source=rss",
+      "titel": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
+      "beschrijving": "The US president says Washington is &#039;hopefully toward the end&#039; of Iran war, as global energy prices remain high.",
+      "url": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "China/Taiwan",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Yemeni forces target Houthis as US rules out direct role",
-      "beschrijving": "Saudi Arabia requests missile defence support from allies as the US sees its own stock of interceptors dwindle.",
-      "url": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Snapchat open to putting time limits on teens, boss tells BBC",
-      "beschrijving": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "titel": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "beschrijving": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Photos show widespread damage at US sites from Iranian attacks",
-    "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
     "VS dreigt met sancties als EU en Canada nauwer gaan samenwerken",
-    "Palestijnse leider Abbas krijgt weer geen Amerikaans visum voor VN-top",
-    "Ook Amerikaans lagerhuis stemt in met omvangrijk sanctiepakket tegen Rusland",
+    "Swedish PM Kristersson resigns after election loss",
     "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-    "AI-bazen in gesprek met koning Charles over AI en 'welzijn van mensheid'",
-    "Nederland vraagt Indonesische politie om hulp in corruptieonderzoek cardiologen",
-    "Nieuwe grote krater op de maan ontdekt: 'Gebeurt misschien eens in de eeuw'",
-    "Wekdienst 17/9: Dag 2 Algemene Beschouwingen • EU presenteert jongerenregels sociale media"
+    "Faillissementen en reorganisaties: Duitse groene-energiebedrijven kwakkelen",
+    "Canadese premier juicht hechtere band met EU toe in Europees Parlement",
+    "Veel mis met brandveiligheid Pakistaans ziekenhuis waar 14 baby's omkwamen",
+    "Colombiaanse politie pakt verdachte op voor betrokkenheid bij dood Nederlandse",
+    "Australië scherpt visumbeleid aan, backpackers de dupe",
+    "Popartkunstenaar Peter Max (88) overleden, hippie-icoon bekend om felle kleuren",
+    "AI-bazen in gesprek met koning Charles over AI en 'welzijn van mensheid'"
   ]
 }
