@@ -1,20 +1,29 @@
 {
-  "bijgewerkt": "18 Sep 2026 23:59 UTC",
+  "bijgewerkt": "19 Sep 2026 04:29 UTC",
   "artikelen": [
     {
-      "titel": "Macron wil kritieke infrastructuur beter beschermen tegen Russische aanvallen",
-      "beschrijving": "President Macron heeft de Franse regering opdracht gegeven om een plan te maken om kritieke infrastructuur en defensielocaties beter te beschermen. Volgens Macron is de dreiging van hybride aanvallen door Rusland op Frankrijk en Europa de afgelopen weken toegenomen. Hij zei dat ook Frankrijk de afgelopen weken doelwit is geweest van Russische hybride aanvallen. Dat zijn aanvallen waarbij tradition",
-      "url": "https://nos.nl/l/2631534",
-      "datum": "9 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "North Korea dismisses UN nuclear watchdog resolution",
+      "beschrijving": "The country rebukes the UN atomic agency&#039;s &#039;double standards&#039; and says nuclear status is &#039;irreversible&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss",
+      "datum": "59 min geleden",
+      "regio": "Noord-Korea",
       "urgentie": "hoog",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "beschrijving": "Residents later received the all-clear after explosions were reported in the capital.",
+      "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "datum": "8 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
     },
     {
       "titel": "Russian hybrid attacks against Europe intensifying, says Macron",
       "beschrijving": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
       "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,7 +32,7 @@
       "titel": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
       "beschrijving": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
       "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,7 +41,7 @@
       "titel": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
       "beschrijving": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
       "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -41,7 +50,7 @@
       "titel": "Trump: akkoord over uitbreiding Amerikaanse militaire aanwezigheid in Groenland",
       "beschrijving": "President Donald Trump zegt dat hij een akkoord heeft gesloten met Denemarken en Groenland over het versterken van de Amerikaanse militaire aanwezigheid in Groenland. Trump maakte het akkoord bekend in een bericht op zijn platform Truth Social. Volgens Trump geeft de overeenkomst de Verenigde Staten \"permanente controle over de veiligheid in Groenland\". Hij spreekt van een overeenkomst met een one",
       "url": "https://nos.nl/l/2631589",
-      "datum": "40 min geleden",
+      "datum": "5 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "NOS"
@@ -50,25 +59,52 @@
       "titel": "Amerikaanse sancties raken vooral middenstand Iran: 'Geen mens kan dit volhouden'",
       "beschrijving": "We horen het al jaren: het gaat slecht met de Iraanse economie. Maar met de recente verhoging van de brandstofprijzen, de gevolgen van de oorlog met Amerika, internationale sancties en de blokkade van Iraanse havens vertellen Iraniërs dat het de afgelopen tijd nóg weer erger is dan ooit. Mensen staan in overlevingsstand, salarissen worden niet uitbetaald, ze verliezen hun baan en hun spaargeld ver",
       "url": "https://nos.nl/l/2631556",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Germany receives first F-35 jet from US as NATO boosts military spending",
-      "beschrijving": "Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Europa",
+      "titel": "Trump signs sweeping Russia sanctions over Ukraine war",
+      "beschrijving": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India.",
+      "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran war live: Saudi danger alerts blare, Trump extends Iran sanctions",
+      "beschrijving": "Tens of thousands take to the streets in support of the Houthis in Sanaa; Trump extends sanctions on Iran.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Iran",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ouders van willekeurig gedode Syrische tieners begrijpen niets van prankcall-moord",
+      "beschrijving": "Efe Y. moet zich komende week opnieuw melden in de rechtbank omdat hij wordt verdacht van het doodschieten van twee vluchtelingen in Amsterdam. In aanloop naar de zitting doen nabestaanden uit Syrië voor het eerst hun verhaal. Negen maanden na het drama zitten de families nog altijd met veel vragen over de dood van Mohammad Nor Alalo (16) en Mohammed Al Mukhrazi (18). Ze kunnen maar moeilijk gelov",
+      "url": "https://nos.nl/l/2631596",
+      "datum": "29 min geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Russen naar stembus voor de Doema, maar kiezers hebben weinig te kiezen",
+      "beschrijving": "Sinds gisterochtend kunnen Russische kiezers naar de stembus om een nieuw Lagerhuis te kiezen, de Staatsdoema. Voor het eerst doen ook de door Rusland geannexeerde gebiedsdelen van Oekraïne mee aan deze verkiezingen. De stemming is uitgesmeerd over drie dagen. President Vladimir Poetin maande in zijn traditionele televisietoespraak aan de vooravond van de verkiezingen de burgers vooral te gaan ste",
+      "url": "https://nos.nl/l/2631590",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Recordprijzen aan de pomp in heel Europa: Duitse regering grijpt in",
       "beschrijving": "Net als in Nederland staan de brandstofprijzen in Duitsland op recordhoogte. In Nederland grijpt de overheid nog niet in, maar over de grens gebeurt dat wel. De Duitse regering en deelstaten zijn het eens geworden over een plan om de prijzen aan de pomp te verlagen. De accijns op diesel en benzine gaat bij de oosterburen met 17 cent per liter omlaag. Ook moet er een maximumprijs voor brandstof kom",
       "url": "https://nos.nl/l/2631580",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +113,7 @@
       "titel": "CNN, MSNOW en Politico door Trump uit Witte Huis geweerd om 'nepnieuws'",
       "beschrijving": "De Amerikaanse president Trump heeft drie nieuwsmedia per direct de toegang tot het Witte Huis ontzegd. Het gaat om CNN, MSNOW en Politico. Trump is boos op de nieuwsmedia omdat ze volgens hem nepnieuws verspreiden over hem, schrijft hij op zijn socialemediaplatform Truth Social. \"Media zouden niet voortdurend fictie en leugens mogen schrijven en verspreiden over de president van de Verenigde Stat",
       "url": "https://nos.nl/l/2631574",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +122,7 @@
       "titel": "VN-rapport: wijdverbreid seksueel geweld in Oekraïne, vooral door Russische troepen",
       "beschrijving": "Russische troepen hebben in Oekraïne wijdverbreid seksueel geweld gebruikt tegen burgers en krijgsgevangenen. Dat schrijft het mensenrechtenbureau van de Verenigde Naties in een nieuw rapport. Let op: dit artikel bevat beschrijvingen van ernstig seksueel geweld De VN-onderzoekers baseren hun bevindingen op interviews met honderden slachtoffers van seksueel geweld door beide partijen, en op gerecht",
       "url": "https://nos.nl/l/2631564",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +131,7 @@
       "titel": "Nederlanders verdacht van enorm drugslab België",
       "beschrijving": "In Bree, in België, is eerder deze week een groot synthetisch drugslab opgerold. Van de vijf verdachten die zijn opgepakt, komen er vier uit Nederland. Het parket in Belgisch Limburg spreekt van \"een van de grootste actieve drugslabs van de afgelopen jaren\". In een loods werden grote hoeveelheden MDMA en crystal meth geproduceerd, ook stonden er dertien flessen waterstofgas en 700 kilogram precurs",
       "url": "https://nos.nl/l/2631559",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +140,7 @@
       "titel": "Chaotische taferelen bij politieactie in Ceuta, honderden migranten van strand gehaald",
       "beschrijving": "In Ceuta heeft de politie honderden migranten overgebracht naar een nieuw opvangcentrum in de haven van de Spaanse exclave. Duizenden migranten brengen al anderhalve maand door in geïmproviseerde tentjes op het strand. De regering wil de migranten in het kamp onderbrengen. Ook is het de bedoeling de migranten te identificeren en hun status vast te stellen. Het is het vijfde tijdelijke opvangcentru",
       "url": "https://nos.nl/l/2631551",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,49 +149,49 @@
       "titel": "Winnaars Nobelprijzen krijgen dit jaar een hogere geldprijs",
       "beschrijving": "De Nobelstichting heeft de geldprijzen dit jaar met een miljoen Zweedse kronen verhoogd. Winnaars van de Nobelprijzen krijgen dit jaar 12 miljoen kronen, omgerekend meer dan 1 miljoen euro, heeft de stichting bekendgemaakt. De stichting doet dit vanwege het 125-jarig bestaan van de Nobelprijs. Door het prijsbedrag te verhogen zorgt de Nobelstichting ervoor dat \"het financiële deel van de prijs zij",
       "url": "https://nos.nl/l/2631550",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Russen vrezen nieuwe mobilisatie en vluchten uit voorzorg naar Armenië",
-      "beschrijving": "De komende drie dagen kunnen Russen stemmen voor het lagerhuis van het parlement, de Doema. In de campagne wordt er niet over gesproken en de Russische president Vladimir Poetin heeft het herhaaldelijk ontkend, maar de geruchten over een nieuwe mobilisatie na de verkiezingen zijn hardnekkig. Niet alle Russische mannen zijn er gerust op en nemen het zekere voor het onzekere: zij vluchten naar Armen",
-      "url": "https://nos.nl/l/2631530",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
-      "beschrijving": "The war in Yemen intensifies with mounting clashes and reciprocal attacks between Saudi forces and the Houthis.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss",
-      "datum": "45 min geleden",
-      "regio": "Wereld",
+      "titel": "Report: More US troops have died in Iran war than Pentagon says",
+      "beschrijving": "The Pentagon publicly lists 18 US military deaths since the Iran war began.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Syria arrests five former al-Assad-era officers over strikes on civilians",
-      "beschrijving": "Former air officers, including an air force general, were arrested in a series of operations.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
+      "titel": "Iranian women defy law and run Tehran race without hijab",
+      "beschrijving": "Hundreds of Iranian women defy hijab law in Tehran 10K race.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+      "beschrijving": "Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.",
+      "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Macron wil kritieke infrastructuur beter beschermen tegen Russische aanvallen",
+    "North Korea dismisses UN nuclear watchdog resolution",
+    "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
     "Russian hybrid attacks against Europe intensifying, says Macron",
     "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
     "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
     "Trump: akkoord over uitbreiding Amerikaanse militaire aanwezigheid in Groenland",
     "Amerikaanse sancties raken vooral middenstand Iran: 'Geen mens kan dit volhouden'",
-    "Germany receives first F-35 jet from US as NATO boosts military spending",
-    "Recordprijzen aan de pomp in heel Europa: Duitse regering grijpt in",
-    "CNN, MSNOW en Politico door Trump uit Witte Huis geweerd om 'nepnieuws'",
-    "VN-rapport: wijdverbreid seksueel geweld in Oekraïne, vooral door Russische troepen"
+    "Trump signs sweeping Russia sanctions over Ukraine war",
+    "Iran war live: Saudi danger alerts blare, Trump extends Iran sanctions",
+    "Ouders van willekeurig gedode Syrische tieners begrijpen niets van prankcall-moord"
   ]
 }
