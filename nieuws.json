@@ -1,38 +1,47 @@
 {
-  "bijgewerkt": "20 Sep 2026 10:57 UTC",
+  "bijgewerkt": "20 Sep 2026 14:39 UTC",
   "artikelen": [
     {
       "titel": "Oekraïne raakt Russische olieraffinaderij, ook Russische aanvallen op Kyiv",
       "beschrijving": "Bij aanvallen over en weer tussen Rusland en Oekraïne zijn vannacht mensen om het leven gekomen. In de regio rond de Oekraïense hoofdstad Kyiv werden een vrouw en haar tweeling van drie jaar gedood in hun woning, zeggen de hulpdiensten. Oekraïne viel op zijn beurt ook Moskou aan. De Oekraïense president Zelensky zegt dat zijn land een olieraffinaderij in de Russische hoofdstad heeft geraakt. Volge",
       "url": "https://nos.nl/l/2631730",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "‘There will be a very sizeable Saudi response’ to Houthi attacks",
-      "beschrijving": "Nawaf Obaid tells Al Jazeera that Saudi Arabia’s response to Houthi attacks from Yemen will be massive.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss",
+      "titel": "Moscow attacked by more than 1,000 Ukrainian drones",
+      "beschrijving": "This is the moment a drone exploded as it hit an apartment building in Moscow.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Two killed in Ukrainian drone attack on Moscow, says Russia",
-      "beschrijving": "Moscow mayor says Russia has intercepted 1,600 drones since Saturday, including 450 directed at the capital.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Gaza’s children return to classrooms after years of Israeli attacks",
+      "beschrijving": "Palestinian children have returned to classrooms after Israel destroyed Gaza’s schools.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "beschrijving": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
     },
     {
       "titel": "Houthis say they targeted Saudi capital with ballistic missiles",
       "beschrijving": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -41,7 +50,7 @@
       "titel": "Wekdienst 20/9: verkiezingen in Duitse deelstaten • Jubileumeditie Dam tot Damloop",
       "beschrijving": "Goedemorgen! In de Duitse deelstaten Mecklenburg-Voor-Pommeren en Berlijn zijn verkiezingen en de Dam tot Damloop tussen Amsterdam en Zaandam viert zijn veertigste verjaardag. Eerst het weer: in het zuiden begint de dag grijs en met regen. Overdag blijft het op de meeste plekken droog met temperaturen tussen de 17 en 19 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwe",
       "url": "https://nos.nl/l/2631718",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
@@ -50,7 +59,7 @@
       "titel": "Toekomst bondskanselier Merz op het spel bij Duitse deelstaatverkiezingen",
       "beschrijving": "In de Duitse deelstaten Berlijn en Mecklenburg-Voor-Pommeren zijn sinds 08.00 uur de stembureaus open voor deelstaatverkiezingen. Het gaat niet om de grootste regio's, met bij elkaar zo'n vijf miljoen inwoners. Toch kan de stembusgang grote gevolgen hebben voor de landelijke politiek. Na de monsterzege van de radicaal-rechtse AfD in Saksen-Anhalt staat bondskanselier Merz onder druk, mede omdat de",
       "url": "https://nos.nl/l/2631717",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
@@ -59,25 +68,52 @@
       "titel": "German elections under way which could decide fate of Chancellor Merz",
       "beschrijving": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
       "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Tien leeuwen in Tanzania dood gevonden, mogelijk vergiftigd",
-      "beschrijving": "In Tanzania zijn tien leeuwen dood aangetroffen die mogelijk waren vergiftigd. Dat meldt de instantie NCAA, die het Ngorongoro-natuurreservaat beheert. NCAA gaat verder onderzoek doen naar de doodsoorzaak. Ook wil de instantie uitzoeken wie er achter de mogelijke vergiftiging zit. In het Tanzaniaanse natuurreservaat zijn hoogvlakten, savannes en bossen, maar het gebied staat vooral bekend om de gr",
-      "url": "https://nos.nl/l/2631731",
-      "datum": "1 uur geleden",
+      "titel": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "beschrijving": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "datum": "48 min geleden",
+      "regio": "VS",
+      "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Reuzenhaai zwemt jachthaven in Canada binnen, 'nog nooit zoiets gezien'",
+      "beschrijving": "Normaal zijn het vooral bootjes die de doorgang naar de jachthaven van het Canadese Halifax weten te vinden, maar deze week lukte het ook een reuzenhaai om de baai van de Atlantische kuststad binnen te komen. Dat schrijft de Canadese nieuwszender CBC. \"Ik heb nog nooit zoiets gezien\", zegt omwonende John Calder tegen CBC. Op zijn weg terug van werk zag hij een grote groep mensen langs de wal van h",
+      "url": "https://nos.nl/l/2631775",
+      "datum": "21 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Nederlander overleden na diepe duik in Oostenrijk",
+      "titel": "Zeepflessen met vloeibare cocaïne onderschept in Antwerpen",
+      "beschrijving": "De Belgische autoriteiten hebben in de haven van Antwerpen 450 dozen gevonden met cocaïne. De drugs waren vloeibaar gemaakt en zaten verstopt in flessen zeep, meldt het Belgische Openbaar Ministerie. De partij cocaïne werd op 24 augustus gevonden, maar de Belgische autoriteiten hebben de vondst nu pas bekendgemaakt. De politie en douane ontdekten de lading na een tip over een verdachte container. ",
+      "url": "https://nos.nl/l/2631750",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Tien leeuwen in Tanzania dood gevonden, mogelijk vergiftigd",
+      "beschrijving": "In Tanzania zijn tien leeuwen dood aangetroffen die mogelijk waren vergiftigd. Dat meldt de instantie NCAA, die het Ngorongoro-natuurreservaat beheert. NCAA gaat verder onderzoek doen naar de doodsoorzaak. Ook wil de instantie uitzoeken wie er achter de mogelijke vergiftiging zit. In het Tanzaniaanse natuurreservaat zijn hoogvlakten, savannes en bossen, maar het gebied staat vooral bekend om de gr",
+      "url": "https://nos.nl/l/2631731",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nederlander overleden na diepe duik in de Attersee in Oostenrijk",
       "beschrijving": "In Oostenrijk is een 57-jarige Nederlander bij een duikongeval omgekomen. De man raakte op tientallen meters onder water in paniek en maakte een zogenoemde noodopstijging, meldt de Oostenrijkse politie. Het ongeval vond vrijdag plaats in Steinbach am Attersee, ten oosten van Salzburg. De Nederlander wilde met twee anderen tot 100 meter diepte duiken in de Attersee, maar kreeg op zo'n 80 meter diep",
       "url": "https://nos.nl/l/2631729",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +122,7 @@
       "titel": "25 jaar 'War on Terror' heeft de VS op het wereldtoneel vooral verzwakt",
       "beschrijving": "Precies 25 jaar geleden verklaarde de Amerikaanse president George W. Bush de 'War on Terror', als reactie op de aanslagen van 9/11 waarbij duizenden Amerikanen de dood vonden. \"Of je staat achter ons, of je staat achter de terroristen\", zei hij in een speech voor het Amerikaanse Congres. \"Amerika ging een existentiële kruistocht voeren\", zegt hoogleraar buitenlands beleid aan de universiteit van ",
       "url": "https://nos.nl/l/2631719",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +131,7 @@
       "titel": "Ed Sheeran erkent fouten tijdens eerste concert sinds ophef rond schrappen Macklemore",
       "beschrijving": "Zanger Ed Sheeran heeft tijdens zijn eerste optreden sinds de Amerikaanse rapper Macklemore uit het voorprogramma is geschrapt, excuses gemaakt voor de ophef die is ontstaan. Volgens Sheeran heeft hij \"fouten\" gemaakt bij het omgaan met de situatie. \"Ik wilde nooit een activistische muzikant worden, maar dit heeft me midden in een belangrijk en gepassioneerd debat over de vrijheid van meningsuitin",
       "url": "https://nos.nl/l/2631713",
-      "datum": "9 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,94 +140,58 @@
       "titel": "Duitsers opgepakt voor ophangen van nepkunst in het Louvre",
       "beschrijving": "In Parijs zijn twee Duitsers opgepakt die voor de grap schilderijen hadden opgehangen in het Louvre. Op de werken waren ze zelf te zien. De mannen hingen de werken met plakband aan de muur in de zaal waar ook de Mona Lisa hangt. De muur raakte daarbij licht beschadigd. Het museum kon de grap niet waarderen. De twee Duitsers werden aangehouden door bewakers en overgedragen aan de politie. De mannen",
       "url": "https://nos.nl/l/2631712",
-      "datum": "10 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Trump wil ontwikkeling van AI versnellen en kondigt ‘AI Force’ aan",
-      "beschrijving": "De VS wil een speciale eenheid voor kunstmatige intelligentie met de naam \"AI Force\" en daarmee onder meer ontwikkelingen op dat gebied verder versnellen. Dat heeft president Trump op zijn platform Truth Social bekendgemaakt. Ook stelt hij binnenkort een nieuwe \"AI-tsaar\" aan die op dat gebied advies moet geven. Trump zegt dat hij de AI Force wil opzetten naar voorbeeld van de Space Force, de ruim",
-      "url": "https://nos.nl/l/2631710",
-      "datum": "12 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Witte Huis weert verslaggevers van CNN, MS NOW en Politico na verbod van Trump",
-      "beschrijving": "Journalisten van de grote Amerikaanse nieuwsorganisaties CNN, MS NOW en Politico hebben vandaag geen toegang gekregen tot het Witte Huis. De maatregel was gisteren al aangekondigd door president Trump. De reden is berichtgeving die hem niet bevalt. De Witte Huis-verslaggevers van CNN en MS NOW meldden vandaag live dat hun de toegang tot het Witte Huis was geweigerd toen ze daar aankwamen voor hun ",
-      "url": "https://nos.nl/l/2631682",
-      "datum": "16 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
-      "beschrijving": "Ankara expresses readiness to assist Riyadh as Houthi attacks escalate, testing a recent trilateral defence agreement.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss",
-      "datum": "34 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Echoicide: Who decides which truths survive in Gaza?",
-      "beschrijving": "From Gaza to the digital age, visibility has become one of the central political struggles of modern conflicts.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "The pro-Israel censors are starting to lose",
+      "beschrijving": "The Macklemore controversy demonstrates that the cost of speaking up for Palestine is diminishing.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss",
+      "datum": "38 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Former England and Tottenham star Andros Townsend run over by pitch roller",
-      "beschrijving": "Former England forward Andros Townsend avoided serious injury after being run over by a pitch roller in Thailand.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/20-09-clip-townsend-gets-rolled-over-in-thailand-th?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
+      "titel": "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
+      "beschrijving": "Iran has launched a major mobilisation drive, sparking fears of renewed conflict with the US.",
+      "url": "https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss",
+      "datum": "51 min geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-      "beschrijving": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "titel": "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
+      "beschrijving": "Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "beschrijving": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "VS",
+      "titel": "Iran win Asian Games basketball bronze amid emotional scenes",
+      "beschrijving": "Players celebrate podium finish that brings exemption from conscription, saying the pressure was &#039;out of this world&#039;.",
+      "url": "https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Cultural treasures are being destroyed by war, and people want justice",
-      "beschrijving": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     }
   ],
   "ticker": [
     "Oekraïne raakt Russische olieraffinaderij, ook Russische aanvallen op Kyiv",
-    "‘There will be a very sizeable Saudi response’ to Houthi attacks",
-    "Two killed in Ukrainian drone attack on Moscow, says Russia",
+    "Moscow attacked by more than 1,000 Ukrainian drones",
+    "Gaza’s children return to classrooms after years of Israeli attacks",
+    "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
     "Houthis say they targeted Saudi capital with ballistic missiles",
     "Wekdienst 20/9: verkiezingen in Duitse deelstaten • Jubileumeditie Dam tot Damloop",
     "Toekomst bondskanselier Merz op het spel bij Duitse deelstaatverkiezingen",
     "German elections under way which could decide fate of Chancellor Merz",
-    "Tien leeuwen in Tanzania dood gevonden, mogelijk vergiftigd",
-    "Nederlander overleden na diepe duik in Oostenrijk",
-    "25 jaar 'War on Terror' heeft de VS op het wereldtoneel vooral verzwakt"
+    "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+    "Reuzenhaai zwemt jachthaven in Canada binnen, 'nog nooit zoiets gezien'"
   ]
 }
