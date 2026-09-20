@@ -1,20 +1,11 @@
 {
-  "bijgewerkt": "20 Sep 2026 21:17 UTC",
+  "bijgewerkt": "20 Sep 2026 23:58 UTC",
   "artikelen": [
-    {
-      "titel": "Oekraïne raakt Russische olieraffinaderij, ook Russische aanvallen op Kyiv",
-      "beschrijving": "Bij aanvallen over en weer tussen Rusland en Oekraïne zijn vannacht mensen om het leven gekomen. In de regio rond de Oekraïense hoofdstad Kyiv werden een vrouw en haar tweeling van drie jaar gedood in hun woning, zeggen de hulpdiensten. Oekraïne viel op zijn beurt ook Moskou aan. De Oekraïense president Zelensky zegt dat zijn land een olieraffinaderij in de Russische hoofdstad heeft geraakt. Volge",
-      "url": "https://nos.nl/l/2631730",
-      "datum": "12 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
     {
       "titel": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
       "beschrijving": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
       "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,16 +14,16 @@
       "titel": "Houthis say they targeted Saudi capital with ballistic missiles",
       "beschrijving": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "datum": "21 uur geleden",
+      "datum": "1 dagen geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
       "titel": "Bij Doema-verkiezingen zonder oppositie gaat Kremlinpartij ruim aan kop",
-      "beschrijving": "De partij die gelieerd is aan president Poetin lijkt zoals verwacht de Russische parlementsverkiezingen ruim te gaan winnen. Dat blijkt uit de eerste, voorlopige uitslagen die de autoriteiten hebben verspreid. Verenigd Rusland ligt op koers voor een ruime overwinning met 57,5 procent van de stemmen. Dat meldt de Centrale Kiescommissie met bijna 14 procent van de stemmen geteld. Op de tweede plek s",
+      "beschrijving": "De partij die gelieerd is aan president Poetin lijkt zoals verwacht de Russische parlementsverkiezingen ruim te gaan winnen. Dat blijkt uit de eerste, voorlopige uitslagen die de autoriteiten hebben verspreid. Verenigd Rusland ligt op koers voor een ruime overwinning met 57,04 procent van de stemmen. Dat meldt de Centrale Kiescommissie met iets meer dan 25 procent van de stemmen geteld. Op de twee",
       "url": "https://nos.nl/l/2631835",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "NOS"
@@ -41,16 +32,25 @@
       "titel": "Verkiezingszeges voor AfD en Die Linke, nieuwe nederlagen voor CDU van Merz",
       "beschrijving": "Bij de deelstaatverkiezingen in Mecklenburg-Voor-Pommeren lijkt Alternative für Deutschland (AfD) met 37,9 procent de grootste partij geworden, blijkt uit een om 19.57 uur gedeelde exitpoll van omroep ARD. De radicaal-rechtse partij blijft de sociaaldemocraten (35,7 procent) net voor. De CDU van bondskanselier Merz heeft in de deelstaat het slechtste resultaat ooit behaald en het is de vraag of de",
       "url": "https://nos.nl/l/2631801",
-      "datum": "5 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
+      "titel": "Polls close in Russian wartime election with ruling party set to dominate",
+      "beschrijving": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "US, China open high-level talks ahead of Trump-Xi summit",
       "beschrijving": "Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.",
       "url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "midden",
       "bron": "Al Jazeera"
@@ -59,7 +59,7 @@
       "titel": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
       "beschrijving": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
       "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "datum": "56 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -68,16 +68,25 @@
       "titel": "Trump says triumphal arch will be military complex with drones and snipers",
       "beschrijving": "Trump said the updated plans were at the request of the US military and for national security purposes.",
       "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Pijnlijk verlies CDU in Duitse deelstaat: voor het eerst kiesdrempel niet gehaald",
+      "beschrijving": "De CDU van de Duitse bondskanselier Merz heeft bij de deelstaatverkiezingen in Mecklenburg-Voor-Pommeren de kiesdrempel niet gehaald. Het is de eerste keer in de geschiedenis dat de partij bij een deelstaatverkiezing niet boven de drempel van 5 procent komt en dus geen zetel heeft in een deelstaatparlement. De grootste partij in Mecklenburg-Voor-Pommeren is Alternative für Deutschland (AfD) geword",
+      "url": "https://nos.nl/l/2631852",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Dode na ruzie om strandbed in Griekenland, man (76) aangehouden",
       "beschrijving": "Op een strand in Griekenland is een ruzie om een ligbed fataal afgelopen. Twee oudere mannen kregen het met elkaar aan de stok waarna een 82-jarige man een hartstilstand kreeg en overleed, meldt de Griekse publieke omroep ERT. Een 76-jarige man is gearresteerd voor mishandeling van de man. Het incident deed zich vanochtend voor op het strand van Vouliagmeni, zo'n 20 kilometer ten zuiden van de Gri",
       "url": "https://nos.nl/l/2631844",
-      "datum": "42 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "Protesten in Frankrijk tegen wetsvoorstel dat politiegeweld sneller rechtvaardigt",
       "beschrijving": "Op verschillende plekken in Frankrijk is dit weekend gedemonstreerd tegen een wetsvoorstel over het gebruik van geweld door agenten en andere handhavers. In Parijs kwamen vandaag duizenden mensen samen, onder wie politici en vertegenwoordigers van mensenrechtenorganisaties. In het hele land vonden in totaal zo'n honderd manifestaties plaats, waaronder in Marseille, Lyon, Lille en Toulouse. Tiendui",
       "url": "https://nos.nl/l/2631840",
-      "datum": "57 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +104,7 @@
       "titel": "Zombiedrug maakt vrouwen in Liberia extra kwetsbaar, afkickkliniek biedt hoop",
       "beschrijving": "Haar handen trillen. Als ze geen kush rookt, wordt ze misselijk, krijgt ze het ijskoud en voelt ze zich doodziek, vertelt ze. Haar drie kinderen wonen bij haar vader, die voor hen zorgt. Deze jonge moeder is een van de slachtoffers van kush, de levensgevaarlijke designerdrug waarvan West-Afrika in de greep is. Vrouwen als zij dreigen bij deze drugscrisis buiten beeld te blijven. Bekend is dat kush",
       "url": "https://nos.nl/l/2631828",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +113,7 @@
       "titel": "Jaar cel voor Belg met rijverbod die toeterde naar 'trage' politieauto",
       "beschrijving": "Een man in België heeft een jaar celstraf opgelegd gekregen omdat hij zijn levenslange rijverbod heeft genegeerd. De man liep tegen de lamp nadat hij naar een onherkenbare politiewagen had getoeterd, schrijven Belgische media. De man uit Sint-Niklaas, ten zuidwesten van Antwerpen, stond bij een stoplicht achter de politieauto. Hij toeterde en gebaarde wild naar de wagen omdat die volgens hem niet ",
       "url": "https://nos.nl/l/2631788",
-      "datum": "6 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +122,7 @@
       "titel": "Reuzenhaai zwemt jachthaven in Canada binnen, 'nog nooit zoiets gezien'",
       "beschrijving": "Normaal zijn het vooral bootjes die de doorgang naar de jachthaven van het Canadese Halifax weten te vinden, maar deze week lukte het ook een reuzenhaai om de baai van de Atlantische kuststad binnen te komen. Dat schrijft de Canadese nieuwszender CBC. \"Ik heb nog nooit zoiets gezien\", zegt omwonende John Calder tegen CBC. Op zijn weg terug van werk zag hij een grote groep mensen langs de wal van h",
       "url": "https://nos.nl/l/2631775",
-      "datum": "7 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,7 +131,7 @@
       "titel": "Zeepflessen met vloeibare cocaïne onderschept in Antwerpen",
       "beschrijving": "De Belgische autoriteiten hebben in de haven van Antwerpen 450 dozen gevonden met cocaïne. De drugs waren vloeibaar gemaakt en zaten verstopt in zeepflessen, meldt het Belgische Openbaar Ministerie. De partij cocaïne werd op 24 augustus gevonden, maar de Belgische autoriteiten hebben de vondst nu pas bekendgemaakt. De politie en douane ontdekten de lading na een tip over een verdachte container. D",
       "url": "https://nos.nl/l/2631750",
-      "datum": "10 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -131,16 +140,25 @@
       "titel": "Tien leeuwen in Tanzania dood gevonden, mogelijk vergiftigd",
       "beschrijving": "In Tanzania zijn tien leeuwen dood aangetroffen die mogelijk waren vergiftigd. Dat meldt de instantie NCAA, die het Ngorongoro-natuurreservaat beheert. NCAA gaat verder onderzoek doen naar de doodsoorzaak. Ook wil de instantie uitzoeken wie er achter de mogelijke vergiftiging zit. In het Tanzaniaanse natuurreservaat zijn hoogvlakten, savannes en bossen, maar het gebied staat vooral bekend om de gr",
       "url": "https://nos.nl/l/2631731",
-      "datum": "12 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
+      "titel": "France to summon Iran envoy after language centre closure in Tehran",
+      "beschrijving": "Iran accuses the French language centre of conducting &#039;illegal acts that violated diplomatic conventions&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Qatar PM urges Gulf security framework with Iran",
       "beschrijving": "Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
-      "datum": "17 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -149,7 +167,7 @@
       "titel": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
       "beschrijving": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar&#039;s investment strategy.",
       "url": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -158,40 +176,22 @@
       "titel": "Qatar says it is working to revive Iran-US talks",
       "beschrijving": "Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
-      "beschrijving": "Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "How will Saudi Arabia deal with the Houthis?",
-      "beschrijving": "Yemeni group warns of further attacks on the kingdom.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Oekraïne raakt Russische olieraffinaderij, ook Russische aanvallen op Kyiv",
     "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
     "Houthis say they targeted Saudi capital with ballistic missiles",
     "Bij Doema-verkiezingen zonder oppositie gaat Kremlinpartij ruim aan kop",
     "Verkiezingszeges voor AfD en Die Linke, nieuwe nederlagen voor CDU van Merz",
+    "Polls close in Russian wartime election with ruling party set to dominate",
     "US, China open high-level talks ahead of Trump-Xi summit",
     "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
     "Trump says triumphal arch will be military complex with drones and snipers",
-    "Dode na ruzie om strandbed in Griekenland, man (76) aangehouden",
-    "Protesten in Frankrijk tegen wetsvoorstel dat politiegeweld sneller rechtvaardigt"
+    "Pijnlijk verlies CDU in Duitse deelstaat: voor het eerst kiesdrempel niet gehaald",
+    "Dode na ruzie om strandbed in Griekenland, man (76) aangehouden"
   ]
 }
