@@ -1,83 +1,65 @@
 {
-  "bijgewerkt": "20 Sep 2026 00:50 UTC",
+  "bijgewerkt": "20 Sep 2026 05:53 UTC",
   "artikelen": [
-    {
-      "titel": "Dodental van aanslag op antiterreurpolitie in Pakistan loopt op tot 31",
-      "beschrijving": "Het dodental van de aanslag in Noord-Pakistan van gisteren is opgelopen tot 31, onder wie zestien politieagenten. Dat zegt een politiefunctionaris tegen persbureau AFP. Een met explosieven geladen voertuig reed een moskee binnen in de stad Kohat. Het gebedshuis staat op het terrein van de antiterreurpolitie. In de moskee waren meerdere agenten aan het bidden. Ook probeerden gewapende mannen een po",
-      "url": "https://nos.nl/l/2631612",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-      "beschrijving": "Iran security chief says Tehran&#039;s demands include an end to war on all fronts and the lifting of US&#039;s naval blockade.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-      "datum": "49 min geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
-      "beschrijving": "Turkish FM highlights Turkiye&#039;s readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-      "beschrijving": "It was the first air raid alert in Riyadh since an escalation in fighting between the Houthis in Yemen and Saudi Arabia.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-      "beschrijving": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
     {
       "titel": "Houthis say they targeted Saudi capital with ballistic missiles",
       "beschrijving": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Trump tekent sanctiewet tegen Rusland, heffingen dreigen voor China en India",
-      "beschrijving": "President Trump heeft zijn handtekening gezet onder een wet die omvangrijke Amerikaanse sancties tegen Rusland mogelijk maakt. Zo kan Trump landen die veel Russische brandstoffen inkopen importheffingen opleggen tot 100 procent. Ook krijgen hoge Russische functionarissen te maken met nog meer beperkingen en moet de Russische schaduwvloot het lastiger krijgen. Doel is om landen als China en India z",
-      "url": "https://nos.nl/l/2631607",
-      "datum": "17 uur geleden",
+      "titel": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+      "beschrijving": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "datum": "15 min geleden",
       "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Wekdienst 20/9: verkiezingen in Duitse deelstaten • Jubileumeditie Dam tot Damloop",
+      "beschrijving": "Goedemorgen! In de Duitse deelstaten Mecklenburg-Voor-Pommeren en Berlijn zijn verkiezingen en de Dam tot Damloop tussen Amsterdam en Zaandam viert zijn veertigste verjaardag. Eerst het weer: in het zuiden begint de dag grijs en met regen. Overdag blijft het op de meeste plekken droog met temperaturen tussen de 17 en 19 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwe",
+      "url": "https://nos.nl/l/2631718",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Trump signs sweeping Russia sanctions bill",
-      "beschrijving": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 dagen geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "titel": "25 jaar 'War on Terror' heeft de VS op het wereldtoneel vooral verzwakt",
+      "beschrijving": "Precies 25 jaar geleden verklaarde de Amerikaanse president George W. Bush de 'War on Terror', als reactie op de aanslagen van 9/11 waarbij duizenden Amerikanen de dood vonden. \"Of je staat achter ons, of je staat achter de terroristen\", zei hij in een speech voor het Amerikaanse Congres. \"Amerika ging een existentiële kruistocht voeren\", zegt hoogleraar buitenlands beleid aan de universiteit van ",
+      "url": "https://nos.nl/l/2631719",
+      "datum": "53 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Duitsers in twee deelstaten naar stembus, toekomst Merz op het spel",
+      "beschrijving": "In de Duitse deelstaten Berlijn en Mecklenburg-Voor-Pommeren worden vandaag deelstaatverkiezingen gehouden. Het gaat niet om de grootste regio's, met bij elkaar zo'n vijf miljoen inwoners. Toch kan de stembusgang grote gevolgen hebben voor de landelijke politiek. Na de monsterzege van de radicaal-rechtse AfD in Saksen-Anhalt staat bondskanselier Merz onder druk, mede omdat de overwinning van de Af",
+      "url": "https://nos.nl/l/2631717",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Ed Sheeran erkent fouten tijdens eerste concert sinds ophef rond schrappen Macklemore",
+      "beschrijving": "Zanger Ed Sheeran heeft tijdens zijn eerste optreden sinds de Amerikaanse rapper Macklemore uit het voorprogramma is geschrapt, excuses gemaakt voor de ophef die is ontstaan. Volgens Sheeran heeft hij \"fouten\" gemaakt bij het omgaan met de situatie. \"Ik wilde nooit een activistische muzikant worden, maar dit heeft me midden in een belangrijk en gepassioneerd debat over de vrijheid van meningsuitin",
+      "url": "https://nos.nl/l/2631713",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Duitsers opgepakt voor ophangen van nepkunst in het Louvre",
       "beschrijving": "In Parijs zijn twee Duitsers opgepakt die voor de grap schilderijen hadden opgehangen in het Louvre. Op de werken waren ze zelf te zien. De mannen hingen de werken met plakband aan de muur in de zaal waar ook de Mona Lisa hangt. De historische muur raakte daarbij licht beschadigd. Het museum kon de grap niet waarderen. De twee Duitsers werden aangehouden door bewakers en overgedragen aan de politi",
       "url": "https://nos.nl/l/2631712",
-      "datum": "9 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +68,7 @@
       "titel": "Trump wil ontwikkeling van AI versnellen en kondigt ‘AI Force’ aan",
       "beschrijving": "De VS wil een speciale eenheid voor kunstmatige intelligentie met de naam \"AI Force\" en daarmee onder meer ontwikkelingen op dat gebied verder versnellen. Dat heeft president Trump op zijn platform Truth Social bekendgemaakt. Ook stelt hij binnenkort een nieuwe \"AI-tsaar\" aan die op dat gebied advies moet geven. Trump zegt dat hij de AI Force wil opzetten naar voorbeeld van de Space Force, de ruim",
       "url": "https://nos.nl/l/2631710",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +77,7 @@
       "titel": "Witte Huis weert verslaggevers van CNN, MS NOW en Politico na verbod van Trump",
       "beschrijving": "Journalisten van de grote Amerikaanse nieuwsorganisaties CNN, MS NOW en Politico hebben vandaag geen toegang gekregen tot het Witte Huis. De maatregel was gisteren al aangekondigd door president Trump. De reden is berichtgeving die hem niet bevalt. De Witte Huis-verslaggevers van CNN en MS NOW meldden vandaag live dat hun de toegang tot het Witte Huis was geweigerd toen ze daar aankwamen voor hun ",
       "url": "https://nos.nl/l/2631682",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +86,7 @@
       "titel": "NAVO verwelkomt Groenland-deal met VS, Denen benadrukken behoud soevereiniteit",
       "beschrijving": "De NAVO heeft positief gereageerd op de Groenland-deal tussen de Verenigde Staten, Denemarken en Groenland. Denemarken en Groenland zelf benadrukken dat de gesloten overeenkomst de Groenlandse soevereiniteit niet zal aantasten, ondanks de bewering van de Amerikaanse president Trump dat Washington \"permanente controle\" krijgt over de veiligheid van het eiland. Trump maakte vannacht bekend dat er ee",
       "url": "https://nos.nl/l/2631652",
-      "datum": "10 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +95,7 @@
       "titel": "19/9 in Nieuwsuur: VS en Denemarken sluiten 'Groenland-deal' • Wint AfD opnieuw? • Nabestaanden prankcall-drama doen verhaal",
       "beschrijving": "VS en Denemarken sluiten 'Groenland-deal' De VS, Denemarken en Groenland zeggen een akkoord te hebben bereikt over de veiligheid van Groenland. Daarmee lijkt er na eerdere dreigementen van president Trump om het eiland in het Noordpoolgebied desnoods met geweld in te nemen een diplomatieke oplossing gevonden, waarbij Groenland in handen blijft van de Denen. Is dat ook zo? Betekent dit inderdaad da",
       "url": "https://nos.nl/l/2631650",
-      "datum": "10 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,76 +104,94 @@
       "titel": "Jehovah's Getuigen schrappen verbod op bloedtransfusies",
       "beschrijving": "Jehovah's getuigen mogen voortaan een bloedtransfusie ondergaan. De internationale leiding van de streng religieuze geloofsgemeenschap heeft bekendgemaakt dat het verbod daarop grotendeels wordt geschrapt. Het accepteren van een bloedtransfusie wordt nu een persoonlijke gewetenskwestie voor gelovigen. Zij mogen dus zelf beslissen of ze ermee instemmen. Het verbod blijft alleen gehandhaafd bij zoge",
       "url": "https://nos.nl/l/2631649",
-      "datum": "10 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Schadevergoeding voor zwarte Canadese om discriminatie bij verkeerscontrole",
-      "beschrijving": "Een Canadese vrouw heeft een schadevergoeding toegekend gekregen van omgerekend ruim 15.000 euro vanwege discriminatie bij een verkeerscontrole. Het mensenrechtenhof van de provincie British Columbia oordeelde dat er bij het contact met de politie in Vancouver sprake was van \"aantasting van haar waardigheid, gevoelens en zelfrespect\". Safiya Elshazly, een zwarte vrouw, zat op een dinsdagavond in d",
-      "url": "https://nos.nl/l/2631635",
-      "datum": "11 uur geleden",
+      "titel": "Tunisian protesters demand release of four Sumud activists",
+      "beschrijving": "The protest comes as the health of one detainee deteriorates after more than a month on hunger strike.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
+      "datum": "57 min geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Ouders van willekeurig gedode Syrische tieners zitten nog altijd vol vragen",
-      "beschrijving": "Efe Y. moet zich komende week opnieuw melden in de rechtbank omdat hij wordt verdacht van het doodschieten van twee vluchtelingen in Amsterdam. In aanloop naar de zitting doen nabestaanden uit Syrië voor het eerst hun verhaal. Negen maanden na het drama zitten de families nog altijd met veel vragen over de dood van Mohammad Nor Alalo (16) en Mohammed Al Mukhrazi (18). Ze kunnen maar moeilijk gelov",
-      "url": "https://nos.nl/l/2631596",
-      "datum": "20 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-      "beschrijving": "Gaza&#039;s IT industry has been devastated from three-years of bombing and destruction.",
-      "url": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-      "beschrijving": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
-      "datum": "4 uur geleden",
+      "titel": "Morocco’s PJD: what has the party learned from its dramatic fall",
+      "beschrijving": "After its 2021 defeat, the party with an Islamic reference is rebuilding under Abdelilah Benkirane. Can it regain trust?",
+      "url": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-      "beschrijving": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "VS",
+      "titel": "Ed Sheeran opens solo concert with comments about Gaza",
+      "beschrijving": "Ed Sheeran has addressed the Macklemore-Palestine fallout in remarks at his solo concert in Philadelphia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Canadians warm to EU ‘associate membership’ proposal",
-      "beschrijving": "From work and study to trade, Canadians see new possibilities in closer ties with the European Union.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Europa",
+      "titel": "Peruvian journalist shot dead after threatening to expose police",
+      "beschrijving": "Peruvian journalist ‘China Polo’ has been shot dead a week after receiving death threats over a police investigation.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/peruvian-journalist-shot-dead-after-threatening-to-expose-police?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ed Sheeran calls Gaza situation ‘unjustifiable’ after Palestine controversy",
+      "beschrijving": "The British singer addresses fans at his concert in Philadelphia as his US Loop Tour resumes.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/ed-sheeran-calls-gaza-situation-unjustifiable-after-palestine-controversy?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "beschrijving": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "beschrijving": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "datum": "6 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Cultural treasures are being destroyed by war, and people want justice",
+      "beschrijving": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Dodental van aanslag op antiterreurpolitie in Pakistan loopt op tot 31",
-    "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-    "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
-    "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-    "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
     "Houthis say they targeted Saudi capital with ballistic missiles",
-    "Trump tekent sanctiewet tegen Rusland, heffingen dreigen voor China en India",
-    "Trump signs sweeping Russia sanctions bill",
+    "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+    "Wekdienst 20/9: verkiezingen in Duitse deelstaten • Jubileumeditie Dam tot Damloop",
+    "25 jaar 'War on Terror' heeft de VS op het wereldtoneel vooral verzwakt",
+    "Duitsers in twee deelstaten naar stembus, toekomst Merz op het spel",
+    "Ed Sheeran erkent fouten tijdens eerste concert sinds ophef rond schrappen Macklemore",
     "Duitsers opgepakt voor ophangen van nepkunst in het Louvre",
-    "Trump wil ontwikkeling van AI versnellen en kondigt ‘AI Force’ aan"
+    "Trump wil ontwikkeling van AI versnellen en kondigt ‘AI Force’ aan",
+    "Witte Huis weert verslaggevers van CNN, MS NOW en Politico na verbod van Trump",
+    "NAVO verwelkomt Groenland-deal met VS, Denen benadrukken behoud soevereiniteit"
   ]
 }
