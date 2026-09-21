@@ -1,65 +1,20 @@
 {
-  "bijgewerkt": "21 Sep 2026 04:43 UTC",
+  "bijgewerkt": "21 Sep 2026 10:30 UTC",
   "artikelen": [
-    {
-      "titel": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "beschrijving": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "datum": "17 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "beschrijving": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 dagen geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
     {
       "titel": "'Regering-Trump heeft plannen klaar voor sancties tegen Internationaal Strafhof'",
       "beschrijving": "De regering van de Amerikaanse president Trump heeft sancties voorbereid tegen het gehele Internationaal Strafhof en gaat die binnenkort aankondigen, melden regeringsbronnen aan Reuters en The Wall Street Journal. Tot nu toe legde het Witte Huis al sancties op aan een aantal rechters en aanklagers. Zij kunnen bijvoorbeeld geen gebruik meer maken van een Amerikaans systeem dat door veel banken word",
       "url": "https://nos.nl/l/2631854",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Bij Doema-verkiezingen zonder oppositie gaat Kremlinpartij ruim aan kop",
-      "beschrijving": "De partij die gelieerd is aan president Poetin lijkt zoals verwacht de Russische parlementsverkiezingen ruim te gaan winnen. Dat blijkt uit de eerste, voorlopige uitslagen die de autoriteiten hebben verspreid. Verenigd Rusland ligt op koers voor een ruime overwinning met 57,9 procent van de stemmen. Dat meldt de Centrale Kiescommissie met iets meer dan 50 procent van de stemmen geteld. Op de tweed",
-      "url": "https://nos.nl/l/2631835",
-      "datum": "9 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Verkiezingszeges voor AfD en Die Linke, nieuwe nederlagen voor CDU van Merz",
-      "beschrijving": "Bij de deelstaatverkiezingen in Mecklenburg-Voor-Pommeren lijkt Alternative für Deutschland (AfD) met 37,9 procent de grootste partij geworden, blijkt uit een om 19.57 uur gedeelde exitpoll van omroep ARD. De radicaal-rechtse partij blijft de sociaaldemocraten (35,7 procent) net voor. De CDU van bondskanselier Merz heeft in de deelstaat het slechtste resultaat ooit behaald en het is de vraag of de",
-      "url": "https://nos.nl/l/2631801",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Trump administration readies sweeping sanctions against ICC, reports say",
-      "beschrijving": "Measures targeting the court itself could disrupt payments, IT services and investigations.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "VS",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Polls close in Russian wartime election with ruling party set to dominate",
-      "beschrijving": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
-      "datum": "5 uur geleden",
+      "titel": "Russia election results show Putin’s party winning: What we know",
+      "beschrijving": "With more than 90 percent votes counted, Putin&#039;s United Russia appears poised for a landslide win.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/russia-election-results-show-putins-party-winning-what-we-know?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "Al Jazeera"
@@ -74,28 +29,91 @@
       "bron": "BBC World"
     },
     {
-      "titel": "Trump says triumphal arch will be military complex with drones and snipers",
-      "beschrijving": "Trump said the updated plans were at the request of the US military and for national security purposes.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "VS",
+      "titel": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+      "beschrijving": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+      "datum": "10 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
+    },
+    {
+      "titel": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "beschrijving": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "ICE schiet man neer in Texas, volgens dienst verbleef hij illegaal in VS",
+      "beschrijving": "De Amerikaanse immigratiedienst ICE heeft gistermiddag opnieuw iemand neergeschoten. In Austin, in de zuidelijke staat Texas, werd een man in zijn romp geraakt. Dat leidde onmiddellijk tot een nieuwe betoging tegen de gewelddadig opererende overheidsdienst. De neergeschoten man is zwaargewond naar het ziekenhuis gebracht. Volgens het ministerie van Binnenlandse Veiligheid, waar ICE onder valt, is ",
+      "url": "https://nos.nl/l/2631891",
+      "datum": "26 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nu ook een museum voor Sound of Music-fans in Salzburg",
+      "beschrijving": "Voor toeristen heeft de Oostenrijkse stad Salzburg twee dingen: Mozart en The Sound of Music. Mozart had al twee musea in de stad, nu is er ook een over de legendarische hitmusical uit 1965. Gisteren werd het museum Sound of Music Salzburg geopend. Met het échte fluitje van kapitein Von Trapp, een jurk van jongste dochter Gretl en een enorme hoeveelheid filmposters en andere memorabilia is het mus",
+      "url": "https://nos.nl/l/2631875",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zware orkaan Dujuan nadert oostkust Japan, evacuaties op plaatsen rond Tokio",
+      "beschrijving": "Een krachtige orkaan nadert de Japanse oostkust. In de regio waar ook hoofdstad Tokio in ligt, worden zware stortregens, hevige wind en mogelijk overstromingen en aardverschuivingen verwacht. Vliegmaatschappijen All Nippon Airways en Japan Airlines hebben uit voorzorg honderden vluchten geschrapt. Volgens KLM gaan alle geplande vluchten tussen Schiphol en Japan wel door. Orkaan Dujuan trekt volgen",
+      "url": "https://nos.nl/l/2631874",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Fiets, typemachine en aanstekers van Brigitte Bardot onder de hamer",
+      "beschrijving": "Haar aanstekers, fiets, pannen en een exemplaar van haar Kamasutra-boek: in Parijs gaan honderden persoonlijke bezittingen van Brigitte Bardot onder de hamer. Het Franse filmicoon overleed eind vorig jaar op 91-jarige leeftijd. Fans en bewonderaars kunnen meer dan 280 objecten van haar proberen te bemachtigen. De geschatte waarde van de items loopt uiteen van 20 tot 10.000 euro. De meeste objecten",
+      "url": "https://nos.nl/l/2631866",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Synagoge in Canada onder vuur genomen, schutter en politieagent gewond",
+      "beschrijving": "Bij een aanval op een synagoge in de Canadese stad Belleville zijn gisteren de schutter en een politieagent gewond geraakt. Daarbij zou de schutter het gebedshuis hebben beschoten, waarna hij in een vuurgevecht raakte met een politieagent die het gebouw bewaakte. De Canadese politie spreekt van een vuurgevecht dat rond 19.10 uur plaatsvond bij de synagoge in het oosten van de stad, zo'n 180 kilome",
+      "url": "https://nos.nl/l/2631864",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "VN zoekt nieuwe baas terwijl grootmachten steeds meer eigen gang gaan",
+      "beschrijving": "Deze week komen wereldleiders samen in New York tijdens de Algemene Vergadering van de Verenigde Naties. Op de agenda: het kiezen van een nieuwe baas. De tweede termijn van secretaris-generaal António Guterres loopt op 31 december af. Het verkiezingsproces met meerdere stemrondes is al een paar maanden aan de gang, maar kreeg tot nu toe weinig aandacht. Want hoeveel gezag heeft de positie nog in e",
+      "url": "https://nos.nl/l/2631857",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Wekdienst 21/9: Rechtszaak dodelijke explosie Rotterdam • Oranje traint voor Nations League",
       "beschrijving": "Goedemorgen! In Rotterdam begint de rechtszaak tegen Jalal O. die wordt beschuldigd van het veroorzaken van een explosie aan de Schammenkamp in Rotterdam waarbij begin 2024 drie mensen om het leven kwamen. En Oranje bereidt zich voor op de Nations League. Eerst het weer: hier en daar kan wat mist voorkomen. Later vandaag droog en geregeld zon bij 18 graden aan zee tot zo'n 20 in het zuiden en oost",
       "url": "https://nos.nl/l/2631856",
-      "datum": "7 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Pijnlijk verlies CDU in Duitse deelstaat: voor het eerst kiesdrempel niet gehaald",
-      "beschrijving": "De CDU van de Duitse bondskanselier Merz heeft bij de deelstaatverkiezingen in Mecklenburg-Voor-Pommeren de kiesdrempel niet gehaald. Het is de eerste keer in de geschiedenis dat de partij bij een deelstaatverkiezing niet boven de drempel van 5 procent komt en dus geen zetel heeft in een deelstaatparlement. De grootste partij in Mecklenburg-Voor-Pommeren is Alternative für Deutschland (AfD) geword",
+      "beschrijving": "De CDU van de Duitse bondskanselier Merz heeft bij de deelstaatverkiezingen in Mecklenburg-Voor-Pommeren de kiesdrempel niet gehaald. De CDU blijft steken op 4,9 procent van de stemmen; de kiesdrempel is 5 procent. Het is de eerste keer in de geschiedenis dat de partij bij een deelstaatverkiezing geen zetel heeft gehaald. Het dramatische verlies van de CDU verzwakt de positie van partijleider Merz",
       "url": "https://nos.nl/l/2631852",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,94 +122,49 @@
       "titel": "Dode na ruzie om strandbed in Griekenland, man (76) aangehouden",
       "beschrijving": "Op een strand in Griekenland is een ruzie om een ligbed fataal afgelopen. Twee oudere mannen kregen het met elkaar aan de stok waarna een 82-jarige man een hartstilstand kreeg en overleed, meldt de Griekse publieke omroep ERT. Een 76-jarige man is gearresteerd voor mishandeling van de man. Het incident deed zich vanochtend voor op het strand van Vouliagmeni, zo'n 20 kilometer ten zuiden van de Gri",
       "url": "https://nos.nl/l/2631844",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Protesten in Frankrijk tegen wetsvoorstel dat politiegeweld sneller rechtvaardigt",
-      "beschrijving": "Op verschillende plekken in Frankrijk is dit weekend gedemonstreerd tegen een wetsvoorstel over het gebruik van geweld door agenten en andere handhavers. In Parijs kwamen vandaag duizenden mensen samen, onder wie politici en vertegenwoordigers van mensenrechtenorganisaties. In het hele land vonden in totaal zo'n honderd manifestaties plaats, waaronder in Marseille, Lyon, Lille en Toulouse. Tiendui",
-      "url": "https://nos.nl/l/2631840",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zombiedrug maakt vrouwen in Liberia extra kwetsbaar, afkickkliniek biedt hoop",
-      "beschrijving": "Haar handen trillen. Als ze geen kush rookt, wordt ze misselijk, krijgt ze het ijskoud en voelt ze zich doodziek, vertelt ze. Haar drie kinderen wonen bij haar vader, die voor hen zorgt. Deze jonge moeder is een van de slachtoffers van kush, de levensgevaarlijke designerdrug waarvan West-Afrika in de greep is. Vrouwen als zij dreigen bij deze drugscrisis buiten beeld te blijven. Bekend is dat kush",
-      "url": "https://nos.nl/l/2631828",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Jaar cel voor Belg met rijverbod die toeterde naar 'trage' politieauto",
-      "beschrijving": "Een man in België heeft een jaar celstraf opgelegd gekregen omdat hij zijn levenslange rijverbod heeft genegeerd. De man liep tegen de lamp nadat hij naar een onherkenbare politiewagen had getoeterd, schrijven Belgische media. De man uit Sint-Niklaas, ten zuidwesten van Antwerpen, stond bij een stoplicht achter de politieauto. Hij toeterde en gebaarde wild naar de wagen omdat die volgens hem niet ",
-      "url": "https://nos.nl/l/2631788",
       "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Reuzenhaai zwemt jachthaven in Canada binnen, 'nog nooit zoiets gezien'",
-      "beschrijving": "Normaal zijn het vooral bootjes die de doorgang naar de jachthaven van het Canadese Halifax weten te vinden, maar deze week lukte het ook een reuzenhaai om de baai van de Atlantische kuststad binnen te komen. Dat schrijft de Canadese nieuwszender CBC. \"Ik heb nog nooit zoiets gezien\", zegt omwonende John Calder tegen CBC. Op zijn weg terug van werk zag hij een grote groep mensen langs de wal van h",
-      "url": "https://nos.nl/l/2631775",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Powerful explosions at Syrian army site near Aleppo injure at least four",
-      "beschrijving": "Officials urge civilians to stay away from the site in al-Eis near Aleppo after a series of explosions.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
-      "datum": "3 uur geleden",
+      "titel": "A simple guide to the Yemen conflict",
+      "beschrijving": "Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
+      "datum": "29 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Ethiopian armed groups forge alliance against government",
-      "beschrijving": "Former adversaries say they will settle differences as fears grow of expanding war in Ethiopia.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
+      "titel": "Do Israelis feel any safer now than they did on October 6, 2023?",
+      "beschrijving": "Despite having rarely been more secure, public concerns about security continue to dominate the election.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss",
+      "datum": "36 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
-      "beschrijving": "Tehran says it has learned the US may be planning a new round of strikes, warns of retaliation &#039;without limitations&#039;.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "France to summon Iran envoy after language centre closure in Tehran",
-      "beschrijving": "Iran accuses the French language centre of conducting &#039;illegal acts that violated diplomatic conventions&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
-      "datum": "6 uur geleden",
-      "regio": "Iran",
+      "titel": "Can the US win the AI cold war with China?",
+      "beschrijving": "US attempts to slow down Chinese progress on AI through economic restrictions could backfire.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/21/can-the-us-win-the-ai-cold-war-with-china?traffic_source=rss",
+      "datum": "40 min geleden",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-    "Houthis say they targeted Saudi capital with ballistic missiles",
     "'Regering-Trump heeft plannen klaar voor sancties tegen Internationaal Strafhof'",
-    "Bij Doema-verkiezingen zonder oppositie gaat Kremlinpartij ruim aan kop",
-    "Verkiezingszeges voor AfD en Die Linke, nieuwe nederlagen voor CDU van Merz",
-    "Trump administration readies sweeping sanctions against ICC, reports say",
-    "Polls close in Russian wartime election with ruling party set to dominate",
+    "Russia election results show Putin’s party winning: What we know",
     "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-    "Trump says triumphal arch will be military complex with drones and snipers",
-    "Wekdienst 21/9: Rechtszaak dodelijke explosie Rotterdam • Oranje traint voor Nations League"
+    "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+    "US and China discuss AI safety plan ahead of Trump-Xi summit",
+    "ICE schiet man neer in Texas, volgens dienst verbleef hij illegaal in VS",
+    "Nu ook een museum voor Sound of Music-fans in Salzburg",
+    "Zware orkaan Dujuan nadert oostkust Japan, evacuaties op plaatsen rond Tokio",
+    "Fiets, typemachine en aanstekers van Brigitte Bardot onder de hamer",
+    "Synagoge in Canada onder vuur genomen, schutter en politieagent gewond"
   ]
 }
