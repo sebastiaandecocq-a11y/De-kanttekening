@@ -1,47 +1,92 @@
 {
-  "bijgewerkt": "21 Sep 2026 16:53 UTC",
+  "bijgewerkt": "21 Sep 2026 20:53 UTC",
   "artikelen": [
-    {
-      "titel": "Europese inlichtingenchefs: Rusland gaat NAVO testen met mogelijk hybride aanval",
-      "beschrijving": "Rusland zou \"binnen enkele maanden\" de NAVO willen testen door kleine, mogelijk hybride aanvallen uit te voeren op NAVO-grondgebied. Daarmee zou de Russische president Poetin willen laten zien dat NAVO-artikel 5, waarin staat dat een aanval op een bondgenoot een aanval op allen is, \"meer theoretisch, dan praktisch is\". Dat zeggen drie Europese inlichtingendienstenchefs tegen de Britse krant The Gu",
-      "url": "https://nos.nl/l/2631916",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
-      "beschrijving": "The use of the Pelican has provoked interest among military analysts as to whether it is a tactical ballistic missile.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Aan Poetin gelieerde partij wint schijnverkiezingen in Rusland",
-      "beschrijving": "De Poetin-gezinde regeringspartij Verenigd Rusland is zoals verwacht de grootste geworden bij de verkiezingen voor de Doema, het Russische Lagerhuis. De voorlopige officiële uitslag is na drie dagen stemmen bekendgemaakt door de voorzitter van de centrale kiescommissie van het land. Bij voorgaande verkiezingen de voorbije decennia was er sprake van grootschalige fraude, stelden onafhankelijke waar",
-      "url": "https://nos.nl/l/2631903",
-      "datum": "4 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
     {
       "titel": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
       "beschrijving": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
       "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
+      "datum": "20 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Gewapende groep sluit pijpleiding af in Libië",
+      "beschrijving": "Een gewapende groep heeft in Libië een oliepijpleiding dichtgedraaid. De pijpleiding wordt beheerd door de National Oil Corporation (NOC). De productie van ruwe olie is daardoor verlaagd, zegt het bedrijf in een verklaring. Het gaat om pijpleiding 7 die vanaf het Sharara-olieveld in het zuidwesten naar de haven van Zawiyah in het noorden van het land loopt. De Petroleum Facilities Guard heeft de p",
+      "url": "https://nos.nl/l/2631970",
+      "datum": "2 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Politiek pessimisme in Berlijn: 'Met andere kanselier wordt het niet beter'",
+      "beschrijving": "Het is een rustige maandagmiddag op de Berlijnse Savignyplatz, een van de pleinen in het stadsdeel Charlottenburg. Veelal wat oudere mensen maken een ommetje, doen boodschappen of drinken tussen de buien door een kop koffie op een van de terrassen. De deelstaatverkiezingen in Berlijn werden gewonnen door de linkse partij Die Linke, maar in Charlottenburg kwam de CDU als winnaar uit de bus. Ook bij",
+      "url": "https://nos.nl/l/2631959",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "75 katten gevonden in klein appartement in Parijs, dode kittens in vriezer",
+      "beschrijving": "Een dierenwelzijnsorganisatie heeft in een appartement in Parijs 75 katten gered. De dieren leefden onder erbarmelijke omstandigheden in de woning van zo'n 50 vierkante meter, schrijven Franse media. De dierenorganisatie YouCare werd door de politie en een deurwaarder ingeschakeld nadat de huurder uit de sociale huurwoning in het 15e arrondissement was uitgezet. De dierenorganisatie heeft videobee",
+      "url": "https://nos.nl/l/2631958",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Problemen op luchthavens in noordoosten VS door telecomstoring",
+      "beschrijving": "Op twee grote luchthavens in het noordoosten van de Verenigde Staten mogen vliegtuigen beperkt landen en vertrekken vanwege een telecomstoring die tot problemen leidt bij de luchtverkeersleiding. De Amerikaanse luchtvaartautoriteit FAA heeft het vliegverkeer op de internationale luchthaven van Philadelphia en op luchthaven Newark in New Jersey stilgelegd. Korte tijd lag ook het vliegverkeer op de ",
+      "url": "https://nos.nl/l/2631955",
+      "datum": "2 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Britten pakken 'noodsituatie' vrouwengeweld aan: geen uitstel en speciale rechtszalen",
+      "beschrijving": "Verkrachtingszaken in het Verenigd Koninkrijk kunnen jaren voortslepen voordat ze worden behandeld. Slachtoffers wachten gemiddeld 424 dagen voor een zaak van begin tot eind is afgerond. In enkele gevallen kan dit zelfs oplopen tot meer dan 1000 dagen. De Britse regering wil het proces versnellen en komt met maatregelen. Een van de ingrepen is dat elke rechtbank een aparte ruimte en entree krijgt ",
+      "url": "https://nos.nl/l/2631954",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Aan de frontlinie van de ebola-uitbraak: 'Ik ben niet bang om dit werk te doen'",
+      "beschrijving": "Het ziet er surrealistisch uit. Een ploeg mannen en vrouwen in witte beschermende pakken loopt door een vluchtelingenkamp in het oosten van de Democratische Republiek Congo. Ze zijn op weg naar een tent van een 39-jarige vrouw die kort daarvoor met ebola naar het ziekenhuis is gebracht. Ze pakken hun sproeiapparaten met chloorwater en beginnen het tentzeil schoon te spuiten. Al snel ruikt het hele",
+      "url": "https://nos.nl/l/2631953",
+      "datum": "2 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nederlandse vader die zoon (14) in België liet sterven veroordeeld tot 23 jaar cel",
+      "beschrijving": "Het hof in Antwerpen heeft de vader van een 14-jarige jongen uit Tilburg veroordeeld tot een gevangenisstraf van 23 jaar. De jury acht bewezen dat Rennlhy M. eind 2021 weigerde medische hulp voor zijn zoon Jairon in te schakelen terwijl hij aan corona leed, bijna niet meer kon eten en drinken en uiteindelijk doodziek was. De jongen overleed begin januari 2022 in de villa van zijn vader in het Belg",
+      "url": "https://nos.nl/l/2631951",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Sportromantiek in Turkse voetbalcompetitie: club met Koerdische identiteit nu bovenaan",
+      "beschrijving": "Voetbalclub Amedspor uit Diyarbakir heeft opnieuw voor een grote verrassing gezorgd in Turkije. De club met een Koerdische identiteit won gisteravond van Besiktas met 3-2 en staat nu zelfs bovenaan in de Turkse competitie. In Diyarbakir en in de regio, in het zuidoosten van het land, werd dat groots gevierd. \"Dit is iets om heel trots op te zijn\", zegt een fan vlak na de wedstrijd. \"Niet alleen vo",
+      "url": "https://nos.nl/l/2631947",
+      "datum": "2 uur geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Bijna 500 arrestaties bij internationale politieactie tegen criminele netwerken",
       "beschrijving": "Bij een internationale operatie tegen criminele netwerken zijn 490 verdachten opgepakt. Dat meldt de Belgische federale politie. Aan de actie met de naam Atlas Nexus, waarover België de leiding had, werkten 34 landen mee. De operatie werd al in 2022 opgestart en was gericht tegen bendes die zich bezighouden met drugshandel, mensensmokkel, vuurwapenhandel, vervalsing van documenten en milieucrimina",
       "url": "https://nos.nl/l/2631938",
-      "datum": "15 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,105 +95,60 @@
       "titel": "Nederlaag in deelstaat zal lang nagalmen, zegt Merz",
       "beschrijving": "De Duitse bondskanselier Merz heeft nogmaals gezegd dat hij niet zal aftreden. Dat zei hij gisteravond ook toen duidelijk werd dat zijn CDU een historische nederlaag had geleden bij de verkiezingen in de deelstaat Mecklenburg-Voor-Pommeren, maar toen was nog niet bekend dat zijn partij niet één zetel kreeg. Dat werd pas later op de avond duidelijk. Daar kwam nog bij dat de radicaal-rechtse AfD de ",
       "url": "https://nos.nl/l/2631921",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Canadese familie redt berenwelp in nood uit meer, moeder spoorloos",
-      "beschrijving": "In Canada heeft een boottocht op Okanaganmeer een onverwachte wending gekregen toen een familie een zwarte berenwelp in nood aantrof. Het jong had moeite met zwemmen en kon zijn hoofd nauwelijks boven water houden. De familie nam het uitgeputte dier aan boord, schrijft de Canadese omroep CBC. De berenwelp trilde van de kou. De familie gaf het beertje - dat ze Boo Boo noemde - wat kaas te eten terw",
-      "url": "https://nos.nl/l/2631912",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Grote tv-zenders VS beperken Witte Huis-verslaggeving in solidariteit met CNN",
-      "beschrijving": "De grote Amerikaanse televisienetwerken schroeven hun verslaggeving van het Witte Huis terug nu CNN de toegang wordt geweigerd. Vanaf vandaag draaien ABC, CBS, NBC en Fox News geen poolbeelden meer van president Trump. In de Verenigde Staten delen nieuwszenders ABC, CBS, CNN, NBC en Fox News al jaren de verantwoordelijkheid de president overal op de voet te volgen. In de zogeheten tv-pool spreken ",
-      "url": "https://nos.nl/l/2631909",
-      "datum": "4 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Podcast De Dag: intimidatie, repressie en honger naar lithium in Tibetaanse regio",
-      "beschrijving": "Correspondent Laura van Megen maakte een bijzondere reis door de Tibetaanse gebieden in China. Een regio waar bijna geen journalisten komen, waar de repressie overal zichtbaar is, en waar bijna al China's lithium in de grond zit. Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. Het is 'gouden grond', maar nie",
-      "url": "https://nos.nl/l/2631899",
-      "datum": "5 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "ICE schiet man neer in Texas, volgens dienst verbleef hij illegaal in VS",
-      "beschrijving": "De Amerikaanse immigratiedienst ICE heeft gistermiddag opnieuw iemand neergeschoten. In Austin, in de zuidelijke staat Texas, werd een man in zijn romp geraakt. Dat leidde onmiddellijk tot een nieuwe betoging tegen de gewelddadig opererende overheidsdienst. De neergeschoten man is zwaargewond naar het ziekenhuis gebracht. Volgens het ministerie van Binnenlandse Veiligheid, waar ICE onder valt, is ",
-      "url": "https://nos.nl/l/2631891",
       "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Nu ook een museum voor Sound of Music-fans in Salzburg",
-      "beschrijving": "Voor toeristen heeft de Oostenrijkse stad Salzburg twee dingen: Mozart en The Sound of Music. Mozart had al twee musea in de stad, nu is er ook een over de legendarische hitmusical uit 1965. Gisteren werd het museum Sound of Music Salzburg geopend. Met het échte fluitje van kapitein Von Trapp, een jurk van jongste dochter Gretl en een enorme hoeveelheid filmposters en andere memorabilia is het mus",
-      "url": "https://nos.nl/l/2631875",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
+      "titel": "Putin’s party wins supermajority in Russia’s parliamentary vote",
+      "beschrijving": "Victory of United Russia party strengthens Putin&#039;s hand even as the war with Ukraine grows more unpopular.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
+      "datum": "35 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Zware orkaan Dujuan nadert oostkust Japan, evacuaties op plaatsen rond Tokio",
-      "beschrijving": "Een krachtige orkaan nadert de Japanse oostkust. In de regio waar ook hoofdstad Tokio in ligt, worden zware stortregens, hevige wind en mogelijk overstromingen en aardverschuivingen verwacht. Vliegmaatschappijen All Nippon Airways en Japan Airlines hebben uit voorzorg honderden vluchten geschrapt. Volgens KLM gaan alle geplande vluchten tussen Schiphol en Japan wel door. Orkaan Dujuan trekt volgen",
-      "url": "https://nos.nl/l/2631874",
-      "datum": "9 uur geleden",
+      "titel": "FAA halts flights to major US East Coast airports amid outage",
+      "beschrijving": "FAA halts East Coast flights due to equipment outage, affecting major US airports like JFK, Newark, and Philadelphia.",
+      "url": "https://www.aljazeera.com/economy/2026/9/21/faa-halts-flights-to-major-us-east-coast-airports-amid-outage?traffic_source=rss",
+      "datum": "51 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "US threatens to ground Iranian airlines worldwide from Wednesday",
-      "beschrijving": "Treasury Secretary says airports and companies servicing Iranian carriers risk being cut off from the US dollar system.",
-      "url": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss",
+      "titel": "Protesters blockade Elbit Systems factory over Israel weapons supply",
+      "beschrijving": "Nine protesters blocked access to Elbit Systems’ factory in Staffordshire by attaching themselves to five ‘lock-ons’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Trump’s approval rating hits record low amid Iran war, economy fallout",
+      "beschrijving": "Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Poor storage or sabotage? Series of explosions in Syria raises fears",
-      "beschrijving": "Repeated blasts at military sites expose the risks facing Syria as it rebuilds its army after years of war.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "How an economic squeeze is changing everyday life and work for Iranians",
-      "beschrijving": "Iran’s government is trying to change some work patterns to help save on fuel and energy amid struggles and shortages.",
-      "url": "https://www.aljazeera.com/economy/2026/9/21/how-an-economic-squeeze-is-changing-everyday-life-and-work-for-iranians?traffic_source=rss",
+      "titel": "Photos: Gaza’s children return to class in tents and ruins",
+      "beschrijving": "Gaza children return to classrooms after three years, facing challenges of damaged schools, tents, and scarce supplies.",
+      "url": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Iran",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?",
-      "beschrijving": "Washington and Beijing discuss AI hotline idea amid escalating competition and restrictions on advanced technologies.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Inside Kazakhstan’s push to become a regional AI centre",
-      "beschrijving": "Kazakhstan accelerates AI development but experts warn of impact on the environment and human rights.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
+      "titel": "Protesters march on Islamabad over soaring fuel prices",
+      "beschrijving": "Pakistan’s Jamaat-e-Islami party has launched a protest march towards Islamabad over soaring fuel prices.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
       "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
@@ -158,7 +158,7 @@
       "titel": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
       "beschrijving": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
       "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,7 +167,7 @@
       "titel": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
       "beschrijving": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
       "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "datum": "54 min geleden",
+      "datum": "4 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,22 +176,22 @@
       "titel": "Merz vows to keep coalition together for Germany's 'democratic future'",
       "beschrijving": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
       "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Europese inlichtingenchefs: Rusland gaat NAVO testen met mogelijk hybride aanval",
-    "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
-    "Aan Poetin gelieerde partij wint schijnverkiezingen in Rusland",
     "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-    "Bijna 500 arrestaties bij internationale politieactie tegen criminele netwerken",
-    "Nederlaag in deelstaat zal lang nagalmen, zegt Merz",
-    "Canadese familie redt berenwelp in nood uit meer, moeder spoorloos",
-    "Grote tv-zenders VS beperken Witte Huis-verslaggeving in solidariteit met CNN",
-    "Podcast De Dag: intimidatie, repressie en honger naar lithium in Tibetaanse regio",
-    "ICE schiet man neer in Texas, volgens dienst verbleef hij illegaal in VS"
+    "Gewapende groep sluit pijpleiding af in Libië",
+    "Politiek pessimisme in Berlijn: 'Met andere kanselier wordt het niet beter'",
+    "75 katten gevonden in klein appartement in Parijs, dode kittens in vriezer",
+    "Problemen op luchthavens in noordoosten VS door telecomstoring",
+    "Britten pakken 'noodsituatie' vrouwengeweld aan: geen uitstel en speciale rechtszalen",
+    "Aan de frontlinie van de ebola-uitbraak: 'Ik ben niet bang om dit werk te doen'",
+    "Nederlandse vader die zoon (14) in België liet sterven veroordeeld tot 23 jaar cel",
+    "Sportromantiek in Turkse voetbalcompetitie: club met Koerdische identiteit nu bovenaan",
+    "Bijna 500 arrestaties bij internationale politieactie tegen criminele netwerken"
   ]
 }
