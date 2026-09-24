@@ -1,11 +1,20 @@
 {
-  "bijgewerkt": "23 Sep 2026 23:28 UTC",
+  "bijgewerkt": "24 Sep 2026 03:58 UTC",
   "artikelen": [
+    {
+      "titel": "Doden en gewonden bij Russische raketaanvallen op Kyiv",
+      "beschrijving": "Bij Russische raketaanvallen op de Oekraïense hoofdstad Kyiv zijn zeker twee mensen om het leven gekomen. Dat meldt burgemeester Klitsjko van Kyiv op Telegram. Ook zijn er zeker zes gewonden. Na het luchtalarm waren in de hoofdstad meerdere zware explosies te horen. Door brokstukken van de raketten raakten de gevel en ramen van een kraamkliniek beschadigd. Op de parkeerplaats van de kliniek kwam i",
+      "url": "https://nos.nl/l/2632245",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Gratie voor Fransman, dag nadat EU twee Russen van sanctielijst haalde",
       "beschrijving": "Azerbeidzjan heeft de Fransman Martin Ryan vrijgelaten, die tot tien jaar cel was veroordeeld voor spionage. De president van Azerbeidzjan heeft hem gratie verleend, een dag nadat de Europese Unie mede onder Franse druk twee Russische oligarchen van de sanctielijst tegen Rusland had gehaald. Frankrijk heeft verheugd gereageerd op de vrijlating. Het is het nieuwste hoofdstuk in de zaak die Brussels",
       "url": "https://nos.nl/l/2632234",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "NOS"
@@ -14,7 +23,7 @@
       "titel": "Rusland wijst gevechtspauze opnieuw af, VS nodigt Poetin uit voor G20-top",
       "beschrijving": "In de Veiligheidsraad van de Verenigde Naties heeft Rusland opnieuw voorstellen voor een staakt-het-vuren in de Oekraïne-oorlog van de hand gewezen. Minister Lavrov van Buitenlandse Zaken zei dat zo'n pauze door sommige landen alleen maar gebruikt zal worden \"om Oekraïne te overspoelen met wapens\". Lavrov herhaalde tijdens de vergadering in New York dat Moskou bereid is te onderhandelen over een d",
       "url": "https://nos.nl/l/2632230",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "NOS"
@@ -23,26 +32,35 @@
       "titel": "Topontmoeting Trump en Xi in VS: wel praten over gevaren AI, maar geen rem erop",
       "beschrijving": "Over veel onderwerpen zijn Peking en Washington het oneens. Maar op één thema zijn ze opvallend eensgezind, aan de vooravond van de top tussen de presidenten Trump en Xi in de Amerikaanse hoofdstad: kunstmatige intelligentie. \"Het is een race waarin beide landen nummer één willen zijn\", zegt politicoloog Elly Rostoum. Rostoum werkte eerder bij Amerikaanse inlichtingendiensten en geeft nu les aan d",
       "url": "https://nos.nl/l/2632220",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "US aviation sanctions disrupt Iran flights, push travellers overland",
-      "beschrijving": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
+      "titel": "Venezuela’s Rodriguez pledges elections, path forward in UNGA speech",
+      "beschrijving": "Venezuela’s Interim President Delcy Rodriguez says her country must abandon the ‘extremism’ of the past.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/venezuelas-rodriguez-pledges-elections-path-forward-in-unga-speech?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump administration invites Putin to attend G20 summit in Miami",
-      "beschrijving": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Israel moves to bar both main Arab lists from October election",
+      "beschrijving": "Excluding Ra&#039;am and the Joint List leaves Palestinian citizens in Israel without major Knesset representation options.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/israel-moves-to-bar-both-main-arab-lists-from-october-election?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Venezuela’s Delcy Rodriguez promises elections at UN, gives no date",
+      "beschrijving": "Rodriguez says Venezuela is transitioning to full democracy and has opened dialogue with opposition sectors.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
@@ -50,16 +68,34 @@
       "titel": "Poland accuses Russian military helicopter of violating its airspace",
       "beschrijving": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
       "url": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Veel ceremonieel, weinig doorbraken verwacht bij bezoek Xi aan Washington",
+      "beschrijving": "De Chinese president Xi is aangekomen in de Verenigde Staten voor een staatsbezoek. De Amerikaanse president Trump verwelkomde hem persoonlijk op luchtmachtbasis Joint Base Andrews bij Washington. Trump en first lady Melania schudden Xi en zijn vrouw Peng Liyuan de hand nadat zij uit hun vliegtuig waren gestapt. Daarna klonken de volksliederen van China en de Verenigde Staten en vlogen twee Amerik",
+      "url": "https://nos.nl/l/2632244",
+      "datum": "2 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Australische premier: OpenAI infiltreerde in Australische overheidswebsite",
+      "beschrijving": "Een AI-programma van OpenAI, het bedrijf achter ChatGPT, is binnengedrongen op een Australische overheidswebsite. Dat zegt de Australische premier Albanese. Het incident deed zich in juni voor, maar de Australische regering werd pas twee weken geleden op de hoogte gebracht. OpenAI stuurde een mail naar een algemeen mailadres om de Australische overheid in te lichten over het incident. Het Britse p",
+      "url": "https://nos.nl/l/2632243",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Vliegverkeer internationale luchthaven Berlijn kort stilgelegd vanwege drone",
       "beschrijving": "Het vliegverkeer op de internationale luchthaven van Berlijn (BER) is gisteravond kort stilgelegd vanwege een drone die boven het vliegveld werd gesignaleerd. Dat melden Duitse media. Na een uur werd het vliegverkeer weer hervat. Duitse media schrijven dat rond 20.00 uur een drone werd gezien en als reactie daarop de noordelijke start- en landingsbaan werd gesloten. Later werd ook de zuidelijke st",
       "url": "https://nos.nl/l/2632242",
-      "datum": "23 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +104,7 @@
       "titel": "President Iran toont bij VN foto's van oorlogsslachtoffers, delegatie VS vertrekt",
       "beschrijving": "In zijn toespraak op de Algemene Vergadering van de Verenigde Naties in New York heeft de Iraanse president Pezeshkian gezegd dat de inwoners van zijn land de afgelopen zeven maanden \"slachtoffer van terrorisme\" zijn geweest. \"We hebben onszelf alleen maar verdedigd\", aldus Pezeshkian, \"wij zijn geen terroristen\". De toespraak van Pezeshkian was een dag na die van de Amerikaanse president Trump. D",
       "url": "https://nos.nl/l/2632232",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +113,7 @@
       "titel": "Politie zet traangas in bij protest tegen uithuiszetting 87-jarige vrouw in Madrid",
       "beschrijving": "De politie heeft in Madrid een 87-jarige vrouw uit het huis gezet waar zij al ruim zeventig jaar woont, omdat ze de huur niet meer kan betalen. Voor de deur van de woning werd tijdens de uithuiszetting geprotesteerd. De politie heeft traangas ingezet om de demonstranten uiteen te drijven. Enkele honderden demonstranten hadden zich in de nacht voorafgaand aan de uithuiszetting bij het appartementen",
       "url": "https://nos.nl/l/2632223",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,71 +122,44 @@
       "titel": "Gevallen Hollywood-tycoon Harvey Weinstein opnieuw veroordeeld in zedenzaak",
       "beschrijving": "Voormalig Hollywoodproducent Harvey Weinstein is door een rechter in New York opnieuw veroordeeld voor een zedenzaak. Hij kreeg vijftien jaar cel voor het aanranden van de voormalige productieassistente Miriam Haley. Weinstein dwong Haley in 2006 in zijn appartement in Manhattan tot seks. Hij kreeg daar zes jaar geleden 23 jaar cel voor, maar die straf kwam in hoger beroep te vervallen. De zaak kw",
       "url": "https://nos.nl/l/2632218",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Na waarschuwingen over escalatie vliegt Russische heli Poolse luchtruim binnen",
-      "beschrijving": "Een Russische militaire helikopter heeft gedurende een kleine minuut het luchtruim van NAVO-land Polen geschonden. Dat gebeurde volgens het Poolse leger vanmorgen bij de grens tussen de Russische exclave Kaliningrad en de Poolse noordkust, op zo'n 100 kilometer van havenstad Gdansk. Vanuit Rusland is niet op het bericht gereageerd. De Russische Mi-8-helikopter vloog 42 seconden in het Poolse lucht",
-      "url": "https://nos.nl/l/2632209",
-      "datum": "6 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Gevechten in Ethiopische regio Tigray laaien op, rebellen nemen vliegveld in",
-      "beschrijving": "In het noorden van Ethiopië in de regio Tigray zijn gevechten uitgebroken tussen rebellenbewegingen en de federale regering. Daarmee lijkt het vredesakkoord tussen beide partijen uit 2022, dat een einde maakte aan de bloedige burgeroorlog, op losse schroeven te staan. De rebellenbeweging Tigray People's Liberation Front (TPLF) zegt een \"defensieve oorlog\" te zijn begonnen tegen de regering van pre",
-      "url": "https://nos.nl/l/2632208",
-      "datum": "6 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Australische illustrator Terry Denton (De waanzinnige boomhut) overleden",
-      "beschrijving": "De Australische illustrator Terry Denton is op 76-jarige leeftijd overleden. Wereldwijd kennen miljoenen kinderen zijn tekeningen uit de boekenserie De waanzinnige boomhut, die hij maakte met schrijver Andy Griffiths. De boeken gaan over twee jongens die allerlei avonturen beleven in een boomhut met onder meer een bowlingbaan, een laboratorium en een zwembad. Met ieder boek in de reeks kreeg de bo",
-      "url": "https://nos.nl/l/2632199",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Trump greets China’s Xi Jinping on arrival for three-day US trip",
-      "beschrijving": "Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
-      "datum": "32 min geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
-      "beschrijving": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
+      "beschrijving": "Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank weeks before the annual harvest.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss",
+      "datum": "25 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
-      "beschrijving": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Spain’s Sanchez warns of far-right threat in UNGA speech",
+      "beschrijving": "Spanish PM Pedro Sanchez has warned of the growing power of ‘selfish, ignorant and cruel’ forces undermining humanity.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss",
+      "datum": "27 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "As major powers act unilaterally, experts say UN faces crisis in New York",
-      "beschrijving": "Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
+      "titel": "Iran’s president brings receipts of US strikes on civilians to the UNGA",
+      "beschrijving": "Iran’s president delivered his UN General Assembly address after US President Trump threatened to ‘annihilate’ Iran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "China’s Xi visits US as Trump bets on stabilising global relations",
+      "beschrijving": "US President Donald Trump welcomes his Chinese counterpart Xi Jinping ahead of talks and state dinner.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss",
       "datum": "3 uur geleden",
-      "regio": "Wereld",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -158,7 +167,7 @@
       "titel": "AI superpower ambitions take centre stage as Trump and Xi meet",
       "beschrijving": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
       "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,31 +176,22 @@
       "titel": "Iran's president tells Trump it will never 'bend the knee'",
       "beschrijving": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
       "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "beschrijving": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Doden en gewonden bij Russische raketaanvallen op Kyiv",
     "Gratie voor Fransman, dag nadat EU twee Russen van sanctielijst haalde",
     "Rusland wijst gevechtspauze opnieuw af, VS nodigt Poetin uit voor G20-top",
     "Topontmoeting Trump en Xi in VS: wel praten over gevaren AI, maar geen rem erop",
-    "US aviation sanctions disrupt Iran flights, push travellers overland",
-    "Trump administration invites Putin to attend G20 summit in Miami",
+    "Venezuela’s Rodriguez pledges elections, path forward in UNGA speech",
+    "Israel moves to bar both main Arab lists from October election",
+    "Venezuela’s Delcy Rodriguez promises elections at UN, gives no date",
     "Poland accuses Russian military helicopter of violating its airspace",
-    "Vliegverkeer internationale luchthaven Berlijn kort stilgelegd vanwege drone",
-    "President Iran toont bij VN foto's van oorlogsslachtoffers, delegatie VS vertrekt",
-    "Politie zet traangas in bij protest tegen uithuiszetting 87-jarige vrouw in Madrid",
-    "Gevallen Hollywood-tycoon Harvey Weinstein opnieuw veroordeeld in zedenzaak"
+    "Veel ceremonieel, weinig doorbraken verwacht bij bezoek Xi aan Washington",
+    "Australische premier: OpenAI infiltreerde in Australische overheidswebsite"
   ]
 }
