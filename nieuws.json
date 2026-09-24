@@ -1,47 +1,74 @@
 {
-  "bijgewerkt": "24 Sep 2026 14:44 UTC",
+  "bijgewerkt": "24 Sep 2026 18:53 UTC",
   "artikelen": [
     {
-      "titel": "Pakistan voert aanvallen uit op buurland Afghanistan, zeker vier doden",
-      "beschrijving": "Pakistan heeft drone- en luchtaanvallen uitgevoerd op tien plekken in buurland Afghanistan, bevestigen overheidsfunctionarissen van beide landen. Volgens Afghanistan zijn er bij de aanvallen zeker vier mensen gedood. Pakistan zegt dat het militaire doelen heeft geraakt, zoals lanceer- en opslaglocaties voor drones. Gisteren zou Afghanistan ook drones hebben afgevuurd op Pakistan, hoewel Afghanista",
-      "url": "https://nos.nl/l/2632282",
-      "datum": "5 uur geleden",
+      "titel": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
+      "beschrijving": "Tigray People’s Liberation Front says in a &#039;situation of full-blown war&#039; with Ethiopia&#039;s government.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
+      "datum": "34 min geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "beschrijving": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
       "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
       "titel": "Verkiezing vervanger voor afzwaaiende VN-chef Guterres verloopt stroef",
-      "beschrijving": "Geen witte rook, wel uitgelekte uitslagen. Achter gesloten deuren wordt in New York een opvolger gezocht voor VN-baas António Guterres, die op 1 januari 2027 na twee termijn afzwaait. Dit keer ontbreekt iets wat er bij eerdere verkiezingen altijd al vroeg was: een duidelijke favoriet. Officieel benoemen de 193 VN-leden de nieuwe secretaris-generaal. Regeringsleiders en ministers uit die landen zij",
+      "beschrijving": "Geen witte rook, wel uitgelekte uitslagen. Achter gesloten deuren wordt in New York een opvolger gezocht voor VN-baas António Guterres, die op 1 januari 2027 na twee termijnen afzwaait. Dit keer ontbreekt iets wat er bij eerdere verkiezingen altijd al vroeg was: een duidelijke favoriet. Officieel benoemen de 193 VN-leden de nieuwe secretaris-generaal. Regeringsleiders en ministers uit die landen z",
       "url": "https://nos.nl/l/2632322",
-      "datum": "44 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Why India's Election Commission is in the eye of a storm - again",
-      "beschrijving": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "titel": "Orkaanseizoen Atlantische Oceaan op hoogtepunt, maar waar blijven ze?",
+      "beschrijving": "Augustus en september; normaal gesproken zijn het maanden waarin het flink kan spoken op de Atlantische Oceaan. Orkaan Katrina trok in 2005 een spoor van vernieling door New Orleans. En in 1992 deed orkaan Andrew dat in deze periode in Florida. Een paar jaar geleden was ons eigen koninkrijk nog aan de beurt, toen orkaan Irma tot veel schade en doden leidde op de Bovenwindse eilanden. Zeker Sint-Ma",
+      "url": "https://nos.nl/l/2632358",
+      "datum": "15 min geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vleierij over en weer bij bezoek van Xi aan Trump in Witte Huis",
+      "beschrijving": "De Chinese president Xi is door president Trump ontvangen in het Witte Huis in Washington. In toespraken strooiden de presidenten met complimenten, maar maakten ze ook duidelijk welke politieke discussiepunten er tijdens het staatsbezoek van Xi op tafel liggen. Xi zei onder meer dat hij blij is om een bezoek te brengen aan \"uw prachtige land\" en dat hij in de VS is om \"onze vriendschap voort te ze",
+      "url": "https://nos.nl/l/2632340",
+      "datum": "2 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Spaanse politie stuit op martelkamer en redt twee mannen",
+      "beschrijving": "De Spaanse politie heeft begin deze maand twee mensen kunnen redden die waren gemarteld in een soort martelkamer. De ruimte was helemaal ingepakt met plastic bouwzeil. Er lagen tangen, hamers en ander gereedschap. Maar van een verbouwing was geen sprake. De agenten waren naar de villa in het Zuid-Spaanse Estepona gekomen door een paniekerig telefoontje van de vriendin van een man die een afspraak ",
+      "url": "https://nos.nl/l/2632335",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Duitsland onderzoekt oud-kampbewaarder (105) voor moorden in WO II",
+      "beschrijving": "In de Duitse stad Dortmund heeft de openbaar aanklager een onderzoek geopend naar een man van 105, die in de Tweede Wereldoorlog bewaker was in een kamp voor krijgsgevangenen. De man wordt ervan verdacht gevangenen te hebben vermoord, en anderen te hebben geholpen bij het moorden. Hij was toen tussen de 20 en 24 jaar oud. In welke gezondheid de 105-jarige verdachte verkeert, is niet bekend. Hij zi",
+      "url": "https://nos.nl/l/2632332",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Podcast De Dag: Trump en Xi, vriend en vijand",
       "beschrijving": "Voor het eerst in elf jaar is de Chinese president Xi weer in Washington. In 2015 ontmoette hij toenmalig president Obama voor het laatst in het Witte Huis. En nu is hij daar opnieuw bij de Amerikaanse president Trump voor een staatsbanket en om te praten over AI, handel en Taiwan. Luister hier: Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet j",
       "url": "https://nos.nl/l/2632325",
-      "datum": "15 min geleden",
+      "datum": "4 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +77,7 @@
       "titel": "24/9 in Nieuwsuur: Moeilijkheden bij inreisverbod • Van Weel onder vuur • Super El Niño",
       "beschrijving": "Moeilijkheden bij inreisverbod De Immigratie- en Naturalisatiedienst (IND) heeft afgelopen tien jaar zo'n zeventig mensen bestempeld als gevaar voor de nationale veiligheid. Dat maakt de dienst bekend na vragen van Nieuwsuur. Bij deze mensen kan het Nederlanderschap worden afgenomen, daarna volgt een inreisverbod. Dat verbod geldt voor de maximale duur van twintig jaar en het is de bedoeling dat z",
       "url": "https://nos.nl/l/2632312",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,17 +86,17 @@
       "titel": "Brand bij Starlink-installatie in Polen, vicepremier wijst naar Rusland",
       "beschrijving": "De Poolse autoriteiten vermoeden dat de brand die gisteravond uitbrak bij een Starlink-installatie opzettelijk is veroorzaakt. Volgens vicepremier Gawkowski zijn er meerdere aanwijzingen dat bewust is geprobeerd de werking van de Starlink-installatie te verstoren. Welke aanwijzingen dat precies zijn, is niet bekendgemaakt. Gawkowski vermoedt dat Rusland achter de brand zit. Dat is niet vastgesteld",
       "url": "https://nos.nl/l/2632309",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Witte Huis negeert rechterlijk vonnis en blijft journalisten weigeren",
+      "titel": "Witte Huis laat weer journalisten toe na weigering, geen live beeld van Xi-Trump",
       "beschrijving": "Verslaggevers van Politico, CNN en MS NOW is vandaag de toegang tot Witte Huis geweigerd. Zij mochten niet naar binnen, ondanks een vonnis van de rechter. Die bepaalde dat journalisten van Politico, CNN en MS NOW weer tot het Witte Huis moeten worden toegelaten. De toegangspas van de verslaggever van Politico werd bij aankomst bij het Witte Huis in beslag genomen door de Secret Service. Vervolgens",
       "url": "https://nos.nl/l/2632308",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "datum": "6 uur geleden",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
     },
@@ -77,80 +104,71 @@
       "titel": "Zeker tien doden door orkaan Dujuan in Japan",
       "beschrijving": "Bij noodweer veroorzaakt door orkaan Dujuan zijn in Japan zeker tien mensen om het leven gekomen, schrijft The Japan Times. De orkaan trok begin deze week over het land en veroorzaakte aardverschuivingen en overstromingen. Bijna 600 huizen zijn ondergelopen en nog altijd zitten tienduizenden mensen in de prefecturen Chiba en Kanagawa zonder stroom. Dat kwam doordat onder meer een dijk bij een meer",
       "url": "https://nos.nl/l/2632299",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Acht zelfmoordpogingen bemanning Amerikaans vliegdekschip dat lang op zee was",
-      "beschrijving": "Acht opvarenden van het Amerikaanse vliegdekschip USS Abraham Lincoln en begeleidende marineschepen hebben een zelfmoordpoging gedaan tijdens hun uitzonderlijk lange missie. Dat schrijft Cao, de waarnemend minister voor de Marine, aan een senator die daarover vragen had gesteld. Geen van de pogingen had een fatale afloop. Het vliegdekschip kwam vorige maand in het nieuws nadat familieleden van mat",
-      "url": "https://nos.nl/l/2632295",
-      "datum": "3 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "China en VS beide op zoek naar de heilige graal van AI-heerschappij",
-      "beschrijving": "Bij de top vandaag in Washington tussen de Chinese president Xi Jiping en zijn Amerikaanse gastheer Trump zal ook de ontwikkeling van AI ter tafel komen. Zowel China als de VS is er veel aan gelegen de onbetwiste leider te worden in het toepassen van kunstmatige intelligentie. Een dergelijke positie brengt tenslotte economische groei en macht. De ontmoeting tussen Trump en Xi komt op een moment va",
-      "url": "https://nos.nl/l/2632294",
-      "datum": "4 uur geleden",
+      "titel": "US and China presidents discuss cooperation, trade and AI risks",
+      "beschrijving": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+      "datum": "34 min geleden",
       "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Noord-Koreaanse soldaten door Oekraïne uitgezet naar Zuid-Korea",
-      "beschrijving": "Oekraïne heeft twee Noord-Koreaanse krijgsgevangenen op het vliegtuig naar Zuid-Korea gezet, heeft president Zelensky gisteravond gezegd in een toespraak bij de Verenigde Naties. De gevangengenomen militairen zijn volgens een Zuid-Koreaanse parlementariër begin deze week aangekomen. Hij zegt tegen persbureau Reuters dat ze vanuit Oekraïne eerst naar een ander land zijn gebracht voordat ze naar Zui",
-      "url": "https://nos.nl/l/2632284",
-      "datum": "5 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
-      "beschrijving": "US secretary of state&#039;s warning comes after he and Trump met the Iraqi PM on the sidelines of the UNGA.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss",
-      "datum": "39 min geleden",
-      "regio": "VS",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israel offers cash to firms hit by trade ban; Europe dithers on new rules",
-      "beschrijving": "Israel hopes to redirect goods from illegal Israeli settlements towards markets in Asia and South America.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss",
+      "titel": "Iranian-American group sues Trump over war",
+      "beschrijving": "Plaintiffs have families in Iran who have been harmed by the US war, they say.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ukrainian knifeman kills one, wounds four at abbey in Poland",
+      "beschrijving": "Ukraine&#039;s President Zelenskyy denounces &#039;horrific crime&#039; after 31-year-old attacks clergy, worshippers in border town.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
+      "beschrijving": "In October elections, Israel’s national security minister Itamar Ben-Gvir is hoping to become defence minister.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Has China received US F-35 parts by diverting an Australian shipment?",
-      "beschrijving": "Australia and US investigate F-35 parts mistakenly sent to Hong Kong amid concerns over sensitive military technology.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/has-china-received-us-f-35-parts-by-diverting-an-australian-shipment?traffic_source=rss",
+      "titel": "Collapsing currency and inflation leave families struggling in Sudan",
+      "beschrijving": "Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.",
+      "url": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
       "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
+      "beschrijving": "UN trade body report says consequences of Israeli occupation have &#039;skyrocketed&#039; with 90% unemployed in Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
+      "beschrijving": "Some analysts say extending the truce is pure optics - others say it&#039;s a useful step towards a more durable deal.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Hurricane Polo brings fears of heavy rain and landslides in Mexico",
-      "beschrijving": "Heavy rains could cause life-threatening flooding and landslides in Mexico, the US National Hurricane Center warned.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/hurricane-polo-hits-mexicos-coast-as-tropical-storm-nolo-approaches-hawaii?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Tunisia fuel strike highlights growing economic and political anger",
-      "beschrijving": "A 48-hour strike in Tunis adds to mounting public frustration over worsening living conditions and basic services.",
-      "url": "https://www.aljazeera.com/economy/2026/9/24/tunisia-fuel-strike-highlights-growing-economic-and-political-anger?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -162,36 +180,18 @@
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
-    },
-    {
-      "titel": "Iran's president tells Trump it will never 'bend the knee'",
-      "beschrijving": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "datum": "20 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
-      "beschrijving": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Pakistan voert aanvallen uit op buurland Afghanistan, zeker vier doden",
+    "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
     "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
     "Verkiezing vervanger voor afzwaaiende VN-chef Guterres verloopt stroef",
-    "Why India's Election Commission is in the eye of a storm - again",
+    "Orkaanseizoen Atlantische Oceaan op hoogtepunt, maar waar blijven ze?",
+    "Vleierij over en weer bij bezoek van Xi aan Trump in Witte Huis",
+    "Spaanse politie stuit op martelkamer en redt twee mannen",
+    "Duitsland onderzoekt oud-kampbewaarder (105) voor moorden in WO II",
     "Podcast De Dag: Trump en Xi, vriend en vijand",
     "24/9 in Nieuwsuur: Moeilijkheden bij inreisverbod • Van Weel onder vuur • Super El Niño",
-    "Brand bij Starlink-installatie in Polen, vicepremier wijst naar Rusland",
-    "Witte Huis negeert rechterlijk vonnis en blijft journalisten weigeren",
-    "Zeker tien doden door orkaan Dujuan in Japan",
-    "Acht zelfmoordpogingen bemanning Amerikaans vliegdekschip dat lang op zee was"
+    "Brand bij Starlink-installatie in Polen, vicepremier wijst naar Rusland"
   ]
 }
