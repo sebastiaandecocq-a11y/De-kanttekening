@@ -1,12 +1,12 @@
 {
-  "bijgewerkt": "24 Sep 2026 22:08 UTC",
+  "bijgewerkt": "25 Sep 2026 01:16 UTC",
   "artikelen": [
     {
-      "titel": "Croatian court approves extradition in Nord Stream bombing case",
-      "beschrijving": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
-      "datum": "20 min geleden",
-      "regio": "Wereld",
+      "titel": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+      "beschrijving": "Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -14,7 +14,7 @@
       "titel": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
       "beschrijving": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
       "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,7 +23,7 @@
       "titel": "Priest killed and four injured in knife attack at Polish abbey",
       "beschrijving": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
       "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,7 +32,7 @@
       "titel": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "beschrijving": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
       "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -41,7 +41,7 @@
       "titel": "Israëlisch kiescomité wil Arabische partijen uitsluiten van parlementsverkiezingen",
       "beschrijving": "Een meerderheid van het Israëlische kiescomité heeft voor het uitsluiten van Arabische politieke partijen bij de aanstaande verkiezingen gestemd. De verkiezingen voor het Israëlische parlement, de Knesset, zijn eind oktober. Het hooggerechtshof kan het besluit nog terugdraaien; dat is in het verleden vaker gebeurd. In het kiescomité zitten voornamelijk leden van de regering van premier Netanyahu. ",
       "url": "https://nos.nl/l/2632368",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "NOS"
@@ -50,26 +50,26 @@
       "titel": "Verkiezing vervanger voor afzwaaiende VN-chef Guterres verloopt stroef",
       "beschrijving": "Geen witte rook, wel uitgelekte uitslagen. Achter gesloten deuren wordt in New York een opvolger gezocht voor VN-baas António Guterres, die op 1 januari 2027 na twee termijnen afzwaait. Dit keer ontbreekt iets wat er bij eerdere verkiezingen altijd al vroeg was: een duidelijke favoriet. Officieel benoemen de 193 VN-leden de nieuwe secretaris-generaal. Regeringsleiders en ministers uit die landen z",
       "url": "https://nos.nl/l/2632322",
-      "datum": "8 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Trump and Xi hold critical talks at White House summit",
-      "beschrijving": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
-      "datum": "26 min geleden",
+      "titel": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+      "beschrijving": "UAE joins Oman, Iraq, Azerbaijan, Georgia and Turkmenistan in restricting access to Iranian airlines.",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
+      "datum": "51 min geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israel moves to ban main Palestinian-led lists from election",
-      "beschrijving": "Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+      "beschrijving": "Trump, Xi seek stable US-China ties at the White House, but differences over Iran, Taiwan and trade remain unresolved.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
@@ -77,16 +77,34 @@
       "titel": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "beschrijving": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
       "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "datum": "46 min geleden",
+      "datum": "32 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Handen af van Internationaal Strafhof, waarschuwt Jetten bij VN",
+      "beschrijving": "Premier Jetten heeft in een toespraak bij de Verenigde Naties uitgehaald naar de Amerikaanse president Trump en zijn taal over het Internationaal Strafhof. \"Handen af van het hof en alle andere instituties die de internationale rechtsorde beschermen\", zei Jetten bij de Algemene Vergadering van de VN in New York. Op die zin volgde applaus uit de zaal. Trump gebruikte deze week opnieuw harde woorden",
+      "url": "https://nos.nl/l/2632413",
+      "datum": "18 min geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zoekende ouders vinden 1600 melktanden in Mexico, waar steeds meer massagraven worden ontdekt",
+      "beschrijving": "Zelfs voor Mexico, een land waar alle vormen van geweld dagelijks het nieuws domineren, is het een gruwelijk bericht. Een groep ouders van vermisten, die zich hebben verzameld onder de veelzeggende naam 'Zoekend naar lichamen in heel Mexico', heeft maar liefst 1600 melktanden gevonden op een heuvel in het westen van het land. In Mexico zijn het vrijwel zonder uitzondering groepen wanhopige ouders ",
+      "url": "https://nos.nl/l/2632412",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Macklemore kondigt concerten aan, opbrengst naar hulporganisaties voor Palestijnen",
       "beschrijving": "De Amerikaanse rapper Macklemore begint een concertreeks onder de naam 'Free Palestine'. Vorige week werd hij nog uit de Amerikaanse stadiontournee van de Britse zanger Ed Sheeran gezet vanwege zijn pro-Palestijnse uitspraken op het podium. De rapper meldt dat de opbrengst van de concerten volledig zal gaan naar hulporganisaties voor Palestijnen, zoals Gaza Soup Kitchen, Jewish Voice for Peace en ",
       "url": "https://nos.nl/l/2632387",
-      "datum": "51 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +113,7 @@
       "titel": "Orkaanseizoen Atlantische Oceaan op hoogtepunt, maar waar blijven ze?",
       "beschrijving": "Augustus en september; normaal gesproken zijn het maanden waarin het flink kan spoken op de Atlantische Oceaan. Orkaan Katrina trok in 2005 een spoor van vernieling door New Orleans. En in 1992 deed orkaan Andrew dat in deze periode in Florida. Een paar jaar geleden was ons eigen koninkrijk nog aan de beurt, toen orkaan Irma tot veel schade en doden leidde op de Bovenwindse eilanden. Zeker Sint-Ma",
       "url": "https://nos.nl/l/2632358",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +122,7 @@
       "titel": "Vleierij over en weer bij bezoek van Xi aan Trump in Witte Huis",
       "beschrijving": "De Chinese president Xi is door president Trump ontvangen in het Witte Huis in Washington. In toespraken strooiden de presidenten met complimenten, maar maakten ze ook duidelijk welke politieke discussiepunten er tijdens het staatsbezoek van Xi op tafel liggen. Xi zei onder meer dat hij blij is om een bezoek te brengen aan \"uw prachtige land\" en dat hij in de VS is om \"onze vriendschap voort te ze",
       "url": "https://nos.nl/l/2632340",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +131,7 @@
       "titel": "Spaanse politie stuit op martelkamer en redt twee mannen",
       "beschrijving": "De Spaanse politie heeft begin deze maand twee mensen kunnen redden die waren gemarteld in een soort martelkamer. De ruimte was helemaal ingepakt met plastic bouwzeil. Er lagen tangen, hamers en ander gereedschap. Maar van een verbouwing was geen sprake. De agenten waren naar de villa in het Zuid-Spaanse Estepona gekomen door een paniekerig telefoontje van de vriendin van een man die een afspraak ",
       "url": "https://nos.nl/l/2632335",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,7 +140,7 @@
       "titel": "Duitsland onderzoekt oud-kampbewaarder (105) voor moorden in WO II",
       "beschrijving": "In de Duitse stad Dortmund heeft de openbaar aanklager een onderzoek geopend naar een man van 105, die in de Tweede Wereldoorlog bewaker was in een kamp voor krijgsgevangenen. De man wordt ervan verdacht gevangenen te hebben vermoord, en anderen te hebben geholpen bij het moorden. Hij was toen tussen de 20 en 24 jaar oud. In welke gezondheid de 105-jarige verdachte verkeert, is niet bekend. Hij zi",
       "url": "https://nos.nl/l/2632332",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -131,67 +149,40 @@
       "titel": "Podcast De Dag: Trump en Xi, vriend en vijand",
       "beschrijving": "Voor het eerst in elf jaar is de Chinese president Xi weer in Washington. In 2015 ontmoette hij toenmalig president Obama voor het laatst in het Witte Huis. En nu is hij daar opnieuw bij de Amerikaanse president Trump voor een staatsbanket en om te praten over AI, handel en Taiwan. Luister hier: Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet j",
       "url": "https://nos.nl/l/2632325",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "24/9 in Nieuwsuur: Moeilijkheden bij inreisverbod • Van Weel onder vuur • Super El Niño",
-      "beschrijving": "Moeilijkheden bij inreisverbod De Immigratie- en Naturalisatiedienst (IND) heeft afgelopen tien jaar zo'n zeventig mensen bestempeld als gevaar voor de nationale veiligheid. Dat maakt de dienst bekend na vragen van Nieuwsuur. Bij deze mensen kan het Nederlanderschap worden afgenomen, daarna volgt een inreisverbod. Dat verbod geldt voor de maximale duur van twintig jaar en het is de bedoeling dat z",
-      "url": "https://nos.nl/l/2632312",
-      "datum": "9 uur geleden",
+      "titel": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
+      "beschrijving": "A 4.1-percentage-point rise in poverty in the first half of 2026 could be bad news for Milei&#039;s re-election bid.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast?traffic_source=rss",
+      "datum": "52 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Brand bij Starlink-installatie in Polen, vicepremier wijst naar Rusland",
-      "beschrijving": "De Poolse autoriteiten vermoeden dat de brand die gisteravond uitbrak bij een Starlink-installatie opzettelijk is veroorzaakt. Volgens vicepremier Gawkowski zijn er meerdere aanwijzingen dat bewust is geprobeerd de werking van de Starlink-installatie te verstoren. Welke aanwijzingen dat precies zijn, is niet bekendgemaakt. Gawkowski vermoedt dat Rusland achter de brand zit. Dat is niet vastgesteld",
-      "url": "https://nos.nl/l/2632309",
-      "datum": "9 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
-      "beschrijving": "Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss",
-      "datum": "59 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
-      "beschrijving": "As spoke at the UN, Israeli Prime Minister Benjamin Netanyahu downplayed settler violence in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss",
+      "titel": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
+      "beschrijving": "Iranian President Masoud Pezeshkian says Iran wants the US to return to the MoU by early November.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "beschrijving": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Croatian court approves extradition in Nord Stream bombing case",
+    "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
     "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
     "Priest killed and four injured in knife attack at Polish abbey",
     "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
     "Israëlisch kiescomité wil Arabische partijen uitsluiten van parlementsverkiezingen",
     "Verkiezing vervanger voor afzwaaiende VN-chef Guterres verloopt stroef",
-    "Trump and Xi hold critical talks at White House summit",
-    "Israel moves to ban main Palestinian-led lists from election",
+    "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+    "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
     "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-    "Macklemore kondigt concerten aan, opbrengst naar hulporganisaties voor Palestijnen"
+    "Handen af van Internationaal Strafhof, waarschuwt Jetten bij VN"
   ]
 }
