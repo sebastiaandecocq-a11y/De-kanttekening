@@ -1,38 +1,110 @@
 {
-  "bijgewerkt": "26 Sep 2026 01:18 UTC",
+  "bijgewerkt": "26 Sep 2026 07:18 UTC",
   "artikelen": [
     {
-      "titel": "President Brazilië opent met tv-spotje aanval op Trump: 'Hij wil ons koloniseren'",
-      "beschrijving": "Met nog ruim een week te gaan tot de presidentsverkiezingen in Brazilië, heeft zittend president Lula opnieuw de aanval geopend op zijn Amerikaanse collega Trump en zijn tegenkandidaat Flávio Bolsonaro. In een gisteravond gelanceerd tv-spotje én in een bericht op sociale media beweert Lula dat Trump Bolsonaro steunt zodat hij uiteindelijk Brazilië kan koloniseren. Volgens de vrouwelijke presentato",
-      "url": "https://nos.nl/l/2632521",
-      "datum": "7 uur geleden",
-      "regio": "VS",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Taartaanval op professor Luikse universiteit door radicaal-linkse actievoerders",
-      "beschrijving": "In België hebben radicaal-linkse studenten gisteren taarten gegooid naar een professor die banden heeft met de wapenindustrie. Dat gebeurde op de universiteit van Luik. Op beelden op sociale media is te zien dat mensen tijdens een les een lokaal binnenkomen en slagroomtaarten gooien naar professor Damien Ernst. De daders dragen kerstmaskers en roepen verschillende keren \"fascist\" naar de verbouwer",
-      "url": "https://nos.nl/l/2632511",
-      "datum": "9 uur geleden",
+      "titel": "The bombs are still falling. Does diplomacy even work?",
+      "beschrijving": "Al Jazeera’s Emma Withrow asked Al Anoud Al Thani what diplomacy can achieve.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/the-bombs-are-still-falling-does-diplomacy-even-work?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
       "beschrijving": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
       "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
+      "beschrijving": "India has long held up its elections as evidence of its democratic credentials. Now their legitimacy is under question.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "PAM wins big in Morocco parliament elections but falls short of majority",
+      "beschrijving": "The next government will steer Morocco&#039;s 2030 World Cup preparations amid public frustration over local economy.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/pam-wins-big-in-morocco-parliament-elections-but-falls-short-of-majority?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Opnieuw mediabeperking Witte Huis: CNN mag niet met Trump mee in Air Force One",
+      "beschrijving": "De Amerikaanse nieuwszender CNN mag opnieuw niet in de buurt komen van president Trump: de zender wordt niet toegelaten aan boord van de Air Force One. Trump woont vandaag een American football-wedstrijd bij tussen de universiteitsteams van Tennessee en Texas. CNN is voor Trumps bezoek aan Knoxville in Tennessee vandaag vervangen door journalisten van de conservatieve zender Real America's Voice N",
+      "url": "https://nos.nl/l/2632565",
+      "datum": "57 min geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Podcast De Dag: hoe Rusland Europa saboteert met wegwerpspionnen",
+      "beschrijving": "Rusland zat achter een van de bekendste sabotageacties, zo concludeert Polen. Door brandstichting twee jaar geleden is het grootste winkelcentrum van Warschau er niet meer. Die actie geeft een uniek kijkje in hoe de Russen Europa proberen te raken met de zogenoemde hybride aanvallen. Met wegwerpspionnen en tussenpersonen deelt Rusland prikken uit, zonder dat de daders weten dat ze het namens Rusla",
+      "url": "https://nos.nl/l/2632556",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Rusland stelt artikel 5 op de proef, wat is het antwoord van de NAVO?",
+      "beschrijving": "Brandstichting, sabotage, pogingen tot liquidaties: Rusland voert de hybride oorlogsvoering op Europees grondgebied steeds verder op. Hoewel niet altijd kan worden bewezen dat Rusland achter dit soort acties zit, steekt het Kremlin zelf niet onder stoelen of banken dat het onrust wil kweken met sabotage. \"Wij maken onze methodes veel harder om alles te vernietigen wat de oorlogsmachine van Kyiv vo",
+      "url": "https://nos.nl/l/2632555",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "240.000 woningen onteigenen: Die Linke heeft grote plannen na winst in Berlijn",
+      "beschrijving": "Berlijn krijgt hoogstwaarschijnlijk voor het eerst een burgemeester van Die Linke. De socialistische partij won afgelopen week de deelstaatverkiezingen en wil een coalitie vormen met de Groenen en de SPD. Die Linke voerde campagne met een opvallende belofte in de strijd tegen hoge huren: het onteigenen van grote vastgoedbedrijven. Het plan is om bedrijven met meer dan 3000 woningen onder controle ",
+      "url": "https://nos.nl/l/2632554",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 26/09: Vollering jaagt op wereldtitel • Openluchtmis paus in Parijs",
+      "beschrijving": "Goedemorgen! In Montreal rijden Demi Vollering en haar wielercollega's de wegwedstrijd van de WK Wielrennen. En Paus Leo XIV zet het centrum van Parijs op stelten. Eerst het weer: vandaag zijn er wolkenvelden, maar ook nu en dan zon. De maxima liggen tussen 19 en 22 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamheden en hier alles over de situatie op het spoor",
+      "url": "https://nos.nl/l/2632553",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "TikTok schikt voor miljoenen in Alabama en komt met tijdslimiet voor kinderen",
+      "beschrijving": "TikTok heeft een schikking getroffen met de Amerikaanse staat Alabama. Het bedrijf betaalt minimaal 100 miljoen dollar (87 miljoen euro) en voert beperkingen in de staat in voor kinderen die het platform gebruiken. Maandag zou er in Alabama een rechtszaak tegen TikTok starten. Daarin werd het sociale mediabedrijf ervan beschuldigd dat de app opzettelijk verslavend is gemaakt voor kinderen en slech",
+      "url": "https://nos.nl/l/2632551",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Italiaanse bank voor miljoenen opgelicht met deepfake-stem",
+      "beschrijving": "De grootste bank van Italië, Intesa Sanpaolo, is het slachtoffer geworden van fraude die met behulp van AI werd gepleegd. De oplichters zijn erin geslaagd om tientallen miljoenen euro's buit te maken door gebruik te maken van een deepfake-stem. De fraude begon in februari, ontdekte de Italiaanse krant Corriere della Sera. Toen kreeg de toenmalige voorzitter van private banking-tak van de bank een ",
+      "url": "https://nos.nl/l/2632550",
+      "datum": "5 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Amerikanen vieren eerste 'Dolly Parton Day' met roze glitters en blonde pruiken",
       "beschrijving": "In verschillende Amerikaanse steden is afgelopen dag de eerste Dolly Parton Dag gevierd. De datum is niet zomaar gekozen, 25 september, in het Engels 9/25, klinkt hetzelfde als een van Partons grootste hits: 9 to 5. Verschillende steden en staten hebben de dag officieel gewijd aan de vorige maand overleden zangeres. Onder meer in San Francisco, Nashville, Sevierville en Pigeon Forge werd op een fe",
       "url": "https://nos.nl/l/2632549",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +113,7 @@
       "titel": "Iran: Straat van Hormuz binnen zeven dagen heropend als aan voorwaarden wordt voldaan",
       "beschrijving": "De Iraanse minister van Buitenlandse Zaken zegt dat Iran de VS een deal heeft voorgesteld waarbij de Straat van Hormuz binnen een week weer open kan en \"de normale scheepvaart weer kan worden hersteld\". Minister Araghchi is in New York voor de Algemene Vergadering van de Verenigde Naties. Daar zei hij tegen verslaggevers dat dit mogelijk is als \"aan de noodzakelijke voorwaarden wordt voldaan\". Die",
       "url": "https://nos.nl/l/2632548",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,148 +122,76 @@
       "titel": "Ebola breidt zich verder uit in Congo, aantal sterfgevallen nog hoger",
       "beschrijving": "De Bundibugyo-variant van ebola verspreidt zich verder in de Democratische Republiek Congo (DRC). Op twee nieuwe plekken in het noorden van het Centraal-Afrikaanse land zijn besmettingen vastgesteld, meldt de Wereldgezondheidsorganisatie (WHO). Het aantal regio's waar het virus rondgaat, komt daarmee op 63. Het gaat om meer dan 7890 mensen, van wie zeker 3799 mensen zijn overleden; vooral jonge ki",
       "url": "https://nos.nl/l/2632538",
-      "datum": "4 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Omstreden en beladen Oranjemars mag door katholieke wijk Noord-Ierland gaan",
-      "beschrijving": "In Noord-Ierland mag een omstreden Oranjemars voor het eerst in 28 jaar door een katholieke wijk gaan. De zogenoemde Parade Commissie heeft daarvoor alsnog toestemming gegeven nadat een rechter een eerder verbod had vernietigd. Sinds 1998 is de jaarlijkse protestantste Drumcree Parade door de katholieke wijk in de plaats Portadown verboden. De stad is overwegend protestants, maar heeft ook een kat",
-      "url": "https://nos.nl/l/2632531",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Trump bouwt aan rechts verbond in Zuid-Amerika, sluit Brazilië zich aan?",
-      "beschrijving": "\"Er is in jullie landen sprake van een flinke ruk naar rechts. Dat is een goede zaak.\" Zo sprak de Amerikaanse president Donald Trump dinsdag een groep leiders van Latijns-Amerikaanse landen toe bij een bijeenkomst van The Shield of the Americas in New York. Dit samenwerkingsverband van voornamelijk (radicaal-)rechtse regeringen werd in maart opgericht door Trump om drugskartels op te doeken, maar",
-      "url": "https://nos.nl/l/2632526",
-      "datum": "6 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hongersnood dreigt in Oekraïense dorpen: 'Laatste voorraden worden aangebroken'",
-      "beschrijving": "Er dreigt een hongersnood voor zo'n 6000 Oekraïense burgers aan de frontlinie. Daarvoor waarschuwde Oekraïne de Verenigde Naties deze week. Het gaat om de bewoners van een aantal dorpjes in door Rusland bezet gebied. Ze zijn omsingeld door Russische landmijnen, waardoor ze al maanden van de buitenwereld zijn afgesloten. Inwoners hebben geen toegang meer tot voedsel, medicijnen en andere hulpmiddel",
-      "url": "https://nos.nl/l/2632525",
-      "datum": "6 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Senegalese kampioen leert meiden surfen: 'Niet alleen voor mannen'",
-      "beschrijving": "Generaties lang was de zee het domein van mannen. Maar langs de kust van West-Afrika zijn steeds meer vrouwen die traditie aan het doorbreken. Door een constante swell, de deining op de oceaan die het hele jaar door zorgt voor golven, verschijnen tussen de kleurrijke, houten vissersboten steeds meer surfplanken. En het populairder worden van surfen biedt nieuwe kansen, waardoor ook meisjes op de g",
-      "url": "https://nos.nl/l/2632522",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vlaamse vlogger in video lastiggevallen, OM onderzoekt homogerelateerd geweld",
-      "beschrijving": "De Gentse politie doet onderzoek naar een incident waarbij een Belgische influencer en zijn vriend werden lastiggevallen op straat. De politie heeft de informatie over het voorval doorgestuurd naar het Openbaar Ministerie (OM). De beelden, die influencer Jonatan Medart zelf deelde, maken veel los in België. In het filmpje is te zien hoe de bekende vlogger met zijn vriend door Gent loopt terwijl er",
-      "url": "https://nos.nl/l/2632509",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-      "beschrijving": "Iran&#039;s FM says the &quot;choice rests with the US&quot; to approve the proposed seven-day proposal to reopen Hormuz.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+      "titel": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+      "beschrijving": "Three years of Israel&#039;s war has left families in Gaza living in damaged buildings, with few safe alternatives available.",
+      "url": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Iran",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran says it awaits US response on seven-day roadmap to end war",
-      "beschrijving": "Tehran says the plan would reopen the Strait of Hormuz and resume nuclear talks within a week if Washington agrees.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
+      "titel": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
+      "beschrijving": "A Pew Research poll in April indicated 60 percent of the US adult population held an unfavourable view of Israel.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Iran",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Pope Leo XIV warns AI could undermine humanity during France visit",
-      "beschrijving": "Thousands gather in Paris as the pope warns against a &#039;paradise of machines&#039; at the Elysee Palace.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
-      "beschrijving": "Iran says it has given the US a seven-day plan to reopen the Strait of Hormuz, with the choice to accept now up to them",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
+      "titel": "US official claims Trump holds all the cards in Iran talks",
+      "beschrijving": "US State Department Spokesman Tommy Pigott says President Donald Trump ‘holds all of the cards’ in talks with Tehran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
-      "beschrijving": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Iran pitches US a seven-day end to the war at UNGA",
+      "beschrijving": "Iran has pitched a proposal to open the Strait of Hormuz in seven days - if the US meets its conditions.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/iran-pitches-us-a-seven-day-end-to-the-war-at-unga?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
-      "beschrijving": "Kylian Mbappe scores the only goal of France&#039;s win in Turkiye, but Real Madrid striker immediately forced off by injury.",
-      "url": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
+      "titel": "Yemen’s government offers amnesty to Houthi defectors",
+      "beschrijving": "Yemen’s president called on citizens to join the armed forces, and offered amnesty to Iran-backed Houthi rebels.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/yemens-government-offers-amnesty-to-houthi-defectors?traffic_source=rss",
       "datum": "3 uur geleden",
-      "regio": "Wereld",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "What would a US diesel export ban mean for global fuel prices?",
-      "beschrijving": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Pope warns against 'losing humanity' to AI machines",
-      "beschrijving": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "beschrijving": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
-      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "VS",
+      "titel": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "beschrijving": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "President Brazilië opent met tv-spotje aanval op Trump: 'Hij wil ons koloniseren'",
-    "Taartaanval op professor Luikse universiteit door radicaal-linkse actievoerders",
+    "The bombs are still falling. Does diplomacy even work?",
     "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-    "Amerikanen vieren eerste 'Dolly Parton Day' met roze glitters en blonde pruiken",
-    "Iran: Straat van Hormuz binnen zeven dagen heropend als aan voorwaarden wordt voldaan",
-    "Ebola breidt zich verder uit in Congo, aantal sterfgevallen nog hoger",
-    "Omstreden en beladen Oranjemars mag door katholieke wijk Noord-Ierland gaan",
-    "Trump bouwt aan rechts verbond in Zuid-Amerika, sluit Brazilië zich aan?",
-    "Hongersnood dreigt in Oekraïense dorpen: 'Laatste voorraden worden aangebroken'",
-    "Senegalese kampioen leert meiden surfen: 'Niet alleen voor mannen'"
+    "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
+    "PAM wins big in Morocco parliament elections but falls short of majority",
+    "Opnieuw mediabeperking Witte Huis: CNN mag niet met Trump mee in Air Force One",
+    "Podcast De Dag: hoe Rusland Europa saboteert met wegwerpspionnen",
+    "Rusland stelt artikel 5 op de proef, wat is het antwoord van de NAVO?",
+    "240.000 woningen onteigenen: Die Linke heeft grote plannen na winst in Berlijn",
+    "Wekdienst 26/09: Vollering jaagt op wereldtitel • Openluchtmis paus in Parijs",
+    "TikTok schikt voor miljoenen in Alabama en komt met tijdslimiet voor kinderen"
   ]
 }
