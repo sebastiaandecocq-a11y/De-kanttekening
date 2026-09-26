@@ -1,30 +1,30 @@
 {
-  "bijgewerkt": "26 Sep 2026 12:48 UTC",
+  "bijgewerkt": "26 Sep 2026 16:57 UTC",
   "artikelen": [
     {
       "titel": "Houthi-raketten gericht op Saudi-Arabië onderschept en vernietigd",
       "beschrijving": "De regeringscoalitie in Jemen, die wordt geleid door Saudi-Arabië, zegt twee raketten en twee drones te hebben onderschept die door Houthi-rebellen waren afgevuurd op buurland Saudi-Arabië. Volgens de regering waren de raketten gericht op de stad Khamis Mushait in het zuidwesten van het land. De drones zouden op weg zijn geweest naar de Saudische hoofdstad Riyad. Volgens persbureau AP werd één rak",
       "url": "https://nos.nl/l/2632575",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Suicide bombing in Pakistan’s Dera Ismail Khan kills several people",
-      "beschrijving": "Pakistan Taliban (TTP) claims responsibility for attack in Khyber Pakhtunkhwa province.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "titel": "At least 10 people killed in Russian and Ukrainian attacks",
+      "beschrijving": "New strikes come after the US proposes a fresh round of Russia-Ukraine ceasefire talks in the UAE.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss",
+      "datum": "40 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "beschrijving": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "beschrijving": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
@@ -32,26 +32,17 @@
       "titel": "Militaire delegatie omgekomen bij vliegtuigongeluk in Congo",
       "beschrijving": "Bij een vliegtuigongeluk in Congo zijn alle zeventien inzittenden om het leven gekomen. Er was een militaire delegatie aan boord. Onder hen waren twee hoge militairen: het hoofd van de militaire rechtbank en een procureur-generaal van het militaire hof. Er waren ook vier burgers aan boord, onder wie een kind, melden lokale media. Het toestel was op de terugweg van Kikwit, in het zuidwesten van het",
       "url": "https://nos.nl/l/2632593",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Afrika",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Israel bans Arab parties from election: Who they are, why it matters",
-      "beschrijving": "Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
-      "beschrijving": "Analysts say Trump may opt to resume attacks on Iran after November midterm elections.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
+      "titel": "Thousands of students protest German military conscription",
+      "beschrijving": "More than 40,000 students have taken to the streets of Berlin, in protest of Germany&#039;s proposed military service plans.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "VS",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
@@ -59,16 +50,52 @@
       "titel": "Brazil's Lula bans online gambling ahead of presidential election",
       "beschrijving": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
       "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Amerikaanse ambassadeur reageert fel op Jetten: 'ICC moet handen afhouden van VS'",
+      "beschrijving": "\"Handen af van het ICC\", sprak premier Rob Jetten donderdag tijdens de Algemene Vergadering van de Verenigde Naties in New York. De Amerikaanse ambassadeur in Nederland, Joe Popolo, schrijft op X dat de Verenigde Staten daartoe best bereid zijn \"zolang het hof zijn handen afhoudt van de VS\". In zijn toespraak noemde Jetten de VS en president Trump niet expliciet, maar het was duidelijk voor wie zi",
+      "url": "https://nos.nl/l/2632633",
+      "datum": "1 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Opnieuw dode vrouw gevonden bij Johannesburg, nu al tien",
+      "beschrijving": "Opnieuw is bij de Zuid-Afrikaanse stad Johannesburg een dode vrouw gevonden. Dat heeft een lokale politiecommissaris bevestigd, schrijft het lokale nieuwsmedium IOL. Het lichaam werd vanochtend aangetroffen in de wijk Vusimusi op een begraafplaats. Forensisch specialisten doen onderzoek op de plek. In de afgelopen maanden werden al negen vermoorde vrouwen gevonden in een gebied aan de oostkant van",
+      "url": "https://nos.nl/l/2632629",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "26/9 in Nieuwsuur: Ebola in Congo • De toekomst van de VN",
+      "beschrijving": "Ebola in Congo De Bundibugyo-variant van ebola verspreidt zich verder in de Democratische Republiek Congo (DRC). Inmiddels zijn zeker 3799 mensen omgekomen, vooral jonge kinderen zijn kwetsbaar. Het is de dodelijkste uitbraak van het virus ooit. Correspondent Elles van Gelder bezocht een ebolakliniek in het noordoosten van het land en maakte een verslag. De toekomst van de VN Deze week was de jaar",
+      "url": "https://nos.nl/l/2632625",
+      "datum": "2 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Honderdduizenden mensen op de been voor openluchtmis paus Leo in Parijs",
+      "beschrijving": "In Parijs hebben honderdduizenden mensen zich verzameld voor een openluchtmis van paus Leo. Volgens de organisatie hebben 600.000 mensen zich ervoor aangemeld. Ook wonen 2400 priesters en zo'n 100 bisschoppen de mis bij. De mis wordt gehouden op de Place de la Concorde, waar de paus in zijn pausmobiel naartoe reed. Dat deed hij door een juichende mensenmassa op de Champs-Élysées: De organisatie va",
+      "url": "https://nos.nl/l/2632614",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Grote delen van Bangkok overstroomd na aanhoudende zware regenval",
       "beschrijving": "Aanhoudend zware regenval heeft in de Thaise hoofdstad Bangkok geleid tot overstromingen op tal van plekken. De situatie is gestabiliseerd, nadat eerder op de dag de noodtoestand werd uitgeroepen door de gouverneur. In alle 50 districten van Bangkok riep de gouverneur de noodtoestand uit, hoewel niet alle delen van Bangkok onder water stonden. Sinds donderdag kampt de miljoenenstad met zware regen",
       "url": "https://nos.nl/l/2632591",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +104,7 @@
       "titel": "Modellen van OpenAI probeerden in te breken bij Amerikaanse overheidswebsites",
       "beschrijving": "AI-systemen van het Amerikaanse bedrijf OpenAI hebben de afgelopen maanden beveiligingsmaatregelen van diverse Amerikaanse overheidswebsites omzeild. OpenAI zegt dat er geen sprake was van kwaadaardige inbreuken, al toont onafhankelijk onderzoek wel aan dat AI-systemen van het bedrijf op grote schaal restricties negeerden. Het non-profit AI-onderzoeksbureau Transluce meldt dat OpenAI-bots onder me",
       "url": "https://nos.nl/l/2632578",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +113,7 @@
       "titel": "Opnieuw mediabeperking Witte Huis: CNN mag niet met Trump mee in Air Force One",
       "beschrijving": "De Amerikaanse nieuwszender CNN mag opnieuw niet in de buurt komen van president Trump: de zender wordt niet toegelaten aan boord van de Air Force One. Trump woont vandaag een American football-wedstrijd bij tussen universiteitsteams uit Tennessee en Texas. CNN is voor Trumps bezoek aan Knoxville in Tennessee vandaag vervangen door journalisten van de conservatieve zender Real America's Voice News",
       "url": "https://nos.nl/l/2632565",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,70 +122,43 @@
       "titel": "Podcast De Dag: hoe Rusland Europa saboteert met wegwerpspionnen",
       "beschrijving": "Rusland zat achter een van de bekendste sabotageacties, zo concludeert Polen. Door brandstichting twee jaar geleden is het grootste winkelcentrum van Warschau er niet meer. Die actie geeft een uniek kijkje in hoe de Russen Europa proberen te raken met de zogenoemde hybride aanvallen. Met wegwerpspionnen en tussenpersonen deelt Rusland prikken uit, zonder dat de daders weten dat ze het namens Rusla",
       "url": "https://nos.nl/l/2632556",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Poetin stelt artikel 5 op de proef, 'Rusland wordt steeds roekelozer'",
-      "beschrijving": "Brandstichting, sabotage, pogingen tot liquidaties: Rusland voert de hybride oorlogsvoering op Europees grondgebied steeds verder op. Hoewel niet altijd kan worden bewezen dat Rusland achter dit soort acties zit, steekt het Kremlin zelf niet onder stoelen of banken dat het onrust wil kweken met sabotage. \"Wij maken onze methodes veel harder om alles te vernietigen wat de oorlogsmachine van Kyiv vo",
-      "url": "https://nos.nl/l/2632555",
-      "datum": "7 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "240.000 woningen onteigenen: Die Linke heeft grote plannen na winst in Berlijn",
-      "beschrijving": "Berlijn krijgt hoogstwaarschijnlijk voor het eerst een burgemeester van Die Linke. De socialistische partij won afgelopen week de deelstaatverkiezingen en wil een coalitie vormen met de Groenen en de SPD. Die Linke voerde campagne met een opvallende belofte in de strijd tegen hoge huren: het onteigenen van grote vastgoedbedrijven. Het plan is om bedrijven met meer dan 3000 woningen onder controle ",
-      "url": "https://nos.nl/l/2632554",
-      "datum": "7 uur geleden",
+      "titel": "Women take up arms as sexual violence ravages eastern DRC",
+      "beschrijving": "As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss",
+      "datum": "32 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Wekdienst 26/09: Vollering jaagt op wereldtitel • Openluchtmis paus in Parijs",
-      "beschrijving": "Goedemorgen! In Montreal rijden Demi Vollering en haar wielercollega's de wegwedstrijd van de WK Wielrennen. En Paus Leo XIV zet het centrum van Parijs op stelten. Eerst het weer: vandaag zijn er wolkenvelden, maar ook nu en dan zon. De maxima liggen tussen 19 en 22 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamheden en hier alles over de situatie op het spoor",
-      "url": "https://nos.nl/l/2632553",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "TikTok schikt voor miljoenen in Alabama en komt met tijdslimiet voor kinderen",
-      "beschrijving": "TikTok heeft een schikking getroffen met de Amerikaanse staat Alabama. Het bedrijf betaalt minimaal 100 miljoen dollar (87 miljoen euro) en voert beperkingen in de staat in voor kinderen die het platform gebruiken. Maandag zou er in Alabama een rechtszaak tegen TikTok starten. Daarin werd het sociale mediabedrijf ervan beschuldigd dat de app opzettelijk verslavend is gemaakt voor kinderen en slech",
-      "url": "https://nos.nl/l/2632551",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Pressure to boycott Israel game grows as Ireland preparations stall",
-      "beschrijving": "Ireland are due to play Israel in the Nations League in Hungary on Sunday, but boycott pressure mounts on and off-field.",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Jerusalem Daily: violence continues as the world watches the UNGA",
+      "beschrijving": "As the UN General Assembly enters its fifth day, with world leaders denouncing Israeli violence against Palestinians.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
+      "datum": "42 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-      "beschrijving": "In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran&#039;s messages to the US.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
+      "beschrijving": "Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "beschrijving": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "titel": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "beschrijving": "The US president says Tehran had only put forward the proposal because it is losing the war.",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "40 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,31 +167,22 @@
       "titel": "British national among six dead in building explosion close to Acropolis in Athens",
       "beschrijving": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
       "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
-      "beschrijving": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "Houthi-raketten gericht op Saudi-Arabië onderschept en vernietigd",
-    "Suicide bombing in Pakistan’s Dera Ismail Khan kills several people",
-    "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+    "At least 10 people killed in Russian and Ukrainian attacks",
+    "Security lapses at Utah campus where Charlie Kirk was killed, review says",
     "Militaire delegatie omgekomen bij vliegtuigongeluk in Congo",
-    "Israel bans Arab parties from election: Who they are, why it matters",
-    "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
+    "Thousands of students protest German military conscription",
     "Brazil's Lula bans online gambling ahead of presidential election",
-    "Grote delen van Bangkok overstroomd na aanhoudende zware regenval",
-    "Modellen van OpenAI probeerden in te breken bij Amerikaanse overheidswebsites",
-    "Opnieuw mediabeperking Witte Huis: CNN mag niet met Trump mee in Air Force One"
+    "Amerikaanse ambassadeur reageert fel op Jetten: 'ICC moet handen afhouden van VS'",
+    "Opnieuw dode vrouw gevonden bij Johannesburg, nu al tien",
+    "26/9 in Nieuwsuur: Ebola in Congo • De toekomst van de VN",
+    "Honderdduizenden mensen op de been voor openluchtmis paus Leo in Parijs"
   ]
 }
