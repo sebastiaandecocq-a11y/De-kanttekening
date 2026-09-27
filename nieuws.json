@@ -1,47 +1,101 @@
 {
-  "bijgewerkt": "27 Sep 2026 01:12 UTC",
+  "bijgewerkt": "27 Sep 2026 07:49 UTC",
   "artikelen": [
     {
-      "titel": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
-      "beschrijving": "Two women reportedly injured after building collapse in Athens&#039; historic Plaka district.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "OpenAI pauzeert training modellen na aanval op overheidswebsites",
+      "beschrijving": "Het Amerikaanse bedrijf OpenAI heeft de training van zijn AI-modellen tijdelijk stopgezet. Aanleiding zijn de aanvallen van Open AI-agents afgelopen zomer op websites van onder meer de Amerikaanse overheid. AI-agents zijn AI-programma's die bepaalde opdrachten kunnen uitvoeren. De agents van OpenAI hadden geen opdracht gekregen om websites aan te vallen, dat deden ze om de taak te volbrengen die a",
+      "url": "https://nos.nl/l/2632698",
+      "datum": "5 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "At least 27 people killed in two shootings in South African townships",
+      "beschrijving": "Incidents in Wedela southwest of ​Johannesburg and Lwandle near Cape Town come days after Durban mass shooting.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "beschrijving": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "titel": "Four killed in helicopter crash near Montreal",
+      "beschrijving": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Militaire delegatie omgekomen bij vliegtuigongeluk in Congo",
-      "beschrijving": "Bij een vliegtuigongeluk in Congo zijn alle zeventien inzittenden om het leven gekomen. Er was een militaire delegatie aan boord. Onder hen waren twee hoge militairen: het hoofd van de militaire rechtbank en een procureur-generaal van het militaire hof. Er waren ook vier burgers aan boord, onder wie een kind, melden lokale media. Het toestel was op de terugweg van Kikwit, in het zuidwesten van het",
-      "url": "https://nos.nl/l/2632593",
-      "datum": "14 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "midden",
+      "titel": "17 doden bij schietpartij met AK-47's in café Johannesburg, ook bij Kaapstad 10 doden",
+      "beschrijving": "In en voor een café in het Zuid-Afrikaanse dorpje Wedela, ten zuidwesten van Johannesburg, hebben acht schutters met AK-47's en andere vuurwapens gisteravond zeventien mensen doodgeschoten. Onder de slachtoffers zijn dertien mannen en vier vrouwen. Vijftien andere personen liepen schotwonden op. Er is een klopjacht geopend op de daders, meldt de Zuid-Afrikaanse politie op sociale media. Rond 21.30",
+      "url": "https://nos.nl/l/2632697",
+      "datum": "19 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Brazil's Lula bans online gambling ahead of presidential election",
-      "beschrijving": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
-      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "titel": "Voor Libië belangrijke oliepijpleiding heropend na sluiting door gewapende groepering",
+      "beschrijving": "De voor Libië uiterst belangrijke oliepijpleiding die eerder deze week door een gewapende groep werd dichtgedraaid, is weer open. Pijpleiding 7, die vanaf het Sharara-olieveld in het zuidwesten naar de haven van Zawiyah in het noorden van het land loopt, werd door de Petroleum Facilities Guard (PFG) afgesloten in de hoop zo betere arbeidsvoorwaarden af te dwingen. De PFG is een officieel erkende p",
+      "url": "https://nos.nl/l/2632696",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "In de Servische voetbalstadions wordt oorlogsmisdadiger Mladic als held vereerd",
+      "beschrijving": "Geschokte reacties uit het buitenland, drie weken geleden toen supporters van Rode Ster Belgrado in hun stadion waar Oranje zondag zijn eerste interland ooit tegen Servië speelt een enorme beeltenis van Ratko Mladic ontvouwden. De generaal van de Bosnische Serviërs tijdens de oorlog in de eerste helft van de jaren negentig zou de dag daarop met veel eer begraven worden in Belgrado. En dat terwijl ",
+      "url": "https://nos.nl/l/2632695",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "EU stelt 710 miljoen euro extra beschikbaar voor vluchtelingen en noodhulp wereldwijd",
+      "beschrijving": "De Europese Commissie stelt bijna 710 miljoen euro beschikbaar voor vluchtelingen en noodhulp wereldwijd. Het grootste deel van het geld gaat naar vluchtelingen in Afrika, maar er gaat ook een deel naar vluchtelingen in het Midden-Oosten en Oekraïne. Van de bijna 710 miljoen is 380 miljoen bestemd voor Afrikaanse landen ten zuiden van de Sahara. Dat geld is onder meer bedoeld voor \"kwetsbare\" vluc",
+      "url": "https://nos.nl/l/2632693",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Universiteit was te laks in beveiliging Charlie Kirk",
+      "beschrijving": "De Utah Valley University heeft steken laten vallen bij de beveiliging van het evenement waar vorig jaar de omstreden politiek activist Charlie Kirk werd doodgeschoten. Er werd te veel overgelaten aan diens eigen beveiligers en maar weinig overlegd. Bovendien waren enkele basale veiligheidsmaatregelen niet op orde, concludeert een onafhankelijk rapport. De 31-jarige Kirk was vorig jaar bezig aan e",
+      "url": "https://nos.nl/l/2632692",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Omstreden Oranjemars Noord-Ierland mag na nachtelijk vonnis toch doorgaan",
+      "beschrijving": "In Noord-Ierland wordt vanochtend voor het eerst in 28 jaar weer een Oranjemars gehouden door een katholieke wijk in de stad Portadown. De protestantse optocht liep in de jaren 90 vaak uit op gewelddadigheden en was daarom sinds 1998 verboden. In dat jaar kwam er met het Goedevrijdagakkoord een einde aan het bloedige conflict in Noord-Ierland. Dit jaar mag het weer, onder strikte voorwaarden. Zo m",
+      "url": "https://nos.nl/l/2632687",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Venezuela laat opnieuw politieke gevangenen vrij, nog honderden zitten vast",
+      "beschrijving": "Venezuela heeft opnieuw gevangenen vrijgelaten, onder wie politieke gevangenen, melden mensenrechtenorganisaties in het Zuid-Amerikaanse land. Het precieze aantal is nog niet duidelijk. Zo meldt een mensenrechtengroepering dat er zaterdagochtend zeven dissidenten zijn vrijgelaten uit een gevangenis bij de hoofdstad Caracas. Een van hen is Wilder Vasquez, een student die tot vijf jaar cel was veroo",
+      "url": "https://nos.nl/l/2632684",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Duizenden demonstranten bij protest tegen woningcrisis in Spanje",
       "beschrijving": "Duizenden mensen zijn vandaag in de Spaanse hoofdstad Madrid de straat opgegaan om te protesteren tegen de woningcrisis. De demonstranten willen maatregelen om huurders te beschermen, regels om fraude tegen te gaan en een verbod op uithuiszettingen zonder alternatieve huisvesting. Een deel van de demonstranten is na de protestmars teruggekeerd naar het plein Puerta del Sol om daar te kamperen, sch",
       "url": "https://nos.nl/l/2632672",
-      "datum": "4 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,148 +104,85 @@
       "titel": "Hoe Frankrijk lagere inkomens helpt aan een elektrische auto",
       "beschrijving": "Met een steunplan voor tweedehands elektrische auto's wil Nederland elektrisch rijden toegankelijker maken. In Frankrijk bestaat al iets vergelijkbaars: mensen met een lager inkomen kunnen aanspraak maken op 'leasing social', een sociaal leaseplan voor elektrische auto's. Voor wie aan de voorwaarden voldoet, kan het een uitkomst zijn. Maar de Franse aanpak is nog niet toereikend, zeggen kenners te",
       "url": "https://nos.nl/l/2632671",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nieuw noodweer in Nepal maakt hulpverlening lastig, vrees voor aardverschuivingen",
-      "beschrijving": "\"Soms weet ik niet of dit een droom is of de werkelijkheid\", zegt Deki Thokra, terwijl ze dikke stukken yakkaas snijdt. Haar winkel houdt haar op de been nadat ze vorige maand haar man, drie broers en een neefje verloor door de vloedgolf in Nepal. De mannen waren onderweg naar de grens om goederen uit China op te halen. \"Ze hebben niet eens een been of een hand gevonden van mijn man, hoe moet ik g",
-      "url": "https://nos.nl/l/2632648",
-      "datum": "7 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Amerikaanse ambassadeur reageert fel op Jetten: 'ICC moet handen afhouden van VS'",
-      "beschrijving": "\"Handen af van het ICC\", sprak premier Rob Jetten donderdag tijdens de Algemene Vergadering van de Verenigde Naties in New York. De Amerikaanse ambassadeur in Nederland, Joe Popolo, schrijft op X dat de Verenigde Staten daartoe best bereid zijn \"zolang het hof zijn handen afhoudt van de VS\". In zijn toespraak noemde Jetten de VS en president Trump niet expliciet, maar het was duidelijk voor wie zi",
-      "url": "https://nos.nl/l/2632633",
-      "datum": "10 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Opnieuw dode vrouw gevonden bij Johannesburg, nu al tien",
-      "beschrijving": "Opnieuw is bij de Zuid-Afrikaanse stad Johannesburg een dode vrouw gevonden. Dat heeft een lokale politiecommissaris bevestigd, schrijft het lokale nieuwsmedium IOL. Het lichaam werd vanochtend aangetroffen in de wijk Vusimusi op een begraafplaats. Forensisch specialisten doen onderzoek op de plek. In de afgelopen maanden werden al negen vermoorde vrouwen gevonden in een gebied aan de oostkant van",
-      "url": "https://nos.nl/l/2632629",
       "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "26/9 in Nieuwsuur: Ebola in Congo • De toekomst van de VN",
-      "beschrijving": "Ebola in Congo De Bundibugyo-variant van ebola verspreidt zich verder in de Democratische Republiek Congo (DRC). Inmiddels zijn zeker 3799 mensen omgekomen, vooral jonge kinderen zijn kwetsbaar. Het is de dodelijkste uitbraak van het virus ooit. Correspondent Elles van Gelder bezocht een ebolakliniek in het noordoosten van het land en maakte een verslag. De toekomst van de VN Deze week was de jaar",
-      "url": "https://nos.nl/l/2632625",
-      "datum": "10 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Honderdduizenden mensen op de been voor openluchtmis paus Leo in Parijs",
-      "beschrijving": "In Parijs hebben honderdduizenden mensen zich verzameld voor een openluchtmis van paus Leo. Volgens de organisatie hebben 600.000 mensen zich ervoor aangemeld. Ook wonen 2400 priesters en zo'n 100 bisschoppen de mis bij. De mis wordt gehouden op de Place de la Concorde, waar de paus in zijn pausmobiel naartoe reed. Dat deed hij door een juichende mensenmassa op de Champs-Élysées: De organisatie va",
-      "url": "https://nos.nl/l/2632614",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Grote delen van Bangkok overstroomd na aanhoudende zware regenval",
-      "beschrijving": "Aanhoudend zware regenval heeft in de Thaise hoofdstad Bangkok geleid tot overstromingen op tal van plekken. De situatie is gestabiliseerd, nadat eerder op de dag de noodtoestand werd uitgeroepen door de gouverneur. In alle 50 districten van Bangkok riep de gouverneur de noodtoestand uit, hoewel niet alle delen van Bangkok onder water stonden. Sinds donderdag kampt de miljoenenstad met zware regen",
-      "url": "https://nos.nl/l/2632591",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Modellen van OpenAI probeerden in te breken bij Amerikaanse overheidswebsites",
-      "beschrijving": "AI-systemen van het Amerikaanse bedrijf OpenAI hebben de afgelopen maanden beveiligingsmaatregelen van diverse Amerikaanse overheidswebsites omzeild. OpenAI zegt dat er geen sprake was van kwaadaardige inbreuken, al toont onafhankelijk onderzoek wel aan dat AI-systemen van het bedrijf op grote schaal restricties negeerden. Het non-profit AI-onderzoeksbureau Transluce meldt dat OpenAI-bots onder me",
-      "url": "https://nos.nl/l/2632578",
-      "datum": "17 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
-      "beschrijving": "Iran says it’s still waiting for an official response from the US on its proposal to reopen the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss",
-      "datum": "21 min geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
-      "beschrijving": "US president rejects Iran&#039;s seven-day plan to reopen the Strait of Hormuz, saying the deal is not &#039;acceptable&#039;.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-      "beschrijving": "Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Powerful storm brings flooding, power outages to northeastern United States",
-      "beschrijving": "Authorities warn residents that extreme conditions in the region could pose risks.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
+      "titel": "Ethiopia’s army promises restraint amid fears of new civil war",
+      "beschrijving": "Army chief accuses Eritrea of funding and supporting armed groups to weaken Ethiopia.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
-      "beschrijving": "Four people were killed and four wounded near the capital of Kingstown on the islands, known as a tourism destination.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Detained Tunisian flotilla activists: Worsening health amid family anguish",
+      "beschrijving": "As activists’ health deteriorates, families describe the toll of separation, hunger strikes and uncertainty.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-      "beschrijving": "A wave of Russian strikes has hit various regions across Ukraine.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
+      "titel": "German, Russian foreign ministers hold rare talks amid rising tensions",
+      "beschrijving": "Russia&#039;s Lavrov dismisses Wadephul&#039;s call to abandon &#039;dangerous path of escalation&#039; with Europe.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss",
       "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "beschrijving": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "titel": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "beschrijving": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "datum": "5 min geleden",
       "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+      "beschrijving": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+      "datum": "8 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "British national among six dead in building explosion close to Acropolis in Athens",
+      "beschrijving": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "datum": "19 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Republic of Ireland to wear black armbands for Israel game",
+      "beschrijving": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "datum": "11 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Four American tourists among 6 killed in suspected gas leak blast in Athens",
-    "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-    "Militaire delegatie omgekomen bij vliegtuigongeluk in Congo",
-    "Brazil's Lula bans online gambling ahead of presidential election",
-    "Duizenden demonstranten bij protest tegen woningcrisis in Spanje",
-    "Hoe Frankrijk lagere inkomens helpt aan een elektrische auto",
-    "Nieuw noodweer in Nepal maakt hulpverlening lastig, vrees voor aardverschuivingen",
-    "Amerikaanse ambassadeur reageert fel op Jetten: 'ICC moet handen afhouden van VS'",
-    "Opnieuw dode vrouw gevonden bij Johannesburg, nu al tien",
-    "26/9 in Nieuwsuur: Ebola in Congo • De toekomst van de VN"
+    "OpenAI pauzeert training modellen na aanval op overheidswebsites",
+    "At least 27 people killed in two shootings in South African townships",
+    "Four killed in helicopter crash near Montreal",
+    "17 doden bij schietpartij met AK-47's in café Johannesburg, ook bij Kaapstad 10 doden",
+    "Voor Libië belangrijke oliepijpleiding heropend na sluiting door gewapende groepering",
+    "In de Servische voetbalstadions wordt oorlogsmisdadiger Mladic als held vereerd",
+    "EU stelt 710 miljoen euro extra beschikbaar voor vluchtelingen en noodhulp wereldwijd",
+    "Universiteit was te laks in beveiliging Charlie Kirk",
+    "Omstreden Oranjemars Noord-Ierland mag na nachtelijk vonnis toch doorgaan",
+    "Venezuela laat opnieuw politieke gevangenen vrij, nog honderden zitten vast"
   ]
 }
