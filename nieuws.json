@@ -1,20 +1,29 @@
 {
-  "bijgewerkt": "27 Sep 2026 07:49 UTC",
+  "bijgewerkt": "27 Sep 2026 13:41 UTC",
   "artikelen": [
+    {
+      "titel": "Nederland wapent zich met Europese bondgenoten tegen VS-aanval op Strafhof",
+      "beschrijving": "Gaat de VS het hele Internationaal Strafhof op de sanctielijst zetten? In Den Haag maar ook in Brussel zijn alle ogen gericht op Washington, dat dreigt het Hof \"steen voor steen\" af te breken. \"Handen af van het Internationaal Strafhof\", zei premier Jetten eerder deze week in New York bij de Verenigde Naties. Nederland krijgt steun van Europese bondgenoten. \"Bedreigingen en aanvallen tegen het Int",
+      "url": "https://nos.nl/l/2632708",
+      "datum": "4 uur geleden",
+      "regio": "VS",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "OpenAI pauzeert training modellen na aanval op overheidswebsites",
       "beschrijving": "Het Amerikaanse bedrijf OpenAI heeft de training van zijn AI-modellen tijdelijk stopgezet. Aanleiding zijn de aanvallen van Open AI-agents afgelopen zomer op websites van onder meer de Amerikaanse overheid. AI-agents zijn AI-programma's die bepaalde opdrachten kunnen uitvoeren. De agents van OpenAI hadden geen opdracht gekregen om websites aan te vallen, dat deden ze om de taak te volbrengen die a",
       "url": "https://nos.nl/l/2632698",
-      "datum": "5 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "At least 27 people killed in two shootings in South African townships",
-      "beschrijving": "Incidents in Wedela southwest of ​Johannesburg and Lwandle near Cape Town come days after Durban mass shooting.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Yemen government forces widen attacks against Houthis: What we know",
+      "beschrijving": "Yemeni government forces claim multiple air and ground operations across Taiz in 24 hours.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
@@ -23,16 +32,88 @@
       "titel": "Four killed in helicopter crash near Montreal",
       "beschrijving": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
       "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Political rallies fill Brazil’s streets a week before elections",
+      "beschrijving": "Rival political rallies have been held in Brazil as campaigns intensify with one week to go until election day.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Plane carrying DR Congo military delegation crashes",
+      "beschrijving": "A plane carrying a Congolese military delegation crashed in DR Congo, killing 17 people, including four civilians.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Zwitsers verwerpen voorstel om striktere vorm van neutraliteit in grondwet op te nemen",
+      "beschrijving": "De meerderheid van de Zwitserse kiezers heeft tegen een voorstel gestemd om een strengere definitie van neutraliteit in de grondwet op te nemen. Bijna alle stemmen zijn geteld, 68,9 procent stemde tegen het voorstel, aldus de Zwitserse publieke omroep. Als de kiezers voor het voorstel zouden hebben gestemd, zou dat Zwitserland hebben belemmerd om economische sancties op te leggen of samen te werke",
+      "url": "https://nos.nl/l/2632738",
+      "datum": "48 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Tientallen doden door zwaar noodweer in India en Nepal",
+      "beschrijving": "In India en Nepal zijn de afgelopen 48 uur zeker zeventig mensen om het leven gekomen door de enorme hoeveelheid regen die daar is gevallen. Rivieren traden daardoor buiten hun oevers en ook waren er aardverschuivingen. Vooral de noordelijke Indiase deelstaat Uttar Pradesh is getroffen, dit gebied grenst aan Nepal. 56 van de doden vielen in India, de andere in Nepal. Zeker 11 mensen worden vermist",
+      "url": "https://nos.nl/l/2632727",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Rijn bij Keulen lager dan ooit, Nederlandse riviercruise vastgelopen",
+      "beschrijving": "De waterstand in de Rijn bij Keulen is nu nog lager dan tijdens de lange droogteperiode in de zomer. Vanmiddag is een nieuw laagterecord gevestigd: het peil is nog maar 42 centimeter. Dat is drie centimeter minder dan op het dieptepunt in augustus. Voor schepen blijft er nu een vaargeul over van ongeveer 1,20 meter diep. Stroomopwaarts bij Kaub, een van de kritiekste punten van de Rijn, is de diep",
+      "url": "https://nos.nl/l/2632718",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Ouder vergeet kind in auto, meisje (1,5) overleden in België",
+      "beschrijving": "In België is een meisje van anderhalf jaar overleden nadat ze de hele dag in een auto had gezeten. Een van de ouders had haar in de auto gezet, maar was vergeten haar naar de opvang te brengen, meldt de Belgische justitie. Het drama was vrijdag in Bertem, niet ver van Leuven. Het meisje werd pas 's avonds in de auto gevonden, toen de ouder het oudste kind weer ging ophalen van school, meldt nieuws",
+      "url": "https://nos.nl/l/2632713",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Urenlange patstelling bij omstreden Oranjemars in Noord-Ierland",
+      "beschrijving": "In Noord-Ierland verkeren voor- en tegenstanders van de omstreden Oranjemars al uren in een patstelling. De protestantse optocht heeft voor het eerst in 28 jaar toestemming gekregen om door een katholieke wijk in de Noord-Ierse stad Portadown te trekken, maar de route wordt sinds vanmorgen door zo'n 2000 tegenbetogers geblokkeerd. De optocht liep in de jaren 90 vaak uit op geweld en was daarom sin",
+      "url": "https://nos.nl/l/2632709",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Groot alarm en arrestaties bij Britse luchtmachtbasis, mogelijk explosieven in auto's",
+      "beschrijving": "Bij een Britse luchtmachtbasis in het graafschap Gloucestershire is vanmorgen groot alarm geslagen in verband met een veiligheidsincident. De explosievenopruimingsdienst onderzoekt of er in auto's in de buurt van de basis explosieven zitten. Er wordt onder meer een robot ingezet om drie witte bestelbusjes te doorzoeken. Uit beelden blijkt dat uit zeker een busje zwarte vaten zijn gehaald: Het onde",
+      "url": "https://nos.nl/l/2632701",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "17 doden bij schietpartij met AK-47's in café Johannesburg, ook bij Kaapstad 10 doden",
-      "beschrijving": "In en voor een café in het Zuid-Afrikaanse dorpje Wedela, ten zuidwesten van Johannesburg, hebben acht schutters met AK-47's en andere vuurwapens gisteravond zeventien mensen doodgeschoten. Onder de slachtoffers zijn dertien mannen en vier vrouwen. Vijftien andere personen liepen schotwonden op. Er is een klopjacht geopend op de daders, meldt de Zuid-Afrikaanse politie op sociale media. Rond 21.30",
+      "beschrijving": "In en voor een café in het Zuid-Afrikaanse dorpje Wedela, ten zuidwesten van Johannesburg, hebben acht schutters met AK-47's en andere vuurwapens gisteravond zeventien mensen doodgeschoten. De slachtoffers zijn dertien mannen en vier vrouwen. Vijftien andere personen liepen schotwonden op. Er is een klopjacht geopend op de daders, meldt de Zuid-Afrikaanse politie op sociale media. Rond 21.30 uur l",
       "url": "https://nos.nl/l/2632697",
-      "datum": "19 min geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,98 +122,35 @@
       "titel": "Voor Libië belangrijke oliepijpleiding heropend na sluiting door gewapende groepering",
       "beschrijving": "De voor Libië uiterst belangrijke oliepijpleiding die eerder deze week door een gewapende groep werd dichtgedraaid, is weer open. Pijpleiding 7, die vanaf het Sharara-olieveld in het zuidwesten naar de haven van Zawiyah in het noorden van het land loopt, werd door de Petroleum Facilities Guard (PFG) afgesloten in de hoop zo betere arbeidsvoorwaarden af te dwingen. De PFG is een officieel erkende p",
       "url": "https://nos.nl/l/2632696",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "In de Servische voetbalstadions wordt oorlogsmisdadiger Mladic als held vereerd",
-      "beschrijving": "Geschokte reacties uit het buitenland, drie weken geleden toen supporters van Rode Ster Belgrado in hun stadion waar Oranje zondag zijn eerste interland ooit tegen Servië speelt een enorme beeltenis van Ratko Mladic ontvouwden. De generaal van de Bosnische Serviërs tijdens de oorlog in de eerste helft van de jaren negentig zou de dag daarop met veel eer begraven worden in Belgrado. En dat terwijl ",
-      "url": "https://nos.nl/l/2632695",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "EU stelt 710 miljoen euro extra beschikbaar voor vluchtelingen en noodhulp wereldwijd",
-      "beschrijving": "De Europese Commissie stelt bijna 710 miljoen euro beschikbaar voor vluchtelingen en noodhulp wereldwijd. Het grootste deel van het geld gaat naar vluchtelingen in Afrika, maar er gaat ook een deel naar vluchtelingen in het Midden-Oosten en Oekraïne. Van de bijna 710 miljoen is 380 miljoen bestemd voor Afrikaanse landen ten zuiden van de Sahara. Dat geld is onder meer bedoeld voor \"kwetsbare\" vluc",
-      "url": "https://nos.nl/l/2632693",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Universiteit was te laks in beveiliging Charlie Kirk",
-      "beschrijving": "De Utah Valley University heeft steken laten vallen bij de beveiliging van het evenement waar vorig jaar de omstreden politiek activist Charlie Kirk werd doodgeschoten. Er werd te veel overgelaten aan diens eigen beveiligers en maar weinig overlegd. Bovendien waren enkele basale veiligheidsmaatregelen niet op orde, concludeert een onafhankelijk rapport. De 31-jarige Kirk was vorig jaar bezig aan e",
-      "url": "https://nos.nl/l/2632692",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Omstreden Oranjemars Noord-Ierland mag na nachtelijk vonnis toch doorgaan",
-      "beschrijving": "In Noord-Ierland wordt vanochtend voor het eerst in 28 jaar weer een Oranjemars gehouden door een katholieke wijk in de stad Portadown. De protestantse optocht liep in de jaren 90 vaak uit op gewelddadigheden en was daarom sinds 1998 verboden. In dat jaar kwam er met het Goedevrijdagakkoord een einde aan het bloedige conflict in Noord-Ierland. Dit jaar mag het weer, onder strikte voorwaarden. Zo m",
-      "url": "https://nos.nl/l/2632687",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Venezuela laat opnieuw politieke gevangenen vrij, nog honderden zitten vast",
-      "beschrijving": "Venezuela heeft opnieuw gevangenen vrijgelaten, onder wie politieke gevangenen, melden mensenrechtenorganisaties in het Zuid-Amerikaanse land. Het precieze aantal is nog niet duidelijk. Zo meldt een mensenrechtengroepering dat er zaterdagochtend zeven dissidenten zijn vrijgelaten uit een gevangenis bij de hoofdstad Caracas. Een van hen is Wilder Vasquez, een student die tot vijf jaar cel was veroo",
-      "url": "https://nos.nl/l/2632684",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Duizenden demonstranten bij protest tegen woningcrisis in Spanje",
-      "beschrijving": "Duizenden mensen zijn vandaag in de Spaanse hoofdstad Madrid de straat opgegaan om te protesteren tegen de woningcrisis. De demonstranten willen maatregelen om huurders te beschermen, regels om fraude tegen te gaan en een verbod op uithuiszettingen zonder alternatieve huisvesting. Een deel van de demonstranten is na de protestmars teruggekeerd naar het plein Puerta del Sol om daar te kamperen, sch",
-      "url": "https://nos.nl/l/2632672",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hoe Frankrijk lagere inkomens helpt aan een elektrische auto",
-      "beschrijving": "Met een steunplan voor tweedehands elektrische auto's wil Nederland elektrisch rijden toegankelijker maken. In Frankrijk bestaat al iets vergelijkbaars: mensen met een lager inkomen kunnen aanspraak maken op 'leasing social', een sociaal leaseplan voor elektrische auto's. Voor wie aan de voorwaarden voldoet, kan het een uitkomst zijn. Maar de Franse aanpak is nog niet toereikend, zeggen kenners te",
-      "url": "https://nos.nl/l/2632671",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Ethiopia’s army promises restraint amid fears of new civil war",
-      "beschrijving": "Army chief accuses Eritrea of funding and supporting armed groups to weaken Ethiopia.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
+      "beschrijving": "Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss",
+      "datum": "23 min geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Detained Tunisian flotilla activists: Worsening health amid family anguish",
-      "beschrijving": "As activists’ health deteriorates, families describe the toll of separation, hunger strikes and uncertainty.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss",
+      "titel": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
+      "beschrijving": "Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+      "beschrijving": "Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
       "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "German, Russian foreign ministers hold rare talks amid rising tensions",
-      "beschrijving": "Russia&#039;s Lavrov dismisses Wadephul&#039;s call to abandon &#039;dangerous path of escalation&#039; with Europe.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -140,49 +158,40 @@
       "titel": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
       "beschrijving": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
       "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "datum": "5 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+      "titel": "Two mass shootings in South Africa leave 27 dead",
+      "beschrijving": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
       "beschrijving": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
       "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "British national among six dead in building explosion close to Acropolis in Athens",
-      "beschrijving": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "datum": "19 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Republic of Ireland to wear black armbands for Israel game",
-      "beschrijving": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Nederland wapent zich met Europese bondgenoten tegen VS-aanval op Strafhof",
     "OpenAI pauzeert training modellen na aanval op overheidswebsites",
-    "At least 27 people killed in two shootings in South African townships",
+    "Yemen government forces widen attacks against Houthis: What we know",
     "Four killed in helicopter crash near Montreal",
-    "17 doden bij schietpartij met AK-47's in café Johannesburg, ook bij Kaapstad 10 doden",
-    "Voor Libië belangrijke oliepijpleiding heropend na sluiting door gewapende groepering",
-    "In de Servische voetbalstadions wordt oorlogsmisdadiger Mladic als held vereerd",
-    "EU stelt 710 miljoen euro extra beschikbaar voor vluchtelingen en noodhulp wereldwijd",
-    "Universiteit was te laks in beveiliging Charlie Kirk",
-    "Omstreden Oranjemars Noord-Ierland mag na nachtelijk vonnis toch doorgaan",
-    "Venezuela laat opnieuw politieke gevangenen vrij, nog honderden zitten vast"
+    "Political rallies fill Brazil’s streets a week before elections",
+    "Plane carrying DR Congo military delegation crashes",
+    "Zwitsers verwerpen voorstel om striktere vorm van neutraliteit in grondwet op te nemen",
+    "Tientallen doden door zwaar noodweer in India en Nepal",
+    "Rijn bij Keulen lager dan ooit, Nederlandse riviercruise vastgelopen",
+    "Ouder vergeet kind in auto, meisje (1,5) overleden in België"
   ]
 }
