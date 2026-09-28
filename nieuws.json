@@ -1,48 +1,39 @@
 {
-  "bijgewerkt": "27 Sep 2026 21:55 UTC",
+  "bijgewerkt": "28 Sep 2026 00:26 UTC",
   "artikelen": [
     {
       "titel": "Vijf mannen aangehouden voor voorbereiden terroristische aanslag bij RAF-basis in VK",
       "beschrijving": "De Britse politie heeft vannacht vijf mannen opgepakt op verdenking van het voorbereiden van een terroristische aanslag. Dat heeft de politie vanmiddag bekendgemaakt in een korte verklaring. Over de identiteit van de mannen is niets bekendgemaakt. De arrestaties waren in de buurt van de luchtmachtbasis van de Royal Air Force bij Fairford in het graafschap Gloucestershire. Daar zijn behalve Britse ",
       "url": "https://nos.nl/l/2632749",
-      "datum": "8 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Three killed, four injured in shooting at Detroit, Michigan, strip club",
-      "beschrijving": "Police say the US shooting followed an altercation at an after-hours venue, and four people are in hospital.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/three-killed-four-injured-in-shooting-at-detroit-michigan-strip-club?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
       "titel": "Four killed in helicopter crash near Montreal",
       "beschrijving": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
       "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-      "datum": "19 uur geleden",
+      "datum": "21 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Servische president Vucic opgestapt, weg vrij voor verkiezingen",
+      "beschrijving": "De Servische president Vucic is opgestapt. Hij maakt daarmee de weg vrij voor vervroegde verkiezingen. Op 25 oktober mogen de Serviërs een nieuw parlement kiezen, de stembusgang stond eigenlijk voor december 2027 gepland. Vucic, die al negen jaar president is, had in juni zijn vertrek al aangekondigd. Zijn opstappen volgt op een lange periode van protesten tegen zijn regering. De onvrede manifeste",
+      "url": "https://nos.nl/l/2632830",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
       "titel": "Israeli strikes continue in southern Lebanon despite ceasefire",
       "beschrijving": "An Israeli Apache helicopter struck a commercial centre near Mayfadoun in Southern Lebanon.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-      "datum": "57 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
-      "beschrijving": "Cuba&#039;s deputy foreign minister slams US sanctions, labelling them &#039;equivalent to genocide&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
@@ -50,7 +41,7 @@
       "titel": "Embattled Serbian president resigns, paving way for early elections",
       "beschrijving": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
       "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -59,16 +50,34 @@
       "titel": "Venezuela releases dozens of political prisoners as election calls grow",
       "beschrijving": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
       "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Katholieke betogers van straat, Oranjemars Noord-Ierland hele dag geblokkeerd",
+      "beschrijving": "In de Noord-Ierse stad Portadown hebben katholieke betogers voorkomen dat de omstreden Oranjemars van protestanten zondag kon plaatsvinden. Tot na middernacht blokkeerden ze Garvaghy Road, waar de optocht langs zou komen. De blokkade begon al in de nacht van zaterdag op zondag. De hele dag stonden betogers tegenover elkaar. Na middernacht berichtte de BBC dat de katholieke betogers de weg hadden v",
+      "url": "https://nos.nl/l/2632832",
+      "datum": "4 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zuid-Korea eist excuses na bekendmaking Zelensky over Noord-Koreaanse krijgsgevangenen",
+      "beschrijving": "Zuid-Korea eist excuses en een officiële verklaring van Oekraïne omdat het naar buiten heeft gebracht dat Noord-Koreaanse krijgsgevangenen op het vliegtuig naar Zuid-Korea zijn gezet. President Zelensky maakte dat afgelopen week bekend in een toespraak bij de Verenigde Naties. Volgens Zuid-Korea heeft Kyiv eenzijdig bekendgemaakt dat Noord-Koreaanse krijgsgevangenen aan Zuid-Korea waren overgedrag",
+      "url": "https://nos.nl/l/2632829",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Vliegtuig van Frankfurt naar Lissabon landt in Lyon: brandende powerbank aan boord",
       "beschrijving": "Een vliegtuig van de Duitse luchtvaartmaatschappij Lufthansa dat onderweg was naar Lissabon, is in Lyon geland nadat aan boord een powerbank vlam had gevat. Duitse media melden dat het vliegtuig gisteravond was vertrokken vanuit Frankfurt naar de Portugese hoofdstad toen het oplaadapparaat in brand vloog, in de buurt van een stoel. Nadat het brandende apparaat was ontdekt, hebben bemanningsleden v",
       "url": "https://nos.nl/l/2632801",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +86,7 @@
       "titel": "Buitenlandministers Duitsland en Rusland spraken over graanexport en oorlog Oekraïne",
       "beschrijving": "De Duitse minister van Buitenlandse Zaken Wadephul heeft zijn Russische collega Lavrov aangesproken op het incident in Leipzig, waar vorige maand een drone werd aangetroffen met explosieve stoffen en een ontsteker. Duitsland zei al eerder dat Rusland achter het incident zit. Wadephul maakte Lavrov duidelijk dat Duitsland zichzelf zal verdedigen. De twee ministers spraken elkaar gisteren in de marg",
       "url": "https://nos.nl/l/2632798",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "Israël zet Nederlandse diplomaten Ramallah uit vanwege boycot Israëlische producten",
       "beschrijving": "Israël heeft de diplomatieke status van de Nederlandse diplomaten in Ramallah op de bezette Westelijke Jordaanoever ingetrokken. De Nederlanders moeten binnen zeven dagen vertrekken, meldt Gideon Sa'ar, de Israëlische minister van Buitenlandse Zaken. Volgens Sa'ar is het besluit het gevolg van Nederlandse maatregelen tegen Israël, waaronder het importverbod op goederen uit illegale nederzettingen.",
       "url": "https://nos.nl/l/2632790",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +104,7 @@
       "titel": "Doden na ruzie in illegale stripclub Detroit",
       "beschrijving": "In de Amerikaanse stad Detroit zijn drie doden en vier gewonden gevallen bij een schietpartij na een ruzie in een stripclub. Vanochtend vond de politie de drie doden op straat: mannen die door kogels waren geraakt. Vier anderen, twee mannen en twee vrouwen, zijn met onbekende verwondingen naar het ziekenhuis gebracht. Aan de schietpartij ging een ruzie in de stripclub vooraf, zegt de politie. \"Er ",
       "url": "https://nos.nl/l/2632788",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +113,7 @@
       "titel": "Was je op school een echte pestkop? Dan kun je de universiteit wel vergeten in Zuid-Korea",
       "beschrijving": "Wie zich in Zuid-Korea flink schuldig heeft gemaakt aan pesten, wordt steeds vaker van universiteiten geweerd. Al jaren kampt het land met een pestepidemie, die soms zeer gewelddadige vormen aanneemt. Ondanks overheidsinitiatieven om het schoolgeweld, zoals pesten in Zuid-Korea wordt genoemd, tegen te gaan, neemt het alleen maar toe. Schoolgeweld In Zuid-Korea wordt het succesvol afronden van een ",
       "url": "https://nos.nl/l/2632783",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,43 +122,25 @@
       "titel": "Vulkaan Etna ontregelt vliegverkeer op Sicilië opnieuw",
       "beschrijving": "De vulkanische activiteit van de Etna leidt tot vertragingen en annuleringen in het vliegverkeer van en naar Sicilië. Door de grote hoeveelheid as in de lucht heeft de luchtverkeersleiding het vliegverkeer op luchthaven Catania tot zeker middernacht stilgelegd. Catania is de belangrijkste luchthaven van het eiland. Tientallen vliegtuigen zijn dit weekend noodgedwongen omgeleid naar andere vliegvel",
       "url": "https://nos.nl/l/2632775",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "27/9 in Nieuwsuur: Verbod op Holocaust-gedenktegels • Haags optimisme over begrotingsgesprekken • Oekraïense economie",
-      "beschrijving": "AfD en CDU verbieden Holocaust-gedenktegels De gemeenteraad van een dorp in Oost-Duitsland heeft ingestemd met een verbod op het plaatsen van nieuwe 'stolpersteine', in Nederland bekend als struikelstenen. De rechts-radicale AfD en de christendemocratische CDU stemden voor het verbod op de gedenktegels voor slachtoffers van de Holocaust. Voorzichtig optimisme rond Haagse begrotingsgesprekken Voor ",
-      "url": "https://nos.nl/l/2632747",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
+      "titel": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+      "beschrijving": "Abbas Araghchi&#039;s warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+      "datum": "26 min geleden",
+      "regio": "Iran",
       "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zwitsers verwerpen voorstel om striktere vorm van neutraliteit in grondwet op te nemen",
-      "beschrijving": "De meerderheid van de Zwitserse kiezers heeft tegen een voorstel gestemd om een strengere definitie van neutraliteit in de grondwet op te nemen. Meer dan 70 procent stemde tegen het voorstel, bleek nadat alle stemmen waren geteld. Als de kiezers voor het voorstel zouden hebben gestemd, zou dat Zwitserland hebben belemmerd om economische sancties op te leggen of samen te werken met de NAVO. In de g",
-      "url": "https://nos.nl/l/2632738",
-      "datum": "9 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Tientallen doden door zwaar noodweer in India en Nepal",
-      "beschrijving": "In India en Nepal zijn de afgelopen 48 uur zeker zeventig mensen om het leven gekomen door de enorme hoeveelheid regen die daar is gevallen. Rivieren traden daardoor buiten hun oevers en ook waren er aardverschuivingen. Vooral de noordelijke Indiase deelstaat Uttar Pradesh is getroffen, dit gebied grenst aan Nepal. 56 van de doden vielen in India, de andere in Nepal. Zeker 11 mensen worden vermist",
-      "url": "https://nos.nl/l/2632727",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Ireland defeats Israel in controversial UEFA Nations League match",
       "beschrijving": "Ireland&#039;s players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.",
       "url": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
-      "datum": "13 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -158,40 +149,49 @@
       "titel": "Deadly strike hits market in Yemen’s Taiz",
       "beschrijving": "A strike on a market in the Yemeni city of Taiz has killed at least seven people and wounded 40.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
-      "datum": "54 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Ethiopian army reportedly recaptures strategic town as fighting spreads",
-      "beschrijving": "Ethiopia’s army has reportedly recaptured the strategic town of Sekota from Tigrayan forces as fighting spreads.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-ethiopia-tigray-escalation-sv-mp4?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Inside Yemen's front-line city as Houthis battle for control",
+      "beschrijving": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
-      "titel": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "beschrijving": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "Iran",
+      "titel": "Two mass shootings in South Africa leave 27 dead",
+      "beschrijving": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "datum": "10 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Switzerland rejects stricter interpretation of its neutrality",
+      "beschrijving": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+      "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+      "datum": "8 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "Vijf mannen aangehouden voor voorbereiden terroristische aanslag bij RAF-basis in VK",
-    "Three killed, four injured in shooting at Detroit, Michigan, strip club",
     "Four killed in helicopter crash near Montreal",
+    "Servische president Vucic opgestapt, weg vrij voor verkiezingen",
     "Israeli strikes continue in southern Lebanon despite ceasefire",
-    "‘Atrocious’ crime: Cuban official decries possibility of US military action",
     "Embattled Serbian president resigns, paving way for early elections",
     "Venezuela releases dozens of political prisoners as election calls grow",
+    "Katholieke betogers van straat, Oranjemars Noord-Ierland hele dag geblokkeerd",
+    "Zuid-Korea eist excuses na bekendmaking Zelensky over Noord-Koreaanse krijgsgevangenen",
     "Vliegtuig van Frankfurt naar Lissabon landt in Lyon: brandende powerbank aan boord",
-    "Buitenlandministers Duitsland en Rusland spraken over graanexport en oorlog Oekraïne",
-    "Israël zet Nederlandse diplomaten Ramallah uit vanwege boycot Israëlische producten"
+    "Buitenlandministers Duitsland en Rusland spraken over graanexport en oorlog Oekraïne"
   ]
 }
