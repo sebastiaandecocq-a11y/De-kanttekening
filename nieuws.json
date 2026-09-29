@@ -1,188 +1,197 @@
 {
-  "bijgewerkt": "29 Sep 2026 08:07 UTC",
+  "bijgewerkt": "29 Sep 2026 15:31 UTC",
   "artikelen": [
     {
-      "titel": "Israeli settlers attack Jalud village in occupied West Bank, torch homes",
-      "beschrijving": "A group of settlers attacked two homes belonging to the Al-Tubasi family in northern West Bank village.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/israeli-settlers-attack-jalud-village-in-occupied-west-bank-torch-homes?traffic_source=rss",
-      "datum": "6 min geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Estonia says Russia ordered August arson attack on defence company",
+      "beschrijving": "Tallinn accuses Moscow of responsibility for the fire at Estonian company Milrem Robotics, a supplier of unmanned ground vehicles to Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
-      "beschrijving": "Head of Hamas&#039;s armed wing in northern Gaza killed in ⁠an Israeli strike on an apartment building in Gaza City.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss",
-      "datum": "32 min geleden",
+      "titel": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+      "beschrijving": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
+      "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
-      "titel": "FIFA could disburse millions to members as Infantino seeks re-election",
-      "beschrijving": "FIFA president Infantino is open to providing &#039;greatest level of additional funding&#039; to associations amid opposition.",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/fifa-could-disburse-millions-to-members-as-infantino-seeks-re-election?traffic_source=rss",
-      "datum": "57 min geleden",
-      "regio": "Wereld",
+      "titel": "Arrestaties in Nederland om sanctieschending gelinkt aan Russische veiligheidsdienst",
+      "beschrijving": "Een Nederlandse strafrechtadvocate en een Russische softwareontwikkelaar zijn gearresteerd in een onderzoek naar het overtreden van de sancties tegen Rusland. Het Nederlandse bedrijf waarvoor ze werken, wordt in verband gebracht met het leveren van diensten aan een Russische bedrijvengroep die surveillancesoftware ontwikkelt voor de Russische veiligheidsdienst FSB. Het Openbaar Ministerie maakt de",
+      "url": "https://nos.nl/l/2633024",
+      "datum": "22 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
-      "titel": "OpenAI zegt sorry tegen Australië voor hack en ziet af van nieuw AI-model",
-      "beschrijving": "OpenAI, het bedrijf achter ChatGPT, heeft excuses aangeboden voor het hacken van Australische overheidswebsites. Programma's van OpenAI kregen afgelopen juni toegang tot de overheidswebsites zonder dat ze daar toestemming voor hadden, schrijft OpenAI in een verklaring. \"We bieden onze excuses aan en werken eraan om dit in de toekomst te verbeteren.\" De inbraak werd vorige week bekendgemaakt door d",
-      "url": "https://nos.nl/l/2632960",
+      "titel": "Regering Ethiopië boekt eerste overwinning in opgelaaide oorlog",
+      "beschrijving": "Na een week van gevechten in Ethiopië hebben regeringstroepen de belangrijke stad Alamata ingenomen. Op beelden is te zien dat tanks en pantserwagens door de straten rijden. De afgelopen dagen waren er al meerdere drone-aanvallen op de stad. Alamata ligt op een belangrijke doorgangsroute in Tigray, de regio waar tijdens de vorige oorlog, vier jaar geleden, ook veel werd gevochten. Nu is het een va",
+      "url": "https://nos.nl/l/2633022",
+      "datum": "25 min geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Na dagenlang protest neemt Spaanse regering maatregelen tegen woningcrisis",
+      "beschrijving": "De Spaanse regering heeft ingestemd met een pakket van nieuwe maatregelen om de woningcrisis in het land aan te pakken. Minister voor Gezondheidszorg Mónica García meldt op X dat het zogenoemde 'Maricarmen-decreet' is goedgekeurd. Het maatregelenpakket is vernoemd naar de 87-jarige Maricarmen Abascal, die vorige week haar huis uit werd gezet. Ze had daar zeventig jaar gewoond, maar kon de woning d",
+      "url": "https://nos.nl/l/2633014",
+      "datum": "58 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Rusland zat achter brandstichting bij defensiebedrijf, zegt Estland",
+      "beschrijving": "Rusland zat volgens de veiligheidsdiensten van Estland achter de brandstichting bij een defensiebedrijf dat wapens levert aan Oekraïne. Vorige maand werd er brandgesticht bij een vestiging in de hoofdstad Tallinn. Het defensiebedrijf Milrem Robotics levert wapens aan Oekraïne voor de oorlog tegen Rusland. Het gaat om onbemande militaire voertuigen, zoals mini-tanks. Die zijn bedoeld ter ondersteun",
+      "url": "https://nos.nl/l/2633013",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Cocaïne uit rechtbank Fiji verdwenen en vervangen door meel",
+      "beschrijving": "Bijna 40 kilo cocaïne die als bewijsmateriaal werd bewaard in een grote drugszaak op Fiji is verdwenen. Van de 39 blokken coke werden er 32 vervangen door meel, meldt de omroep Fijivillage. De overige zeven blokken waren al zoek. De politie ontdekte de vermissing in een rechtbank in de hoofdstad Suva op 15 september en startte een onderzoek. De cocaïne werd in 2019 in beslag genomen bij een man di",
+      "url": "https://nos.nl/l/2633008",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Van één uitzetting naar honderden tenten op Madrileense Puerta del Sol",
-      "beschrijving": "Het begon vorige week met de uitzetting van een bejaarde vrouw in het centrum van Madrid. Op een brancard werd ze haar huis uitgerold, waar ze 70 jaar had gewoond, maar door een huurverhoging niet kon blijven wonen. Maricarmen werd het symbool van de Spaanse woningcrisis dat mensen massaal de straat op kreeg. En nu bivakkeren honderden mensen in tenten op het Puerta del Sol, een van de beroemdste ",
-      "url": "https://nos.nl/l/2632955",
+      "titel": "Maleisië stuurt onbekend aantal Rohingya terug naar Myanmar: 'Onacceptabel'",
+      "beschrijving": "Maleisië is begonnen met het terugsturen van Myanmarese asielzoekers naar hun thuisland. Onder de eerste 1500 van de in totaal 5000 Myanmarezen die teruggestuurd worden, zit ook een onbekend aantal Rohingya. Dit tot grote verontwaardiging van mensenrechtenactivisten. \"Het is schandalig en onacceptabel om Rohingya terug te sturen naar het land dat tien jaar geleden een genocide op ze pleegde\", zegt",
+      "url": "https://nos.nl/l/2632995",
       "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Trumps ICC-woede is niet nieuw: Bush en zelfs Clinton hadden ook al scepsis",
-      "beschrijving": "Het Internationaal Strafhof (ICC) bestaat uit \"kwaadaardige mensen\" die \"schijnprocessen\" uitvoeren, zei de Amerikaanse president Trump vorige week. Eerder betoogde zijn buitenlandminister Rubio dat het hof desnoods \"steen voor steen\" moet worden afgebroken. Het is menens: de VS legde vorig jaar al sancties op aan het hof en dreigt daar nu een schepje bovenop te doen. Gevolg kan zijn dat het ICC z",
-      "url": "https://nos.nl/l/2632952",
-      "datum": "3 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 29/9: Uitspraak Hoge Raad in zaak Willem Engel • Debat over geluidsoverlast Schiphol",
-      "beschrijving": "Goedemorgen! De Hoge Raad doet uitspraak in de zaak tegen Viruswaarheid-voorman Willem Engel, en de Tweede Kamer debatteert over nieuwe regels tegen geluidsoverlast rond Schiphol. Eerst het weer: Vandaag is het droog met veel zon. Het wordt uitzonderlijk warm voor eind september met 23 tot 28 graden. Er waait een zuidoostenwind. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegw",
-      "url": "https://nos.nl/l/2632951",
-      "datum": "3 uur geleden",
+      "titel": "Podcast De Dag: NAZA, de Israëlische docu die Israël woedend maakt",
+      "beschrijving": "Oud-correspondent voor Israël en de Palestijnse gebieden Sander van Hoorn heeft als een van de eersten in Nederland de Israëlische documentaire NAZA gezien. Hij kwam, samen met de andere aanwezigen, beduusd uit de zaal, vertelt hij in de podcast. Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. In de document",
+      "url": "https://nos.nl/l/2632994",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Zeker twintig gewonden en 160 arrestaties bij scholierenprotesten in Frankrijk",
-      "beschrijving": "In Frankrijk zijn gisteren verspreid over het land 164 mensen opgepakt bij protesten op middelbare scholen. Daarbij raakten zeker 27 mensen gewond, onder wie twaalf medewerkers van de Franse veiligheidsdiensten, twaalf scholieren en drie schoolmedewerkers. De protestbeweging begon vorige week in de regio Parijs, toen scholieren de ingangen van hun middelbare scholen blokkeerden. Ze demonstreerden ",
-      "url": "https://nos.nl/l/2632946",
+      "titel": "Israëlische kolonisten blokkeren terugkeer Palestijnen naar Westoever",
+      "beschrijving": "Meer dan honderd Israëlische kolonisten hebben vannacht verhinderd dat een Palestijns gezin kon terugkeren naar huis op de Westelijke Jordaanoever. Ze blokkeerden wegen, staken autobanden in brand en gooiden stenen naar de Israëlische militairen en grenspolitie die de terugkeer van het gezin moesten begeleiden, meldt het leger. De twee huizen van het gezin en andere spullen van Palestijnse inwoner",
+      "url": "https://nos.nl/l/2632990",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Invallen in EU-onderzoek naar bende die oude mobieltjes verkocht als nieuw",
+      "beschrijving": "In Nederland en achttien andere Europese landen zijn doorzoekingen gedaan in een groot onderzoek naar een oplichtersbende. Een criminele organisatie zou op grote schaal oude smartphones hebben verkocht als nieuw. Bij elkaar hebben ze mensen naar schatting voor ruim 300 miljoen euro opgelicht. Zeven verdachten zijn opgepakt, meldt de openbaar aanklager van de EU (EPPO). Twee arrestanten worden besc",
+      "url": "https://nos.nl/l/2632983",
       "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Zeker twee doden na omslaan boot voor kust Puerto Rico",
-      "beschrijving": "Voor de kust van Puerto Rico is een boot gekapseisd. Daarbij zijn zeker twee mensen om het leven gekomen, veertig andere opvarenden zijn gered. De reddingsoperatie is nog altijd gaande. Volgens de Amerikaanse kustwacht sloeg de boot op volle zee om. Aan boord waren ongeveer zestig opvarenden. De drenkelingen dreven meer dan twaalf uur in het water bij het onbewoonde eiland Mona, totdat zij werden ",
-      "url": "https://nos.nl/l/2632945",
-      "datum": "7 uur geleden",
+      "titel": "Dodental door overstromingen in Thailand opgelopen naar 23",
+      "beschrijving": "Het dodental als gevolg van het noodweer in Thailand is opgelopen tot 23. In de hoofdstad Bangkok zijn zeker vier mensen om het leven gekomen. Het water in de overstroomde delen van Bangkok begon maandag langzaam te zakken, nadat het vrijwel het hele weekend had geregend. Volgens functionarissen van de Thaise hoofdstad zijn de omstandigheden voldoende verbeterd om het water sneller te kunnen afvoe",
+      "url": "https://nos.nl/l/2632974",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Na dagenlange protesten in Spanje mag vrouw (87) toch in woning blijven",
-      "beschrijving": "De Spaanse vrouw van 87 jaar die vorige week uit haar woning in Madrid was gezet, mag daar toch blijven wonen. Dat is de uitkomst van een gesprek met de verhuurder van het pand, meldt de Spaanse omroep RTVE. Maricarmen moest na meer dan 70 jaar haar huis uit, omdat ze na een forse huurverhoging de huur niet meer kon betalen. Ze werd in korte tijd het symbool van de wooncrisis en torenhoge huurprij",
-      "url": "https://nos.nl/l/2632944",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Onrust Amerikaanse justitie houdt aan: tweede man FBI stapt na jaar alweer op",
-      "beschrijving": "De tweede man van de FBI stapt op. Daarmee vertrekt opnieuw een belangrijke leidinggevende binnen het Amerikaanse justitieapparaat. Andrew Bailey was nog maar sinds augustus vorig jaar in dienst van de federale politiedienst. Hoewel hijzelf in een verklaring schrijft \"terug te willen keren naar mijn gezin in Missouri\", koppelen verschillende Amerikaanse media zijn vertrek aan de moeizame relatie m",
-      "url": "https://nos.nl/l/2632943",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Partijleider Rassemblement National in het nauw door onthulling antisemitische chats",
-      "beschrijving": "In Frankrijk is commotie ontstaan over Jordan Bardella, de partijleider van de radicaal-rechtse partij Rassemblement National. Onderzoeksplatform Mediapart onthulde dat Bardella in 2013 antisemitische opmerkingen heeft gemaakt in online berichten. De 31-jarige RN-leider ontkent de uitspraken te hebben gedaan en spreekt van \"flagrante leugens\". Mediapart schrijft dat het de bevindingen baseert op m",
-      "url": "https://nos.nl/l/2632935",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Brits schaakwonder (11) behaalt als jongste ooit titel vrouwelijke grootmeester",
-      "beschrijving": "Het 11-jarige Britse schaakwonder Bodhana Sivanandan heeft als jongste ooit de titel vrouwelijke grootmeester behaald. Ze stelde de titel veilig tijdens de Schaakolympiade in Oezbekistan. \"Ik ben blij dat het is gelukt, maar ik wil doorgaan en geschiedenis blijven schrijven\", zei Sivanandan na afloop van de 46e schaakolympiade tegen de internationale schaakbond FIDE. Het vorige leeftijdsrecord voo",
-      "url": "https://nos.nl/l/2632933",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Israel’s West Bank road closures turn routine journeys into long ordeals",
-      "beschrijving": "Palestinians face delayed medical care and long journeys as Israel tightens movement restrictions across the West Bank.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/israels-west-bank-road-closures-turn-routine-journeys-into-long-ordeals?traffic_source=rss",
-      "datum": "23 min geleden",
-      "regio": "Gaza/Israël",
+      "titel": "US-Iran talks in New York: What’s the latest?",
+      "beschrijving": "Both sides remain interested in a diplomatic settlement but differ on how to achieve one.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
+      "datum": "21 min geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
-      "beschrijving": "Google Maps images show scale of Israel&#039;s destruction of Gaza, where more than 74,000 Palestinians have been killed.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss",
-      "datum": "25 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Gaza doctors face tough decisions as patients face long waits for diagnoses",
-      "beschrijving": "Medical staff in Gaza struggle to treat patients with shortages in testing equipment.",
-      "url": "https://www.aljazeera.com/features/2026/9/29/gaza-doctors-face-tough-decisions-as-patients-face-long-waits-for-diagnoses?traffic_source=rss",
+      "titel": "Photos: French students protest, public workers strike before budget cuts",
+      "beschrijving": "About 40 people have been arrested and 10 injured as protesting students clash with police.",
+      "url": "https://www.aljazeera.com/gallery/2026/9/29/photos-french-studentspublic-workers-protest-macrons-planned-budget-cuts?traffic_source=rss",
       "datum": "40 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "AFCON qualifiers: Wissa guides DR Congo to win, Tunisia held by Botswana",
-      "beschrijving": "Democratic Republic of the Congo secure their second straight win in Group E, with striker Yoanne Wissa scoring again.",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/africa-cup-of-nations-qualifying-afcon-wissa-dr-congo-tunisia?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-      "beschrijving": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why has Putin added 15,000 new soldiers to Russia’s army?",
+      "beschrijving": "The move marks the fourth military expansion this year as Russia&#039;s war in Ukraine seemingly stalls.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss",
+      "datum": "44 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties",
+      "beschrijving": "Russian cash helped Essar, the firm behind the steel factory, manage major debts. Now the group&#039;s investing in the US.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/indian-firm-building-15bn-trump-announced-steel-mill-has-deep-russia-ties?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Sudan takes centre stage on final day of UNGA",
+      "beschrijving": "Sudan&#039;s foreign minister addressed the UNGA as his country faces war, mass displacement and a worsening aid shortfall.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_sudan-takes-centre-stage-on-final-day-of-unga-290926?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
+      "beschrijving": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "French PM warns against escalation of school protests after 164 arrested",
-      "beschrijving": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "titel": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "beschrijving": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+      "beschrijving": "National Rally President Jordan Bardella says he will sue for libel over comments he is accused of making as a young activist.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Israeli settlers attack Jalud village in occupied West Bank, torch homes",
-    "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
-    "FIFA could disburse millions to members as Infantino seeks re-election",
-    "OpenAI zegt sorry tegen Australië voor hack en ziet af van nieuw AI-model",
-    "Van één uitzetting naar honderden tenten op Madrileense Puerta del Sol",
-    "Trumps ICC-woede is niet nieuw: Bush en zelfs Clinton hadden ook al scepsis",
-    "Wekdienst 29/9: Uitspraak Hoge Raad in zaak Willem Engel • Debat over geluidsoverlast Schiphol",
-    "Zeker twintig gewonden en 160 arrestaties bij scholierenprotesten in Frankrijk",
-    "Zeker twee doden na omslaan boot voor kust Puerto Rico",
-    "Na dagenlange protesten in Spanje mag vrouw (87) toch in woning blijven"
+    "Estonia says Russia ordered August arson attack on defence company",
+    "Israeli settlers attack West Bank village and block Palestinian family's return home",
+    "Arrestaties in Nederland om sanctieschending gelinkt aan Russische veiligheidsdienst",
+    "Regering Ethiopië boekt eerste overwinning in opgelaaide oorlog",
+    "Na dagenlang protest neemt Spaanse regering maatregelen tegen woningcrisis",
+    "Rusland zat achter brandstichting bij defensiebedrijf, zegt Estland",
+    "Cocaïne uit rechtbank Fiji verdwenen en vervangen door meel",
+    "Maleisië stuurt onbekend aantal Rohingya terug naar Myanmar: 'Onacceptabel'",
+    "Podcast De Dag: NAZA, de Israëlische docu die Israël woedend maakt",
+    "Israëlische kolonisten blokkeren terugkeer Palestijnen naar Westoever"
   ]
 }
