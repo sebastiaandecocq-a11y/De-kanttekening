@@ -1,11 +1,11 @@
 {
-  "bijgewerkt": "30 Sep 2026 18:56 UTC",
+  "bijgewerkt": "30 Sep 2026 22:55 UTC",
   "artikelen": [
     {
-      "titel": "Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack",
-      "beschrijving": "Benjamin Netanyahu has met Yaniv Hayun, the Flydubai passenger that helped restrain a pilot who stabbed a colleague.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/netanyahu-meets-flydubai-passenger-who-subdued-pilot-in-stabbing-attack?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Israeli attacks across Gaza kill at least eight",
+      "beschrijving": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
@@ -14,7 +14,7 @@
       "titel": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "beschrijving": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
       "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,16 +23,25 @@
       "titel": "Britse supermarkten zetten AI in om stijgend aantal winkeldiefstallen te stoppen",
       "beschrijving": "Een sterke stijging in winkeldiefstal maakt dat steeds meer Britse supermarkten en winkels beveiligingscamera's met AI-technologie en gezichtsherkenning installeren. \"Als we dat niet doen, gaan we failliet\", zegt Nathan Walmsley, de manager van supermarktketen Filco in Wales. \"Zo extreem is het\", vertelt hij. \"Er wordt hier elke dag gestolen. Als we niet flink investeren in beveiliging, verliezen ",
       "url": "https://nos.nl/l/2633181",
-      "datum": "56 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Moet de AfD verboden worden? Kwestie voor het eerst in parlement Thüringen besproken",
+      "beschrijving": "Vormt de AfD zo'n groot gevaar voor Duitsland dat de partij verboden moet worden? Die vraag werd tot middernacht besproken in het deelstaatparlement van Thüringen. Voor het eerst werd in een Duits parlement een hoorzitting over dit thema gehouden. Zowel voor- als tegenstanders kwamen aan bod, met deels emotionele bijdragen. \"De partij is zo ver geradicaliseerd, dat het in de traditie van nationaal",
+      "url": "https://nos.nl/l/2633209",
+      "datum": "48 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Curaçao weigerde vlucht Venezolaanse oppositieleider na 'verzoek van hogerhand'",
       "beschrijving": "De Curaçaose luchtvaartautoriteit CCAA heeft vorige week een privévliegtuig geweigerd waarmee de Venezolaanse oppositieleider María Corina Machado vanuit Panama naar Curaçao wilde reizen. De beslissing werd genomen na een \"verzoek van hogerhand\", zegt CCAA-directeur Peter Steinmetz tegen de NOS. Wie dat verzoek deed, daar blijven betrokkenen vaag over. Ook navraag bij de Curaçaose regering levert ",
       "url": "https://nos.nl/l/2633188",
-      "datum": "3 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +50,7 @@
       "titel": "Gaza voor en na: nieuwe satellietbeelden laten de verwoesting zien",
       "beschrijving": "Op Google Maps zijn nieuwe satellietbeelden te zien die een indruk geven van de omvang van de Israëlische verwoestingen in Gaza. Waar eerst duidelijk wegen zichtbaar waren, is nu vooral puin te zien. Ook huizen en landbouwgrond zijn onherkenbaar geworden. Na de grootschalige terreuraanval van Hamas op Israël op 7 oktober 2023 barstte een oorlog los in de Gazastrook, de thuisbasis van Hamas. Op het",
       "url": "https://nos.nl/l/2633182",
-      "datum": "54 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +59,7 @@
       "titel": "Gehele redactie van onafhankelijk onderzoeksplatform gearresteerd in Egypte",
       "beschrijving": "Zes journalisten van het Egyptische onderzoeksplatform Matsaddash zijn deze week gearresteerd door de lokale autoriteiten. Daarmee zit de voltallige redactie van het platform vast. Het is niet bekend waarom de journalisten zijn aangehouden en waar zij momenteel vastzitten. De arrestaties begonnen maandagavond met invallen in de woningen van twee journalisten. Binnen 24 uur werden ook de andere vie",
       "url": "https://nos.nl/l/2633180",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +68,7 @@
       "titel": "Spaanse inspectie grijpt in: Nederlands gezinshuis moet per direct dicht",
       "beschrijving": "Een gezinshuis voor Nederlandse jeugdzorgjongeren in Spanje moet van de Spaanse inspectie direct stoppen. Het gezinshuis Huize Soria wordt gerund door een Nederlands stel. Uit onderzoek van Nieuwsuur bleek twee weken geleden dat er al jaren signalen zijn van onveiligheid. Naar aanleiding daarvan is de Spaanse inspectie voor de jeugdzorg zelf een onderzoek begonnen. De inspectie was eerder niet bek",
       "url": "https://nos.nl/l/2633176",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +77,7 @@
       "titel": "Executie van Amerikaanse Christa Pike op het laatste moment opgeschort",
       "beschrijving": "De executie van de Amerikaanse Christa Pike (50) in de staat Tennessee is ongeveer een uur voor de geplande uitvoering tegengehouden door een besluit van het federaal hof van beroep. Pike werd in 1996 ter dood veroordeeld voor een moord die ze in 1995 pleegde op de 19-jarige Colleen Slemmer. Pike was destijds 18 jaar en spande samen met haar toenmalige vriend, de 17-jarige Tadaryl Shipp. Slemmer w",
       "url": "https://nos.nl/l/2633155",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,16 +86,16 @@
       "titel": "NAZA laat zien hoe Israëlische leger met AI-systemen massaal kon doden in Gaza",
       "beschrijving": "\"Het ging om kwantiteit, niet om kwaliteit\", zegt een van de geïnterviewde militairen in de documentaire NAZA, over het massaal doden van Palestijnen in Gaza door het Israëlische leger met behulp van AI-systemen. In de documentaire, die morgen in tientallen landen in première gaat, vertellen 24 officieren en soldaten die betrokken waren bij inlichtingenwerk hoe het leger Gaza in korte tijd kon ver",
       "url": "https://nos.nl/l/2633154",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Israëlische minister: jihadistische terreurpoging op Flydubai-vlucht naar Israël",
-      "beschrijving": "De Israëlische minister van Defensie Katz spreekt van een jihadistische terreurpoging op de Flydubai-vlucht van Dubai naar Tel Aviv. Het toestel was vanochtend uren onderweg toen de copiloot de gezagvoerder stak om vervolgens het vliegtuig te laten crashen, vertellen ooggetuigen. Ook de Israëlische premier Netanyahu zegt dat de copiloot dit van plan was. Twee piloten die als passagier meevlogen zo",
+      "titel": "Israëlische Flydubai-passagiers geland in Tel Aviv: 'Door een wonder gered'",
+      "beschrijving": "De passagiers van de Flydubai-vlucht die vanochtend bijna crashte, zijn vanavond alsnog aangekomen op de luchthaven Ben-Gurion in Tel Aviv. Ze werden vanaf Saudi-Arabië naar Israël gebracht door een vliegtuig dat vooraf was gecontroleerd door de Israëlische geheime dienst Mossad. Op het vliegveld werden ze ontvangen door premier Netanyahu. Die heeft daar gesproken met onder anderen de passagiers d",
       "url": "https://nos.nl/l/2633152",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,68 +104,50 @@
       "titel": "Ook Nederlanders opgepakt voor steunen terrorisme bij demonstratie Liverpool",
       "beschrijving": "Bij de Palestine Action-demonstratie van afgelopen zondag bij het Labourcongres in Liverpool zijn ook Nederlanders opgepakt. Nieuwsuur volgde de demonstranten naar het Verenigd Koninkrijk. Maandag werd de laatste Nederlander vrijgelaten. Het gaat om demonstranten die ook voor Extinction Rebellion demonstreren in Nederland, maar ook regelmatig naar het Verenigd Koninkrijk afreizen. \"Wat daar gebeur",
       "url": "https://nos.nl/l/2633147",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Hoe passagiers op weg naar Israël ingrepen na geweld in de cockpit",
-      "beschrijving": "Een toestel van Flydubai dat van Dubai onderweg was naar Tel Aviv is mogelijk aan een terroristische aanslag ontkomen. Dat beeld komt naar voren uit eerste ooggetuigenverslagen en opnames uit het toestel. Tegelijk blijft veel onduidelijk. De veiligheidsdiensten in Israël hebben nog niet openlijk conclusies getrokken en zeggen te onderzoeken wat er aan boord is gebeurd. Op beelden aan boord zijn gi",
-      "url": "https://nos.nl/l/2633135",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "A political dynasty? Why the Bolsonaro family dominates Brazil’s right wing",
-      "beschrijving": "For a third election in a row, a Bolsonaro family member is the leading right-wing contender for Brazil&#039;s presidency.",
-      "url": "https://www.aljazeera.com/news/longform/2026/9/30/a-political-dynasty-why-the-bolsonaro-family-dominates-brazils-right-wing?traffic_source=rss",
-      "datum": "8 min geleden",
+      "titel": "Hong Kong journalist arrested on sedition charge",
+      "beschrijving": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+      "datum": "39 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Strong indications’ Iran linked to suspected UK airbase plot",
-      "beschrijving": "UK Prime Minister says there are ‘strong indications’ Iran played a part in the suspected RAF Fairford airbase plot.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
-      "datum": "46 min geleden",
-      "regio": "Iran",
+      "titel": "Russian drone crashes into Kyiv playground without exploding",
+      "beschrijving": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+      "datum": "41 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
-      "beschrijving": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Syria removed from US arms export ban list",
-      "beschrijving": "US has gradually loosened restrictions placed on Syria during the Assad era to aid country&#039;s recovery from conflict.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/syria-removed-from-us-arms-export-ban-list?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
-      "beschrijving": "Israeli raids at Al-Aqsa Mosque compound have intensified during the Jewish holiday season.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
+      "titel": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
+      "beschrijving": "A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight on which a pilot was stabbed.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+      "beschrijving": "The Israeli prime minister thanks &#039;true hero&#039; Captain Smit Machchhar for &#039;extraordinary bravery&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "What we know about stabbing on Flydubai flight to Israel",
-      "beschrijving": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
+      "beschrijving": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
       "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
@@ -167,7 +158,7 @@
       "titel": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
       "beschrijving": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
       "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,22 +167,22 @@
       "titel": "Girl has multiple surgeries to control infections after strike in Gaza",
       "beschrijving": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
       "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
+      "datum": "17 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack",
+    "Israeli attacks across Gaza kill at least eight",
     "Russia launches largest attack on Ukraine energy infrastructure since spring",
     "Britse supermarkten zetten AI in om stijgend aantal winkeldiefstallen te stoppen",
+    "Moet de AfD verboden worden? Kwestie voor het eerst in parlement Thüringen besproken",
     "Curaçao weigerde vlucht Venezolaanse oppositieleider na 'verzoek van hogerhand'",
     "Gaza voor en na: nieuwe satellietbeelden laten de verwoesting zien",
     "Gehele redactie van onafhankelijk onderzoeksplatform gearresteerd in Egypte",
     "Spaanse inspectie grijpt in: Nederlands gezinshuis moet per direct dicht",
     "Executie van Amerikaanse Christa Pike op het laatste moment opgeschort",
-    "NAZA laat zien hoe Israëlische leger met AI-systemen massaal kon doden in Gaza",
-    "Israëlische minister: jihadistische terreurpoging op Flydubai-vlucht naar Israël"
+    "NAZA laat zien hoe Israëlische leger met AI-systemen massaal kon doden in Gaza"
   ]
 }
