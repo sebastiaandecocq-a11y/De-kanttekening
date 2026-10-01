@@ -1,56 +1,101 @@
 {
-  "bijgewerkt": "01 Oct 2026 16:10 UTC",
+  "bijgewerkt": "01 Oct 2026 21:40 UTC",
   "artikelen": [
     {
-      "titel": "Opnieuw doden en gewonden in Afghanistan na Pakistaanse luchtaanvallen",
-      "beschrijving": "Bij Pakistaanse luchtaanvallen op buurland Afghanistan zijn zeker negen mensen gedood, onder wie vrouwen en kinderen, melden de Taliban. Bij de aanvallen op twee provincies raakten elf mensen gewond. Ook zouden drie huizen zijn verwoest. \"Wij veroordelen deze daad als een daad van agressie\", aldus de woordvoerder van de Taliban. Het Pakistaanse ministerie van Informatie heeft in reactie gezegd dat",
-      "url": "https://nos.nl/l/2633239",
-      "datum": "7 uur geleden",
+      "titel": "Funeral held for Palestinian man killed in the occupied West Bank",
+      "beschrijving": "Funeral held for Palestinian man killed in the occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss",
+      "datum": "55 min geleden",
       "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Netanyahu: te vroeg voor conclusie dat Iran bij aanval in vliegtuig betrokken was",
-      "beschrijving": "De Israëlische premier Netanyahu vindt het nog te vroeg om te concluderen dat Iran betrokken was bij de gewelddadige aanval in het vliegtuig van Flydubai dat gisteren van Dubai naar Tel Aviv vloog. Dat zei hij gisteravond in een interview bij de Amerikaanse nieuwszender Fox News. Hij voegde daar wel aan toe: \"Maar het is geen geheim dat Iran Israëliërs in het buitenland wil aanvallen.\" Volgens Net",
-      "url": "https://nos.nl/l/2633227",
-      "datum": "10 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
-      "beschrijving": "Motive behind Flydubai incident still unclear, but Israeli PM is framing it within his warnings of threats to Israelis.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss",
-      "datum": "22 min geleden",
-      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+      "titel": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
       "beschrijving": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
       "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-      "datum": "31 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "1/10 in Nieuwsuur: Ontwikkelingshulp stop om Bolle Jos • Haagse begroting weer gewijzigd • Overasselt een maand later • Oekraïne en Zuid-Korea ruziën",
-      "beschrijving": "Ontwikkelingshulp stop om Bolle Jos De Europese Commissie heeft per direct ontwikkelingshulp aan Sierra Leone stopgezet omdat het land niet meewerkt aan de uitlevering van drugscrimineel Bolle Jos. Het Afrikaanse land zou dit jaar nog 18 miljoen euro krijgen voor voedselprogramma's, onderwijs en infrastructuur. Het dichtdraaien van de geldkraan is een langgekoesterde wens van Nederland omdat de vo",
-      "url": "https://nos.nl/l/2633259",
-      "datum": "5 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "beschrijving": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "VS",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "ICC ends contract with French insurer amid US sanctions threat",
+      "beschrijving": "ICC and Axa terminate agreement amid mounting US criticism and looming financial restrictions on the court, FT reports.",
+      "url": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Terdoodveroordeelde Christa Pike na 'marteling' in kritieke toestand, zegt advocaat",
+      "beschrijving": "De terdoodveroordeelde Christa Pike verkeert in kritieke toestand en krijgt \"levensreddende medische zorg\", heeft een van haar advocaten, Randy Spivey, bekendgemaakt. De 50-jarige Amerikaanse vrouw zou gisteren in de staat Tennessee geëxecuteerd worden, maar dat mislukte dramatisch. Spivey omschrijft de executie als \"marteling\". Pikes advocaat zegt dat hij nog geen duidelijk beeld heeft over haar ",
+      "url": "https://nos.nl/l/2633325",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Uitspraken Van Weel over Bolle Jos wekken ergernis in Brussel",
+      "beschrijving": "Opmerkingen van minister Van Weel over het stopzetten van betalingen aan Sierra Leone leiden tot irritatie binnen de Europese Commissie. De minister zei vanmorgen dat de betalingen vanuit de Commissie zijn stopgezet omdat Sierra Leone niet meewerkt aan de uitlevering van drugscrimineel Bolle Jos. De NOS kreeg te horen dat binnen de Europese Commissie werd besloten hier \"hard op terug te duwen\". Ui",
+      "url": "https://nos.nl/l/2633319",
+      "datum": "2 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Russische drones raken school Kyiv, kinderen komen met de schrik vrij",
+      "beschrijving": "In de Oekraïense hoofdstad Kyiv is een school getroffen door Russische drones. Daarbij raakte niemand gewond. \"Op het moment van de aanval bevonden zich meer dan 100 leerlingen en ongeveer 60 medewerkers van de school in een schuilkelder\", schrijft de politie van Kyiv op Telegram. De constructie van de schuilplaats is stevig, dus geen van de kinderen of personeelsleden raakte gewond\", zei schooldi",
+      "url": "https://nos.nl/l/2633306",
+      "datum": "4 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Brits-Iraanse man opgepakt om incident rond Britse luchtmachtbasis",
+      "beschrijving": "De Britse politie heeft een man met de Britse en Iraanse nationaliteit gearresteerd op verdenking van het voorbereiden van terreurdaden bij de luchtmachtbasis bij Fairford. De 27-jarige man werd in de wijk Westminster in Londen opgepakt, meldt de Britse antiterreurpolitie in een verklaring. Ook zijn volgens de Britse autoriteiten twee panden in hetzelfde gebied doorzocht. In het onderzoek is ook e",
+      "url": "https://nos.nl/l/2633304",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vijftien lichamen gevonden in basiskamp Himalaya na lawine van zondag",
+      "beschrijving": "Hulpdiensten in Nepal hebben vijftien lichamen geborgen van bergbeklimmers die zondag werden bedolven onder een lawine. Ze zijn gevonden in het basiskamp van de berg Himlung Himal, vlak bij de grens met Tibet. Er wordt nog één klimmer vermist. De groep was bezig met het inrichten van het basiskamp op de ruim 7000 meter hoge berg. Ze waren tenten aan het opzetten en touwen aan het vastmaken voor he",
+      "url": "https://nos.nl/l/2633301",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Co-piloot was geradicaliseerd, zegt Netanyahu, veel vragen nog open",
+      "beschrijving": "De Israëlische premier Netanyahu heeft in gesprek met Fox News gezegd dat de co-piloot van het Flydubai-toestel een geradicaliseerde moslim is. Hij zou zijn geïndoctrineerd met islamistisch gedachtegoed en suïcidaal zijn geweest. Wat voor verleden de man precies zou hebben, is nog niet duidelijk. Netanyahu had daar naar eigen zeggen geen specifieke informatie over. Ook veel andere vragen staan voo",
+      "url": "https://nos.nl/l/2633300",
+      "datum": "4 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "EU-ministers willen nog strenger migratiebeleid voor noodsituaties aan grens",
       "beschrijving": "De inkt van het EU-migratiepact is amper opgedroogd en toch wordt alweer gewerkt aan nieuwe maatregelen om nog meer grip te krijgen op migratie naar de Europese Unie. Tijdens een overleg in Luxemburg pleiten bijna alle Europese asielministers voor extra mogelijkheden om een situatie zoals die in Ceuta deze zomer te voorkomen. Noodmaatregelen De hoop is onder meer gevestigd op een aangekondigd pakk",
       "url": "https://nos.nl/l/2633276",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +104,7 @@
       "titel": "Iran en VS onderhandelen verder over bestand, strijd moddert voort",
       "beschrijving": "Iran en de VS steggelen over een voorstel tot een staakt-het-vuren. Het is alweer een poging om de oorlog te beëindigen die eind februari begon met een Israëlisch-Amerikaans luchtoffensief tegen Iran. De wapens liggen min of meer stil op dit moment, maar er is nog altijd een krachtmeting gaande tussen de VS en Iran in de Straat van Hormuz. Iran eist controle op over de economisch cruciale zeestraa",
       "url": "https://nos.nl/l/2633274",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +113,7 @@
       "titel": "Ziekenhuis Leiden vangt hulpverlener uit Congo op met ebolabesmetting",
       "beschrijving": "Het LUMC-ziekenhuis in Leiden bereidt de opvang van een patiënt voor die is besmet met het ebolavirus. Het ziekenhuis meldt dat de patiënt werkzaam was als hulpverlener in de Democratische Republiek Congo en daar ziek is geworden. De hulpverlener wordt met een speciale vlucht naar Nederland gebracht, geïsoleerd en naar het LUMC vervoerd. In het ziekenhuis wordt de patiënt in isolatie verzorgd. Het",
       "url": "https://nos.nl/l/2633266",
-      "datum": "3 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,121 +122,76 @@
       "titel": "Rapper Ye gaat toch niet optreden in Rusland",
       "beschrijving": "De controversiële Amerikaanse rapper Ye, die eerder ook muziek uitbracht onder de naam Kanye West, gaat toch niet optreden in Rusland. Twee concerten die hij zou geven in Sint-Petersburg zijn geannuleerd, meldt de Russische concertorganisator Say Agency. \"Beste vrienden, we moeten u helaas mededelen dat de concerten van Ye in Sint-Petersburg niet kunnen doorgaan op de geplande data\", meldt de orga",
       "url": "https://nos.nl/l/2633263",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Studenten sluiten zich aan bij Franse scholierenprotesten, meer acties aangekondigd",
-      "beschrijving": "Middelbare scholieren in Frankrijk blijven vandaag hun scholen blokkeren om meer middelen voor hun onderwijs te eisen. Inmiddels hebben ook universiteitsstudenten zich bij hen aangesloten en universiteiten geblokkeerd. De studentenvakbond meldde vanochtend dat bijna dertig universiteiten zijn geblokkeerd. Op campussen in Parijs, Lyon, Lille, Rennes, Montpellier en Straatsburg werd geprotesteerd. D",
-      "url": "https://nos.nl/l/2633261",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Getuigen beschrijven mislukte executie Christa Pike: 'Ze hebben het verkloot'",
-      "beschrijving": "\"Ik zal deze wereld verlaten op de manier waarop ik grotendeels mijn tijd er heb doorgebracht: vol liefde.\" Met die woorden nam moordenaar Christa Pike (50) gisteravond afscheid van het leven. \"Ik heb er vrede mee, ik ben klaar om te gaan.\" Daarna ging het akelig mis. Anderhalf uur later, na twee injecties met een doorgaans dodelijk middel, bleek Pike nog te leven. De executie werd afgeblazen en P",
-      "url": "https://nos.nl/l/2633246",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Franse scholierenprotesten houden aan; nu al meer dan 100 gewonden",
-      "beschrijving": "Bij de aanhoudende Franse scholierenprotesten zijn meer dan honderd mensen gewond geraakt en honderden aanhoudingen verricht. De protesten tegen een tekort aan leraren en vervallen schoolgebouwen breidden zich gisteren uit naar meer scholen verspreid door Frankrijk. Vandaag worden opnieuw demonstraties verwacht. Vandaag presenteert de Franse regering de begroting voor 2027. Die zal naar verwachtin",
-      "url": "https://nos.nl/l/2633226",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Moroccan intelligence uses surveillance to ‘silence’ journalists: Amnesty",
-      "beschrijving": "Probe finds spyware, hidden microphones and infected phones used to surveil journalists, activists, rights defenders.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/moroccan-intelligence-uses-surveillance-to-silence-journalists-amnesty?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Flydubai stabbing: How safe are planes if a pilot turns violent?",
-      "beschrijving": "Civil aviation changed after 9/11 to keep attackers outside cockpits. The Flydubai scare flips the dilemma.",
-      "url": "https://www.aljazeera.com/features/2026/10/1/flydubai-stabbing-how-safe-are-planes-if-a-pilot-turns-violent?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Western militaries are undermining Ukraine’s defence, experts say",
-      "beschrijving": "A combination of rigid Western military attitudes and Kyiv&#039;s regulatory paralysis leaves fewer weapons at the front.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?",
-      "beschrijving": "UK, US and Israeli officials point to Iranian involvement but remain tight-lipped on details.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
+      "beschrijving": "Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July.",
+      "url": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss",
+      "datum": "50 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
-      "beschrijving": "Thousands flee Mekelle amid advancing troops and disrupted services as tensions rise in Ethiopia&#039;s northern territories.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "VS",
+      "titel": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
+      "beschrijving": "Ethiopia says it will shut its embassy in Asmara, declares 10 Eritrean diplomats persona non grata.",
+      "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-      "beschrijving": "Russian drone strikes hit a school in Kyiv and the main bridge, disrupting transport in the latest wave of attacks.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "What’s driving Israeli settler violence in the occupied West Bank?",
+      "beschrijving": "Attacks on Palestinians in the area are growing at unprecedented levels.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "beschrijving": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
     },
     {
       "titel": "Russian dissident Garry Kasparov says US warned him of danger to his life",
       "beschrijving": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
       "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "beschrijving": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "titel": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
+      "beschrijving": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
+      "url": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
+      "datum": "9 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Opnieuw doden en gewonden in Afghanistan na Pakistaanse luchtaanvallen",
-    "Netanyahu: te vroeg voor conclusie dat Iran bij aanval in vliegtuig betrokken was",
-    "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
-    "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
-    "1/10 in Nieuwsuur: Ontwikkelingshulp stop om Bolle Jos • Haagse begroting weer gewijzigd • Overasselt een maand later • Oekraïne en Zuid-Korea ruziën",
-    "EU-ministers willen nog strenger migratiebeleid voor noodsituaties aan grens",
-    "Iran en VS onderhandelen verder over bestand, strijd moddert voort",
-    "Ziekenhuis Leiden vangt hulpverlener uit Congo op met ebolabesmetting",
-    "Rapper Ye gaat toch niet optreden in Rusland",
-    "Studenten sluiten zich aan bij Franse scholierenprotesten, meer acties aangekondigd"
+    "Funeral held for Palestinian man killed in the occupied West Bank",
+    "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+    "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+    "ICC ends contract with French insurer amid US sanctions threat",
+    "Terdoodveroordeelde Christa Pike na 'marteling' in kritieke toestand, zegt advocaat",
+    "Uitspraken Van Weel over Bolle Jos wekken ergernis in Brussel",
+    "Russische drones raken school Kyiv, kinderen komen met de schrik vrij",
+    "Brits-Iraanse man opgepakt om incident rond Britse luchtmachtbasis",
+    "Vijftien lichamen gevonden in basiskamp Himalaya na lawine van zondag",
+    "Co-piloot was geradicaliseerd, zegt Netanyahu, veel vragen nog open"
   ]
 }
