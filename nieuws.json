@@ -1,56 +1,74 @@
 {
-  "bijgewerkt": "03 Oct 2026 00:16 UTC",
+  "bijgewerkt": "03 Oct 2026 06:13 UTC",
   "artikelen": [
     {
-      "titel": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
-      "beschrijving": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
-      "datum": "16 min geleden",
-      "regio": "Iran",
+      "titel": "Derde dag op rij met Russische aanvallen op bruggen in Kyiv",
+      "beschrijving": "Rusland heeft vannacht opnieuw een belangrijke brug in Kyiv aangevallen die het westen en oosten van de Oekraïense hoofdstad verbindt, gebouwd over de rivier de Dnipro. Hulpdiensten zijn volgens burgemeester van Kyiv naar de plek toegekomen. Vanmorgen deelde burgemeester Klitsjko van Kyiv op Telegram dat er door de aanval geen verkeer over de Noordbrug meer mogelijk is. \"Het verkeer op de brug is ",
+      "url": "https://nos.nl/l/2633476",
+      "datum": "53 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
-      "titel": "North Korea fires ballistic missile towards the sea, South Korea says",
-      "beschrijving": "A ballistic missile is fired from the North Korean port city of Wonsan, South Korea&#039;s military says.",
-      "url": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
-      "datum": "21 min geleden",
-      "regio": "Noord-Korea",
+      "titel": "Aanvallen op Oekraïense hoofdstad Kyiv bijna verdubbeld: 'Poetin is aan het escaleren'",
+      "beschrijving": "Rusland voert steeds vaker aanvallen uit op de Oekraïense hoofdstad Kyiv. In september werd de stad bijna twee keer zo vaak geraakt als in de maand daarvoor. Vooral in het centrum van de stad vallen drones en raketten, waardoor veel huizen zonder gas of elektriciteit komen te zitten. Met de winter in zicht zal de situatie alleen maar erger worden, vrezen experts. \"Ik ben niet eerder zo somber gewe",
+      "url": "https://nos.nl/l/2633472",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
       "titel": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
       "beschrijving": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
       "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "datum": "15 uur geleden",
+      "datum": "21 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Hof draait besluit terug om Arabische partijen te weren bij verkiezingen Israël",
-      "beschrijving": "Het hooggerechtshof in Israël heeft het besluit van het kiescomité om Arabische politieke partijen te weren bij de verkiezingen van eind oktober teruggedraaid. Het hof ziet onvoldoende grond om een verbod in stand te houden. Een meerderheid van de commissie stemde vorige week voor de uitsluiting. Daardoor zou de Palestijnse minderheid in Israël zonder vertegenwoordiging zitten. Daarnaast zouden oo",
-      "url": "https://nos.nl/l/2633455",
-      "datum": "5 uur geleden",
+      "titel": "Wekdienst 3/10: Geen treinverkeer op Amsterdam Centraal • Verkiezingen in Letland",
+      "beschrijving": "Goedemorgen! Vandaag rijden er geen treinen van of naar Amsterdam Centraal vanwege werkzaamheden op het station en mensen in Letland gaan naar de stembus. Eerst het weer: nadat op sommige plekken de nevel en mist is weggetrokken, breekt vandaag de zon door. Het wordt tussen de 19 en 21 graden; er staat weinig wind. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamheden e",
+      "url": "https://nos.nl/l/2633478",
+      "datum": "42 min geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Bosnia’s elections explained",
-      "beschrijving": "Bosnia and Herzegovina votes on October 4 in an election that may determine whether it breaks its political deadlock.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/bosnias-elections-explained?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Hof draait besluit terug om Arabische partijen te weren bij verkiezingen Israël",
+      "beschrijving": "Het hooggerechtshof in Israël heeft het besluit van het kiescomité om Arabische politieke partijen te weren bij de verkiezingen van eind oktober teruggedraaid. Het hof ziet onvoldoende grond om een verbod in stand te houden. Een meerderheid van de commissie stemde vorige week voor de uitsluiting. Daardoor zou de Palestijnse minderheid in Israël zonder vertegenwoordiging zitten. Daarnaast zouden oo",
+      "url": "https://nos.nl/l/2633455",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Gaza voters want jobs and security as Palestinian elections approach",
+      "beschrijving": "Ahead of first Palestinian national elections in 20 years, people in Gaza hope to rebuild after Israeli destruction.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
+      "datum": "33 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Auto crasht in menigte Australische rugbyfans, jonge kinderen onder de gewonden",
+      "beschrijving": "In de Australische stad Newcastle, ten noorden van Sydney, is een auto gecrasht in een menigte rugbyfans. Daarbij zijn tien mensen gewond geraakt, meldt de lokale politie. Alle gewonden zijn naar het ziekenhuis gebracht. Twee van hen verkeren in kritieke toestand: een meisje van 5 jaar en een 67-jarige man. Onder de acht gewonden in stabiele toestand zijn ook twee meisjes van 2 en 5 jaar. De 18-ja",
+      "url": "https://nos.nl/l/2633468",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "ABC News: Copiloot Flydubai eerder geschorst vanwege extremistisch materiaal",
       "beschrijving": "De copiloot die woensdag zijn gezagvoerder aanviel in een vliegtuig van Flydubai werd eerder geschorst bij vliegmaatschappij Oman Air. De man werd destijds als een risico voor de veiligheid gezien omdat er extremistisch materiaal bij hem was aangetroffen. Dat zeggen bronnen tegen het Amerikaanse nieuwsmedium ABC News. Deze bronnen zijn hoge functionarissen van inlichtingendiensten en de rechtshand",
       "url": "https://nos.nl/l/2633466",
-      "datum": "9 min geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +77,7 @@
       "titel": "Franse scholieren- en studentenorganisaties roepen op tot nieuwe protesten dinsdag",
       "beschrijving": "Franse scholieren- en studentenorganisaties hebben opgeroepen om de druk op de Franse overheid door te zetten en roepen op tot nieuwe protesten op dinsdag. Deze week gingen duizenden scholieren, studenten en leraren de straat op in Frankrijk. Ze protesteren tegen onder meer achterstallig onderhoud van schoolgebouwen, te grote klassen, te lange schooltijden en het lerarentekort in Frankrijk. De opr",
       "url": "https://nos.nl/l/2633464",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "Woede Zuid-Korea richting Oekraïne gaat 'om meer dan een geheim'",
       "beschrijving": "Oekraïne en Zuid-Korea liggen met elkaar overhoop over twee Noord-Koreaanse krijgsgevangenen. Aanleiding is een opmerking van de Oekraïense president Volodymyr Zelensky bij de Algemene Vergadering van de Verenigde Naties vorige week. Daar maakte hij bekend dat Oekraïne twee Noord-Koreaanse militairen had overgedragen aan Zuid-Korea. Dit schoot bij Zuid-Korea in het verkeerde keelgat, omdat afgespr",
       "url": "https://nos.nl/l/2633458",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Crisis in Spaanse politiek: parlement verwerpt maatregelen tegen woningcrisis",
       "beschrijving": "In Spanje hebben twee voorstellen van de regering om de woningcrisis aan te pakken geen meerderheid behaald in het parlement. Daarmee bestaat de kans dat de regering de komende dagen valt. Premier Sánchez wilde met de twee decreten de onvrede over de hoge woonlasten en de aanhoudende protesten van afgelopen weken temperen. De regering had al ingestemd met de plannen. Een van de maatregelen was een",
       "url": "https://nos.nl/l/2633457",
-      "datum": "4 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,71 +104,35 @@
       "titel": "Enorme volksverhuizing Stille Oceaan: 'Deze strijd tegen het water gaat iedereen aan'",
       "beschrijving": "In de Stille Oceaan voltrekt zich een gigantische volksverhuizing. Steeds meer mensen moeten hun huizen verlaten, op de vlucht voor het water. In Fiji worden honderden dorpen verplaatst, omdat het door klimaatverandering onleefbaar wordt. De eilandstaat is een van de eerste landen ter wereld die een systematisch, nationaal plan heeft opgesteld om honderden kwetsbare gemeenschappen naar hoger geleg",
       "url": "https://nos.nl/l/2633456",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Strengere regels gezinshereniging gelden ook voor oudere aanvragen",
-      "beschrijving": "De nieuwe, strengere regels voor gezinshereniging gelden ook voor oudere aanvragen. Dat heeft de rechtbank in Den Haag besloten in een zaak van twee Syriërs tegen de Immigratie- en Naturalisatiedienst (IND). De zaak was aangespannen door twee Syriërs met een zogeheten subsidiaire beschermingsstatus. Zij zijn niet als vluchteling erkend, maar kunnen vanwege gevaar niet terugkeren naar hun land van ",
-      "url": "https://nos.nl/l/2633434",
-      "datum": "8 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Keniaanse herders boos over lokaal CO2-project van Netflix en Meta",
-      "beschrijving": "In Kenia spannen herders een rechtszaak aan tegen een project van grote westerse bedrijven. Lokale gemeenschappen in het Afrikaanse land zeggen dat ze door de bedrijven de controle over hun grond verliezen. De onvrede onder herders is ontstaan door een regeling voor bedrijven om zogenoemde koolstofkredieten te kopen. De bedrijven, waaronder Netflix, Meta, British Airways en Beiersdorf betalen geld",
-      "url": "https://nos.nl/l/2633421",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Podcast De Dag: de jacht van David van Weel op Bolle Jos",
-      "beschrijving": "Sierra Leone krijgt miljoenen minder dit jaar van Europa. Justitieminister Van Weel zei gisteren dat dat is besloten omdat het land Bolle Jos niet wil uitleveren aan Nederland. Vanuit Brussel klonk even later een andere reden, technisch van aard. Vanochtend zegt Van Weel dat beide kloppen en dat Europa achter hem staat in zijn jacht op Bolle Jos. Luister hier: Deze aflevering van De Dag luister je",
-      "url": "https://nos.nl/l/2633412",
       "datum": "11 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Neergestoken gezagvoerder over horrorvlucht: ik wilde levens redden",
-      "beschrijving": "De Indiase gezagvoerder die werd aangevallen door zijn co-piloot tijdens een vlucht van Dubai naar Tel Aviv heeft voor het eerst zijn verhaal gedaan. Smit Machchhar sprak met de Indiase premier Narendra Modi in een telefoongesprek dat op YouTube is gezet. Het voorval in het toestel van Flydubai gebeurde woensdag. De aanvaller zou hebben geprobeerd het toestel te laten neerstorten en stak daarom op",
-      "url": "https://nos.nl/l/2633398",
-      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
-      "beschrijving": "Smit Machchhar recalls midair disaster after co-pilot&#039;s attack on Flydubai flight to Tel Aviv.",
-      "url": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
+      "titel": "New claims that Netanyahu rejected Hamas offer to release captives",
+      "beschrijving": "Reports are building that Israel rejected a Hamas offer to release all civilian hostages taken on October 7, 2023.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Why Carney’s economic overhaul is clashing with Canada’s unions",
-      "beschrijving": "Unions say proposed changes to Canada&#039;s labour laws could weaken workers’ right to strike.",
-      "url": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
-      "beschrijving": "Retired General Nitzan Alon says more captives could have returned alive and a deal was possible &#039;maybe a year earlier&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
-      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "WHO warns of ‘devastating consequences’ due to delayed aid entry into Gaza",
+      "beschrijving": "The WHO&#039;s representative in Palestine calls on Israeli authorities to &#039;release the pressure on medical supplies&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Two Iranians charged over alleged plot targeting Jewish community in UK",
+      "beschrijving": "Two Iranian men are accused of preparing to commit an act of terrorism in Manchester ahead of Yom Kippur.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -158,7 +140,7 @@
       "titel": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
       "beschrijving": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
       "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,22 +149,22 @@
       "titel": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
       "beschrijving": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
       "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
-    "North Korea fires ballistic missile towards the sea, South Korea says",
+    "Derde dag op rij met Russische aanvallen op bruggen in Kyiv",
+    "Aanvallen op Oekraïense hoofdstad Kyiv bijna verdubbeld: 'Poetin is aan het escaleren'",
     "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+    "Wekdienst 3/10: Geen treinverkeer op Amsterdam Centraal • Verkiezingen in Letland",
     "Hof draait besluit terug om Arabische partijen te weren bij verkiezingen Israël",
-    "Bosnia’s elections explained",
+    "Gaza voters want jobs and security as Palestinian elections approach",
+    "Auto crasht in menigte Australische rugbyfans, jonge kinderen onder de gewonden",
     "ABC News: Copiloot Flydubai eerder geschorst vanwege extremistisch materiaal",
     "Franse scholieren- en studentenorganisaties roepen op tot nieuwe protesten dinsdag",
-    "Woede Zuid-Korea richting Oekraïne gaat 'om meer dan een geheim'",
-    "Crisis in Spaanse politiek: parlement verwerpt maatregelen tegen woningcrisis",
-    "Enorme volksverhuizing Stille Oceaan: 'Deze strijd tegen het water gaat iedereen aan'"
+    "Woede Zuid-Korea richting Oekraïne gaat 'om meer dan een geheim'"
   ]
 }
