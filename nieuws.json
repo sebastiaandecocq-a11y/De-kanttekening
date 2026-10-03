@@ -1,11 +1,11 @@
 {
-  "bijgewerkt": "03 Oct 2026 12:20 UTC",
+  "bijgewerkt": "03 Oct 2026 17:05 UTC",
   "artikelen": [
     {
       "titel": "Vijf Palestijnen in Gaza gedood door luchtaanval van Israëlische leger",
       "beschrijving": "In Gaza zijn door een Israëlische luchtaanval vannacht zeker vijf Palestijnen gedood. Het gaat om een aanval op een appartementengebouw in Gaza-Stad, zeggen de gezondheidsautoriteiten in het gebied. Het Israëlische leger heeft vooralsnog niet laten weten waarom het de aanval uitvoerde. \"We lagen te slapen toen we opeens aanhoudende aanvallen en een explosie hoorden\", zegt een ooggetuige tegen het ",
       "url": "https://nos.nl/l/2633510",
-      "datum": "18 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,34 +14,52 @@
       "titel": "Britse OM klaagt Iraniërs aan voor voorbereiden aanslag op synagoge in Manchester",
       "beschrijving": "Het Britse Openbaar Ministerie heeft twee Iraniërs van 35 en 36 jaar in staat van beschuldiging gesteld voor het voorbereiden van een aanslag op een synagoge in Manchester. Die zou op 20 september hebben moeten plaatsvinden, de dag dat Jom Kipoer begon, de belangrijkste feestdag in het jodendom. De beschuldiging is gebaseerd op informatie van de contraterrorisme-afdeling van de politie. De twee zo",
       "url": "https://nos.nl/l/2633492",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Derde dag op rij met Russische aanvallen op belangrijke bruggen in Kyiv",
-      "beschrijving": "Rusland heeft vannacht opnieuw een belangrijke brug in Kyiv aangevallen die het westen en oosten van de Oekraïense hoofdstad verbindt, gebouwd over de rivier de Dnipro. Vanmorgen deelde burgemeester Klitsjko van Kyiv op Telegram dat er door de aanval geen verkeer over de Noordbrug meer mogelijk is. \"Het verkeer op de brug is momenteel van de linker- naar de rechteroever geblokkeerd\", schrijft hij.",
-      "url": "https://nos.nl/l/2633476",
-      "datum": "7 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+      "beschrijving": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
+      "datum": "48 min geleden",
+      "regio": "VS",
       "urgentie": "hoog",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Aanvallen op Oekraïense hoofdstad Kyiv bijna verdubbeld: 'Poetin is aan het escaleren'",
-      "beschrijving": "Rusland voert steeds vaker aanvallen uit op de Oekraïense hoofdstad Kyiv. In september werd de stad bijna twee keer zo vaak geraakt als in de maand daarvoor. Vooral in het centrum van de stad vallen drones en raketten, waardoor veel huizen zonder gas of elektriciteit komen te zitten. Met de winter in zicht zal de situatie alleen maar erger worden, vrezen experts. \"Ik ben niet eerder zo somber gewe",
-      "url": "https://nos.nl/l/2633472",
-      "datum": "7 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+      "beschrijving": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
+      "datum": "49 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "What we know about the co-pilot accused in Flydubai attack",
+      "beschrijving": "The co-pilot accused of attacking a Flydubai captain has reportedly been identified as Hamam al-Hammami.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
+      "beschrijving": "The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "beschrijving": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
       "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -50,25 +68,97 @@
       "titel": "Wekdienst 3/10: Geen treinverkeer Amsterdam Centraal • Verkiezingen in Letland",
       "beschrijving": "Goedemorgen! Vandaag rijden er geen treinen van of naar Amsterdam Centraal vanwege werkzaamheden op het station en mensen in Letland gaan naar de stembus. Eerst het weer: nadat op sommige plekken de nevel en mist is weggetrokken, breekt vandaag de zon door. Het wordt tussen de 19 en 21 graden; er staat weinig wind. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamheden e",
       "url": "https://nos.nl/l/2633478",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Kim wins Asian Games gold to secure military exemption",
-      "beschrijving": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+      "titel": "What to know about Brazil’s 2026 presidential election",
+      "beschrijving": "Polls show tight race between incumbent Lula and right-wing rival Flavio Bolsonaro amid concerns over crime and economy.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israel election double standard: Arab leader forced out, far right cleared",
+      "beschrijving": "Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
+      "beschrijving": "Kenyan survivors are challenging the UK military over decades of alleged abuses — and the immunity that has shielded it.",
+      "url": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
       "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why has Brazil accused the US of election interference?",
+      "beschrijving": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "VS",
+      "urgentie": "midden",
       "bron": "BBC World"
+    },
+    {
+      "titel": "Tienduizenden mensen in heel Spanje op de been bij protesten tegen woningcrisis",
+      "beschrijving": "In Spaanse steden zijn vandaag opnieuw duizenden mensen de straat op gegaan om te protesteren tegen de woningcrisis. In totaal stonden er in het hele land meer dan vijftig demonstraties gepland. De grootste was in hoofdstad Madrid. Vier kleinere demonstraties kwamen allemaal samen op het beroemde Plaza de Cibeles, in het centrum van de stad. Volgens de organisatie waren er meer dan 500.000 mensen ",
+      "url": "https://nos.nl/l/2633545",
+      "datum": "41 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Reuters: belangrijke hacker ShinyHunters aangehouden, werkt samen met FBI",
+      "beschrijving": "Een prominent lid van de hackersgroep ShinyHunters is deze week in Jordanië opgepakt, melden drie ingewijden aan het internationale persbureau Reuters. Het hackerscollectief claimde eind vorige maand de gegevens van duizenden medewerkers en sollicitanten van de Amerikaanse veiligheidsdienst FBI te hebben bemachtigd. Volgens twee bronnen werkt de verdachte inmiddels samen met de FBI bij het opspore",
+      "url": "https://nos.nl/l/2633543",
+      "datum": "59 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Museum Berlijn exposeert 36 jaar oud DDR-brood: 'Weggooien was uitgesloten'",
+      "beschrijving": "Duitsland viert vandaag de Dag van de Duitse eenheid. Die dag herinnert aan het opgaan in 1990 van de toenmalige Duitse Democratische Republiek (DDR) in de Bondsrepubliek Duitsland. Het Duitslandmuseum in Berlijn heeft voor die gelegenheid iets bijzonders aan zijn collectie toegevoegd: een brood met een bijzonder verhaal. DDR-burger en student informatica Michael Hagedorn kocht het op 26 juni 1990",
+      "url": "https://nos.nl/l/2633538",
+      "datum": "1 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Overstromingen na wolkbreuk in Spaans stadje: 102-jarige vrouw komt om",
+      "beschrijving": "In een plaatsje in het zuidoosten van Spanje zijn door een zware wolkbreuk grote overstromingen ontstaan. Volgens de autoriteiten viel er 142 millimeter neerslag per vierkante meter in het 4760 inwoners tellende Madrigueras, bij Albacete. Een 102-jarige vrouw is overleden. Brandweerlieden vonden het lichaam van de vrouw in haar woning, waar het water tot meer dan een meter hoog was gestegen. Zeker",
+      "url": "https://nos.nl/l/2633530",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Leger Ethiopië rukt op, rebellen weg uit regiohoofdstad Tigray",
+      "beschrijving": "Het Ethiopische regeringsleger zet zijn opmars tegen de rebellen in de noordelijke regio Tigray voort. Dinsdag namen de regeringstroepen de stad Alamata in, bronnen van persbureau Reuters zeggen dat het leger sinds vandaag het vliegveld van Mek'ele weer in handen heeft. Dat ligt 10 kilometer ten oosten van de stad. Volgens persbureau AFP zijn in Mek'ele ook geen rebellen meer te zien. Een inwoner ",
+      "url": "https://nos.nl/l/2633522",
+      "datum": "3 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Man vindt tas met 128.514 dollar bij geldautomaat in VS",
       "beschrijving": "Een man in de Amerikaanse staat Texas heeft ruim 128.000 dollar gevonden op een geldautomaat, omgerekend ruim 114.000 euro. Het geld zat in een tas. Ook lag er een kleinere tas bij met negentien betaalcheques. De man van 37 is kapper in Lewisville, een stad in de buurt van Dallas. Toen hij het geld had gevonden, zag hij op de tas de naam van een kiprestaurant staan. Hij ging ernaartoe, omdat hij d",
       "url": "https://nos.nl/l/2633494",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,103 +167,31 @@
       "titel": "Copiloot Flydubai viel gezagvoerder aan met bijl, ook naam bekend",
       "beschrijving": "De copiloot die deze week de gezagvoerder van een vlucht tussen Dubai en Tel Aviv aanviel, zou dat hebben gedaan met een bijl. Het Openbaar Ministerie van de Verenigde Arabische Emiraten (VAE) spreekt over een terroristische aanslag. In de cockpit kunnen piloten een noodbijl gebruiken om uit het vliegtuig te komen na een crash. Eerder werd al over een zo'n bijl gespeculeerd, omdat piloten zelf in ",
       "url": "https://nos.nl/l/2633491",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Auto crasht in menigte Australische rugbyfans, jonge kinderen onder de gewonden",
-      "beschrijving": "In de Australische stad Newcastle, ten noorden van Sydney, is een auto gecrasht in een menigte rugbyfans. Daarbij zijn tien mensen gewond geraakt, meldt de lokale politie. Alle gewonden zijn naar het ziekenhuis gebracht. Twee van hen verkeren in kritieke toestand: een meisje van 5 jaar en een 67-jarige man. Onder de acht gewonden in stabiele toestand zijn ook twee meisjes van 2 en 5 jaar. De 18-ja",
-      "url": "https://nos.nl/l/2633468",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "ABC News: copiloot Flydubai eerder geschorst vanwege extremistisch materiaal",
-      "beschrijving": "De copiloot die woensdag zijn gezagvoerder aanviel in een vliegtuig van Flydubai werd eerder geschorst bij vliegmaatschappij Oman Air. De man werd destijds als een risico voor de veiligheid gezien omdat er extremistisch materiaal bij hem was aangetroffen. Dat zeggen bronnen tegen het Amerikaanse nieuwsmedium ABC News. Deze bronnen zijn hoge functionarissen van inlichtingendiensten en de rechtshand",
-      "url": "https://nos.nl/l/2633466",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Franse scholieren- en studentenorganisaties roepen op tot nieuwe protesten dinsdag",
-      "beschrijving": "Franse scholieren- en studentenorganisaties hebben opgeroepen om de druk op de Franse overheid door te zetten en roepen op tot nieuwe protesten op dinsdag. Deze week gingen duizenden scholieren, studenten en leraren de straat op in Frankrijk. Ze protesteren tegen onder meer achterstallig onderhoud van schoolgebouwen, te grote klassen, te lange schooltijden en het lerarentekort in Frankrijk. De opr",
-      "url": "https://nos.nl/l/2633464",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Palestinians gather for football amid Gaza’s ruins",
-      "beschrijving": "Displaced Palestinians gathered to watch a friendly football match in Gaza’s Khan Younis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+      "beschrijving": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
+      "datum": "40 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-      "beschrijving": "Displaced Yemenis are fleeing again, as the Houthis capture the Red Sea coast.",
-      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
-      "beschrijving": "Foreign Ministry says it summoned India&#039;s ⁠charge d&#039;affaires to lodge &#039;strong protest&#039; over killing of two civilians.",
-      "url": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
-      "beschrijving": "Global energy prices have soared due to the US and Israel&#039;s war on Iran and Russia&#039;s war on Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "beschrijving": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "datum": "31 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-      "beschrijving": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
     }
   ],
   "ticker": [
     "Vijf Palestijnen in Gaza gedood door luchtaanval van Israëlische leger",
     "Britse OM klaagt Iraniërs aan voor voorbereiden aanslag op synagoge in Manchester",
-    "Derde dag op rij met Russische aanvallen op belangrijke bruggen in Kyiv",
-    "Aanvallen op Oekraïense hoofdstad Kyiv bijna verdubbeld: 'Poetin is aan het escaleren'",
+    "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+    "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+    "What we know about the co-pilot accused in Flydubai attack",
+    "At least 17 people, mostly pilgrims, killed in Kenya road crash",
     "Flydubai co-pilot attacked captain with axe, UAE official says",
     "Wekdienst 3/10: Geen treinverkeer Amsterdam Centraal • Verkiezingen in Letland",
-    "Kim wins Asian Games gold to secure military exemption",
-    "Man vindt tas met 128.514 dollar bij geldautomaat in VS",
-    "Copiloot Flydubai viel gezagvoerder aan met bijl, ook naam bekend",
-    "Auto crasht in menigte Australische rugbyfans, jonge kinderen onder de gewonden"
+    "What to know about Brazil’s 2026 presidential election",
+    "Israel election double standard: Arab leader forced out, far right cleared"
   ]
 }
