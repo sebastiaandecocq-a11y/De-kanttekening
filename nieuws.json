@@ -1,39 +1,12 @@
 {
-  "bijgewerkt": "03 Oct 2026 23:37 UTC",
+  "bijgewerkt": "04 Oct 2026 05:05 UTC",
   "artikelen": [
     {
-      "titel": "Vijf Palestijnen in Gaza gedood door luchtaanval van Israëlische leger",
-      "beschrijving": "In Gaza zijn door een Israëlische luchtaanval vannacht zeker vijf Palestijnen gedood. Het gaat om een aanval op een appartementengebouw in Gaza-Stad, zeggen de gezondheidsautoriteiten in het gebied. Het Israëlische leger heeft vooralsnog niet laten weten waarom het de aanval uitvoerde. \"We lagen te slapen toen we opeens aanhoudende aanvallen en een explosie hoorden\", zegt een ooggetuige tegen het ",
-      "url": "https://nos.nl/l/2633510",
-      "datum": "11 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Britse OM klaagt Iraniërs aan voor voorbereiden aanslag op synagoge in Manchester",
-      "beschrijving": "Het Britse Openbaar Ministerie heeft twee Iraniërs van 35 en 36 jaar in staat van beschuldiging gesteld voor het voorbereiden van een aanslag op een synagoge in Manchester. Die zou op 20 september hebben moeten plaatsvinden, de dag dat Jom Kipoer begon, de belangrijkste feestdag in het jodendom. De beschuldiging is gebaseerd op informatie van de contraterrorisme-afdeling van de politie. De twee zo",
-      "url": "https://nos.nl/l/2633492",
-      "datum": "14 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Israeli settlers attack Palestinian farmers during olive harvest",
-      "beschrijving": "Israeli settlers attack Palestinian farmers during olive harvest",
-      "url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
-      "beschrijving": "Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
+      "beschrijving": "Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
+      "datum": "56 min geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -41,34 +14,106 @@
       "titel": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "beschrijving": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
       "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "8 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Gevangenistopman Tennessee weg na mislukte executie Christa Pike",
-      "beschrijving": "De hoogste baas van het gevangeniswezen in de Amerikaanse staat Tennessee stapt op vanwege de mislukte executie van Christa Pike. Hoewel er nog een onderzoek loopt naar wat er precies misging, legt Frank Strada alvast later deze maand zijn functie neer. \"Ik blijf erbij dat alles volgens het vastgestelde protocol is verlopen,\" zegt Strada in de verklaring waarmee hij zijn besluit bekendmaakte, \"maa",
-      "url": "https://nos.nl/l/2633570",
-      "datum": "2 uur geleden",
+      "titel": "Pro-Europese premier wint verkiezingen Letland ruimer dan verwacht",
+      "beschrijving": "De pro-Europese premier van Letland heeft de verkiezingen van gisteren gewonnen met een ruimere marge dan verwacht. De middenpartij van Andris Kulberg heeft met 88 procent van de stemmen geteld 36,5 procent van de kiezers achter zich gekregen. Zijn grootste rivaal, het pro-Russische Letland Eerst, staat in de voorlopige uitslag op 13 procent van de stemmen, gevolgd door het eveneens rechtse SV met",
+      "url": "https://nos.nl/l/2633577",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
+      "titel": "Gevangenistopman Tennessee weg na mislukte executie Christa Pike",
+      "beschrijving": "De hoogste baas van het gevangeniswezen in de Amerikaanse staat Tennessee stapt op vanwege de mislukte executie van Christa Pike. Hoewel er nog een onderzoek loopt naar wat er precies misging, legt Frank Strada alvast later deze maand zijn functie neer. \"Ik blijf erbij dat alles volgens het vastgestelde protocol is verlopen,\" zegt Strada in de verklaring waarmee hij zijn besluit bekendmaakte, \"maa",
+      "url": "https://nos.nl/l/2633570",
+      "datum": "7 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Pick-up truck overturns trying to carry military chopper in Russia",
+      "beschrijving": "An attempt by Russian stuntman Evgeny Chebotarev to carry an Mi-2 helicopter on a pickup truck went awfully wrong.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss",
+      "datum": "59 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ballots reach remote Indigenous Brazilians ahead of presidential election",
+      "beschrijving": "Ballot boxes reach remote Indigenous communities by boat as Brazil votes, with Amazon conservation a key issue.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ballots-reach-remote-indigenous-brazilians-ahead-of-presidential-election?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Why has Brazil accused the US of election interference?",
       "beschrijving": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
       "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Natuurbrand bij toegangsroute Machu Picchu: 1 dode en 2 gewonden",
+      "beschrijving": "Bij een brand in de buurt van de beroemde ruïnestad Machu Picchu zijn een dode en twee gewonden gevallen. De brand woedt nabij een van de belangrijkste toegangsroutes tot de toeristische trekpleister. Het vuur ontstond doordat boeren het onkruid op hun akkers verbrandden, wat gebruikelijk is in deze tijd van het jaar om het land bouwrijp te maken. Door de droogte en het warme weer verspreidden de ",
+      "url": "https://nos.nl/l/2633576",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Rector Cornell belooft beterschap na aanklacht groepsverkrachting door studenten",
+      "beschrijving": "De rector van de Amerikaanse universiteit Cornell zegt diep verontrust te zijn door beschuldigingen van een groepsverkrachting door studenten daar. Hij erkent dat de reactie van de universiteit veel mensen heeft verontrust en belooft beterschap. \"Dit incident zal nog jarenlang drukken op onze gemeenschap. Het doet me verdriet om te bedenken wat deze vrouw heeft doorstaan\", zegt rector Michael Kotl",
+      "url": "https://nos.nl/l/2633575",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Massaal welkom voor resten Bulgaarse tsaar na terugkeer uit Griekenland",
+      "beschrijving": "In een basiliek in de Bulgaarse hoofdstad Sofia zijn afgelopen dag onder grote belangstelling de resten bijgezet van de middeleeuwse machthebber tsaar Samuel. President Radev, patriarch Daniil en duizenden anderen keken toe hoe de vorst zijn laatste rustplaats kreeg. Samuel, geboren rond het jaar 950, geldt als een van de belangrijkste heersers uit de Bulgaarse geschiedenis. Hij breidde zijn land ",
+      "url": "https://nos.nl/l/2633574",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Russische laborant dood door pest, tientallen in quarantaine",
+      "beschrijving": "In Rusland is een 28-jarige laboratoriummedewerker overleden aan de pest nadat ze een reageerbuisje had gebroken. Zo'n 200 mensen die met haar in contact zijn geweest, zijn uit voorzorg in quarantaine geplaatst, meldt de onafhankelijke Moscow Times. De vrouw zou werkzaam zijn in het Pestbestrijdingscentrum van Siberië in het Zuid-Russische Irkoetsk. Ze zou per ongeluk een reageerbuis met pestbacte",
+      "url": "https://nos.nl/l/2633573",
+      "datum": "5 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Holocaust-overlevende Irene Butter (95) overleden",
+      "beschrijving": "In de VS is Holocaust-overlevende Irene Butter op 95-jarige leeftijd overleden, melden Duitse media op basis van haar agent. De Duits-Amerikaanse vrouw getuigde tot op hoge leeftijd over hoe ze in Nederland de Jodenvervolging meemaakte. Daarbij kwam ook vaak het lot ter sprake van haar buurtgenoot Anne Frank. Butter werd in 1930 geboren in Berlijn. Toen de nazi's aan de macht kwamen, verhuisde haa",
+      "url": "https://nos.nl/l/2633572",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Fietsbroek moet vrouwen op Oktoberfest beschermen tegen filmen onder rokken",
       "beschrijving": "Op het Oktoberfest in München worden bij een populaire attractie gratis fietsbroekjes uitgedeeld aan vrouwen om te voorkomen dat er onder hun rokken gefotografeerd wordt. Het gaat om de Teufelsrad, een van de oudste attracties op het feest, waarbij mensen zo lang mogelijk op een snel draaiend rad moeten zitten zonder eraf te vallen. Duitse journalisten ontdekten op sociale media duizenden video's ",
       "url": "https://nos.nl/l/2633555",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +122,7 @@
       "titel": "Tienduizenden mensen in heel Spanje op de been bij protesten tegen woningcrisis",
       "beschrijving": "In Spaanse steden zijn vandaag opnieuw duizenden mensen de straat op gegaan om te protesteren tegen de woningcrisis. In totaal stonden er in het hele land meer dan vijftig demonstraties gepland. De grootste was in hoofdstad Madrid. Vier kleinere demonstraties kwamen allemaal samen op het beroemde Plaza de Cibeles, in het centrum van de stad. Volgens de organisatie waren er meer dan 500.000 mensen ",
       "url": "https://nos.nl/l/2633545",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,79 +131,34 @@
       "titel": "Reuters: belangrijke hacker ShinyHunters aangehouden, werkt samen met FBI",
       "beschrijving": "Een prominent lid van de hackersgroep ShinyHunters is deze week in Jordanië opgepakt, melden drie ingewijden aan het internationale persbureau Reuters. Het hackerscollectief claimde eind vorige maand de gegevens van duizenden medewerkers en sollicitanten van de Amerikaanse veiligheidsdienst FBI te hebben bemachtigd. Volgens twee bronnen werkt de verdachte inmiddels samen met de FBI bij het opspore",
       "url": "https://nos.nl/l/2633543",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Museum Berlijn exposeert 36 jaar oud DDR-brood: 'Weggooien was uitgesloten'",
-      "beschrijving": "Duitsland viert vandaag de Dag van de Duitse eenheid. Die dag herinnert aan het opgaan in 1990 van de toenmalige Duitse Democratische Republiek (DDR) in de Bondsrepubliek Duitsland. Het Duitslandmuseum in Berlijn heeft voor die gelegenheid iets bijzonders aan zijn collectie toegevoegd: een brood met een bijzonder verhaal. DDR-burger en student informatica Michael Hagedorn kocht het op 26 juni 1990",
-      "url": "https://nos.nl/l/2633538",
-      "datum": "7 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Overstromingen na wolkbreuk in Spaans stadje: 102-jarige vrouw komt om",
-      "beschrijving": "In een plaatsje in het zuidoosten van Spanje zijn door een zware wolkbreuk grote overstromingen ontstaan. Volgens de autoriteiten viel er 142 millimeter neerslag in het 4760 inwoners tellende Madrigueras, bij Albacete. Een 102-jarige vrouw is overleden. Brandweerlieden vonden het lichaam van de vrouw in haar woning, waar het water tot meer dan een meter hoog was gestegen. Zeker negentig mensen kon",
-      "url": "https://nos.nl/l/2633530",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Leger Ethiopië rukt op, rebellen weg uit regiohoofdstad Tigray",
-      "beschrijving": "Het Ethiopische regeringsleger zet zijn opmars tegen de rebellen in de noordelijke regio Tigray voort. Dinsdag namen de regeringstroepen de stad Alamata in, bronnen van persbureau Reuters zeggen dat het leger sinds vandaag het vliegveld van Mek'ele weer in handen heeft. Dat ligt 10 kilometer ten oosten van de stad. Volgens persbureau AFP zijn in Mek'ele ook geen rebellen meer te zien. Een inwoner ",
-      "url": "https://nos.nl/l/2633522",
-      "datum": "10 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Man vindt tas met 128.514 dollar bij geldautomaat in VS",
-      "beschrijving": "Een man in de Amerikaanse staat Texas heeft ruim 128.000 dollar gevonden op een geldautomaat, omgerekend ruim 114.000 euro. Het geld zat in een tas. Ook lag er een kleinere tas bij met negentien betaalcheques. De man van 37 is kapper in Lewisville, een stad in de buurt van Dallas. Toen hij het geld had gevonden, zag hij op de tas de naam van een kiprestaurant staan. Hij ging ernaartoe, omdat hij d",
-      "url": "https://nos.nl/l/2633494",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
-      "beschrijving": "Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to &#039;end a genocide in Gaza&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
-      "datum": "53 min geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
+      "beschrijving": "US president tells a rally in Ohio that he believes there will be a &#039;big surprise&#039; in the upcoming elections.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
+      "datum": "55 min geleden",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Is the CJP changing India’s political landscape?",
-      "beschrijving": "Youth-led movement demands resignation of chief election commissioner.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
-      "datum": "4 uur geleden",
+      "titel": "Houthis claim strike on Saudi energy facility as Yemen fighting intensifies",
+      "beschrijving": "Smoke and fire seen near an Aramco site in Riyadh as Houthis allege precise missile and drone strikes.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
-      "beschrijving": "A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
-      "beschrijving": "Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team&#039;s &#039;greatest symbol&#039;.",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
-      "datum": "5 uur geleden",
+      "titel": "Ethiopian government troops seize Tigray’s capital Mekelle",
+      "beschrijving": "Ethiopia’s government forces say they’ve seized Mekelle from Tigray fighters after a week of intense battles.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -167,7 +167,7 @@
       "titel": "Russia hits second major bridge in Ukraine's capital Kyiv",
       "beschrijving": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
       "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,22 +176,22 @@
       "titel": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
       "beschrijving": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
       "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "18 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Vijf Palestijnen in Gaza gedood door luchtaanval van Israëlische leger",
-    "Britse OM klaagt Iraniërs aan voor voorbereiden aanslag op synagoge in Manchester",
-    "Israeli settlers attack Palestinian farmers during olive harvest",
-    "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+    "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
     "Flydubai co-pilot attacked captain with axe, UAE official says",
+    "Pro-Europese premier wint verkiezingen Letland ruimer dan verwacht",
     "Gevangenistopman Tennessee weg na mislukte executie Christa Pike",
+    "Pick-up truck overturns trying to carry military chopper in Russia",
+    "Ballots reach remote Indigenous Brazilians ahead of presidential election",
     "Why has Brazil accused the US of election interference?",
-    "Fietsbroek moet vrouwen op Oktoberfest beschermen tegen filmen onder rokken",
-    "Tienduizenden mensen in heel Spanje op de been bij protesten tegen woningcrisis",
-    "Reuters: belangrijke hacker ShinyHunters aangehouden, werkt samen met FBI"
+    "Natuurbrand bij toegangsroute Machu Picchu: 1 dode en 2 gewonden",
+    "Rector Cornell belooft beterschap na aanklacht groepsverkrachting door studenten",
+    "Massaal welkom voor resten Bulgaarse tsaar na terugkeer uit Griekenland"
   ]
 }
