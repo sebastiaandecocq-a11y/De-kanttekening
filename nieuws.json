@@ -1,29 +1,101 @@
 {
-  "bijgewerkt": "04 Oct 2026 17:21 UTC",
+  "bijgewerkt": "04 Oct 2026 21:03 UTC",
   "artikelen": [
     {
       "titel": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
       "beschrijving": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
       "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "titel": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+      "beschrijving": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Europa",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
+      "beschrijving": "Balkan nation seeks EU membership, but divisions threaten that goal.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ku Klux Klan leader claims rising support ahead of US midterm elections",
+      "beschrijving": "The Ku Klux Klan says support for its message is growing as it seeks to rebrand around family and faith.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
       "beschrijving": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
       "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "48 min geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Aanhoudingen bij betoging van Kremlin-gezinde Communistische Partij in Moskou",
+      "beschrijving": "Bij een protest in de Russische hoofdstad Moskou zijn zo'n zestig mensen aangehouden door de politie. Dat zegt de Kremlin-gezinde Communistische Partij van de Russische Federatie (KPRF), die het herdenkingsprotest had georganiseerd. Bij de demonstratie droegen betogers foto's van mensen die zijn omgekomen bij de parlementaire opstand van 1993. Ook hadden ze borden bij zich waarop stond: \"Laat de p",
+      "url": "https://nos.nl/l/2633674",
+      "datum": "11 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Uren in de rij voor Tapijt van Bayeux, British Museum neemt maatregelen",
+      "beschrijving": "Mensen die de afgelopen weken het Tapijt van Bayeux in het British Museum wilden zien, stonden soms zo lang in de rij dat het museum alweer dichtging voordat tickethouders naar binnen konden. Het Londense museum neemt maatregelen, zodat de wachtrijen in de toekomst korter zijn. Dat meldt BBC News. Het museum is van plan om de deuren de komende tijd langer open te houden. Vanaf wanneer die plannen ",
+      "url": "https://nos.nl/l/2633672",
+      "datum": "25 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Abnormaal warme Middellandse Zee veroorzaakt grote overstromingen Spanje",
+      "beschrijving": "Gisteravond was het weer zover. Inwoners van de Spaanse regio Catalonië werden opgeschrikt door een ES-Alert, een sms en geluidssignaal op de mobiele telefoon vergelijkbaar met een NL-Alert. Reden: er werden zware buien verwacht, die mogelijk zware schade konden aanrichten. Het alarm bleek terecht: er vielen twee doden en er waren duizenden meldingen van omgevallen bomen en ondergelopen kelders en",
+      "url": "https://nos.nl/l/2633666",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Twee doden en 35 gewonden bij grote schietpartij op straatfeest in Amerika",
+      "beschrijving": "Bij een grote schietpartij op een buurtfeest in de Amerikaanse staat Georgia zijn twee mensen om het leven gekomen. Volgens de politie gaat het om mannen van 20 en 23 jaar oud. Het gebeurde in de plaats Vienna, ruim 200 kilometer van de hoofdstad Atlanta. Ongeveer 35 mensen raakten gewond bij de beschieting, twee van hen verkeren in kritieke toestand. Het is niet bekend wat er precies is gebeurd. ",
+      "url": "https://nos.nl/l/2633662",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "'Hoe meer kinderen hoe beter' allang niet meer het motto van Marokkaanse gezinnen",
+      "beschrijving": "'Hoe meer kinderen, hoe beter' was decennialang het motto binnen Marokkaanse gezinnen. Kinderen zouden later immers voor hun ouders zorgen. Maar nu Marokkaanse vrouwen gemiddeld nog maar 1,97 kinderen krijgen, komt dit diepgewortelde familiesysteem onder druk te staan. Nog nooit was het geboortecijfer in Marokko zo laag. In de jaren zeventig was het nog heel normaal om zeven of acht kinderen te kr",
+      "url": "https://nos.nl/l/2633657",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Honderden Franse scholen morgen dicht uit vrees voor nieuwe gewelddadige protesten",
       "beschrijving": "In Frankrijk blijven morgen zo'n vijfhonderd scholen dicht of gaan beperkt open vanwege onrust rond scholierenprotesten. Sinds vorige week wordt verspreid door het land geprotesteerd tegen problemen in het onderwijs, waarbij het bij sommige demonstraties tot geweld kwam. Vele duizenden scholieren, studenten en docenten gaan de straat op om actie te voeren tegen onder meer achterstallig onderhoud v",
       "url": "https://nos.nl/l/2633650",
-      "datum": "1 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -32,7 +104,7 @@
       "titel": "Rusland valt opnieuw Noordbrug in Kyiv aan, Merz bezoekt Oekraïense hoofdstad",
       "beschrijving": "Een Russische drone is vandaag ingeslagen op de Noordbrug in Kyiv. Afgelopen vier dagen viel het Russische leger verschillende bruggen aan die het oosten en westen van de Oekraïense hoofdstad met elkaar verbinden. Bij eerdere aanvallen vielen meerdere doden. Tijdens de aanval reed er verkeer over de Noordbrug. Er zijn twee mensen gewond geraakt, schrijft burgemeester Klitsjko van Kyiv op Telegram.",
       "url": "https://nos.nl/l/2633636",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +113,7 @@
       "titel": "Politie Spanje ontruimt migrantenkamp op strand in Ceuta",
       "beschrijving": "De Spaanse politie is begonnen met de ontruiming van een migrantenkamp op het El Trampolín-strand in de exclave Ceuta. De migranten die daar verblijven worden van het strand gehaald. Volgens de politie verloopt de ontruiming \"zonder incidenten\". Voor de ontruimingsactie, die om 08.00 uur vanochtend begon, zijn 350 agenten ingezet. Bij de operatie is ook het militaire politiekorps Guardia Civil bet",
       "url": "https://nos.nl/l/2633631",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +122,7 @@
       "titel": "Nederlander in Suriname gepakt voor smokkel van zes zangvogeltjes",
       "beschrijving": "Op de internationale luchthaven van Suriname is vrijdag een Nederlandse man aangehouden die probeerde zangvogeltjes het land uit te smokkelen. De zes vogeltjes had hij verstopt in zijn ruimbagage. De verdenking is dat hij ze wilde meenemen naar Nederland. Een douaneambtenaar ontdekte de vijf twa-twa's en een picolet bijtijds en schakelde de politie in van het nabijgelegen bureau in het dorp Zander",
       "url": "https://nos.nl/l/2633620",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,107 +131,44 @@
       "titel": "Vader en zoon doodgeschoten in bos Noorwegen, hoorden bij groep jagers",
       "beschrijving": "In een bos in het zuidoosten van Noorwegen zijn vanochtend vroeg twee mannen doodgeschoten. Een derde man raakte zwaargewond. De schutter is aangehouden, hij heeft een bekentenis afgelegd. De slachtoffers zijn een man van in de zeventig en zijn zoon van in de veertig. Ook de zwaargewonde man is in de veertig, meldt de politie, die rond 07.30 uur een eerste melding kreeg. De mannen maakten deel uit",
       "url": "https://nos.nl/l/2633611",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Drie schepen botsen op elkaar voor Noorse kust, ook Nederlands schip betrokken",
-      "beschrijving": "Afgelopen nacht is voor de kust van Noorwegen een schip van de Nederlandse rederij Royal Wagenborg betrokken geraakt bij een botsing met twee andere schepen, een vrachtschip en een olietanker. Dit gebeurde in de Valderhaugfjord bij Alesund. Noorse media melden dat er geen slachtoffers zijn gevallen, wel hebben de schepen materiële schade opgelopen. Een woordvoerder van Royal Wagenborg bevestigt de",
-      "url": "https://nos.nl/l/2633609",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Gewonden bij brand op camping Gardameer, vakantiegangers helpen brandweer",
-      "beschrijving": "Bij een brand op een grote camping aan het Gardameer zijn zeker twintig mensen gewond geraakt. Ze zijn naar het ziekenhuis gebracht. Een van de gewonden verkeert volgens Italiaanse media in kritieke toestand. De meeste slachtoffers liepen koolmonoxidevergiftiging op. Volgens de autoriteiten begon de brand kort na 06.00 uur op camping Bella Italia, gelegen op de zuidoever van het meer. Het vuur ver",
-      "url": "https://nos.nl/l/2633600",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Doden door noodweer in Catalonië, brandweer redt mensen uit auto's",
-      "beschrijving": "In de regio Catalonië in Spanje zijn twee doden gevallen als gevolg van hevige regenval. Op sommige plaatsen was het gisteren de natste dag in twintig jaar. In de plaats Tordera, ten westen van Lloret de Mar, overleed een man van 65. Het slachtoffer kwam om het leven toen een muur op een camping het begaf en op hem viel. \"We hebben nog geprobeerd hem te reanimeren, maar hij kon niet meer worden ge",
-      "url": "https://nos.nl/l/2633596",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Stukken ambulancevliegtuig gevonden voor de kust van VS, zes inzittenden vermist",
-      "beschrijving": "Voor de kust van Nantucket, een eilandje voor de staat Massachusetts, heeft de Amerikaanse kustwacht brokstukken gevonden van een ambulancevliegtuig dat in de nacht van vrijdag op zaterdag vermist raakte. Aan boord waren zes mensen, van hen is volgens de autoriteiten nog niemand gevonden. De kustwacht zegt naar de vermisten te blijven zoeken. Wat er precies is gebeurd met het vliegtuig is nog niet",
-      "url": "https://nos.nl/l/2633593",
       "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Trump deelt nummer dwarsliggende partijgenoot in twist over zomertijd",
-      "beschrijving": "De Amerikaanse president Donald Trump heeft de Republikeinse senator Tom Cotton onder druk gezet door op sociale media een telefoonnummer te delen dat waarschijnlijk het persoonlijke telefoonnummer is van de senator. Aanleiding: Cottons bezwaren tegen het invoeren van zomertijd. Trump wil al langer een einde maken aan zomer- en wintertijd en permanent de zomertijd invoeren. Een door Trumps regerin",
-      "url": "https://nos.nl/l/2633589",
-      "datum": "10 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Mass protests demanding poll chief resignation shake India for third day",
-      "beschrijving": "Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi.",
-      "url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
-      "datum": "26 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-      "beschrijving": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
-      "datum": "42 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Air strike in Sudan kills UN aid truck driver: WFP",
-      "beschrijving": "Trucks were &#039;clearly marked as humanitarian vehicles&#039;, UN agency says.",
-      "url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
-      "datum": "52 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Three years of genocide in Gaza through one man’s camera",
-      "beschrijving": "For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
+      "beschrijving": "Israel&#039;s president declared that the &#039;antisemitic lie&#039; deliberately endangers Jews and Israelis.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
+      "datum": "24 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Jerusalem Daily: Israeli forces arrest school children during raid",
-      "beschrijving": "Jerusalem Daily: Israeli forces arrest school children during raid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+      "titel": "Imran Khan’s party launches march to Islamabad demanding his release",
+      "beschrijving": "Supporters of jailed former Pakistani prime minister Imran Khan have launched a long march towards Islamabad.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Why does the US want to deport Salah Sarsour?",
-      "beschrijving": "A US judge has ruled a prominent Palestinian rights advocate can be deported under a controversial, cold-war era law.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour?traffic_source=rss",
+      "titel": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
+      "beschrijving": "Supporters of jailed former prime minister have set off from northwest Pakistan towards Islamabad.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "War on Iran: Is escalation more likely than a deal?",
+      "beschrijving": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -167,31 +176,22 @@
       "titel": "Watch: What we know about Russian strikes on Kyiv bridges",
       "beschrijving": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
       "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "beschrijving": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "datum": "29 min geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
     "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-    "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-    "Honderden Franse scholen morgen dicht uit vrees voor nieuwe gewelddadige protesten",
-    "Rusland valt opnieuw Noordbrug in Kyiv aan, Merz bezoekt Oekraïense hoofdstad",
-    "Politie Spanje ontruimt migrantenkamp op strand in Ceuta",
-    "Nederlander in Suriname gepakt voor smokkel van zes zangvogeltjes",
-    "Vader en zoon doodgeschoten in bos Noorwegen, hoorden bij groep jagers",
-    "Drie schepen botsen op elkaar voor Noorse kust, ook Nederlands schip betrokken",
-    "Gewonden bij brand op camping Gardameer, vakantiegangers helpen brandweer",
-    "Doden door noodweer in Catalonië, brandweer redt mensen uit auto's"
+    "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+    "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
+    "Ku Klux Klan leader claims rising support ahead of US midterm elections",
+    "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+    "Aanhoudingen bij betoging van Kremlin-gezinde Communistische Partij in Moskou",
+    "Uren in de rij voor Tapijt van Bayeux, British Museum neemt maatregelen",
+    "Abnormaal warme Middellandse Zee veroorzaakt grote overstromingen Spanje",
+    "Twee doden en 35 gewonden bij grote schietpartij op straatfeest in Amerika",
+    "'Hoe meer kinderen hoe beter' allang niet meer het motto van Marokkaanse gezinnen"
   ]
 }
