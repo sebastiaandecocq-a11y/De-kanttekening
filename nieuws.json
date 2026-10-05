@@ -1,56 +1,101 @@
 {
-  "bijgewerkt": "05 Oct 2026 00:34 UTC",
+  "bijgewerkt": "05 Oct 2026 06:40 UTC",
   "artikelen": [
     {
-      "titel": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
-      "beschrijving": "Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
-      "datum": "34 min geleden",
-      "regio": "Iran",
+      "titel": "US air force removes all bombers from British military base RAF Fairford",
+      "beschrijving": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
-      "beschrijving": "The abrupt redeployment to the US comes after several &#039;terrorism-related&#039; arrests were made outside RAF Fairford.",
-      "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
       "beschrijving": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
       "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "18 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Tweede ronde nodig bij verkiezingen in Brazilië, Bolsonaro aan de leiding",
+      "beschrijving": "Er is een tweede ronde nodig om te bepalen wie de presidentsverkiezingen in Brazilië gaat winnen. Met bijna alle stemmen geteld gaat de rechts-radicale Flavio Bolsonaro aan kop met ruim 47 procent van de stemmen, voor zittend president Lula met ruim 45 procent. Omdat beiden geen absolute meerderheid hebben, is een tweede ronde nodig. De uitslag van de eerste ronde betekent wel dat er twaalf andere",
+      "url": "https://nos.nl/l/2633697",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Djokovic defeats top seed Zverev to reach China Open semifinals",
+      "beschrijving": "Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.",
+      "url": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
+      "datum": "43 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Who were the top teen athletes at the Asian Games?",
+      "beschrijving": "China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.",
+      "url": "https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Bosnian Serb nationalist claims party victory in Bosnia elections",
+      "beschrijving": "Bosnian Serb nationalist Milorad Dodik claimed victory for his party in Bosnia’s elections.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bosnian-serb-nationalist-claims-party-victory-in-bosnia-elections?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
       "beschrijving": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
       "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "datum": "7 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-      "beschrijving": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "titel": "Watch: How Brazil's dramatic election unfolded",
+      "beschrijving": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
+    },
+    {
+      "titel": "Australië onderzoekt of Flydubai-copiloot radicaliseerde tijdens studie daar",
+      "beschrijving": "De Australische autoriteiten zijn een onderzoek begonnen naar de copiloot die vorige week aan boord van de vlucht tussen Dubai en Tel Aviv zijn gezagvoerder aanviel. De autoriteiten onderzoeken onder andere of de man in Australië is geradicaliseerd, zo meldt de BBC. De man van Omaanse afkomst kreeg volgens Australische media in 2014 een studentenvisum en studeerde tussen 2015 en 2017 in het land. ",
+      "url": "https://nos.nl/l/2633709",
+      "datum": "3 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 5/10: Uitreiking Michelinsterren • Eerste winnaar Nobelprijs bekendgemaakt",
+      "beschrijving": "Goedemorgen! In Maastricht worden de jaarlijkse Michelinsterren uitgereikt en de raadkamer in Amsterdam buigt zich over de terrasmoord op de NDSM-werf ruim een week geleden. Eerst het weer: vandaag is het regionaal mistig. Na het oplossen van het ochtendgrijs volgt een zonnige middag met maxima tussen 19 en 22 graden. De komende dagen is rustig en warm herfstweer. Vanaf donderdag neemt de wisselva",
+      "url": "https://nos.nl/l/2633705",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "VS haalt bommenwerpers weg uit Engeland vanwege 'dreiging'",
       "beschrijving": "De Verenigde Staten hebben alle twaalf bommenwerpers weggehaald van de Britse luchtmachtbasis Fairford. Dat zou zijn gebeurd vanwege een nieuwe dreiging die volgens Amerikaanse media afkomstig is van Iran. Vorige week werden er in de buurt van de basis in Fairford vijf Britse mannen aangehouden, die verdacht worden van het voorbereiden van een terroristische aanslag. Later werd nog een verdachte o",
       "url": "https://nos.nl/l/2633696",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +104,7 @@
       "titel": "Ed Sheeran heeft nieuw voorprogramma na exit Macklemore om pro-Palestijnse uitspraken",
       "beschrijving": "Ed Sheeran heeft een nieuwe artiest voor in zijn voorprogramma. Het is Isaac Slade, de voormalig frontman van The Fray. Sheeran zocht een vervanger voor Macklemore, die uit de tour werd gezet vanwege pro-Palestijnse uitspraken. Slade was onderdeel van The Fray, dat begin deze eeuw een paar hits scoorde zoals How to Save a Life en You Found Me. Hij vertrok daar in 2022 als leadzanger. Macklemore st",
       "url": "https://nos.nl/l/2633694",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +113,7 @@
       "titel": "Aanhoudingen bij betoging van Kremlin-gezinde Communistische Partij in Moskou",
       "beschrijving": "Bij een protest in de Russische hoofdstad Moskou zijn zo'n zestig mensen aangehouden door de politie. Dat zegt de Kremlin-gezinde Communistische Partij van de Russische Federatie (KPRF), die het herdenkingsprotest had georganiseerd. Bij de demonstratie droegen betogers foto's van mensen die zijn omgekomen bij de parlementaire opstand van 1993. Ook hadden ze borden bij zich waarop stond: \"Laat de p",
       "url": "https://nos.nl/l/2633674",
-      "datum": "3 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +122,7 @@
       "titel": "Uren in de rij voor Tapijt van Bayeux, British Museum neemt maatregelen",
       "beschrijving": "Mensen die de afgelopen weken het Tapijt van Bayeux in het British Museum wilden zien, stonden soms zo lang in de rij dat het museum alweer dichtging voordat tickethouders naar binnen konden. Het Londense museum neemt maatregelen, zodat de wachtrijen in de toekomst korter zijn. Dat meldt BBC News. Het museum is van plan om de deuren de komende tijd langer open te houden. Vanaf wanneer die plannen ",
       "url": "https://nos.nl/l/2633672",
-      "datum": "3 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +131,7 @@
       "titel": "Abnormaal warme Middellandse Zee veroorzaakt grote overstromingen Spanje",
       "beschrijving": "Gisteravond was het weer zover. Inwoners van de Spaanse regio Catalonië werden opgeschrikt door een ES-Alert, een sms en geluidssignaal op de mobiele telefoon vergelijkbaar met een NL-Alert. Reden: er werden zware buien verwacht, die mogelijk zware schade konden aanrichten. Het alarm bleek terecht: er vielen twee doden en er waren duizenden meldingen van omgevallen bomen en ondergelopen kelders en",
       "url": "https://nos.nl/l/2633666",
-      "datum": "5 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +140,7 @@
       "titel": "Twee doden en 35 gewonden bij grote schietpartij op straatfeest in Amerika",
       "beschrijving": "Bij een grote schietpartij op een buurtfeest in de Amerikaanse staat Georgia zijn twee mensen om het leven gekomen. Volgens de politie gaat het om mannen van 20 en 23 jaar oud. Het gebeurde in de plaats Vienna, ruim 200 kilometer van de hoofdstad Atlanta. Ongeveer 35 mensen raakten gewond bij de beschieting, twee van hen verkeren in kritieke toestand. Het is niet bekend wat er precies is gebeurd. ",
       "url": "https://nos.nl/l/2633662",
-      "datum": "5 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,94 +149,49 @@
       "titel": "'Hoe meer kinderen hoe beter' allang niet meer het motto van Marokkaanse gezinnen",
       "beschrijving": "'Hoe meer kinderen, hoe beter' was decennialang het motto binnen Marokkaanse gezinnen. Kinderen zouden later immers voor hun ouders zorgen. Maar nu Marokkaanse vrouwen gemiddeld nog maar 1,97 kinderen krijgen, komt dit diepgewortelde familiesysteem onder druk te staan. Nog nooit was het geboortecijfer in Marokko zo laag. In de jaren zeventig was het nog heel normaal om zeven of acht kinderen te kr",
       "url": "https://nos.nl/l/2633657",
-      "datum": "6 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Honderden Franse scholen morgen dicht uit vrees voor nieuwe gewelddadige protesten",
-      "beschrijving": "In Frankrijk blijven morgen zo'n vijfhonderd scholen dicht of gaan beperkt open vanwege onrust rond scholierenprotesten. Sinds vorige week wordt verspreid door het land geprotesteerd tegen problemen in het onderwijs, waarbij het bij sommige demonstraties tot geweld kwam. Vele duizenden scholieren, studenten en docenten gaan de straat op om actie te voeren tegen onder meer achterstallig onderhoud v",
-      "url": "https://nos.nl/l/2633650",
-      "datum": "7 uur geleden",
+      "titel": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+      "beschrijving": "IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Rusland valt opnieuw Noordbrug in Kyiv aan, Merz bezoekt Oekraïense hoofdstad",
-      "beschrijving": "Een Russische drone is vandaag ingeslagen op de Noordbrug in Kyiv. Afgelopen vier dagen viel het Russische leger verschillende bruggen aan die het oosten en westen van de Oekraïense hoofdstad met elkaar verbinden. Bij eerdere aanvallen vielen meerdere doden. Tijdens de aanval reed er verkeer over de Noordbrug. Er zijn twee mensen gewond geraakt, schrijft burgemeester Klitsjko van Kyiv op Telegram.",
-      "url": "https://nos.nl/l/2633636",
-      "datum": "9 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Politie Spanje ontruimt migrantenkamp op strand in Ceuta",
-      "beschrijving": "De Spaanse politie is begonnen met de ontruiming van een migrantenkamp op het El Trampolín-strand in de exclave Ceuta. De migranten die daar verblijven worden van het strand gehaald. Volgens de politie verloopt de ontruiming \"zonder incidenten\". Voor de ontruimingsactie, die om 08.00 uur vanochtend begon, zijn 350 agenten ingezet. Bij de operatie is ook het militaire politiekorps Guardia Civil bet",
-      "url": "https://nos.nl/l/2633631",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Israel face spitting allegation as Ireland boss ‘delighted’ ties after over",
-      "beschrijving": "Ireland manager says &#039;disciplinary committee will look at&#039; allegations Israel player spat at one of his coaching staff.",
-      "url": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
-      "datum": "41 min geleden",
-      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
-      "beschrijving": "Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.",
-      "url": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
+      "beschrijving": "Brazil’s presidential election is heading to a run-off after Bolsonaro and Lula both fell short of the 50% needed to win",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "beschrijving": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
+      "beschrijving": "A California woman allegedly sent photos and videos of President Lai&#039;s son and his family to Chinese officials.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "beschrijving": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Indian police accused of sexually harassing journalists at protest",
-      "beschrijving": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
-    "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+    "US air force removes all bombers from British military base RAF Fairford",
     "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+    "Tweede ronde nodig bij verkiezingen in Brazilië, Bolsonaro aan de leiding",
+    "Djokovic defeats top seed Zverev to reach China Open semifinals",
+    "Who were the top teen athletes at the Asian Games?",
+    "Bosnian Serb nationalist claims party victory in Bosnia elections",
     "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-    "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-    "VS haalt bommenwerpers weg uit Engeland vanwege 'dreiging'",
-    "Ed Sheeran heeft nieuw voorprogramma na exit Macklemore om pro-Palestijnse uitspraken",
-    "Aanhoudingen bij betoging van Kremlin-gezinde Communistische Partij in Moskou",
-    "Uren in de rij voor Tapijt van Bayeux, British Museum neemt maatregelen",
-    "Abnormaal warme Middellandse Zee veroorzaakt grote overstromingen Spanje"
+    "Watch: How Brazil's dramatic election unfolded",
+    "Australië onderzoekt of Flydubai-copiloot radicaliseerde tijdens studie daar",
+    "Wekdienst 5/10: Uitreiking Michelinsterren • Eerste winnaar Nobelprijs bekendgemaakt"
   ]
 }
