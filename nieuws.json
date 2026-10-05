@@ -1,83 +1,56 @@
 {
-  "bijgewerkt": "05 Oct 2026 15:42 UTC",
+  "bijgewerkt": "05 Oct 2026 22:23 UTC",
   "artikelen": [
     {
-      "titel": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
-      "beschrijving": "The withdrawal means the US lost a convenient launchpad, not its underlying strike capability, said an expert.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
+      "titel": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "beschrijving": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "datum": "37 min geleden",
+      "regio": "VS",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
-      "titel": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-      "beschrijving": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+      "titel": "Militair vliegtuig neergestort in Nigeria, 32 doden",
+      "beschrijving": "Een Nigeriaans militair vliegtuig dat onderweg was van Benin City naar Lagos is neergestort. 25 passagiers en zeven bemanningsleden kwamen daarbij om het leven, meldt persbureau Reuters. Er zijn geen overlevenden, bevestigt president Tinubu. Hij heeft de Nigeriaanse luchtmacht om een grondig onderzoek gevraagd naar de oorzaak van de crash. Volgens de minister van Luchtvaart was het ATR-42-toestel ",
+      "url": "https://nos.nl/l/2633806",
       "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
-      "beschrijving": "A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
-      "beschrijving": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Nationalisten in Bosnië winnen mogelijk ingewikkeldste verkiezingen ter wereld",
-      "beschrijving": "Hij stond niet op het stembiljet, maar toch is hij de grote winnaar van de verkiezingen in Bosnië en Herzegovina: Milorad Dodik, nu de onbetwiste leider van de Bosnische Serviërs. Zijn kandidaat voor het driekoppige presidentschap van het land, en die voor de Bosnisch-Servische deelrepubliek, wonnen beiden met ruim vijftig procent van de stemmen. Ook de Bosniakken (moslims) en Bosnische Kroaten st",
-      "url": "https://nos.nl/l/2633769",
-      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Latest US military strike on alleged drug boat kills four in Caribbean",
-      "beschrijving": "UN warns US boat strikes in the Caribbean counter-drug war may violate international law and human rights principles.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
-      "datum": "43 min geleden",
+      "titel": "Nationalisten in Bosnië winnen mogelijk ingewikkeldste verkiezingen ter wereld",
+      "beschrijving": "Hij stond niet op het stembiljet, maar toch is hij de grote winnaar van de verkiezingen in Bosnië en Herzegovina: Milorad Dodik, nu de onbetwiste leider van de Bosnische Serviërs. Zijn kandidaat voor het driekoppige presidentschap van het land, en die voor de Bosnisch-Servische deelrepubliek, wonnen beiden met ruim vijftig procent van de stemmen. Ook de Bosniakken (moslims) en Bosnische Kroaten st",
+      "url": "https://nos.nl/l/2633769",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
-      "titel": "Murder in Okinawa: The US military’s history of alleged crime in Japan",
-      "beschrijving": "The murder of 39-year-old Anna Yagi is the latest in a string of crimes involving US personnel on Okinawa.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
+      "titel": "What’s next for Bosnia after elections?",
+      "beschrijving": "Bosnia and Herzegovina’s election strengthened nationalist parties.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-next-for-bosnia-after-elections?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Bolsonaro favourite to win: What Brazil’s first round of elections tells us",
-      "beschrijving": "Analysts say Flavio Bolsonaro is projected to win the run-off vote on October 25 and become Brazil&#039;s next president.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
-      "datum": "3 uur geleden",
+      "titel": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+      "beschrijving": "Turkiye, Saudi Arabia and Pakistan have agreed to trigger collective deterrence measures in response to Houthi attacks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Spanish PM Sánchez calls early election after housing protests",
-      "beschrijving": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "titel": "Spain PM pins hopes on housing crisis to help win snap election",
+      "beschrijving": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -86,16 +59,43 @@
       "titel": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
       "beschrijving": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
       "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "19 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "'Copiloot Flydubai wilde vliegtuig laten crashen op vliegveld Tel Aviv'",
+      "beschrijving": "De copiloot van Flydubai die woensdag zijn gezagvoerder neerstak, was waarschijnlijk van plan dat toestel te laten crashen op de internationale luchthaven van Tel Aviv. Dat melden Israëlische bronnen die ingelicht zijn over het politieonderzoek naar het incident. Ook zeggen deze bronnen dat de Omaanse staatsburger al eerder dit jaar een vlucht naar Tel Aviv wilde kapen, maar daar van afzag. Waarom",
+      "url": "https://nos.nl/l/2633799",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Smokkelaar met 77 papegaaien en 300 schildpadjes betrapt op Sicilië",
+      "beschrijving": "De Italiaanse douane en fiscale recherche hebben bij een controle op Sicilië 77 papegaaien en 300 schildpadjes onderschept. Ze zaten in een bestelbus die aan boord wilde gaan van een veerboot naar Malta. De dieren hadden te weinig ruimte en de temperatuurregulatie voldeed niet aan de eisen voor diertransport. Verder onderzoek leverde op dat 76 van de 77 vogels op de CITES-lijst van bedreigde dier-",
+      "url": "https://nos.nl/l/2633793",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Scholier (15) raakt hand kwijt na oprapen flitsgranaat bij protesten Frankrijk",
+      "beschrijving": "Bij scholierenprotesten in de Franse stad Lens is een leerling van 15 jaar zwaargewond geraakt. Hij raakte zijn hand kwijt toen een projectiel dat hij had opgeraapt, ontplofte. De jongen ligt in het ziekenhuis in Lille, hij verkeert niet in levensgevaar. Franse media melden dat het projectiel een flitsgranaat was, die door de oproerpolitie was gegooid. Een flitsgranaat wordt gebruikt om mensen met",
+      "url": "https://nos.nl/l/2633782",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Twee doden door brand op vrachtschip Zwarte Zee, Oekraïne wijst naar Rusland",
       "beschrijving": "Twee mensen zijn omgekomen bij een brand aan boord van een vrachtschip op de Zwarte Zee, meldt Roemenië. Het schip is gezonken, elf bemanningsleden zijn gered. Volgens het Roemeense ministerie van Binnenlandse Zaken werd de kustwacht rond 11.00 uur gealarmeerd en bevond het schip zich buiten de territoriale wateren van het land, zo'n 55 kilometer ten zuiden van de stad Sfantu Gheorghe. Het ministe",
       "url": "https://nos.nl/l/2633775",
-      "datum": "18 min geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +104,7 @@
       "titel": "Vliegtuig maakt buiklanding in Tanzania na botsing met zebra",
       "beschrijving": "Een safarivliegtuig heeft gisteren een buiklanding gemaakt nadat het tijdens het opstijgen in botsing was gekomen met een zebra. Het hoefdier kwam daarbij om het leven. Volgens The Tanzania Times bleven alle dertig inzittenden ongedeerd. Het toestel was met 26 passagiers en 4 bemanningsleden onderweg van Seronera, dat in het noorden van Tanzania ligt, naar het eiland Zanzibar. Kort na het opstijge",
       "url": "https://nos.nl/l/2633770",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +113,7 @@
       "titel": "Duitse inlichtingendienst waarschuwt voor gewelddadig conflict met Rusland",
       "beschrijving": "Duitsland dreigt in een gewelddadig conflict met Rusland te raken. Daarvoor waarschuwt het hoofd van de Duitse inlichtingendienst BND, Martin Jäger. \"Wij zoeken deze confrontatie niet op, Rusland dwingt ons ertoe. Zij zien ons als hoofdvijand.\" Volgens Jäger is Duitsland het grootste obstakel voor de expansiedrift van de Russische president Poetin. Duitsland is de belangrijkste bondgenoot van Oekr",
       "url": "https://nos.nl/l/2633764",
-      "datum": "1 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,7 +122,7 @@
       "titel": "Vrouw in VS opgepakt voor bespioneren zoon van Taiwanese president",
       "beschrijving": "De FBI heeft gisteren op de luchthaven van Los Angeles een vrouw gearresteerd die in opdracht van China de zoon van de Taiwanese president, Ching-Te Lai, zou hebben bespioneerd. De vrouw stond op het punt om het vliegtuig naar Shanghai te pakken. De aanklager in Amerika verdenkt de vrouw ervan te werken als \"een niet-geregistreerde buitenlandse agent\". Deze Wanying Zhang (34) is woonachtig in Cali",
       "url": "https://nos.nl/l/2633763",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -131,67 +131,67 @@
       "titel": "Regeringsleger Jemen spreekt van offensief tegen Houthi's, 'zeestraat heroverd'",
       "beschrijving": "Het Jemenitische regeringsleger heeft weer controle over de zeestraat Bab al-Mandab, zegt minister Moammar al-Eryani van Informatie tegen persbureau Reuters. De belangrijke zeestraat werd vorige maand door de militante groepering de Houthi's bezet. Het leger kondigde vanochtend aan te starten met de grootschalige operatie \"Dageraad van Jemen\". Deze operatie moet de Houthi-coup in het land beëindig",
       "url": "https://nos.nl/l/2633762",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "5/10 in Nieuwsuur: Minderjarigen in seksadvertenties • Oplossingen voor vol stroomnet • Pest in Rusland?",
-      "beschrijving": "Minderjarigen in seksadvertenties Minderjarige jongens en meisjes worden nog altijd 'aangeboden' via seksadvertenties op legale websites. Acht jaar geleden beloofden die sites beterschap, maar dat is niet tot nauwelijks gekomen. JA21 en ChristenUnie trekken nu aan de bel bij justitieminister Van Weel. Maar de vraag is: wat kan hij eraan doen? We vragen het aan het Centrum Kinderhandel &amp; Mensen",
-      "url": "https://nos.nl/l/2633761",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Tientallen doden en vermisten na botsing van twee boten op rivier in Congo",
-      "beschrijving": "Bij een ongeluk met twee boten op een rivier in Congo zijn zeker dertig mensen omgekomen. Tientallen anderen worden vermist. De twee houten motorboten botsten gisteravond op elkaar op de rivier de Congo. De oorzaak van de botsing is nog niet duidelijk. Een van de boten voer van Ubangi in het noordwesten naar de hoofdstad Kinshasa, de andere van Kinshasa naar Lukolela, vlak bij de plek van het onge",
-      "url": "https://nos.nl/l/2633760",
-      "datum": "2 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Eerste Egyptische koningen namen mogelijk bedienden mee het graf in",
-      "beschrijving": "Had egyptoloog Flinders Petrie toch gelijk toen hij vermoedde dat Egyptische koningen mensen 'meenamen' in hun graf? Nieuw Amerikaans onderzoek lijkt de bevindingen die Petrie rond 1920 deed aannemelijker te maken. Op de begraafplaats van de eerste Egyptische koningen, Umm el-Qa'ab bij Abydos, niet ver van Luxor, vond Petrie tientallen tot honderden graven. Daarin lagen mensen die in verband gebra",
-      "url": "https://nos.nl/l/2633753",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Tijdelijk verbod op AI-brillen in Noorwegen, regering stelt onderzoek in",
-      "beschrijving": "De Noorse regering wil een tijdelijk verbod op AI-brillen op een aantal plekken in de openbare ruimte. De regering zegt zich zorgen te maken dat mensen zonder hun medeweten kunnen worden gefilmd of gefotografeerd. Zo'n AI-bril lijkt op een gewone bril maar heeft een ingebouwde camera en microfoon. Ook is de bril voorzien van een AI-assistent. Het tijdelijk verbod geeft de regering \"de tijd om gron",
-      "url": "https://nos.nl/l/2633750",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nobel medicine prize honours US and German scientists for optogenetics work",
-      "beschrijving": "The winners of the Nobel Prizes in physics, chemistry, literature, peace and ‌economics will be announced in the week.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/nobel-medicine-prize-honours-us-and-german-scientists-for-optogenetics-work?traffic_source=rss",
+      "titel": "Ethiopia’s PM insists on access to Red Sea despite regional conflict threat",
+      "beschrijving": "Neighbouring countries say coastal states must govern Red Sea as fighting escalates in northern Ethiopia.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Trump says US ready to aid Russia with plague outbreak in Siberia",
+      "beschrijving": "Russian authorities quarantine hospital, monitor 200 contacts after suspected pneumonic plague death in Siberia.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israeli forces kill one, injure several in occupied West Bank",
+      "beschrijving": "Palestinians in West Bank are suffering increasing Israeli violence and repression.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/israeli-forces-kill-one-injure-several-in-occupied-west-bank?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "beschrijving": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+      "datum": "7 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "US 'watching closely' after plague researcher dies in Russia",
+      "beschrijving": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "datum": "49 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
     }
   ],
   "ticker": [
-    "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
-    "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-    "Georgia officials hunt for suspect in shooting that killed two and injured 35",
-    "Bombs preventing rescue of kidnapped youths, Nigerian police say",
+    "Trump says 'threat' led US to pull bombers from RAF Fairford",
+    "Militair vliegtuig neergestort in Nigeria, 32 doden",
     "Nationalisten in Bosnië winnen mogelijk ingewikkeldste verkiezingen ter wereld",
-    "Latest US military strike on alleged drug boat kills four in Caribbean",
-    "Murder in Okinawa: The US military’s history of alleged crime in Japan",
-    "Bolsonaro favourite to win: What Brazil’s first round of elections tells us",
-    "Spanish PM Sánchez calls early election after housing protests",
-    "Right-wing Flávio Bolsonaro wins first round of Brazil election"
+    "What’s next for Bosnia after elections?",
+    "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+    "Spain PM pins hopes on housing crisis to help win snap election",
+    "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+    "'Copiloot Flydubai wilde vliegtuig laten crashen op vliegveld Tel Aviv'",
+    "Smokkelaar met 77 papegaaien en 300 schildpadjes betrapt op Sicilië",
+    "Scholier (15) raakt hand kwijt na oprapen flitsgranaat bij protesten Frankrijk"
   ]
 }
