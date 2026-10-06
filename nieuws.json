@@ -1,11 +1,11 @@
 {
-  "bijgewerkt": "06 Oct 2026 16:35 UTC",
+  "bijgewerkt": "06 Oct 2026 21:29 UTC",
   "artikelen": [
     {
       "titel": "Nieuwe verdachte aangehouden in Londen voor voorbereiden aanslag bij luchtmachtbasis",
       "beschrijving": "In Londen is een nieuwe verdachte aangehouden op verdenking van het voorbereiden van een terroristische aanslag bij de luchtmachtbasis in Fairford. Dat meldt de contraterrorisme-afdeling van de Britse politie. Het gaat om een 22-jarige man met de Britse nationaliteit. In hetzelfde gebied is ook een woning doorzocht. Op 27 september werd alarm geslagen bij een Britse luchtmachtbasis in het graafsch",
       "url": "https://nos.nl/l/2633892",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,34 +14,79 @@
       "titel": "Ship sinks and crew missing after Black Sea drone attack",
       "beschrijving": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-      "beschrijving": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "Afrika",
+      "titel": "Tokyo protests US military presence after Okinawa killing",
+      "beschrijving": "Protesters rallied outside the US Embassy in Tokyo after a US Marine was arrested for the killing of a 39-year-old woman",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
+      "datum": "8 min geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why Flavio Bolsonaro outperformed the polls in Brazil’s election",
+      "beschrijving": "A late right-wing shift, a banking scandal and economic frustration may be behind Bolsonaro&#039;s last-minute gains.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss",
+      "datum": "44 min geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Indian opposition MPs detained in protest against election chief",
       "beschrijving": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
       "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Spionagezaak schaadt reputatie Duitse inlichtingendienst",
+      "beschrijving": "\"Een absoluut nachtmerriescenario\", noemt inlichtingenexpert Kenneth Lasoen het nieuws dat het voormalig hoofd van de Duitse buitenlandse inlichtingendienst is aangehouden. Lasoen is hoogleraar inlichtingen- en veiligheidsstudies aan de Universiteit Antwerpen. Voormalig BND-chef August Hanning (80) werd vandaag gearresteerd op verdenking van landverraad en spionage. Ook zijn naaste medewerker en v",
+      "url": "https://nos.nl/l/2633928",
+      "datum": "2 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Studenten Cornell woedend om verkrachtingszaak: 'Universiteit bang voor reputatie'",
+      "beschrijving": "In Amerika groeien de protesten vanwege de verkrachtingszaak op de prestigieuze Cornell Universiteit. Een studente die Jane Doe genoemd wordt, heeft een zaak aangespannen omdat ze volgens haar twee jaar geleden is verkracht. Online uiten veel vrouwen hun woede met de hashtag #IAmJaneDoe en gisteren hielden zo'n duizend mensen een protestmars op de universiteit in de staat New York. De veronderstel",
+      "url": "https://nos.nl/l/2633923",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Paramount rondt overname Warner Bros af in gigadeal van 111 miljard dollar",
+      "beschrijving": "De overname van Warner Bros Discovery door mediabedrijf Paramount Skydance is na meer dan een jaar definitief gemaakt. Met de deal van 111 miljard dollar (98 miljard euro) is een nieuwe mediagigant gecreeërd. Het bedrijf gaat Skydance heten. Iets meer dan een jaar geleden bracht Paramount Skydance het eerste bod uit op Warner Bros, dat eerder al was ingegaan op een overnamebod van streamingdienst ",
+      "url": "https://nos.nl/l/2633921",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Opnieuw grote protesten én geweld in Frankrijk, wat zit erachter?",
+      "beschrijving": "Het is al een paar weken onrustig in Frankrijk. Wat begon als een kleinschalig protest bij een middelbare school buiten Parijs, is uitgegroeid tot een nationale volksbeweging waar ook universiteitsstudenten zich achter hebben geschaard. Tegelijkertijd maken hooligans of relschoppers misbruik van de demonstraties. Waar komt deze onrust vandaan? Waar het de afgelopen dagen nog ging om honderden scho",
+      "url": "https://nos.nl/l/2633917",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Franse premier: komende dagen geen les op Franse scholen, gesprek met elkaar",
-      "beschrijving": "De komende drie dagen zullen er op alle middelbare scholen in heel Frankrijk geen lessen zijn. Dat heeft de Franse premier Lecornu gezegd. Reden zijn de grootschalige scholierenprotesten van de afgelopen weken. De premier wil samen met de minister van Onderwijs vanuit de politiek een antwoord geven op de protesten. Hij hoopt dat scholen en leerlingen komende dagen met elkaar in gesprek gaan. Of sc",
+      "beschrijving": "De komende drie dagen zullen er op alle lycées in heel Frankrijk geen lessen zijn. Dat heeft de Franse premier Lecornu gezegd. Reden zijn de grootschalige scholierenprotesten van de afgelopen weken. Lycées zijn de bovenbouw-scholen in het voortgezet onderwijs, voor leerlingen vanaf ongeveer 15 jaar. De premier wil samen met de minister van Onderwijs vanuit de politiek een antwoord geven op de prot",
       "url": "https://nos.nl/l/2633900",
-      "datum": "45 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +95,7 @@
       "titel": "EU-uitbreiding weer bespreekbaar, maar wel eerst proefperiode voor nieuwe landen",
       "beschrijving": "Jarenlang was het onderwerp onbespreekbaar in Brussel: het toelaten van nieuwe landen tot de Europese Unie. De laatste toetreding, die van Kroatië, dateert alweer uit 2013. De vrees is dat nieuwe landen vooral geld gaan kosten. Bovendien zijn er zorgen over de stabiliteit van nieuwkomers. Zullen zij zich wel aan de Europese regels blijven houden als ze eenmaal lid zijn? Maar sinds de oorlog in Oek",
       "url": "https://nos.nl/l/2633899",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +104,7 @@
       "titel": "Podcast De Dag: wat de Franse scholierenprotesten steeds groter maakt",
       "beschrijving": "Het Franse scholierenprotest wordt groter, gewelddadiger én politieker. Vandaag, tijdens een nationale protestdag, zijn zeker tienduizenden, volgens de vakbond zelfs honderdduizenden mensen de straat op gegaan, in solidariteit met de Franse scholieren. Het protest barstte los twee weken geleden, bij het begin van het schooljaar. Het gaat om een tekort aan leraren, gebrekkige lesroosters en materia",
       "url": "https://nos.nl/l/2633891",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +113,7 @@
       "titel": "Kattendievenbende in Vietnam opgerold: 'Duizenden dieren gestolen'",
       "beschrijving": "De Vietnamese politie heeft een netwerk opgerold dat verantwoordelijk is voor de diefstal van duizenden katten in Ho Chi Minh-stad. Twaalf mannen worden verdacht van het stelen en doorverkopen van de dieren, vermoedelijk voor consumptie, melden staatsmedia. De hoofdverdachte is de 39-jarige Luu Thanh Binh, hij is de vermoedelijke bendeleider. Volgens het politieonderzoek kocht Binh levende katten,",
       "url": "https://nos.nl/l/2633880",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,121 +122,49 @@
       "titel": "Spaans Hooggerechtshof trekt arrestatiebevel separatistenleider Puigdemont in",
       "beschrijving": "Het arrestatiebevel tegen de Catalaanse separatistenleider Carles Puigdemont is ingetrokken door het Spaanse Hooggerechtshof. Puigdemont kan zo na negen jaar in ballingschap geleefd te hebben als vrij man terugkeren naar zijn land zonder te worden aangehouden. Puigdemont vluchtte in 2017 naar België, nadat de poging van Catalonië om zich af te scheiden van Spanje was mislukt. Een referendum over a",
       "url": "https://nos.nl/l/2633879",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "6/10 in Nieuwsuur: Scholierenprotesten in Frankrijk • APB in Eerste Kamer • Duitse inlichtingenchef opgepakt",
-      "beschrijving": "Scholierenprotesten in Frankrijk Opnieuw is er vandaag een grote protestdag van scholieren in Frankrijk, dit keer met steun van de onderwijsvakbonden. Ze protesteren tegen overvolle klassen, een tekort aan leraren en een hoge werkdruk. Die protesten lopen soms uit op gewelddadige confrontaties met de politie. Er raakten al tientallen mensen gewond en duizenden demonstranten werden opgepakt. We spr",
-      "url": "https://nos.nl/l/2633874",
-      "datum": "3 uur geleden",
+      "titel": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
+      "beschrijving": "Anduril said it would invest $3.7bn to develop shipyard that would build submarine parts.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk?traffic_source=rss",
+      "datum": "17 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Loodzwaar kunstboek met werk van Dalí gestolen uit Frans museum",
-      "beschrijving": "Een van de duurste en zwaarste boeken ter wereld is gestolen uit een museum in Frankrijk. Alleen al de door Salvador Dalí gemaakte kaft van kunstwerk de Apocalyps weegt 150 kilo. Het is een raadsel hoe de dieven het loodzware boekwerk het pand uit hebben gekregen. Het Openbaar Ministerie is een onderzoek gestart naar de diefstal in de gemeente Issoire, zo'n honderd kilometer ten westen van Lyon. D",
-      "url": "https://nos.nl/l/2633871",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
+      "titel": "US CDC says it’s ‘aware of and closely monitoring’ Russian plague case",
+      "beschrijving": "The top US public health agency&#039;s remarks come as the Trump administration said it’s &#039;closely&#039; watching the incident.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss",
+      "datum": "34 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Eerste patiënt met ebolavirus in Kenia overleden, man liep virus op in Congo",
-      "beschrijving": "In Kenia is gisteren voor het eerst een patiënt met het ebolavirus overleden. De Keniaan had het virus opgelopen in Congo, meldt het ministerie van Volksgezondheid. Kenia is het vierde land dat een ebolageval heeft geregistreerd. De man reisde zaterdag via Uganda terug naar Kenia en werd na aankomst in isolatie geplaatst in een ziekenhuis in de hoofdstad Nairobi. Hij was positief getest op het ebo",
-      "url": "https://nos.nl/l/2633869",
-      "datum": "4 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "AfD'er verkozen tot parlementsvoorzitter, stap in machtsovername Saksen-Anhalt",
-      "beschrijving": "De AfD heeft voor het eerst het voorzitterschap van een deelstaatparlement in handen gekregen. Bij de eerste zitting van het nieuwverkozen parlement in Saksen-Anhalt werd AfD'er Tobias Rausch verkozen. Het markeert een belangrijke mijlpaal in de machtsovername in de deelstaat. AfD-leider Ulrich Siegmund spreekt van een historische dag. Ook de linkse oppositie gebruikt grote woorden. Voor het eerst",
-      "url": "https://nos.nl/l/2633865",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Birzeit University memorial destruction aims to crush Palestinian memory",
-      "beschrijving": "Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.",
-      "url": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
+      "beschrijving": "Progressive US representatives seek to bring attention to Israeli abuse and detention of Palestinian medical worker.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss",
+      "datum": "46 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-      "beschrijving": "Bulgaria launches search operation after Togo-flagged Alfa Watan sinks at scene of attack.",
-      "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
-      "beschrijving": "Former British consul Sir Vincent Fean says Israel is acting unlawfully in the wake of a new wave of sanctions.",
-      "url": "https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "What new measures is Iran taking to counter US economic pressure?",
-      "beschrijving": "Iran adopts a new arrangement to tackle economic challenges amid the US-imposed economic war and naval blockades.",
-      "url": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "In Gaza, we cannot even begin to recover from trauma",
-      "beschrijving": "The genocide has killed many and left the rest broken. For us, survivors, recovery is not on the horizon.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
-      "beschrijving": "Energy Minister Prince Abdulaziz bin ⁠Salman says capacity restored after major attack last month.",
-      "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "beschrijving": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 min geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
     }
   ],
   "ticker": [
     "Nieuwe verdachte aangehouden in Londen voor voorbereiden aanslag bij luchtmachtbasis",
     "Ship sinks and crew missing after Black Sea drone attack",
-    "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+    "Tokyo protests US military presence after Okinawa killing",
+    "Why Flavio Bolsonaro outperformed the polls in Brazil’s election",
     "Indian opposition MPs detained in protest against election chief",
-    "Franse premier: komende dagen geen les op Franse scholen, gesprek met elkaar",
-    "EU-uitbreiding weer bespreekbaar, maar wel eerst proefperiode voor nieuwe landen",
-    "Podcast De Dag: wat de Franse scholierenprotesten steeds groter maakt",
-    "Kattendievenbende in Vietnam opgerold: 'Duizenden dieren gestolen'",
-    "Spaans Hooggerechtshof trekt arrestatiebevel separatistenleider Puigdemont in",
-    "6/10 in Nieuwsuur: Scholierenprotesten in Frankrijk • APB in Eerste Kamer • Duitse inlichtingenchef opgepakt"
+    "Spionagezaak schaadt reputatie Duitse inlichtingendienst",
+    "Studenten Cornell woedend om verkrachtingszaak: 'Universiteit bang voor reputatie'",
+    "Paramount rondt overname Warner Bros af in gigadeal van 111 miljard dollar",
+    "Opnieuw grote protesten én geweld in Frankrijk, wat zit erachter?",
+    "Franse premier: komende dagen geen les op Franse scholen, gesprek met elkaar"
   ]
 }
