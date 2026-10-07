@@ -1,188 +1,197 @@
 {
-  "bijgewerkt": "07 Oct 2026 08:20 UTC",
+  "bijgewerkt": "07 Oct 2026 16:11 UTC",
   "artikelen": [
     {
-      "titel": "Wekdienst 7/10: Aanslagen in Israël herdacht • Nobelprijs voor Scheikunde",
-      "beschrijving": "Goedemorgen! In Zweden wordt bekendgemaakt wie de Nobelprijs voor Scheikunde krijgt, en wereldwijd worden de aanslagen herdacht in Israël, drie jaar geleden. Eerst het weer: de dag begint regionaal met mist of nevel. Daarna schijnt geregeld de zon. Later vandaag neemt de bewolking toe en vanavond volgt vanuit het westen regen. Het wordt 19 tot 23 graden en er waait een matige zuidoostenwind. Ga je",
-      "url": "https://nos.nl/l/2633952",
-      "datum": "3 uur geleden",
-      "regio": "Europa",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
-      "beschrijving": "Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
-      "beschrijving": "Russia’s Defence Ministry says its forces carried out a &#039;massive strike&#039; on Kyiv and other Ukrainian regions.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Zware Russische aanval op Oekraïne: 20 doden, onder wie 4 kinderen",
+      "beschrijving": "Bij Russische aanvallen op verschillende plekken in Oekraïne zijn vannacht zeker twintig doden gevallen. Bij een aanval op een flatgebouw in de noordelijke stad Pryloeky kwamen zeker veertien mensen om het leven, onder wie vier kinderen. Bij de aanval raakten ook vijftig mensen gewond, onder wie zeven kinderen. Op videobeelden is te zien hoe hulpverleners nog steeds naar mensen onder het puin zoek",
+      "url": "https://nos.nl/l/2633985",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
       "titel": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
       "beschrijving": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
       "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Miljoenenfraude CIA-medewerker met verzonnen operaties",
-      "beschrijving": "Goudstaven, dure horloges, luxeappartementen en privévluchtjes. Een CIA-medewerker wist het de Amerikaanse overheid allemaal af te troggelen met verzonnen missies. David Rush heeft nu bekend voor 194 miljoen dollar fraude te hebben gepleegd. Toen de 49-jarige Rush in mei werd gearresteerd, vonden FBI-agenten bijna 300 goudstaven in zijn huis, ter waarde van zo'n 40 miljoen dollar. Ook werden er 35",
-      "url": "https://nos.nl/l/2633969",
+      "titel": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
+      "beschrijving": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
       "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Franse politie stopt tijdelijk met flitsgranaten bij scholierenprotesten",
+      "beschrijving": "De Franse politie zal de komende periode bij de scholierenprotesten geen gebruik meer maken van flitsgranaten, zegt de minister van Binnenlandse Zaken Nuñez. Een flitsgranaat wordt gebruikt om mensen met een harde knal en lichtflits te verblinden of verdoven. Het besluit komt nadat een 15-jarige jongen zijn hand kwijtraakte bij een demonstratie in de stad Lens. De burgemeester van Wingles, waar de",
+      "url": "https://nos.nl/l/2633989",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "South Korea signals military exemption cuts for athletes after Asian Games",
+      "beschrijving": "South Korea signals cuts to military exemptions for gold medallists after backlash over athletes&#039; Asian Games comments.",
+      "url": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "200.000 Jemenieten op de vlucht door opgelaaide gevechten",
+      "beschrijving": "De VN-organisatie voor migratie en hulp aan vluchtelingen (IOM) slaat alarm over de situatie in Jemen. Sinds het weer oplaaien van de strijd tussen de Houthi's en het regeringsleger, begin vorige maand, zijn zo'n 200.000 Jemenieten op de vlucht geslagen. \"Mensen rennen voor hun leven maar vinden nergens veiligheid\", zegt IOM-directeur Amy Pope. \"Ze hebben nu onderdak, eten en veiligheid nodig. Onz",
+      "url": "https://nos.nl/l/2634035",
+      "datum": "25 min geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Tien gewonden bij steekpartij op school in Polen, verdachte (19) gearresteerd",
+      "beschrijving": "Bij een steekpartij bij een school voor beroepsonderwijs in het noorden van Polen zijn tien gewonden gevallen. Een 19-jarige student van de school kon in de omgeving worden gearresteerd. De gewonden zijn vijf leerlingen, twee leraren, twee omstanders en de dader. Die laatste verwondde zichzelf, melden de lokale autoriteiten. Niemand is in levensgevaar. Wel liep één persoon ernstige verwondingen op",
+      "url": "https://nos.nl/l/2634029",
+      "datum": "58 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Australische bisschop moet cel in vanwege seksueel misbruik Aboriginal mannen",
-      "beschrijving": "De voormalige Australische bisschop Christopher Saunders moet de gevangenis in vanwege het seksueel misbruiken van twee Aboriginal mannen. De 76-jarige Saunders kreeg een celstraf van 6,5 jaar opgelegd, maar komt in februari 2031 in aanmerking voor voorwaardelijke vrijlating. Saunders werd in 2024 opgepakt. Een jury oordeelde in augustus al dat de ex-bisschop schuldig was aan één verkrachting en t",
-      "url": "https://nos.nl/l/2633965",
+      "titel": "7/10 in Nieuwsuur: Voorzitter VNO/NCW in studio • Mislukte executie VS • Nieuw seizoen Fauda",
+      "beschrijving": "Voorzitter VNO-NCW Het kabinet en werkgevers en werknemers hebben na maanden van acties een goed gesprek gehad. De sfeer was goed, zeggen onder anderen FNV-voorzitter Hans Spekman en voorzitter van werkgeversorganisatie VNO-NCW Coen van Oostrom. Die laatste schuift aan in de studio. Hij zit tegenover econoom Mathijs Bouman. Mislukte executie Christa Pike De gevangene uit de Amerikaanse staat Tenne",
+      "url": "https://nos.nl/l/2634017",
       "datum": "2 uur geleden",
-      "regio": "Afrika",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Trump belt Poetin over dode bij pestinstituut, WHO wil ook meer informatie",
-      "beschrijving": "De Amerikaanse president Trump is van plan \"zeer binnenkort\" te bellen met zijn Russische ambtsgenoot Poetin over de dode in een pestinstituut in Irkoetsk. Volgens Russische media overleed de vrouw aan de pest, maar de autoriteiten weerspreken dat en hebben het over \"een longontsteking met onbekende oorzaak\". \"Er staat een telefoontje gepland, al snel\", antwoordde Trump op vragen van verslaggevers",
-      "url": "https://nos.nl/l/2633963",
+      "titel": "Podcast De Dag: de magie van Messi",
+      "beschrijving": "Lionel Messi heeft voor het laatst gespeeld in het blauw-wit van Argentinië. Vannacht nam hij afscheid als international tijdens een vriendschappelijke wedstrijd tegen Benin. Met tranen, vuurwerk en mooie woorden werd de voetballer geëerd. Lionel Messi is de meest gedecoreerde voetballer ooit: met 47 voetbalprijzen. Zo werd hij het vaakst uitgeroepen tot beste voetballer ter wereld. Luister hier: ",
+      "url": "https://nos.nl/l/2634016",
       "datum": "2 uur geleden",
-      "regio": "VS",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Gijzelaar Maxim een jaar na zijn vrijlating uit Gaza: 'Ik zal nooit meer dezelfde persoon zijn'",
-      "beschrijving": "\"Ik zal nooit meer degene zijn die ik op 6 oktober was, dat is onmogelijk\", vertelt de 37-jarige Maxim Harkin. \"Je kunt herinneringen niet uitwissen en het allemaal maar vergeten. Hoe graag ik dat ook zou willen.\" Harkin behoorde tot de laatste groep gijzelaars die vorig jaar werd vrijgelaten uit Gaza, als onderdeel van een akkoord tussen Israël en Hamas. De vreugde in Israël was groot. Maar voor ",
-      "url": "https://nos.nl/l/2633954",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Amerikaanse opgepakt voor hulp bij schietpartij op school Canada",
-      "beschrijving": "De politie in de Amerikaanse staat Washington heeft een 30-jarige vrouw opgepakt in verband met een schietpartij op een school in Canada in februari. Een 18-jarige schutter schoot thuis haar moeder en halfbroer dood, waarna ze op haar voormalige middelbare school in Tumbler Ridge vijf kinderen en een leraar om het leven bracht. 25 anderen raakten gewond. Daarna bracht ze zichzelf om het leven. Tip",
-      "url": "https://nos.nl/l/2633949",
+      "titel": "Israël herdenkt terreur 7 oktober, ook in Nederland bijeenkomsten",
+      "beschrijving": "Op verschillende plekken in Israël zijn vandaag herdenkingen van de Hamas-aanval van 7 oktober 2023. Meerdere ceremonies begonnen vanochtend om 06.29 uur lokale tijd. Op dat tijdstip, vandaag drie jaar geleden, begonnen de terroristische aanvallen. In diverse steden en dorpen komen mensen vandaag samen om te herdenken. Israëlische media schrijven dat in sommige gemeenten vlaggen halfstok hangen. V",
+      "url": "https://nos.nl/l/2633998",
       "datum": "4 uur geleden",
-      "regio": "VS",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Christa Pike bij bewustzijn en aanspreekbaar na mislukte executie",
-      "beschrijving": "De gevangene uit de Amerikaanse staat Tennessee die vorige week een mislukte executie onderging, is bij bewustzijn en aanspreekbaar. Dat hebben haar advocaten bekendgemaakt. \"Tegen alle verwachtingen in is Christa Pike bij bewustzijn en kan ze praten\", zeggen de advocaten in een verklaring na een bezoek aan het ziekenhuis waar Pike ligt. \"Ze krijgt nog steeds intensieve medische zorg. Ondanks de e",
-      "url": "https://nos.nl/l/2633944",
-      "datum": "10 uur geleden",
+      "titel": "Nobelprijs voor Scheikunde voor onderzoek naar gespiegelde moleculen",
+      "beschrijving": "De Nobelprijs voor Scheikunde gaat naar de Fransman Henri Kagan en de Japanner Kenso Soai. Zij deden onderzoek naar de ontdekking van \"niet-lineaire effecten en autokatalyse in asymmetrische organische synthese\". In iets begrijpelijker Nederlands: sommige moleculen bestaan in twee varianten, die elkaars spiegelbeeld zijn. Als moleculen de ene kant op gedraaid staan, kunnen ze een andere werking he",
+      "url": "https://nos.nl/l/2633992",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Spionagezaak schaadt reputatie Duitse inlichtingendienst",
-      "beschrijving": "\"Een absoluut nachtmerriescenario\", noemt inlichtingenexpert Kenneth Lasoen het nieuws dat het voormalig hoofd van de Duitse buitenlandse inlichtingendienst is aangehouden. Lasoen is hoogleraar inlichtingen- en veiligheidsstudies aan de Universiteit Antwerpen. Voormalig BND-chef August Hanning (80) werd vandaag gearresteerd op verdenking van landverraad en spionage. Ook zijn naaste medewerker en v",
-      "url": "https://nos.nl/l/2633928",
-      "datum": "13 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Studenten Cornell woedend om verkrachtingszaak: 'Universiteit bang voor reputatie'",
-      "beschrijving": "In Amerika groeien de protesten vanwege de verkrachtingszaak op de prestigieuze Cornell Universiteit. Een studente die Jane Doe genoemd wordt, heeft een zaak aangespannen omdat ze volgens haar twee jaar geleden is verkracht. Online uiten veel vrouwen hun woede met de hashtag #IAmJaneDoe en gisteren hielden zo'n duizend mensen een protestmars op de universiteit in de staat New York. De veronderstel",
-      "url": "https://nos.nl/l/2633923",
-      "datum": "13 uur geleden",
+      "titel": "'Feniksplaneet' ontdekt, ontstaan uit de resten van een dode ster",
+      "beschrijving": "Britse astronomen hebben een nieuw soort hemellichaam ontdekt: een planeet die draait rond een uitgebrande ster. De ontdekkers noemen het een feniksplaneet, naar de mythologische vogel die oprijst uit zijn eigen as. De ontdekking kan meer vertellen over de verre toekomst van ons eigen zonnestelsel. Wetenschappers van de universiteit van Warwick beschrijven in het vakblad Nature Astronomy hun ontde",
+      "url": "https://nos.nl/l/2633991",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Paramount rondt overname Warner Bros af in gigadeal van 111 miljard dollar",
-      "beschrijving": "De overname van Warner Bros Discovery door mediabedrijf Paramount Skydance is na meer dan een jaar definitief gemaakt. Met de deal van 111 miljard dollar (98 miljard euro) is een nieuwe mediagigant gecreeërd. Het bedrijf gaat Skydance heten. Iets meer dan een jaar geleden bracht Paramount Skydance het eerste bod uit op Warner Bros, dat eerder al was ingegaan op een overnamebod van streamingdienst ",
-      "url": "https://nos.nl/l/2633921",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
+      "titel": "Nieuw seizoen Fauda kiest na 7 oktober nadrukkelijker voor Israëlisch perspectief",
+      "beschrijving": "Het nieuwe seizoen van de Israëlische hitserie Fauda maakt veel los, zowel in Israël als daarbuiten. In het vijfde, nieuwste seizoen van de serie wordt uitgebreid stilgestaan bij de aanslagen van Hamas op 7 oktober 2023 en het trauma dat Israël toen opliep. De grote vraag in aanloop naar het nieuwe seizoen was hoe de Israëlische makers de gebeurtenissen zouden belichten. Volgens critici zijn de af",
+      "url": "https://nos.nl/l/2633987",
+      "datum": "6 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Myanmar’s Min Aung Hlaing visits Malaysia amid concerns over repatriations",
-      "beschrijving": "Myanmar leader Min Aung Hlaing arrives in Malaysia on his first visit since the 2021 coup.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/myanmars-min-aung-hlaing-visits-malaysia-amid-concerns-over-repatriations?traffic_source=rss",
-      "datum": "30 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
-      "beschrijving": "Iran&#039;s oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "How has Israel’s genocide changed Gaza?",
-      "beschrijving": "Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "The mass killing does not mean Israel’s winning",
+      "beschrijving": "Israel’s military might has failed to achieve the political goals in Gaza it was supposed to.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss",
+      "datum": "46 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Yemen’s displaced children dream of returning to school",
-      "beschrijving": "More than 137,000 students in conflict zones lose access to education, deepening Yemen&#039;s already dire schooling crisis.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
+      "beschrijving": "Britons are risking freedom and reputations to stand with Palestinians and challenge government policy.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
+      "datum": "58 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "How three years of Israel’s genocidal war have changed Gaza",
-      "beschrijving": "War has devastated Gaza’s economy, education, healthcare, infrastructure and public services, transforming life.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss",
+      "titel": "Why Paramount-Warner merger has sparked fears about press freedom",
+      "beschrijving": "Chairman&#039;s family ties to Trump and Israel raise questions over editorial independence at CNN and CBS.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "What is pneumonic plague and how does it spread?",
-      "beschrijving": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
+      "titel": "Coco Gauff says online racist abuse was ‘draining’ after China Open exit",
+      "beschrijving": "Coco Gauff admits the racism she suffered during China Open exhausted her after US tennis star missed out on quarters.",
+      "url": "https://www.aljazeera.com/sports/2026/10/7/coco-gauff-says-online-racist-abuse-was-draining-after-china-open-exit?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "beschrijving": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "datum": "14 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "beschrijving": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "beschrijving": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Wekdienst 7/10: Aanslagen in Israël herdacht • Nobelprijs voor Scheikunde",
-    "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
-    "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
+    "Zware Russische aanval op Oekraïne: 20 doden, onder wie 4 kinderen",
     "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-    "Miljoenenfraude CIA-medewerker met verzonnen operaties",
-    "Australische bisschop moet cel in vanwege seksueel misbruik Aboriginal mannen",
-    "Trump belt Poetin over dode bij pestinstituut, WHO wil ook meer informatie",
-    "Gijzelaar Maxim een jaar na zijn vrijlating uit Gaza: 'Ik zal nooit meer dezelfde persoon zijn'",
-    "Amerikaanse opgepakt voor hulp bij schietpartij op school Canada",
-    "Christa Pike bij bewustzijn en aanspreekbaar na mislukte executie"
+    "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
+    "Franse politie stopt tijdelijk met flitsgranaten bij scholierenprotesten",
+    "South Korea signals military exemption cuts for athletes after Asian Games",
+    "200.000 Jemenieten op de vlucht door opgelaaide gevechten",
+    "Tien gewonden bij steekpartij op school in Polen, verdachte (19) gearresteerd",
+    "7/10 in Nieuwsuur: Voorzitter VNO/NCW in studio • Mislukte executie VS • Nieuw seizoen Fauda",
+    "Podcast De Dag: de magie van Messi",
+    "Israël herdenkt terreur 7 oktober, ook in Nederland bijeenkomsten"
   ]
 }
