@@ -1,47 +1,65 @@
 {
-  "bijgewerkt": "08 Oct 2026 01:37 UTC",
+  "bijgewerkt": "08 Oct 2026 08:36 UTC",
   "artikelen": [
     {
-      "titel": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
-      "beschrijving": "Saudi-backed Yemeni forces claim advances in western Taiz&#039;s mountain belt overlooking the coast.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
+      "titel": "Saudi-Arabië: doden en gewonden door aanval Houthi's, lanceerplatform vernietigd",
+      "beschrijving": "Bij aanvallen van de Houthi's gisteren op vliegvelden in Saudi-Arabië zijn drie doden gevallen, ook raakten 36 mensen gewond. Volgens de Saudische autoriteiten kwamen een Marokkaanse en een Algerijnse vrouw om het leven bij een aanval op het vliegveld van Abha, in het zuiden van het land bij de grens van Jemen. Bij een aanval op de luchthaven van Riyad werd een Sudanese man gedood. In een reactie ",
+      "url": "https://nos.nl/l/2634100",
       "datum": "1 uur geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Handelsconfrontatie dreigt: ‘supercruciale’ ontmoeting EU en China",
+      "beschrijving": "Peking is vandaag en morgen het decor van een ontmoeting tussen de Europese Unie en China. Na maanden van oplopende spanningen over de onderlinge handel, ontmoet Eurocommissaris van Handel Sefcovic daar de Chinese handelsminister Wang Wentao. De Europese Unie wil zo snel mogelijk een oplossing voor een steeds schevere handelsbalans die inmiddels is opgelopen tot 1 miljard euro per dag. Daardoor wo",
+      "url": "https://nos.nl/l/2634101",
+      "datum": "56 min geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Tropische storm Isaias uitgegroeid tot de eerste orkaan van het Atlantische seizoen",
+      "beschrijving": "De tropische storm Isaias is in de Golf van Mexico uitgegroeid tot de eerste orkaan van het Atlantische seizoen. De verwachting van het Amerikaanse National Hurricane Center is dat de orkaan morgenavond laat of zaterdagochtend vroeg aan land komt, al is nog onduidelijk waar. De staten die het meeste risico lopen zijn Louisiana, Mississippi, Alabama en Florida. Het warme water van de Golf van Mexic",
+      "url": "https://nos.nl/l/2634096",
+      "datum": "2 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Krijgt Trump nu wel de Nobelprijs? Eerder iemand die hem kan weerstaan, zeggen experts",
+      "beschrijving": "In Noorwegen wordt morgen bekendgemaakt wie dit jaar de Nobelprijs voor de Vrede krijgt. Dat ligt hoogstwaarschijnlijk al vast, maar ongeacht wie de winnaar wordt, zal het wenkbrauwen doen fronsen in het Witte Huis. De Amerikaanse president zal de vredesprijs namelijk niet krijgen, is de verwachting. Vorig jaar riep president Trump zichzelf tot rechtmatige winnaar uit. De Nobelprijs werd echter ui",
+      "url": "https://nos.nl/l/2634088",
+      "datum": "3 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Rapport: bewust gecreëerde crisis maakt herstel voor Gazanen onmogelijk",
+      "beschrijving": "Drie jaar na het begin van de verwoestende oorlog in Gaza zitten Palestijnen gevangen in een cyclus van ontheemding en geweld, met nauwelijks toegang tot voedsel, schoon drinkwater en zorg, zegt Dokters van de Wereld. De algehele gezondheid van de Palestijnse bevolking gaat gestaag achteruit met onomkeerbare schade tot gevolg. Dokters van de Wereld verleent eerstelijnszorg in Gaza en heeft in een ",
+      "url": "https://nos.nl/l/2634086",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 8/10: Nobelprijs voor de Literatuur uitgereikt • Wie wint een Televizier-Ring?",
+      "beschrijving": "Goedemorgen! Vandaag maakt het Nobelcomité bekend wie de Nobelprijs voor de Literatuur wint en in Carré wordt de Gouden Televizier-Ring uitgereikt. Eerst het weer: vandaag wisselen zonnige perioden, wolken en een paar buien elkaar af. Bij een matige tot krachtige noordwestenwind wordt het 14 tot 16 graden. Morgen staat er een stevige wind, is het bewolkt en valt er geruime tijd regen. Het weekend ",
+      "url": "https://nos.nl/l/2634085",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
-      "titel": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "beschrijving": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Israelis demand accountability over 7 October failures three years after attacks",
-      "beschrijving": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "beschrijving": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Margaret Hamilton (90) softwarepionier eerste maanlanding overleden",
+      "titel": "Softwarepionier eerste maanlanding Margaret Hamilton (90) overleden",
       "beschrijving": "Margaret Hamilton, die de software ontwikkelde voor de eerste maanlanding van de Apollo 11 in 1969, is overleden. Door haar baanbrekende werk op het gebied van software-ontwikkeling, waren de Amerikanen in staat met de Apollo naar de maan te vliegen en daar te landen. Met deze landing wonnen de Amerikanen de ruimtewedloop in de jaren zestig. Hamilton overleed op 30 september op 90 jarige leeftijd.",
       "url": "https://nos.nl/l/2634077",
-      "datum": "10 min geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +68,7 @@
       "titel": "Europese Rekenkamer waarschuwt voor snel stijgende EU schuldenlast",
       "beschrijving": "De Europese Rekenkamer (ERK) is bezorgd over de groeiende schuldenlast van de Europese Unie. Die schuld is de afgelopen jaren opgelopen naar 740 miljard euro. In 2027 zal de EU-schuld waarschijnlijk verder groeien naar 1 biljoen (1.000.000.000.000) euro. Die stijging van de schulden komt vooral door de steun aan Oekraïne, stijging van de rente, uitgaven aan defensie en het coronaherstelfonds. Dat ",
       "url": "https://nos.nl/l/2634076",
-      "datum": "1 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,139 +77,121 @@
       "titel": "Klimaatverandering oorzaak van snelle teruggang stormbandpinguïn op Brits eiland",
       "beschrijving": "Britse wetenschappers hebben vastgesteld dat de populatie stormbandpinguïns op een Brits eiland in de zuidelijke Atlantische Oceaan dramatisch is afgenomen. In 2011 leefden er op Zavodovski Island 900.000 stormkappinguïns en 90.000 macaronipinguïns. Veertien jaar later was het aantal stormbandpinguïns met 63 procent gedaald, terwijl het aantal macaronipinguïns juist was toegenomen. De wetenschappe",
       "url": "https://nos.nl/l/2634068",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Boegbeeld van Spaanse woningprotesten Maricarmen Abascal (87) overleden",
-      "beschrijving": "Maricarmen Abascal, de 87-jarige vrouw die het gezicht en de naamgever werd van de woningprotesten in Spanje, is overleden. Dat heeft de Spaanse huurdersbond bekendgemaakt. Abascal werd uit haar huis gezet, waar ze zeventig jaar had gewoond. Door een huurverhoging kon ze haar huis niet meer betalen. Haar uithuiszetting was de directe aanleiding voor de protesten in Spanje. Veel Spanjaarden kunnen ",
-      "url": "https://nos.nl/l/2634066",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zes arrestaties voor roof van schilderijen Renoir in Zuid-Frankrijk",
-      "beschrijving": "Een maand na de schilderijenroof uit het Renoir-museum in Zuid-Frankrijk heeft de Franse politie zes verdachten aangehouden. Onder hen zijn de twee vermoedelijke inbrekers, melden Franse media. De arrestaties werden verricht in vier verschillende departementen in het zuiden en oosten van Frankrijk. De zes worden onder meer verdacht van diefstal in georganiseerd verband. Ze zijn naar Nice overgebra",
-      "url": "https://nos.nl/l/2634064",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Politie in Beieren op zoek naar een poema of iets wat daarop lijkt",
-      "beschrijving": "Een gemeente dicht bij het vliegveld van München in de Duitse deelstaat Beieren roept inwoners op voorzichtig te zijn omdat er een wild, katachtig dier is gesignaleerd. Mogelijk is het een poema. De politie is een grote zoekactie gestart. Daarbij zijn een helikopter en drones ingezet. Het dier is gisteravond door een jager met een nachtkijker gespot. Dat was in het natuurgebied Notzinger Moos, op ",
-      "url": "https://nos.nl/l/2634052",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Echtpaar in VS aangeklaagd voor mishandeling in 'horrorhuis' vol draagmoederkinderen",
-      "beschrijving": "Een echtpaar uit Californië is aangeklaagd in een zaak rond de mishandeling van zeker vijftien kinderen tussen de twee maanden en dertien jaar oud. Veertien van de kinderen zouden via draagmoederschap zijn geboren. Volgens de aanklagers werden de kinderen in de villa van het stel geslagen en gestompt door kindermeisjes. Guojun Xuan (66) en Silvia Zhang (39) hielden de meeste kinderen vast in hun v",
-      "url": "https://nos.nl/l/2634048",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "200.000 Jemenieten op de vlucht door opgelaaide gevechten",
-      "beschrijving": "De VN-organisatie voor migratie en hulp aan vluchtelingen (IOM) slaat alarm over de situatie in Jemen. Sinds het weer oplaaien van de strijd tussen de Houthi's en het regeringsleger, begin vorige maand, zijn zo'n 200.000 Jemenieten op de vlucht geslagen. \"Mensen rennen voor hun leven maar vinden nergens veiligheid\", zegt IOM-directeur Amy Pope. \"Ze hebben nu onderdak, eten en veiligheid nodig. Onz",
-      "url": "https://nos.nl/l/2634035",
-      "datum": "9 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Tien gewonden bij steekpartij op school in Polen, verdachte (19) gearresteerd",
-      "beschrijving": "Bij een steekpartij bij een school voor beroepsonderwijs in het noorden van Polen zijn tien gewonden gevallen. Een 19-jarige student van de school kon in de omgeving worden gearresteerd. De gewonden zijn vijf leerlingen, twee leraren, twee omstanders en de dader. Die laatste verwondde zichzelf, melden de lokale autoriteiten. Niemand is in levensgevaar. Wel liep één persoon ernstige verwondingen op",
-      "url": "https://nos.nl/l/2634029",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "7/10 in Nieuwsuur: Voorzitter VNO/NCW in studio • Mislukte executie VS • Nieuw seizoen Fauda",
-      "beschrijving": "Voorzitter VNO-NCW Het kabinet en werkgevers en werknemers hebben na maanden van acties een goed gesprek gehad. De sfeer was goed, zeggen onder anderen FNV-voorzitter Hans Spekman en voorzitter van werkgeversorganisatie VNO-NCW Coen van Oostrom. Die laatste schuift aan in de studio. Hij zit tegenover econoom Mathijs Bouman. Zware weken voor VVD Er is onvrede bij de VVD. De Algemene Politieke Besch",
-      "url": "https://nos.nl/l/2634017",
       "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-      "beschrijving": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
+      "titel": "Gezicht van Spaanse woningprotesten Maricarmen Abascal (87) overleden",
+      "beschrijving": "Maricarmen Abascal, de 87-jarige vrouw die het gezicht en de naamgever werd van de woningprotesten in Spanje, is overleden. Dat heeft de Spaanse huurdersbond bekendgemaakt. Abascal werd uit haar huis gezet, waar ze zeventig jaar had gewoond. Door een huurverhoging kon ze haar huis niet meer betalen. Haar uithuiszetting was de directe aanleiding voor de protesten in Spanje. Veel Spanjaarden kunnen ",
+      "url": "https://nos.nl/l/2634066",
+      "datum": "12 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
-      "titel": "Russia dismisses reports of second plague case as ‘false information’",
-      "beschrijving": "Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
-      "beschrijving": "Saudi Arabia has confirmed that Houthi strikes on two of its international airports have killed three people.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Acclaimed Indian actor Nana Patekar dies aged 75",
+      "beschrijving": "Patekar won three National Film Awards and received the Padma Shri, one of the country&#039;s highest civilian honours.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "EU-China trade talks begin in Beijing amid escalating pressure",
-      "beschrijving": "Talks will focus on the €1bn daily deficit and rare earth export restrictions.",
-      "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "China/Taiwan",
+      "titel": "How October 7 redrew the map of the Middle East",
+      "beschrijving": "Three years of war have upended alliances, weakened US influence and reshaped the region’s power balance.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
-      "beschrijving": "The United Nations Interim Force in Lebanon said there were no casualties after small arms fire targeted a border post.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
+      "titel": "What did Palestinians take when they fled after October 7?",
+      "beschrijving": "Palestinians displaced by war chose cherished items, revealing poignant stories amid devastation in Gaza.",
+      "url": "https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "beschrijving": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "titel": "Protesters in Colombia rally against ties with Israel",
+      "beschrijving": "Hundreds took to the streets of Bogota to protest against the ongoing genocide in Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/protesters-in-colombia-rally-against-ties-with-israel?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "UK renames East Jerusalem consulate as a mission; some diplomats to remain",
+      "beschrijving": "UK Foreign ⁠Minister ⁠Ed Miliband says consulate building will not be closing as Israeli deadline expires.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "beschrijving": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "datum": "17 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+      "beschrijving": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+      "beschrijving": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
+      "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+      "beschrijving": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+      "datum": "9 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+      "beschrijving": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
-    "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-    "Israelis demand accountability over 7 October failures three years after attacks",
-    "Children killed while they slept as Russian missile kills 19 in block of flats",
-    "Margaret Hamilton (90) softwarepionier eerste maanlanding overleden",
+    "Saudi-Arabië: doden en gewonden door aanval Houthi's, lanceerplatform vernietigd",
+    "Handelsconfrontatie dreigt: ‘supercruciale’ ontmoeting EU en China",
+    "Tropische storm Isaias uitgegroeid tot de eerste orkaan van het Atlantische seizoen",
+    "Krijgt Trump nu wel de Nobelprijs? Eerder iemand die hem kan weerstaan, zeggen experts",
+    "Rapport: bewust gecreëerde crisis maakt herstel voor Gazanen onmogelijk",
+    "Wekdienst 8/10: Nobelprijs voor de Literatuur uitgereikt • Wie wint een Televizier-Ring?",
+    "Softwarepionier eerste maanlanding Margaret Hamilton (90) overleden",
     "Europese Rekenkamer waarschuwt voor snel stijgende EU schuldenlast",
     "Klimaatverandering oorzaak van snelle teruggang stormbandpinguïn op Brits eiland",
-    "Boegbeeld van Spaanse woningprotesten Maricarmen Abascal (87) overleden",
-    "Zes arrestaties voor roof van schilderijen Renoir in Zuid-Frankrijk",
-    "Politie in Beieren op zoek naar een poema of iets wat daarop lijkt"
+    "Gezicht van Spaanse woningprotesten Maricarmen Abascal (87) overleden"
   ]
 }
