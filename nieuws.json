@@ -1,47 +1,11 @@
 {
-  "bijgewerkt": "08 Oct 2026 16:13 UTC",
+  "bijgewerkt": "08 Oct 2026 21:52 UTC",
   "artikelen": [
     {
-      "titel": "Zeker dertig doden bij Russische aanvallen op Oekraïense stad bij frontlinie",
-      "beschrijving": "Bij Russische aanvallen op de Oost-Oekraïense stad Kramatorsk zijn dertig doden gevallen. Dat meldt de lokale gouverneur. De stad ligt nog net achter de frontlinie in de regio Donetsk. Dat gebied wil het Russische leger in handen krijgen. Bommen kwamen neer in een straat waar twee stadsbussen reden. President Zelensky spreekt van een aanval op een bushalte met een zweefbom. Er raakten ook twintig ",
-      "url": "https://nos.nl/l/2634129",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
-      "beschrijving": "Russia’s attacks on trains, buses and ports are paralysing Ukraine’s transport network and endangering civilians.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
-      "beschrijving": "Saudi Arabia says two of the missiles intercepted were headed towards the capital, Riyadh.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "King David Hotel bombing to consulate row: A timeline of UK-Israel tension",
-      "beschrijving": "Israel&#039;s order to shut UK&#039;s Jerusalem consulate is the latest downturn in a relationship strained since before 1948.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/king-david-hotel-bombing-to-consulate-row-a-timeline-of-uk-israel-tension?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
       "titel": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "beschrijving": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "beschrijving": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
       "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -50,17 +14,17 @@
       "titel": "Klimaattop in Fiji en Tuvalu grotendeels mislukt, landen blijven massaal thuis",
       "beschrijving": "De voorbereidende klimaattop in Fiji en Tuvalu, mede georganiseerd door Australië, is grotendeels uitgelopen op een mislukking. Vanaf maandag waren delegaties uitgenodigd op deze eilandengroepen om getuige te zijn van de gevolgen van de klimaatcrisis. De opkomst viel flink tegen. Uiteindelijk kwamen slechts twee leiders van landen buiten de regio op de top af. Dat waren Mauritius en Oost-Timor, di",
       "url": "https://nos.nl/l/2634168",
-      "datum": "32 min geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "London voters go to polls for Holborn and St Pancras by-election",
-      "beschrijving": "The vote in London&#039;s Holborn and St Pancras parliamentary seat tests whether Burnham can restore faith in Labour.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/london-voters-go-to-polls-for-holborn-and-st-pancras-by-election?traffic_source=rss",
-      "datum": "53 min geleden",
-      "regio": "Wereld",
+      "titel": "Trump gives top US science awards to Elon Musk and other tech executives",
+      "beschrijving": "The National Medal of Science is annually given to scientists and engineers for major contributions in their fields.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
+      "datum": "40 min geleden",
+      "regio": "VS",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
@@ -68,130 +32,157 @@
       "titel": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
       "beschrijving": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
       "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-      "beschrijving": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Britse marineman verdacht van poging tot spionage voor Russen",
-      "beschrijving": "In het Verenigd Koninkrijk is dinsdag een lid van de marine opgepakt, omdat hij geheime informatie aan de Russen zou hebben willen doorgeven. Hij is vandaag in staat van beschuldiging gesteld bij een rechtbank in Londen. De zitting duurde maar vier minuten. \"Zoals u weet zijn de zaken waar u van beschuldigd wordt te ernstig om voor deze rechtbank te behandelen\", zei de rechter. Hij verwees de zaak",
-      "url": "https://nos.nl/l/2634163",
+      "titel": "Duizenden aanhangers opgepakt volgens Indiase Kakkerlakken-beweging",
+      "beschrijving": "De Indiase autoriteiten hebben duizenden aanhangers van de Kakkerlakken-beweging opgepakt, zegt de beweging op sociale media. Het is onduidelijk hoeveel mensen daadwerkelijk in totaal zijn opgepakt. Er is geen onafhankelijke bron die de aantallen bevestigt. Ook prominente leden als woordvoerder Deepak Baliyan zouden daags voor een groot protest in de hoofdstad New Delhi zijn gearresteerd. Al dagen",
+      "url": "https://nos.nl/l/2634207",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Podcast De Dag: Jane Doe en de opstand tegen elite-universiteit Cornell",
-      "beschrijving": "I am Jane Doe. Haar naam is te zien op borden op de Cornell University in de staat New York, op campussen door de hele VS en op sociale media. De zaak over de studente die twee jaar geleden door een groep medestudenten zou zijn gedrogeerd en vervolgens verkracht maakt veel los. Luister hier: Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je da",
-      "url": "https://nos.nl/l/2634158",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Oud-chef Duitse inlichtingen speelde informatie mogelijk door aan China",
-      "beschrijving": "De oud-leider van de Duitse inlichtingendienst heeft geheime informatie doorgespeeld aan China, schrijft Der Spiegel. De politie doet volgens het nieuwsblad onderzoek naar de contacten die oud-chef August Hanning na zijn pensioen met Chinese inlichtingendiensten onderhield. Hanning zou de geheime informatie in 2022 hebben doorgespeeld aan een buitenlandse inlichtingendienst. Daarvoor heeft hij mog",
-      "url": "https://nos.nl/l/2634154",
-      "datum": "2 uur geleden",
+      "titel": "Goed bewaard fossiel vertelt hoe zoogdieren anders gingen eten dan de dino's",
+      "beschrijving": "Een goed bewaard fossiel van 165 miljoen jaar oud toont wetenschappers hoe zoogdieren ten tijde van de dino's een nieuwe manier van slikken ontwikkelden. De vondst is zo goed bewaard gebleven dat de omtrek van het dier duidelijk te zien is en zelfs afdrukken van zijn huid en vacht herkenbaar zijn. Het fossiel werd enkele jaren geleden in China gevonden. Het gaat om een dier dat op een kruising tus",
+      "url": "https://nos.nl/l/2634205",
+      "datum": "1 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Gouden standbeeld van naakte president Trump in Europees Parlement",
-      "beschrijving": "In het gebouw van het Europees Parlement in Straatsburg is een opmerkelijk standbeeld onthuld. Het kunstwerk heet De oranje plaag en toont een naakte Donald Trump. Het standbeeld van 2,6 meter hoog is bedekt met bladgoud en bedoeld als satirisch protest tegen de Amerikaanse president. De Deense kunstenaar Jens Galschiøt beschouwt Trump als een groot gevaar voor de internationale rechtsorde. \"Dit s",
-      "url": "https://nos.nl/l/2634139",
-      "datum": "4 uur geleden",
+      "titel": "Vier astronauten na 237 dagen terug op aarde, record voor Europese vrouw",
+      "beschrijving": "Vier astronauten zijn na acht maanden teruggekeerd naar aarde vanuit het internationale ruimtestation ISS. SpaceX bracht de bemanning met een ruimtecapsule veilig terug. De zogenoemde splashdown vond plaats voor de kust van Los Angeles. Nadat de capsule aan boord van een bergingsschip was gehesen, kwam het viertal naar buiten. \"Eindelijk weer douchen\", reageerde een van de astronauten bij terugkom",
+      "url": "https://nos.nl/l/2634204",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Doorzoeking woningen ex-prins Andrew onwettig, maar onderzoek gaat door",
+      "beschrijving": "Een klein succesje voor de Britse ex-prins Andrew. Een rechtbank in Londen is het met hem eens dat de politie in februari belangrijke fouten heeft gemaakt bij de doorzoekingen van zijn woningen in Sandringham en Windsor. De doorzoekingsbevelen waren gebaseerd op een verkeerd wetsartikel. De rechtbank heeft de bevelen daarom onwettig verklaard. Dit betekent niet dat het onderzoek tegen hem nu moet ",
+      "url": "https://nos.nl/l/2634198",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Maduro en vrouw aangeklaagd voor marteling tegenstanders en Amerikanen",
+      "beschrijving": "De gevangengenomen Venezolaanse president Nicolás Maduro en zijn vrouw Cilia Flores hebben in de Verenigde Staten allebei een nieuwe aanklacht tegen zich ingediend gekregen. Ze worden er nu ook van beschuldigd politieke tegenstanders en Amerikaanse burgers te hebben gemarteld om hun machtspositie in het Zuid-Amerikaanse land te behouden. Eerder werden ze al vervolgd voor onder meer corruptie en he",
+      "url": "https://nos.nl/l/2634194",
+      "datum": "3 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Nobelprijs voor Canadese dichter en hoogleraar klassieke talen Anne Carson",
-      "beschrijving": "De Nobelprijs voor de Literatuur gaat dit jaar naar de Canadese dichter Anne Carson. De 76-jarige Carson wordt vooral geroemd om de manier waarop ze een klassieke stijl inzet. \"Ze mengt de klassieke traditie met de hedendaagse literatuur\". De Zweedse Academie noemt haar oeuvre \"gedurfd en inventief\". In haar carrière heeft Carson, naast het schrijven van poëzie, veel klassieke Griekse literatuur v",
-      "url": "https://nos.nl/l/2634134",
+      "titel": "Christa Pike kan weer lopen maar is 'boos en verward', zeggen advocaten",
+      "beschrijving": "De terdoodveroordeelde Christa Pike kan weer een beetje lopen. Dat heeft een van haar advocaten gezegd tegen de Britse omroep BBC. De Amerikaanse vrouw ligt nog in het ziekenhuis in een wazige staat. Pikes advocaat Stephen Ferrell zegt tegen de BBC dat hij haar niet direct heeft gesproken, maar had begrepen dat haar armen waren opgezwollen en dat ze nauwelijks functioneerden toen ze haar eerste st",
+      "url": "https://nos.nl/l/2634190",
       "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Oud-leerling steekt op Poolse school vrouw dood, twee anderen gewond",
-      "beschrijving": "Bij een steekpartij op een Poolse basisschool is een dode gevallen, en zijn twee anderen gewond geraakt. Volgens de politie viel een 15-jarige jongen een 37-jarige vrouw aan, die werkte op de school in Leszczydol-Nowiny, iets ten noorden van de hoofdstad Warschau. De jongen is een oud-leerling van die school. De vrouw bezweek aan haar verwondingen. Het is niet bekend of dader en slachtoffer elkaar",
-      "url": "https://nos.nl/l/2634130",
+      "titel": "Dat gekke AI-personage op TikTok wil vooral dat je zijn crypto koopt",
+      "beschrijving": "Een stijlvol geklede Franse jongeman die zichzelf Jean Phil noemt verschijnt op 18 september ineens op TikTok en Instagram. Met zijn blonde bob en gekrulde snor staat hij in de video's voornamelijk te schaduwboksen. Veel mensen vinden het er grappig uitzien. Het account trekt binnen enkele dagen tientallen miljoenen views, likes en honderdduizenden volgers. Hij is de trendsetter en een nieuwe AI-i",
+      "url": "https://nos.nl/l/2634186",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Letten opgepakt bij Britse luchtmachtbasis",
+      "beschrijving": "De Britse militaire politie heeft vannacht twee Letten (36 en 32) opgepakt die zich verdacht gedroegen bij een RAF-luchtmachtbasis in het graafschap Cambridgeshire. Ze werden in eerste instantie aangehouden voor het betreden van een verboden terrein, later kwam daar de verdenking bij dat ze het Verenigd Koninkrijk schade wilden toebrengen. Bewakers van de basis bij de plaats Molesworth ontdekten r",
+      "url": "https://nos.nl/l/2634179",
       "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Samenscholingsverbod in Luik na uit de hand gelopen onderwijsprotesten",
-      "beschrijving": "In Luik is vanmorgen een samenscholingsverbod ingegaan na uit de hand gelopen onderwijsprotesten. Het is niet toegestaan om met meer dan drie personen op straat te lopen. In België werd afgelopen dagen geprotesteerd tegen geplande bezuinigingen op het onderwijs. In Luik trokken tientallen actievoerders dinsdag langs middelbare scholen, waar ze ramen insloegen en vuilnisbakken in brand staken. De p",
-      "url": "https://nos.nl/l/2634123",
+      "titel": "Britse marineman verdacht van poging tot spionage voor Russen",
+      "beschrijving": "In het Verenigd Koninkrijk is dinsdag een lid van de marine opgepakt, omdat hij geheime informatie aan de Russen zou hebben willen doorgeven. Hij is vandaag in staat van beschuldiging gesteld bij een rechtbank in Londen. De zitting duurde maar vier minuten. \"Zoals u weet zijn de zaken waar u van beschuldigd wordt te ernstig om voor deze rechtbank te behandelen\", zei de rechter. Hij verwees de zaak",
+      "url": "https://nos.nl/l/2634163",
       "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Israëlische leger blijft Gaza verwoesten, veel vermiste lichamen zullen nooit gevonden worden",
-      "beschrijving": "\"De graven zijn af, maar nu nog leeg\", vertelt de 60-jarige Mohammed, die hoop houdt dat hij op een dag zijn familieleden van onder het puin vandaan kan halen. Bij een Israëlisch bombardement verloor hij zijn vrouw, kinderen, kleinkinderen en andere familieleden. Een deel van hen heeft hij kunnen begraven, anderen zijn onvindbaar. Nog altijd zijn vele duizenden Palestijnen vermist. Ruim drie jaar ",
-      "url": "https://nos.nl/l/2634120",
-      "datum": "6 uur geleden",
+      "titel": "What is the Mecca defence pact?",
+      "beschrijving": "Saudi Arabia, Turkiye and Pakistan are activating their defence pact to counter attacks from Yemen’s Houthis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss",
+      "datum": "47 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israel shuts down British consulate in occupied East Jerusalem",
+      "beschrijving": "The British government says it will retain its presence in occupied East Jerusalem after Israel removed its consulate.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "UK ex-prince Andrew search warrants quashed after police accept legal error",
-      "beschrijving": "London-based judge says error &#039;does not bring investigation to an end&#039; as police probe disgraced former royal.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss",
-      "datum": "19 min geleden",
+      "titel": "Israeli settlers take Palestinian olives, and their harvest traditions",
+      "beschrijving": "As Israeli settlers harvest olives on Palestinian land, farmers face growing violence and loss of an ancient tradition.",
+      "url": "https://www.aljazeera.com/features/2026/10/8/israeli-settlers-take-palestinian-olives-and-their-harvest-traditions?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israeli settlers systematically target the Palestinian olive harvest",
+      "beschrijving": "Israeli settlers in the occupied West Bank are destroying olive trees.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "India’s Cockroach movement says members detained as protests continue",
+      "beschrijving": "India&#039;s opposition and student-led CJP movement demand election chief&#039;s resignation, plan mass demonstration Saturday.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Video said to show Mali army in Kidal after retaking city",
-      "beschrijving": "Recently published video is said to show Mali’s armed forces in Kidal after retaking the strategic northern city.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss",
-      "datum": "22 min geleden",
-      "regio": "Afrika",
+      "titel": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "beschrijving": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "What were Trump operatives doing for pro-Russian politician Dodik in Bosnia?",
-      "beschrijving": "Reports that Trump aides were paid to advise Bosnian Serb leader ahead of parliamentary election raise alarm.",
-      "url": "https://www.aljazeera.com/features/2026/10/8/what-were-trump-operatives-doing-for-pro-russian-politician-dodik-in-bosnia?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Zeker dertig doden bij Russische aanvallen op Oekraïense stad bij frontlinie",
-    "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
-    "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
-    "King David Hotel bombing to consulate row: A timeline of UK-Israel tension",
     "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
     "Klimaattop in Fiji en Tuvalu grotendeels mislukt, landen blijven massaal thuis",
-    "London voters go to polls for Holborn and St Pancras by-election",
+    "Trump gives top US science awards to Elon Musk and other tech executives",
     "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-    "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-    "Britse marineman verdacht van poging tot spionage voor Russen"
+    "Duizenden aanhangers opgepakt volgens Indiase Kakkerlakken-beweging",
+    "Goed bewaard fossiel vertelt hoe zoogdieren anders gingen eten dan de dino's",
+    "Vier astronauten na 237 dagen terug op aarde, record voor Europese vrouw",
+    "Doorzoeking woningen ex-prins Andrew onwettig, maar onderzoek gaat door",
+    "Maduro en vrouw aangeklaagd voor marteling tegenstanders en Amerikanen",
+    "Christa Pike kan weer lopen maar is 'boos en verward', zeggen advocaten"
   ]
 }
