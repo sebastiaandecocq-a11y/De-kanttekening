@@ -1,197 +1,161 @@
 {
-  "bijgewerkt": "09 Oct 2026 08:41 UTC",
+  "bijgewerkt": "09 Oct 2026 15:57 UTC",
   "artikelen": [
+    {
+      "titel": "Ook Saudiërs gedood bij Houthi-aanvallen op luchthaven in Riyad",
+      "beschrijving": "Bij aanvallen van de Houthi-rebellen uit Jemen zijn gisteren drie burgers van Saudi-Arabië gedood op een Saudisch vliegveld. Dat schrijven Saudische autoriteiten op X. Eerder werd al bekend dat een Marokkaanse en Algerijnse vrouw op de zelfde dag werden gedood bij aanvallen op een ander vliegveld. Deze week is Saudi-Arabië veelvuldig bestookt door Houthi's, nadat het regeringsleger van Jemen - dat",
+      "url": "https://nos.nl/l/2634271",
+      "datum": "4 uur geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Israeli settler attacks target Palestinian olive harvest in West Bank",
+      "beschrijving": "At least 19 settler attacks recorded across territory on Friday as Israeli forces separately detain 16 Palestinians.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
+      "datum": "29 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
     {
       "titel": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
       "beschrijving": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
       "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "beschrijving": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "BBC World"
+      "titel": "VS kondigt sancties aan tegen Internationaal Strafhof in Den Haag, wil hof 'verlammen'",
+      "beschrijving": "De Amerikaanse regering heeft sancties aangekondigd tegen het Internationaal Strafhof (ICC) in Den Haag. Die gaan in april volgend jaar grotendeels in. \"President Trump zal nooit toestaan dat het Internationaal Strafhof Amerikanen vervolgt\", zegt minister Rubio van Buitenlandse Zaken in een videoboodschap op X. \"Daarom legt de VS vandaag sancties op aan het Internationaal Strafhof. We zullen trans",
+      "url": "https://nos.nl/l/2634300",
+      "datum": "1 uur geleden",
+      "regio": "VS",
+      "urgentie": "midden",
+      "bron": "NOS"
     },
     {
-      "titel": "Trump says US will not strike Iran before midterm elections",
-      "beschrijving": "Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
+      "titel": "US sanctions International Criminal Court itself in latest escalation",
+      "beschrijving": "Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
+      "datum": "48 min geleden",
+      "regio": "VS",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Amerikanen protesteren tegen seksueel geweld: ‘Klaar met het beschermen van de elite’",
+      "titel": "Dieven stelen 30.000 flessen wijn bij beroemd Italiaans wijnhuis",
+      "beschrijving": "Het vooraanstaande Italiaanse wijnhuis Marchesi Antinori is slachtoffer geworden van misschien wel de grootste diefstal van wijn in de geschiedenis van Italië. Zaterdag braken zeven gemaskerde mannen in bij het distributiecentrum in Toscane om vervolgens twee vrachtwagens vol te laden met zo'n 30.000 flessen rode wijn. De geschatte waarde: 5 miljoen euro. De wijn was bestemd voor klanten buiten It",
+      "url": "https://nos.nl/l/2634297",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Schilderijen van Renoir maand na diefstal uit Frans museum teruggevonden",
+      "beschrijving": "Twee schilderijen van Renoir die vorige maand uit een museum in Zuid-Frankrijk werden gestolen, zijn teruggevonden. De politie wil niet zeggen waar ze zijn gevonden en of ze beschadigd zijn. Het gaat om de werken Madame Colonna Romano en Jeune Femme au puits, die werden gestolen. Op 8 september werden uit het Musée Renoir in Cagnes-sur-Mer vier schilderijen van de bekende Franse impressionist Pier",
+      "url": "https://nos.nl/l/2634279",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "9/10 in Nieuwsuur: Wijziging draagmoederschapswet? • 'Gebiedsgebod' voor vrijgelaten terroristen",
+      "beschrijving": "Rechters kritisch op nieuwe wet draagmoederschap Jaarlijks krijgen naar schattig 30 tot 50 Nederlandse gezinnen een kind met hulp van een draagmoeder, maar een wettelijke regeling voor draagmoederschap ontbreekt. Een nieuwe wet is in de maak. Deze moet onder andere regelen dat al vóór de conceptie afspraken gemaakt worden over wie juridisch de ouder wordt. Toch zijn rechters kritisch over de nieuw",
+      "url": "https://nos.nl/l/2634273",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Politie houdt 21 mensen aan bij vakbondsactie in Brussel",
+      "beschrijving": "De Belgische politie heeft zeker 21 mensen aangehouden bij een stakingsactie van vakbonden in Brussel. De bonden staakten tegen bezuinigingen van de regering op de sociale zekerheid, maar gedurende de dag mengden zich honderden relschoppende jongeren zich in de stakingsactie. Van de 21 arrestanten zijn er zeker dertien minderjarig. Volgens de politie waren er 30.000 mensen op de been in de Belgisc",
+      "url": "https://nos.nl/l/2634265",
+      "datum": "5 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Duizenden Spanjaarden de straat op om Maricarmen Abascal te herdenken: 'Dit is moord'",
+      "beschrijving": "In Madrid gingen gisteravond zo'n twintigduizend mensen de straat op om de woensdag overleden Maricarmen Abascal te herdenken. De 87-jarige vrouw werd het gezicht van grootschalige woonprotesten nadat zij door een vastgoedinvesteerder uit het appartement werd gezet waar ze haar hele volwassen leven had gewoond. Waaraan de vrouw is overleden is niet bekendgemaakt, maar sinds ze op 23 september op e",
+      "url": "https://nos.nl/l/2634263",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vredesprijs voor Zuid-Afrikaanse mensenrechtenchef en ICC-rechter Navi Pillay",
+      "beschrijving": "De Nobelprijs voor de Vrede gaat dit jaar naar de Zuid-Afrikaanse rechter Navi Pillay. Zij was van 2003 tot 2008 rechter bij het Internationaal Strafhof (ICC) en van 2008 tot 2014 Hoge Commissaris voor de Mensenrechten van de Verenigde Naties. Momenteel is ze actief voor het Internationaal Gerechtshof in de zaak over genocide op de Rohingya in Myanmar. Vorig jaar leidde Pillay een VN-onderzoekscom",
+      "url": "https://nos.nl/l/2634250",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Oud-premier Schoof: 'Oekraïne-beleid VS niet meer te volgen na aantreden Trump'",
+      "beschrijving": "Vanaf het moment dat Donald Trump voor de tweede keer het Witte Huis betrad, was het Amerikaanse beleid rond Oekraïne niet meer te volgen. Dat zegt oud-premier Dick Schoof in de podcast De Atlantische Blik. De plannen van de Europese bondgenoten maakten telkens weinig progressie omdat de VS zich keer op keer op het laatste moment terugtrok. Nadat president Trump duidelijk maakte dat de VS Oekraïne",
+      "url": "https://nos.nl/l/2634249",
+      "datum": "7 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Amerikanen protesteren tegen seksueel geweld: 'Klaar met het beschermen van de elite'",
       "beschrijving": "In tientallen Amerikaanse steden zijn mensen de straat opgegaan tegen seksueel geweld. Wat begon met woede over de verkrachtingszaak op de prestigieuze Cornell Universiteit is uitgegroeid tot iets groters. Demonstranten willen verantwoording en gerechtigheid, \"van het studentenhuis tot het Witte Huis\". In Washington, D.C. verzamelden zich gisteravond honderden mensen. \"Hoeveel jonge vrouwen leggen",
       "url": "https://nos.nl/l/2634244",
-      "datum": "24 min geleden",
+      "datum": "7 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "ICE schiet man neer in auto in New York, met kind van 5 op achterbank",
-      "beschrijving": "De Amerikaanse immigratiedienst ICE heeft in de stad New York een man neergeschoten in zijn auto. Volgens burgemeester Mamdani zat er ook een 5-jarig kind in de auto. De man is met onbekende verwondingen naar het ziekenhuis gebracht, het kind bleef ongedeerd. De schietpartij leidde al snel tot protesten van buurtbewoners en politici. Mamdani zegt dat agenten van ICE de auto eerst omsingelden en ve",
-      "url": "https://nos.nl/l/2634232",
+      "titel": "Ethiopia and Eritrea accuse one another of launching war",
+      "beschrijving": "Eritrea denies backing TPLF as Ethiopia alleges collusion, further straining their already volatile relationship.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Twee inspecteurs in Duitsland doodgeschoten bij wapencontrole, 60-jarige man opgepakt",
-      "beschrijving": "Een routinecontrole op wapens is in de Duitse deelstaat Beieren volledig uit de hand gelopen. Twee lokale inspecteurs, volgens Duitse media een 54-jarige vrouw en een man van 45, werden doodgeschoten door de 60-jarige bewoner van het huis waar de controle plaatsvond. De politie heeft de verdachte aangehouden. Dit duurde uren. Nadat de man de ambtenaren had gedood, verschanste hij zich in zijn woni",
-      "url": "https://nos.nl/l/2634230",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 9/10: Bekenmaking Nobelprijs voor de Vrede • Laatste dag inleveractie vuurwerk",
-      "beschrijving": "Goedemorgen! Vandaag is de laatste dag dat je vuurwerk anoniem kunt inleveren en in Oslo wordt de winnaar van de Nobelprijs voor de Vrede bekendgemaakt. Eerst het weer: het wordt wisselvallig met de meeste regen in het westen en noorden van het land. Er waait een stevige zuidwestenwind met in de kustregio windstoten tot 75 km/uur. Het wordt 14 tot 18 graden. Zaterdag en zondag blijft het wisselval",
-      "url": "https://nos.nl/l/2634220",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Pentagon wil executie Nidal Hasan door vuurpeloton live uitzenden",
-      "beschrijving": "Het Amerikaanse ministerie van Defensie wil de executie van een man die in 2009 dertien mensen doodde livestreamen. Het zou daarmee de eerste openbare executie in de VS in negentig jaar worden. Nidal Hasan was majoor en werkte in het Amerikaanse leger als psychiater. Omdat hij militair was en mensen doodschoot op een legerbasis wordt hij door het leger geëxecuteerd. Afgelopen dinsdag werd al beken",
-      "url": "https://nos.nl/l/2634213",
-      "datum": "8 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Duizenden aanhangers opgepakt volgens Indiase Kakkerlakken-beweging",
-      "beschrijving": "De Indiase autoriteiten hebben duizenden aanhangers van de Kakkerlakken-beweging opgepakt, zegt de beweging op sociale media. Het is onduidelijk hoeveel mensen daadwerkelijk in totaal zijn opgepakt. Er is geen onafhankelijke bron die de aantallen bevestigt. Ook prominente leden als woordvoerder Deepak Baliyan zouden daags voor een groot protest in de hoofdstad New Delhi zijn gearresteerd. Al dagen",
-      "url": "https://nos.nl/l/2634207",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Goed bewaard fossiel vertelt hoe zoogdieren anders gingen eten dan de dino's",
-      "beschrijving": "Een goed bewaard fossiel van 165 miljoen jaar oud toont wetenschappers hoe zoogdieren ten tijde van de dino's een nieuwe manier van slikken ontwikkelden. De vondst is zo goed bewaard gebleven dat de omtrek van het dier duidelijk te zien is en zelfs afdrukken van zijn huid en vacht herkenbaar zijn. Het fossiel werd enkele jaren geleden in China gevonden. Het gaat om een dier dat op een kruising tus",
-      "url": "https://nos.nl/l/2634205",
-      "datum": "12 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vier astronauten na 237 dagen terug op aarde, record voor Europese vrouw",
-      "beschrijving": "Vier astronauten zijn na acht maanden teruggekeerd naar aarde vanuit het internationale ruimtestation ISS. SpaceX bracht de bemanning met een ruimtecapsule veilig terug. De zogenoemde splashdown vond plaats voor de kust van Los Angeles. Nadat de capsule aan boord van een bergingsschip was gehesen, kwam het viertal naar buiten. \"Eindelijk weer douchen\", reageerde een van de astronauten bij terugkom",
-      "url": "https://nos.nl/l/2634204",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Doorzoeking woningen ex-prins Andrew onwettig, maar onderzoek gaat door",
-      "beschrijving": "Een klein succesje voor de Britse ex-prins Andrew. Een rechtbank in Londen is het met hem eens dat de politie in februari belangrijke fouten heeft gemaakt bij de doorzoekingen van zijn woningen in Sandringham en Windsor. De doorzoekingsbevelen waren gebaseerd op een verkeerd wetsartikel. De rechtbank heeft de bevelen daarom onwettig verklaard. Dit betekent niet dat het onderzoek tegen hem nu moet ",
-      "url": "https://nos.nl/l/2634198",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Maduro en vrouw aangeklaagd voor marteling tegenstanders en Amerikanen",
-      "beschrijving": "De gevangengenomen Venezolaanse president Nicolás Maduro en zijn vrouw Cilia Flores hebben in de Verenigde Staten allebei een nieuwe aanklacht tegen zich ingediend gekregen. Ze worden er nu ook van beschuldigd politieke tegenstanders en Amerikaanse burgers te hebben gemarteld om hun machtspositie in het Zuid-Amerikaanse land te behouden. Eerder werden ze al vervolgd voor onder meer corruptie en he",
-      "url": "https://nos.nl/l/2634194",
-      "datum": "14 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "US ICE releases Kashmiri filmmaker Arfat Sheikh from custody",
-      "beschrijving": "Award-winning filmmaker, detained last month, is released on bond with next hearing set for October 27, campaign says.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss",
-      "datum": "35 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Three years after October 7, prolonged war takes its toll on Israelis",
-      "beschrijving": "Children’s psychiatric emergency visits have more than doubled in Israel, study shows.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss",
-      "datum": "43 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Why has Iraq decided to ban online map service Waze?",
-      "beschrijving": "Iraq plans to ban Waze, citing Israeli origins, and suggests alternatives like Google Maps or local app in development.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/why-has-iraq-decided-to-ban-online-map-service-waze?traffic_source=rss",
-      "datum": "53 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Who is Dov Lando, the Israeli rabbi criticising Zionism?",
-      "beschrijving": "The senior rabbi, whose party is in Netanyahu&#039;s coalition, has caused uproar in Israel by calling Zionism disastrous.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss",
+      "titel": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "beschrijving": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
-      "beschrijving": "Arrest warrant for presidential candidate&#039;s brother is issued weeks before Brazil&#039;s runoff election.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss",
-      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
-      "titel": "How October 7 changed Lebanon and Hezbollah’s political reality",
-      "beschrijving": "Analysts say Hezbollah&#039;s decision on October 8 to join a &#039;war of support&#039; for Gaza changed Lebanon&#039;s political reality.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
+      "beschrijving": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "datum": "32 min geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Photos: Gaza before and after – a city transformed by war",
-      "beschrijving": "Archive and recent photos show how three years of war left Gaza&#039;s streets, landmarks and public spaces unrecognisable.",
-      "url": "https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Ook Saudiërs gedood bij Houthi-aanvallen op luchthaven in Riyad",
+    "Israeli settler attacks target Palestinian olive harvest in West Bank",
     "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-    "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-    "Trump says US will not strike Iran before midterm elections",
-    "Amerikanen protesteren tegen seksueel geweld: ‘Klaar met het beschermen van de elite’",
-    "ICE schiet man neer in auto in New York, met kind van 5 op achterbank",
-    "Twee inspecteurs in Duitsland doodgeschoten bij wapencontrole, 60-jarige man opgepakt",
-    "Wekdienst 9/10: Bekenmaking Nobelprijs voor de Vrede • Laatste dag inleveractie vuurwerk",
-    "Pentagon wil executie Nidal Hasan door vuurpeloton live uitzenden",
-    "Duizenden aanhangers opgepakt volgens Indiase Kakkerlakken-beweging",
-    "Goed bewaard fossiel vertelt hoe zoogdieren anders gingen eten dan de dino's"
+    "VS kondigt sancties aan tegen Internationaal Strafhof in Den Haag, wil hof 'verlammen'",
+    "US sanctions International Criminal Court itself in latest escalation",
+    "Dieven stelen 30.000 flessen wijn bij beroemd Italiaans wijnhuis",
+    "Schilderijen van Renoir maand na diefstal uit Frans museum teruggevonden",
+    "9/10 in Nieuwsuur: Wijziging draagmoederschapswet? • 'Gebiedsgebod' voor vrijgelaten terroristen",
+    "Politie houdt 21 mensen aan bij vakbondsactie in Brussel",
+    "Duizenden Spanjaarden de straat op om Maricarmen Abascal te herdenken: 'Dit is moord'"
   ]
 }
