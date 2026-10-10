@@ -1,11 +1,29 @@
 {
-  "bijgewerkt": "10 Oct 2026 18:19 UTC",
+  "bijgewerkt": "10 Oct 2026 22:19 UTC",
   "artikelen": [
     {
-      "titel": "Gewonden bij aanval op luchthaven in Saudische hoofdstad Riyad, vluchtverkeer ligt stil",
+      "titel": "New York Times: 12 doden bij aanval luchthaven Riyad",
+      "beschrijving": "Bij de aanvallen op de internationale luchthaven in de Saudische hoofdstad Riyad vandaag zijn minstens 12 doden gevallen. Vijftig mensen raakten gewond. Dat melden functionarissen aan The New York Times. Het is daarmee de dodelijkste aanval in een Golfstaat sinds het begin van de oorlog tussen de VS en Israël met Iran in februari, meldt de krant. Sinds de start van de grootschalige operatie Dagera",
+      "url": "https://nos.nl/l/2634508",
+      "datum": "45 min geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zeker veertig doden in Sudan door droneaanval op vluchtelingenkamp",
+      "beschrijving": "Bij een droneaanval in Sudan, vlak bij de grens met Ethiopië, zijn zeker veertig mensen gedood. Dat meldt Emergency Lawyers, een organisatie die de ontwikkelingen in de burgeroorlog in Sudan bijhoudt. Volgens de organisatie zitten de paramilitaire Rapid Support Forces (RSF) achter de aanval. De BBC meldt dat een vluchtelingenkamp in het zuidoosten van het land het doelwit was. VN-hulporganisatie O",
+      "url": "https://nos.nl/l/2634492",
+      "datum": "2 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Gewonden bij aanval op luchthaven in Saudische hoofdstad Riyad, vliegverkeer ligt stil",
       "beschrijving": "Bij aanvallen op de internationale luchthaven in de Saudische hoofdstad Riyad is een onbekend aantal gewonden gevallen. Twee regionale functionarissen zeggen dat het vliegveld is ontruimd nadat een raket een passagiersterminal had geraakt. Volgens getuigen reden ambulances met spoed naar de luchthaven. Al het vliegverkeer van en naar King Khalid International Airport is stilgelegd. Een bron in een",
       "url": "https://nos.nl/l/2634465",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -14,7 +32,7 @@
       "titel": "Opnieuw aanval op onderwijsinstelling in Polen, derde in een week",
       "beschrijving": "Voor de derde keer in een week tijd is er op een onderwijsinstelling in Polen een geweldincident geweest. Vanmiddag verwondde een vrouw drie mensen in een instelling voor hoger onderwijs in de hoofdstad Warschau. Waarmee de aanval werd uitgevoerd is nog niet bekend. De politie spreekt van een \"gevaarlijk voorwerp\". De drie slachtoffers (17, 17 en 24 jaar oud) zijn niet in levensgevaar. Volgens Poo",
       "url": "https://nos.nl/l/2634450",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
@@ -23,35 +41,53 @@
       "titel": "Opnieuw vijf Palestijnen in Gaza gedood door Israëlische aanvallen",
       "beschrijving": "In Gaza zijn zeker vijf Palestijnen gedood door twee verschillende aanvallen van het Israëlische leger. Vier mensen werden gedood in de buurt van een winkelcentrum, het vijfde slachtoffer werd enkele kilometers verderop gedood. Dat zeggen de gezondheidsautoriteiten in Gaza, die onder controle staan van Hamas. Het Israëlische leger zegt dat het de aanvallen uitvoerde om Hamas-strijders te doden. He",
       "url": "https://nos.nl/l/2634429",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
-      "beschrijving": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-      "datum": "10 min geleden",
+      "titel": "Yemen’s Houthis release video of drone attacks on gov’t forces",
+      "beschrijving": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces.",
+      "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Nine killed in shooting in US state of Pennsylvania, including two children",
-      "beschrijving": "The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
-      "datum": "30 min geleden",
+      "titel": "Damage seen inside Saudi airport after third attack this week",
+      "beschrijving": "Video shows damage inside King Khalid International Airport in Riyadh after the third attack in a week.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "titel": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+      "beschrijving": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
       "beschrijving": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
       "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Several injured in attack on airport in Saudi capital Riyadh",
+      "beschrijving": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "datum": "52 min geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
@@ -59,7 +95,7 @@
       "titel": "Woman injures three people in third Poland school knife attack in a week",
       "beschrijving": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
       "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -68,25 +104,25 @@
       "titel": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "beschrijving": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "beschrijving": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "titel": "Trump haalt uit naar Zelensky: 'Tijd voor nieuwe president die deal kan sluiten'",
+      "beschrijving": "President Trump heeft opnieuw uitgehaald naar de Oekraïense president Zelensky. In een gesprek met de Amerikaanse pers zei Trump dat het tijd is dat Oekraïne een nieuwe leider krijgt. Die zou volgens hem dan wel een deal kunnen sluiten om de oorlog met Rusland te beëindigen. De sneer van Trump tegen Zelensky komt een dag nadat de Amerikaanse president had bekendgemaakt dat de VS olie en diesel uit",
+      "url": "https://nos.nl/l/2634486",
       "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Vier vragen over de dieseldeal tussen de Verenigde Staten en Rusland",
-      "beschrijving": "Gisteren maakte de Amerikaanse president Trump bekend dat Rusland per direct 300.000 ton diesel gaat leveren aan de VS. Veel is nog vaag over de afspraak. Zo is onduidelijk wanneer de diesel precies naar de VS gaat en wat het betekent voor de prijs die Amerikanen betalen aan de pomp. Op een later moment zou Rusland nog eens grotere hoeveelheden leveren, die oplopen van 500.000 tot 3 miljoen liter.",
+      "beschrijving": "Gisteren maakte de Amerikaanse president Trump bekend dat Rusland per direct 300.000 ton diesel gaat leveren aan de VS. Veel is nog vaag over de afspraak. Zo is onduidelijk wanneer de diesel precies naar de VS gaat en wat het betekent voor de prijs die Amerikanen betalen aan de pomp. Op een later moment zou Rusland nog eens grotere hoeveelheden leveren, die oplopen van 500.000 tot 3 miljoen ton. N",
       "url": "https://nos.nl/l/2634479",
-      "datum": "23 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +131,7 @@
       "titel": "Christa Pike terug in gevangenis, maar krijgt nog wel medische zorg",
       "beschrijving": "Anderhalve week na de mislukte executiepoging in de Amerikaanse staat Tennessee is Christa Pike ontslagen uit het ziekenhuis. Ze is terug in de gevangenis, melden Amerikaanse media. \"Ze blijft medische zorg krijgen in de gevangenis en wij zullen haar herstel in de gaten blijven houden\", laten haar advocaten weten. \"Ze is de hulpverleners en haar medisch team dankbaar voor hun zorg in deze buitenge",
       "url": "https://nos.nl/l/2634467",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +140,7 @@
       "titel": "Instabiele rotspartij bedreigt Zwitsers dorp, maar een Nepal-scenario vreest men niet",
       "beschrijving": "Een instabiele rotsformatie dreigt het idyllische Zwitserse bergdorpje Kandersteg onder miljoenen kubieke meters rotsen en ijs te bedelven. Door de opwarming van de aarde ontdooit de permafrost, die fungeert als het cement dat de bergen bij elkaar houdt. Daardoor kan er water tussen de rotsen komen, waardoor delen kunnen gaan schuiven. Toch maakt dat schrikbeeld de inwoners niet bijzonder zenuwach",
       "url": "https://nos.nl/l/2634454",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,85 +149,49 @@
       "titel": "Meerdere leiders Indiase kakkerlakkenbeweging opgepakt bij demonstratie tegen Modi",
       "beschrijving": "De Indiase autoriteiten hebben duizenden aanhangers van de kakkerlakkenbeweging gearresteerd, nog voordat hun demonstratie van start ging. Het grote plein waar geprotesteerd zou worden tegen premier Modi werd geblokkeerd door politiewagens met traangasinstallaties. Ook werd het internet bijna helemaal afgesloten, en gingen 45 metrostations dicht. Bussen werden langs de kant van de weg gezet om bet",
       "url": "https://nos.nl/l/2634427",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Nieuw voorstel voor miljarden minder EU-budget nog niet voldoende voor kabinet",
-      "beschrijving": "Ierland heeft als halfjaarlijkse EU-voorzitter het voorstel gedaan om te snijden in de EU-begroting voor de komende jaren. Ierland stelt voor om er 140 miljard vanaf te halen. Over de komende zevenjarenbegroting is veel discussie. Nederland en vijf andere landen vinden dat de Europese Commissie een te groot budget wil. De Europese Commissie had een meerjarenbegroting voorgesteld van 1,76 biljoen e",
-      "url": "https://nos.nl/l/2634422",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Oliedeal of niet, Rusland valt woongebouwen in Oekraïne aan: 17 doden",
-      "beschrijving": "Rusland mag dan met de VS afspraken hebben gemaakt over de uitvoer van diesel, in Oekraïne gaan de aanvallen door. Bij Russische luchtaanvallen in de regio Zaporizja zijn zeker zeventien mensen gedood, onder wie drie kinderen. Volgens de lokale autoriteiten in het zuidoosten van het land zijn woongebouwen gebombardeerd. Op beelden is te zien hoe groot de ravage is; volledige kamers zijn ingestort ",
-      "url": "https://nos.nl/l/2634413",
-      "datum": "8 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Orkaan Isaias aan land in Florida, zuiden VS maakt zich op voor noodweer",
-      "beschrijving": "Orkaan Isaias is bij het stadje Destin in Florida aan land gekomen in de Verenigde Staten. Snel daarna is de orkaan in kracht afgenomen, en dus spreken de weerdiensten nu van een zware storm. De kans op overstromingen is gouverneur Ron DeSantis echter altijd nog aanzienlijk in Florida. Vanwege de overstromingsrisico's en harde windstoten waarschuwt hij om niet de weg op te gaan. In Destin zijn str",
-      "url": "https://nos.nl/l/2634400",
-      "datum": "9 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
-      "beschrijving": "Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
-      "datum": "41 min geleden",
+      "titel": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+      "beschrijving": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;s hair in 1-0 La Liga victory.",
+      "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
+      "datum": "39 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Video shows rare albino Asian black bear",
-      "beschrijving": "A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
-      "datum": "42 min geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Eritrea urges UN to intervene in standoff with Ethiopia",
-      "beschrijving": "The neighbouring countries blame one another for starting war amid heightened tensions and fears of a wider conflict.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss",
+      "titel": "Hundreds of doctors demand World Medical Association suspend Israel",
+      "beschrijving": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
-      "beschrijving": "Storm damage stretches across Florida and Alabama as officials warn of continued flooding and possible tornadoes.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
+      "titel": "Why is the Trump administration trying to dismantle the ICC?",
+      "beschrijving": "The US has imposed sweeping new sanctions on the International Criminal Court.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Gewonden bij aanval op luchthaven in Saudische hoofdstad Riyad, vluchtverkeer ligt stil",
+    "New York Times: 12 doden bij aanval luchthaven Riyad",
+    "Zeker veertig doden in Sudan door droneaanval op vluchtelingenkamp",
+    "Gewonden bij aanval op luchthaven in Saudische hoofdstad Riyad, vliegverkeer ligt stil",
     "Opnieuw aanval op onderwijsinstelling in Polen, derde in een week",
     "Opnieuw vijf Palestijnen in Gaza gedood door Israëlische aanvallen",
-    "Attack on airport in Saudi capital, Riyadh, leaves several injured",
-    "Nine killed in shooting in US state of Pennsylvania, including two children",
-    "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-    "Woman injures three people in third Poland school knife attack in a week",
-    "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-    "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-    "Vier vragen over de dieseldeal tussen de Verenigde Staten en Rusland"
+    "Yemen’s Houthis release video of drone attacks on gov’t forces",
+    "Damage seen inside Saudi airport after third attack this week",
+    "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+    "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+    "Several injured in attack on airport in Saudi capital Riyadh"
   ]
 }
