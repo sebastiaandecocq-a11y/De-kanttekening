@@ -1,47 +1,101 @@
 {
-  "bijgewerkt": "10 Oct 2026 06:49 UTC",
+  "bijgewerkt": "10 Oct 2026 13:25 UTC",
   "artikelen": [
+    {
+      "titel": "Opnieuw vijf Palestijnen in Gaza gedood door Israëlische aanvallen",
+      "beschrijving": "In Gaza zijn zeker vijf Palestijnen gedood door twee verschillende aanvallen van het Israëlische leger. Vier mensen werden gedood in de buurt van een winkelcentrum, het vijfde slachtoffer werd enkele kilometers verderop gedood. Dat zeggen de gezondheidsautoriteiten in Gaza, die onder controle staan van Hamas. Het Israëlische leger zegt dat het de aanvallen uitvoerde om Hamas-strijders te doden. He",
+      "url": "https://nos.nl/l/2634429",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+      "beschrijving": "At least 1,481 Palestinians killed in Israeli attacks since last year&#039;s &#039;ceasefire&#039;, Gaza&#039;s Health Ministry says.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
+      "datum": "44 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "beschrijving": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
     {
       "titel": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
       "beschrijving": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
       "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Amerikaanse sancties 'mokerslag' voor Internationaal Strafhof, wat doet Nederland?",
-      "beschrijving": "De aangekondigde sancties van de VS tegen het Internationaal Strafhof (ICC) in Den Haag zijn een \"mokerslag voor het functioneren van het ICC\", zegt hoogleraar internationaal strafrecht Marieke de Hoon. De sancties kunnen volgens haar verstrekkende gevolgen hebben voor de medewerkers van het hof, maar ook voor de vele organisaties die met het hof samenwerken. Vanaf april volgend jaar is het verbod",
-      "url": "https://nos.nl/l/2634366",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "VS schort eigen sancties op en accepteert Russische diesel: 'Cadeautje voor Poetin'",
-      "beschrijving": "Rusland gaat \"onmiddellijk\" 300.000 ton diesel leveren aan de Amerikaanse markt en de wereldmarkt. Dat schrijft president Trump op zijn platform Truth Social, nadat hij naar eigen zeggen had gesproken met de Russische president Poetin. De VS schort hiervoor sancties op Russische olie tijdelijk op. Volgens Trump heeft Rusland ook ingestemd om in november nog eens 500.000 ton diesel te leveren en la",
-      "url": "https://nos.nl/l/2634362",
-      "datum": "9 uur geleden",
+      "titel": "Why is US turning to Russia for diesel despite sanctions?",
+      "beschrijving": "President Donald Trump&#039;s deal with Putin comes amid surging fuel prices and looming US midterm elections.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Meerdere leiders Indiase kakkerlakkenbeweging opgepakt bij demonstratie tegen Modi",
+      "beschrijving": "De Indiase autoriteiten hebben duizenden aanhangers van de kakkerlakkenbeweging gearresteerd, nog voordat hun demonstratie van start ging. Het grote plein waar geprotesteerd zou worden tegen premier Modi werd geblokkeerd door politiewagens met traangasinstallaties. Ook werd het internet bijna helemaal afgesloten, en gingen 45 metrostations dicht. Bussen werden langs de kant van de weg gezet om bet",
+      "url": "https://nos.nl/l/2634427",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "beschrijving": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "titel": "Nieuw voorstel voor miljarden minder EU-budget nog niet voldoende voor kabinet",
+      "beschrijving": "Ierland heeft als halfjaarlijkse EU-voorzitter het voorstel gedaan om te snijden in de EU-begroting voor de komende jaren. Ierland stelt voor om er 140 miljard vanaf te halen. Over de komende zevenjarenbegroting is veel discussie. Nederland en vijf andere landen vinden dat de Europese Commissie een te groot budget wil. De Europese Commissie had een meerjarenbegroting voorgesteld van 1,76 biljoen e",
+      "url": "https://nos.nl/l/2634422",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Oliedeal of niet, Rusland valt woongebouwen in Oekraïne aan: 15 doden",
+      "beschrijving": "Rusland mag dan met de VS afspraken hebben gemaakt over de uitvoer van diesel, in Oekraïne gaan de aanvallen door. Bij Russische luchtaanvallen in de regio Zaporizja zijn zeker vijftien mensen gedood, onder wie drie kinderen. Volgens de lokale autoriteiten in het zuidoosten van het land zijn woongebouwen gebombardeerd. Op beelden is te zien hoe groot de ravage is; volledige kamers zijn ingestort e",
+      "url": "https://nos.nl/l/2634413",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Orkaan Isaias aan land in Florida, zuiden VS maakt zich op voor noodweer",
+      "beschrijving": "Orkaan Isaias is bij het stadje Destin in Florida aan land gekomen in de Verenigde Staten. Snel daarna is de orkaan in kracht afgenomen, en dus spreken de weerdiensten nu van een zware storm. De kans op overstromingen is gouverneur Ron DeSantis echter altijd nog aanzienlijk in Florida. Vanwege de overstromingsrisico's en harde windstoten waarschuwt hij om niet de weg op te gaan. In Destin zijn str",
+      "url": "https://nos.nl/l/2634400",
+      "datum": "4 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "AI tipt over moordzaak Philadelphia, maar kletst uit zijn nek",
+      "beschrijving": "\"Ik heb mogelijk informatie over de moordzaak\", schreef een onbekende bron 18 juli aan de Amerikaanse politie. \"Ik kan me herinneren dat ik iemand heb gezien die aan jullie omschrijving voldoet.\" Een tip voor de politie in de Amerikaanse stad Philadelphia over een onopgeloste moordzaak. Het bericht was alleen helemaal niet afkomstig van een ooggetuige, blijkt nu. Sterker nog, het bericht was niet ",
+      "url": "https://nos.nl/l/2634395",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Kritiek op executie via livestream, Trump zegt dat besluit nog niet vaststaat",
       "beschrijving": "De Amerikaanse president Trump zegt dat nog niet definitief is besloten om de executie van een Amerikaanse militair te livestreamen. Op de aankondiging daarvan gisteren door minister Hegseth kwam veel kritiek. \"Nou, ze moeten er nog een besluit over nemen\", zei Trump ontwijkend zonder in detail te treden toen hem werd gevraagd naar de geplande executie. \"Maar hij wordt gedood, dat zal met een vuur",
       "url": "https://nos.nl/l/2634386",
-      "datum": "51 min geleden",
+      "datum": "7 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +104,7 @@
       "titel": "Omstreden Oranjemars verboden na patstelling van 13 dagen: 'Situatie is veranderd'",
       "beschrijving": "Dertien dagen nadat grootschalig protest een omstreden Oranjemars in Noord-Ierland onmogelijk maakte, is de parade definitief afgeblazen. De Britse minister voor Noord-Ierse Zaken vreest dat de opgelopen spanningen zullen uitmonden in geweld en verbiedt daarom de mars. Oranjemarsen van protestante unionisten door wijken waar veel katholieke republikeinen wonen veroorzaakten jarenlang veel spanning",
       "url": "https://nos.nl/l/2634379",
-      "datum": "1 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +113,7 @@
       "titel": "Wekdienst 10/10: Woonprotest op De Dam • Feyenoord-AZ in de Eredivisie",
       "beschrijving": "Goedemorgen! Vandaag is er weer een woonprotest in Amsterdam en in de eredivisie spelen onder meer Feyenoord en AZ tegen elkaar. Eerst het weer: op veel plekken gaat het regenen, vooral in het noorden is er ook kans op onweer, hagel en zware windstoten. De wind komt vanuit het westen en het wordt maximaal 15 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamheden ",
       "url": "https://nos.nl/l/2634376",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,98 +122,44 @@
       "titel": "Braziliaanse politie doodt man die dertien jonge kinderen gijzelde",
       "beschrijving": "De Braziliaanse politie heeft in de zuidelijke stad Curitiba een man gedood die ruim twee uur dertien kinderen gijzelde in een school. De gijzeling was op een complex met daarin een kleuterschool en een basisschool, meldt de krant Folha de S. Paulo. De kinderen waren volgens de krant tussen de 4 en 5 jaar oud. Volgens een woordvoerder van de politie dreigde de man om benzine over zichzelf en de ge",
       "url": "https://nos.nl/l/2634373",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Rechtse politiek commentator Katie Zacharia nieuwe perschef van het Witte Huis",
-      "beschrijving": "Donald Trump heeft de rechtse politieke commentator Katie Zacharia aangesteld als nieuwe perschef van het Witte Huis. Ze volgt Karoline Leavitt op, die haar functie eind augustus neerlegde. Net als Leavitt is ook Zacharia een trouwe MAGA-aanhanger. Ze omschreef de Amerikaanse president in een gastcolumn in de conservatieve krant New York Post enkele maanden geleden als \"de grootste president in de",
-      "url": "https://nos.nl/l/2634371",
-      "datum": "7 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "110 arrestaties op dag vol geweld in centrum Brussel",
-      "beschrijving": "In Brussel zijn zeker 110 mensen aangehouden nadat een stakingsdag van vakbonden was uitgelopen op rellen. Pas in de loop van de avond keerde de rust terug in de Belgische hoofdstad, meldt VRT Nieuws. De vakbonden protesteerden vandaag tegen bezuinigingen op de sociale zekerheid. Na verloop van tijd mengden honderden tot duizenden jongeren zich tussen de betogers. Volgens diverse media was dat van",
-      "url": "https://nos.nl/l/2634349",
-      "datum": "10 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'Copiloot die toestel wilde laten neerstorten was geïnspireerd door 9/11'",
-      "beschrijving": "De copiloot die tijdens een vlucht van Dubai naar Tel Aviv het toestel wilde overnemen en daarbij zijn gezagvoerder neerstak, wilde een aanslag plegen die geïnspireerd was op de terroristische aanslagen van 9/11. Dat heeft de openbaar aanklager van de Verenigde Arabische Emiraten (VAE) bekendgemaakt. Uit onderzoek van de aanklager komen ook andere belangrijke bevindingen naar voren. De 29-jarige v",
-      "url": "https://nos.nl/l/2634347",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Zware aardbeving in Panama, stroom uitgevallen en schade aan gebouwen",
-      "beschrijving": "Panama is getroffen door een aardbeving met een kracht van 7,7. Daarmee zou het een van de zwaarste schokken van het jaar zijn, wereldwijd. Er zijn nog geen berichten over slachtoffers. Het epicentrum van de beving was in de zuidelijke provincie Herrera, een dunbevolkt gebied. Lokale media melden dat in verschillende regio's in het land mensen gebouwen, bedrijven, scholen en huizen moesten verlate",
-      "url": "https://nos.nl/l/2634340",
       "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown",
-      "beschrijving": "Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
-      "datum": "54 min geleden",
+      "titel": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
+      "beschrijving": "Rubio says threats to Western civilisation today &#039;every bit as real as they were on the dramatic stage of antiquity&#039;.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
+      "datum": "15 min geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
+      "beschrijving": "Indian police crackdown appears to have prevented mass protests against the country&#039;s election chief from taking place.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss",
+      "datum": "34 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
-      "beschrijving": "US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israel’s economy prospers despite years of war, but prices worry voters",
-      "beschrijving": "Tech is driving the economy, and investments are flowing in. But food costs are rising and debt is growing.",
-      "url": "https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Taiwan president says defence spending boost aims to ‘deter war’",
-      "beschrijving": "President Lai Ching-te emphasises peace and freedom, vows not to tolerate aggression in Taiwan Strait.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
-      "beschrijving": "Ukraine bombed a Russian fuel site, hours after US President Trump and Russian President Putin announced a diesel deal.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "India deploys police and restricts transport ahead of mass protest in Delhi",
-      "beschrijving": "The Cockroach Janta Party wants Chief Election Commissioner Gyanesh Kumar to quit over changes to voter lists.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "England international Cole Palmer signs new Chelsea deal until 2034",
+      "beschrijving": "Attacking midfielder Palmer has become a key figure in Chelsea&#039;s squad since his arrival from Man City in 2023.",
+      "url": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss",
+      "datum": "47 min geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+      "beschrijving": "Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
+      "datum": "52 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -167,7 +167,7 @@
       "titel": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "beschrijving": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,22 +176,22 @@
       "titel": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
       "beschrijving": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
       "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Opnieuw vijf Palestijnen in Gaza gedood door Israëlische aanvallen",
+    "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+    "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
     "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-    "Amerikaanse sancties 'mokerslag' voor Internationaal Strafhof, wat doet Nederland?",
-    "VS schort eigen sancties op en accepteert Russische diesel: 'Cadeautje voor Poetin'",
-    "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-    "Kritiek op executie via livestream, Trump zegt dat besluit nog niet vaststaat",
-    "Omstreden Oranjemars verboden na patstelling van 13 dagen: 'Situatie is veranderd'",
-    "Wekdienst 10/10: Woonprotest op De Dam • Feyenoord-AZ in de Eredivisie",
-    "Braziliaanse politie doodt man die dertien jonge kinderen gijzelde",
-    "Rechtse politiek commentator Katie Zacharia nieuwe perschef van het Witte Huis",
-    "110 arrestaties op dag vol geweld in centrum Brussel"
+    "Why is US turning to Russia for diesel despite sanctions?",
+    "Meerdere leiders Indiase kakkerlakkenbeweging opgepakt bij demonstratie tegen Modi",
+    "Nieuw voorstel voor miljarden minder EU-budget nog niet voldoende voor kabinet",
+    "Oliedeal of niet, Rusland valt woongebouwen in Oekraïne aan: 15 doden",
+    "Orkaan Isaias aan land in Florida, zuiden VS maakt zich op voor noodweer",
+    "AI tipt over moordzaak Philadelphia, maar kletst uit zijn nek"
   ]
 }
