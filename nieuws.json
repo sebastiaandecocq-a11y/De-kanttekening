@@ -1,29 +1,11 @@
 {
-  "bijgewerkt": "12 Oct 2026 17:34 UTC",
+  "bijgewerkt": "13 Oct 2026 00:21 UTC",
   "artikelen": [
     {
-      "titel": "Cyberaanval treft Franse supermarkten, koelsystemen op 50 graden gezet",
-      "beschrijving": "Meerdere Franse supermarktketens zijn getroffen door een cyberaanval. Hackers hebben koelsystemen in supermarkten ontregeld. In plaats van koelen gingen die warmte afgeven; sommige systemen waren ingesteld op 50 graden boven nul. Tal van supermarkten hebben hun voorraad moeten weggooien. Honderden winkels in heel Frankrijk zijn getroffen. Het gaat om filialen van onder meer Intermarché, E.Leclerc,",
-      "url": "https://nos.nl/l/2634691",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hoogste NAVO-militair: 'Bij aanval vijand tegenhouden, afzwakken en breken'",
-      "beschrijving": "\"We zullen een aanval van de vijand tegenhouden, hem afzwakken als hij aanhoudt en uiteindelijk het operationeel gevechtssysteem uitschakelen.\" Dat is de boodschap van de Amerikaanse opperbevelhebber van de NAVO, generaal Alexus Grynkewich, op de veiligheidstop in Warschau. Hij zei erbij dat hij hoopt dat het nooit zover hoeft te komen en dat hij vooral wilde geruststellen en afschrikken. \"Een con",
-      "url": "https://nos.nl/l/2634678",
-      "datum": "5 uur geleden",
-      "regio": "Europa",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Oil tanker reportedly attacked in Strait of Hormuz region",
-      "beschrijving": "Plumes of black smoke rise from a Petro Dolphin oil tanker by a drone attack off the coast of Oman.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+      "beschrijving": "Saudi Arabia says it intercepted a ballistic missile fired towards Riyadh, as Houthis say they targeted the airport.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+      "datum": "27 min geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
@@ -41,61 +23,79 @@
       "titel": "Fridges in French supermarkets hit by cyber attack",
       "beschrijving": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
       "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Musk steekt stilletjes honderden miljoenen in Congresverkiezingen VS",
+      "beschrijving": "366 miljoen dollar. Dat is het bedrag dat Elon Musk al in de tussentijdse verkiezingen in de VS in november heeft gestoken. Daarmee heeft hij het totaalbedrag van zijn bijdrage aan de overwinning van Trump twee jaar terug al ingehaald, maar dit keer kiest hij voor een stille aanpak. The New York Times kreeg inzage in de donaties die Musk dit jaar aan politieke kandidaten heeft gedaan. Het leeuwend",
+      "url": "https://nos.nl/l/2634727",
+      "datum": "6 uur geleden",
+      "regio": "VS",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
       "titel": "EU-landen wachten met harde reactie na sancties VS tegen Strafhof",
       "beschrijving": "De Europese Unie kiest voorlopig de diplomatieke weg om het Internationaal Strafhof (ICC) in Den Haag overeind te houden. Harde maatregelen tegen de Amerikaanse sancties tegen het hof komen er voorlopig niet. Dat is de uitkomst van een overleg van de ministers van Buitenlandse Zaken van de EU-landen in Luxemburg. \"Het belangrijkste is de dialoog aangaan en alles doen om het hof te beschermen,\" ald",
       "url": "https://nos.nl/l/2634724",
-      "datum": "13 min geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
       "titel": "Hoogste NAVO-militair wil met speech geruststellen, maar twijfel over rol VS niet weg",
-      "beschrijving": "Uitstralen dat het bondgenootschap klaarstaat in het geval van een Russische aanval, dat wilde de Amerikaanse NAVO-opperbevelhebber Alexus Grynkewich uitstralen met zijn speech op de veiligheidstop in Warschau. Die boodschap is overgekomen bij politici en deskundigen, maar in de wandelgangen ging het toch weer over die ene vraag: kan de NAVO rekenen op Amerika als het erop aankomt? Grynkewich gebr",
+      "beschrijving": "Uitstralen dat het bondgenootschap klaarstaat in het geval van een Russische aanval, dat wilde de Amerikaanse NAVO-opperbevelhebber Alexus Grynkewich bereiken met zijn speech op de veiligheidstop in Warschau. Die boodschap is overgekomen bij politici en deskundigen, maar in de wandelgangen ging het toch weer over die ene vraag: kan de NAVO rekenen op Amerika als het erop aankomt? Grynkewich gebrui",
       "url": "https://nos.nl/l/2634720",
-      "datum": "39 min geleden",
+      "datum": "7 uur geleden",
       "regio": "Europa",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
-      "beschrijving": "Nobel Peace Prize winner Navi Pillay has condemned US sanctions against the International Criminal Court.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
-      "datum": "26 min geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
       "titel": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
       "beschrijving": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
       "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Thousands march to Indian Supreme Court to demand election chief resign",
-      "beschrijving": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "VS",
+      "titel": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "beschrijving": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Zanger Heino krijgt schadevergoeding van AfD om vals stemadvies",
+      "beschrijving": "De Duitse partij AfD moet een schadevergoeding van 7500 euro betalen aan schlagerzanger Heino (87). Een kandidaat van de radicaal-rechtse partij had bij deelstaatverkiezingen gezegd dat de zanger op hem zou stemmen. \"Heino stemt zondag op Felix\", had kandidaat Felix Teichner uit de deelstaat Brandenburg op sociale media gezet. Hij voegde eraan toe dat de regio Uckermark \"blauw, blauw, blauw\" zou k",
+      "url": "https://nos.nl/l/2634737",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Oekraïne richt vizier nu op Russische datacenters en het trollenleger",
+      "beschrijving": "Het speerpunt van de oorlog tussen Rusland en Oekraïne verschuift zich van de olie-industrie naar datacenters. De afgelopen dagen troffen Oekraïense drones meerdere locaties van Yandex, vaak omschreven als het Google van Rusland. De gevolgen zijn goed te merken in de Russische samenleving, en op sociale media wereldwijd. Donderdag ging een centrum in de regio Rjazan volledig offline. Een dag later",
+      "url": "https://nos.nl/l/2634726",
+      "datum": "6 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Britse premier: Iraanse Revolutionaire Garde zat achter incident bij vliegbasis",
-      "beschrijving": "Iran zit \"hoogstwaarschijnlijk\" achter de verdachte situatie op een luchtmachtbasis in het Verenigd Koninkrijk eind vorige maand, zegt premier Burnham tegen het Britse parlement. Volgens hem was die \"vrijwel zeker\" aangestuurd door de Iraanse Revolutionaire Garde (IRG). Burnham benadrukt dat het VK verdere sancties zal opleggen aan Iran. Ook de VS en andere bondgenoten hebben de aanvallen van Iran",
+      "beschrijving": "Iran zit \"hoogstwaarschijnlijk\" achter de verdachte situatie op een luchtmachtbasis in het Verenigd Koninkrijk eind vorige maand, zegt premier Burnham tegen het Britse parlement. Volgens hem was die \"vrijwel zeker\" aangestuurd door de Islamitische Revolutionaire Garde in Iran (IRG). Burnham benadrukt dat het VK verdere sancties zal opleggen aan Iran. Ook de VS en andere bondgenoten hebben de aanva",
       "url": "https://nos.nl/l/2634722",
-      "datum": "37 min geleden",
+      "datum": "7 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +104,7 @@
       "titel": "Vliegveld Riyad blijft langer gesloten, KLM schort meer vluchten op",
       "beschrijving": "De internationale luchthaven van Riyad, in Saudi-Arabië, blijft tot zaterdagavond gesloten. Dat gebeurt na aanhoudende aanvallen door de Houthi's uit Jemen. Luchtvaartmaatschappijen hebben hun vluchten geannuleerd. Het vliegveld blijft zeker dicht tot en met zaterdagavond 23.00 uur Nederlandse tijd. De luchthaven werd gesloten na de zwaarste aanval in Saudi-Arabië in tien jaar tijd. Afgelopen zate",
       "url": "https://nos.nl/l/2634707",
-      "datum": "1 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +113,7 @@
       "titel": "Inval bij Amerikaans Congreslid Ilhan Omar, uitgesproken criticus van Trump",
       "beschrijving": "De Amerikaanse autoriteiten hebben een inval gedaan bij het huis van Democratisch Congreslid Ilhan Omar. Justitie heeft nog niet gezegd waarom de huiszoeking plaatsvond, maar bronnen zeggen tegen Fox News dat er onderzoek wordt gedaan naar hoe ze als kind vanuit Somalië het land is binnengekomen. Als progressief politicus uit de staat Minnesota staat Omar bekend als een uitgesproken criticus van T",
       "url": "https://nos.nl/l/2634703",
-      "datum": "1 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,7 +122,7 @@
       "titel": "Dode en gewonden bij explosie in Israël door onontplofte munitie",
       "beschrijving": "Bij een explosie in het noorden van Israël is zeker een dode gevallen en zijn 24 anderen gewond geraakt. Onder de slachtoffers zijn leerlingen en leerkrachten van een middelbare school, schrijven Israëlische media. De explosie vond plaats in de buurt van de kibboets Yiftach, vlak bij de grens met Libanon. De scholieren waren volgens Israëlische media aan het wandelen in het gebied. De explosie is ",
       "url": "https://nos.nl/l/2634702",
-      "datum": "2 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
@@ -131,67 +131,67 @@
       "titel": "Escalatie dreigt in het Midden-Oosten: vijf vragen over Saudi-Arabië en de Houthi's",
       "beschrijving": "De internationale luchthaven in de Saudische hoofdstad Riyad is vorige week meerdere keren onder vuur genomen door de Houthi's uit Jemen, met doden als gevolg. Bij de zwaarste aanval, zaterdag, kwamen dertien mensen om het leven en raakten er meer dan driehonderd gewond. Een dag later viel opnieuw een dode op het vliegveld. De Houthi's treffen niet zomaar een luchthaven: de Internationale Luchthav",
       "url": "https://nos.nl/l/2634696",
-      "datum": "3 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Podcast De Dag: Trump versus het Internationaal Strafhof",
-      "beschrijving": "De Amerikaanse president Trump valt het Internationaal Strafhof al tijden aan. Vrijdag voegde hij daar een nieuw hoofdstuk aan toe: de regering kondigde nieuwe sancties aan die voor het hele hof moeten gaan gelden. Over zes maanden wordt werken met of via Amerikaanse bedrijven onmogelijk gemaakt, wat vrijwel alles gaat raken bij het Strafhof. De aanvallen vanuit de VS zijn niet nieuw, Amerikanen v",
-      "url": "https://nos.nl/l/2634692",
-      "datum": "4 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Blast kills teenager, injures dozens in northern Israel",
-      "beschrijving": "A 15-year-old was killed and around 20 people injured when unexploded ordnance detonated in northern Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
-      "datum": "50 min geleden",
-      "regio": "Gaza/Israël",
+      "titel": "US archbishop says Catholics in army should not participate in firing squad",
+      "beschrijving": "Archbishop Timothy Broglio says US plan to livestream Fort Hood attacker&#039;s execution is contrary to church teachings.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
-      "beschrijving": "Deadly air raids on gold miners in Sudan expose deepening border lawlessness and regional instability.",
-      "url": "https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss",
+      "titel": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+      "beschrijving": "Warsaw says the 2 suspects held in Germany will face sabotage charges.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Conflict, drought increasing risk of famine in Sudan: Monitor",
+      "beschrijving": "El Nino-induced drought is affecting roughly half of the country as three-year long war continues.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Will Ukraine survive the winter?",
-      "beschrijving": "Washington&#039;s position on Ukraine remains ambivalent while losses mount and an energy crisis deepens.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
+      "beschrijving": "Iran says intermediaries handling its oil sales owe it billions of dollars, but how did the debts accumulate?",
+      "url": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-      "beschrijving": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
+      "beschrijving": "Newly sworn-in Labour MP Sagal Abdi-Wali has become the first Somali-born refugee woman elected to UK Parliament.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Afrika",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Cyberaanval treft Franse supermarkten, koelsystemen op 50 graden gezet",
-    "Hoogste NAVO-militair: 'Bij aanval vijand tegenhouden, afzwakken en breken'",
-    "Oil tanker reportedly attacked in Strait of Hormuz region",
+    "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
     "Saudi minister vows 'serious response' to Houthi attacks on airports",
     "Fridges in French supermarkets hit by cyber attack",
+    "Musk steekt stilletjes honderden miljoenen in Congresverkiezingen VS",
     "EU-landen wachten met harde reactie na sancties VS tegen Strafhof",
     "Hoogste NAVO-militair wil met speech geruststellen, maar twijfel over rol VS niet weg",
-    "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
     "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-    "Thousands march to Indian Supreme Court to demand election chief resign"
+    "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+    "Zanger Heino krijgt schadevergoeding van AfD om vals stemadvies",
+    "Oekraïne richt vizier nu op Russische datacenters en het trollenleger"
   ]
 }
