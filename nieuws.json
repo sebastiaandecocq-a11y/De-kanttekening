@@ -1,188 +1,179 @@
 {
-  "bijgewerkt": "13 Oct 2026 15:43 UTC",
+  "bijgewerkt": "13 Oct 2026 21:04 UTC",
   "artikelen": [
     {
-      "titel": "Opnieuw droneaanval op schepen voor Bulgaarse kust, elf bemanningsleden vermist",
-      "beschrijving": "Op de Zwarte Zee voor de kust van Bulgarije zijn opnieuw twee schepen aangevallen met drones. Eén van de schepen is volgens de Bulgaarse premier Radev gezonken. Vijf bemanningsleden van dat schip zijn gered, naar elf opvarenden wordt nog gezocht. Het schip, de Dignity, werd geëxploiteerd door een Libanese rederij en voer onder de vlag van Guinee-Bissau. Het schip dat niet zonk, het Oekraïense schi",
-      "url": "https://nos.nl/l/2634770",
-      "datum": "7 uur geleden",
+      "titel": "Explosieven in huis van man die aanslag op Poolse premier zou hebben willen plegen",
+      "beschrijving": "De man die wordt verdacht van het voorbereiden van een aanslag op de Poolse premier Tusk en de minister van Defensie Kosiniak-Kamysz had zelfgemaakte explosieven in huis. Dat heeft het Poolse Openbaar Ministerie bekendgemaakt. De 66-jarige Krzysztof N. werd zondag aangehouden nadat Poolse veiligheidsdiensten alarm hadden geslagen. De Poolse autoriteiten noemden de dreiging \"uiterst serieus\". Het O",
+      "url": "https://nos.nl/l/2634866",
+      "datum": "30 min geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "beschrijving": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "datum": "51 min geleden",
-      "regio": "Oekraïne",
+      "titel": "'Iran voert aanvallen op schepen in Straat van Hormuz weer op'",
+      "beschrijving": "Iran heeft de aanvallen op schepen in en rond de Straat van Hormuz deze maand opgevoerd. Het gaat om de grootste aanvalsreeks sinds het begin van de Amerikaans-Israëlische aanvallen op Iran eind februari, schrijft de Britse krant Financial Times (FT). Alleen al afgelopen zondag viel Iran zes schepen aan, schrijft de krant op basis van de Britse maritieme organisatie UKMTO en Europese veiligheidsbr",
+      "url": "https://nos.nl/l/2634864",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+      "beschrijving": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
+      "datum": "30 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "beschrijving": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "China legt sancties op aan Paraguay en Belize om steun aan Taiwan",
-      "beschrijving": "China heeft sancties opgelegd aan ministers uit Paraguay en Belize omdat deze landen diplomatieke betrekkingen met Taiwan onderhouden. China beschouwt Taiwan als een afvallige provincie die desnoods met geweld moet worden herenigd met de Volksrepubliek. Ministers uit deze Zuid-Amerikaanse landen hadden vorige maand ontmoetingen met hun Taiwanese collega's. Volgens China hebben ze desinformatie ver",
-      "url": "https://nos.nl/l/2634815",
-      "datum": "49 min geleden",
-      "regio": "China/Taiwan",
+      "titel": "Trump says Houthis trying to increase oil prices before US elections",
+      "beschrijving": "US president suggests that Yemen-based group are &#039;purposefully trying to drive up oil prices&#039; before November vote.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "VS",
       "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nederlander op Britse sanctielijst om leveringen aan Russische metaalbedrijven",
-      "beschrijving": "De Britse overheid heeft sancties opgelegd aan een Nederlander vanwege verboden leveringen aan Rusland. Het gaat om Alexander T., de mede-eigenaar van het Turkse bedrijf Redwing Metal. The Kyiv Independent onthulde vier maanden geleden dat het Turkse bedrijf materieel uit de Europese Unie aan Russische metaalbedrijven levert, die daarmee weer raket- en straaljagerfabrikanten bevoorraden. In 2023 e",
-      "url": "https://nos.nl/l/2634814",
-      "datum": "49 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Podcast De Dag: de 'peptalk' van de hoogste NAVO-militair",
-      "beschrijving": "Het komt niet vaak voor dat de oppergeneraal van de NAVO in de spotlight staat. Dus toen werd aangekondigd dat Alexus Grynkewich een toespraak ging houden over de kwestie-Rusland, richtten alle ogen zich op hem. Hij wilde met de speech NAVO-burgers in een tijd van hybride aanvallen geruststellen en tegelijk een stevige waarschuwing geven aan Rusland. Luisteren? Deze aflevering van De Dag luister j",
-      "url": "https://nos.nl/l/2634797",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
       "beschrijving": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
       "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "beschrijving": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "datum": "18 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Zelensky: Rusland houdt zich al dagen niet aan 'energiebestand' Trump",
-      "beschrijving": "Oekraïne heeft zich de afgelopen twee dagen gehouden aan het \"energiebestand\" dat de Amerikaanse president Trump zondag op eigen houtje afkondigde, maar Rusland heeft zich er niets van aangetrokken. Dat zegt de Oekraïense president Zelensky. Hij wijst erop dat zijn leger geen aanvallen heeft uitgevoerd op Russische olieraffinaderijen en de energiesector, zoals Trump wilde. \"Maar Rusland heeft geen",
-      "url": "https://nos.nl/l/2634816",
-      "datum": "28 min geleden",
-      "regio": "Oekraïne",
+      "titel": "40 jaar cel voor voormalig bendelid dat achter moord op Tupac Shakur zat",
+      "beschrijving": "De 63-jarige Duane Davis moet zeker 40 jaar de cel in voor de moord op de Amerikaanse hiphoplegende Tupac Shakur. Dat heeft een rechter in Las Vegas bepaald. Duane 'Keffe D' Davis werd in augustus al door een jury schuldig bevonden aan moord met voorbedachten rade met een dodelijk wapen. Volgens de jury is bewezen dat Davis de moord op de rapper in 1996 had beraamd. Hij had voor het vuurwapen gezo",
+      "url": "https://nos.nl/l/2634871",
+      "datum": "5 min geleden",
+      "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Op afstand bestuurbare robot randt 16-jarig meisje aan in Keulen",
-      "beschrijving": "Een meisje van 16 in Duitsland is waarschijnlijk bij haar billen gegrepen door een mensachtige robot die op afstand werd bestuurd door een tienerjongen. De robot maakte daarna stootbewegingen tegen het meisje, meldt de politie van Keulen. Het meisje stond volgens de Duitse politie rond middernacht met vriendinnen op de hoek van een straat, toen de 1,20 meter lange robot op haar afliep. De politie ",
-      "url": "https://nos.nl/l/2634801",
+      "titel": "Longkanker ontdekt bij paus Leo, kwaadaardige knobbel verwijderd",
+      "beschrijving": "Paus Leo XIV is met succes geopereerd aan een longknobbeltje, dat kwaadaardig bleek te zijn. Tijdens de operatie werd longadenocarcinoom vastgesteld, een veelvoorkomende vorm van longkanker. Het onderste deel van zijn rechterlong is verwijderd, meldt het Vaticaan. De operatie duurde 90 minuten en verliep volgens het Vaticaan succesvol en zonder complicaties. \"De Heilige Vader is vervolgens terugge",
+      "url": "https://nos.nl/l/2634856",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Kapingsmelding vanuit cockpit van vliegtuig naar Duitsland blijkt vals alarm",
+      "beschrijving": "In de Duitse stad Neurenberg is een vliegtuig veilig geland nadat er vanuit de cockpit een kapingsmelding werd verstuurd. Hierop stuurde de Duitse luchtmacht twee straaljagers de lucht in. De kapingsmelding bleek uiteindelijk vals alarm te zijn. \"Vanuit de cockpit werd de code '7500' (kaping) doorgegeven, waarna de piloot niet meer via de radio bereikbaar was\", schrijft de Duitse politie. \"Om veil",
+      "url": "https://nos.nl/l/2634852",
       "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Paus in ziekenhuis voor operatie aan longknobbel",
-      "beschrijving": "Paus Leo XIV is aangekomen in het ziekenhuis in Rome waar hij vanmiddag zal worden geopereerd aan zijn long. De 71-jarige kerkvorst stapte aan het begin van de middag uit de auto die hem naar het ziekenhuis had gebracht en zwaaide naar de honderden belangstellenden die hem verwelkomden. De paus maakte zondag bekend dat bij een medische controle een knobbeltje was ontdekt op een van zijn longen. In",
-      "url": "https://nos.nl/l/2634794",
+      "titel": "Britse veiligheidsdienst ziet Rusland, Iran en AI als grootste bedreigingen",
+      "beschrijving": "Het hoofd van de Britse veiligheidsdienst MI5 heeft in zijn jaarlijkse toespraak Rusland, Iran en kunstmatige intelligentie (AI) de belangrijkste bedreigers van de Britse nationale veiligheid genoemd. Ook zei hij dat bedreigingen door buitenlandse tegenstanders in de afgelopen tien jaar zijn verviervoudigd. Daarbij gaat het ongeveer even vaak om vijandige acties van staten als van terroristische o",
+      "url": "https://nos.nl/l/2634850",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Frans scholierenprotest groeit uit tot bredere volksbeweging: 'Dit geeft hoop'",
+      "beschrijving": "\"Ik sta hier om te demonstreren en om op te komen voor mijn rechten en die van mijn vrienden\", zegt Adam Boucherca, tweedejaars rechtenstudent aan de universiteit Paris-Panthéon-Assas. Al bijna een maand gaan in heel Frankrijk demonstranten de straat op. Ook vandaag zijn er weer massale protesten aan de gang. Om 05.30 uur had Boucherca met vrienden afgesproken in de buurt van de Parijse universite",
+      "url": "https://nos.nl/l/2634846",
       "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Medische hulp aan Christa Pike vertraagd door verwarring bij alarmcentrale",
-      "beschrijving": "De medische hulp aan de Amerikaanse Christa Pike is na haar mislukte executie vertraagd op gang gekomen door verwarring tussen de alarmcentrale en medewerkers van de gevangenis. De meldkamer betwijfelde of de noodoproep van het gevangenispersoneel wel echt was. Dat blijkt uit geluidsopnames die het Amerikaanse persbureau AP in handen heeft. Om 20.40 uur, een uur nadat de eerste dodelijke injectie ",
-      "url": "https://nos.nl/l/2634779",
-      "datum": "6 uur geleden",
+      "titel": "Antiterrorisme-aanklager neemt onderzoek naar Franse schoolschutter (14) over",
+      "beschrijving": "De Franse antiterrorisme-aanklager heeft het onderzoek overgenomen naar de 14-jarige scholier die gisteren schoot op een docent en de directeur van een middelbare school in Aubagne, bij Marseille. Dat meldt de Franse nieuwszender BFMTV. Volgens de antiterrorisme-aanklager zijn er aanwijzingen dat de jongen inspiratie putte uit de True Crime Community waar hij banden mee lijkt te hebben. Deze onlin",
+      "url": "https://nos.nl/l/2634832",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Doden in Mexico door noodweer, orkaan mogelijk donderdag aan land",
-      "beschrijving": "In Mexico zijn zeker vijf mensen om het leven gekomen door noodweer. Het land wordt sinds dit weekend geteisterd door hevige regenval en overstromingen. Die zijn ontstaan door de tropische storm Rachel en naderende orkaan Simon. Die laatste komt naar verwachting donderdag aan land. In de Mexicaanse deelstaat Baja California, ten zuiden van de Amerikaanse staat Californië, kwam een gezin met twee k",
-      "url": "https://nos.nl/l/2634776",
-      "datum": "6 uur geleden",
+      "titel": "Poolse winkels halen accessoires voor Halloween uit schappen na steekpartijen",
+      "beschrijving": "In Polen stoppen meerdere winkelketens met de verkoop van bepaalde halloweenaccessoires naar aanleiding van steekincidenten op scholen. Winkeliers noemen de verkoop vanwege de steekpartijen \"ongepast\". Onder meer Biedronka, met zo'n 3900 vestigingen een van de grootste winkelketens van Polen, heeft aangekondigd nepmessen en griezelige kostuums te verwijderen. Ook kinderwinkelketen Smyk heeft gezeg",
+      "url": "https://nos.nl/l/2634831",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Agent in België doodgeschoten na achtervolging van gestolen auto",
-      "beschrijving": "In België is een politieagent om het leven gekomen na een achtervolging van een gestolen auto. Dat schrijven Belgische media. De man is doodgeschoten. De politie zou in actie zijn gekomen nadat een auto met geweld van de eigenaar was afgepakt in Tubeke. De gestolen auto werd volgens De Standaard gesignaleerd door verkeerscamera's bij het binnenrijden van Brussel. De politie zette vervolgens de ach",
-      "url": "https://nos.nl/l/2634765",
-      "datum": "7 uur geleden",
+      "titel": "OM eist zes jaar cel tegen man (23) die 38 keer nepagenten inzette",
+      "beschrijving": "Een man uit Nieuwegein staat terecht voor het plegen van fraude met nepagenten. Volgens het Openbaar Ministerie heeft de verdachte 38 keer geprobeerd om via nepagenten bij mensen thuis binnen te komen. Het gaat om één van de grootste oplichtingszaken met nepagenten, zegt het OM. De 23-jarige man wordt ervan verdacht actief te zijn binnen een criminele organisatie waar hij mensen aanstuurde. De gro",
+      "url": "https://nos.nl/l/2634826",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Scientists urge tighter AI controls to prevent global cyber risks",
+      "beschrijving": "Call comes amid polls casting doubts on political leaders&#039; ability to manage AI risks as US midterm elections near.",
+      "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Will NATO’s ‘theory of victory’ work?",
+      "beschrijving": "The alliance presents a common vision to deter adversaries.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
-      "beschrijving": "NATO&#039;s top commander says he is revealing a plan to stop a Russian invasion of Europe.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/block-blunt-break-whats-in-natos-new-russia-war-plan?traffic_source=rss",
-      "datum": "51 min geleden",
+      "titel": "Russia arrests Japanese reporter for alleged espionage",
+      "beschrijving": "Suspect was arrested on Russia&#039;s far-eastern Sakhalin Island before being transferred to Moscow, says Russia&#039;s FSB.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Palestinians dream of returning home after Israel raids West Bank camps",
-      "beschrijving": "Palestinians have been displaced from their homes in Tulkarem refugee camp and dream of returning home.",
-      "url": "https://www.aljazeera.com/features/2026/10/13/palestinians-dream-of-returning-home-after-israel-raids-west-bank-camps?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Yemeni government launches air strikes on Houthi positions",
-      "beschrijving": "Yemeni rights group accuses the Houthis of killing five civilians and injuring more than a dozen others.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "French fridge fright: Why supermarkets have become target for hackers",
-      "beschrijving": "More than 500 shops across France were hit in a major cyberattack on freezers, which caused tonnes of food to perish.",
-      "url": "https://www.aljazeera.com/economy/2026/10/13/french-fridge-fright-why-supermarkets-have-become-target-for-hackers?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
-      "beschrijving": "LGBTQ and human rights activists warmly welcomed the move, but call for changes to other Orbán-era laws.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "India 'cockroach' leaders detained after entering barricaded protest site",
-      "beschrijving": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
+      "titel": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "beschrijving": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Opnieuw droneaanval op schepen voor Bulgaarse kust, elf bemanningsleden vermist",
-    "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-    "China legt sancties op aan Paraguay en Belize om steun aan Taiwan",
-    "Nederlander op Britse sanctielijst om leveringen aan Russische metaalbedrijven",
-    "Podcast De Dag: de 'peptalk' van de hoogste NAVO-militair",
+    "Explosieven in huis van man die aanslag op Poolse premier zou hebben willen plegen",
+    "'Iran voert aanvallen op schepen in Straat van Hormuz weer op'",
+    "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+    "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+    "Trump says Houthis trying to increase oil prices before US elections",
     "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-    "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-    "Zelensky: Rusland houdt zich al dagen niet aan 'energiebestand' Trump",
-    "Op afstand bestuurbare robot randt 16-jarig meisje aan in Keulen",
-    "Paus in ziekenhuis voor operatie aan longknobbel"
+    "40 jaar cel voor voormalig bendelid dat achter moord op Tupac Shakur zat",
+    "Longkanker ontdekt bij paus Leo, kwaadaardige knobbel verwijderd",
+    "Kapingsmelding vanuit cockpit van vliegtuig naar Duitsland blijkt vals alarm",
+    "Britse veiligheidsdienst ziet Rusland, Iran en AI als grootste bedreigingen"
   ]
 }
