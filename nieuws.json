@@ -1,56 +1,101 @@
 {
-  "bijgewerkt": "14 Oct 2026 06:01 UTC",
+  "bijgewerkt": "14 Oct 2026 12:44 UTC",
   "artikelen": [
     {
-      "titel": "Proces Nord Stream-aanslag van start: 6 vragen over ‘sabotage van de eeuw’",
-      "beschrijving": "In Hamburg begint vandaag het strafproces tegen de Oekraïner Serhii K. Hij staat terecht voor het opblazen van de Nord Stream-pijpleidingen tussen Rusland en Duitsland in 2022. K. zou de sabotage van het meest omstreden energieproject van Europa hebben gecoördineerd, in opdracht van Oekraïne. Vanwege de schaal en de impact wordt wel gesproken van \"de sabotage van de eeuw\". Over de achtergronden is",
-      "url": "https://nos.nl/l/2634888",
-      "datum": "1 uur geleden",
+      "titel": "Zelensky: ruim 600.000 Oekraïners zonder stroom na nieuwe Russische aanvallen",
+      "beschrijving": "Door grootschalige Russische aanvallen op Oekraïense energie-infrastructuur zitten meer dan 600.000 Oekraïners zonder stroom. Dat zegt president Zelensky op X. Bij de aanvallen op Kyiv en Charkiv heeft Rusland ballistische raketten gebruikt. Volgens Zelensky vuurde Rusland vannacht in totaal 39 ballistische raketten en 120 drones af. In Kyiv werd een appartementencomplex geraakt. Daarbij kwamen dr",
+      "url": "https://nos.nl/l/2634905",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Wekdienst 14/10: Busstakingen door hele land • Proces Nord Stream-aanslag van start",
-      "beschrijving": "Goedemorgen! Busreizigers opgelet: door het hele land rijden er vandaag minder bussen door stakingen. En in Duitsland gaat vandaag het proces rondom de Nord Stream-aanslag in 2022 van start. Eerst het weer: het is droog en vooral vanochtend is de zon regelmatig te zien. Van tijd tot tijd trekken sluierwolken over. Vanmiddag komen ook stapelwolken voor. Bij een zwakke tot matige zuidwestenwind word",
-      "url": "https://nos.nl/l/2634886",
+      "titel": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+      "beschrijving": "Saudi civil defence authority says danger passed after it issued alerts via its national early warning platform.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Explosieven in huis van man die aanslag op Poolse premier zou hebben willen plegen",
-      "beschrijving": "De man die wordt verdacht van het voorbereiden van een aanslag op de Poolse premier Tusk en de minister van Defensie Kosiniak-Kamysz had zelfgemaakte explosieven in huis. Dat heeft het Poolse Openbaar Ministerie bekendgemaakt. De 66-jarige Krzysztof N. werd zondag aangehouden nadat Poolse veiligheidsdiensten alarm hadden geslagen. De Poolse autoriteiten noemden de dreiging \"uiterst serieus\". Het O",
-      "url": "https://nos.nl/l/2634866",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-      "beschrijving": "Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
-      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "beschrijving": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "titel": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+      "beschrijving": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "regio": "Iran",
       "urgentie": "hoog",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "In presidentsrace Brazilië lijkt Bolsonaro op sociale media overal en Lula nergens",
+      "beschrijving": "Over ruim tien dagen gaat Brazilië opnieuw naar de stembus voor de tweede en beslissende ronde tussen de linkse president Lula da Silva en zijn radicaal-rechtse tegenstander Flavio Bolsonaro. In aanloop naar die spannende race merkte het campagneteam van Lula's Arbeiderspartij (PT) dat op Instagram berichten die vanuit Lula's officiële profiel zijn geplaatst niet goed zichtbaar zijn. Pagina's van ",
+      "url": "https://nos.nl/l/2634941",
+      "datum": "16 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vier doden bij schietpartij tijdens herdenking in Zuid-Afrika",
+      "beschrijving": "Bij de herdenking van een overleden lokale politicus in de Zuid-Afrikaanse stad Johannesburg heeft een man gisteravond het vuur geopend. Vier mensen kwamen om het leven, onder wie ten minste één kind. Drie andere aanwezigen raakten gewond. De verdachte heeft zichzelf aangegeven, en zit nu vast. Lokale media zeggen dat meerdere slachtoffers lid zijn van de jongerenafdeling van de ANC-partij. Die is",
+      "url": "https://nos.nl/l/2634937",
+      "datum": "41 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "100 jaar Winnie de Poeh: 'Zonder de Eerste Wereldoorlog was hij er niet geweest'",
+      "beschrijving": "Op avontuur in het Honderd Bunderbos en altijd op zoek naar honing. Dat kan er maar één zijn: de wereldberoemde beer Winnie de Poeh. Honderd jaar geleden verscheen het eerste boek over hem, later gevolgd door vele tekenfilms van Disney. De verhalenbundel van de Britse schrijver Alan Alexander Milne verscheen op 14 oktober 1926. Milne was al een succesvol auteur, maar schreef tot dan toe vooral ton",
+      "url": "https://nos.nl/l/2634936",
+      "datum": "45 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Slachtoffers Vietnamoorlog opnieuw begraven na poging hen te identificeren",
+      "beschrijving": "Honderden slachtoffers van de Vietnamoorlog zijn in Ho Chi Minhstad herdacht en opnieuw begraven. Vermoedelijk werden zij gedood tijdens het Tet-offensief in 1968. De lichamen werden de afgelopen maanden opgegraven uit massagraven in de stad met als doel hen alsnog te identificeren. Bij het merendeel is dat nog niet gelukt. De ruim 700 slachtoffers zijn bijgezet op een begraafplaats. Duizenden men",
+      "url": "https://nos.nl/l/2634917",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Brit die in tijgerverblijf werd doodgebeten had mentale problemen, zegt familie",
+      "beschrijving": "De man die zaterdag in een Engelse dierentuin werd doodgebeten in het tijgerverblijf, kampte al jaren met mentale problemen. Zijn familie heeft dat bekendgemaakt in een verklaring, geciteerd door Britse media. De 23-jarige William Chapman betrad zaterdagmiddag het tijgerverblijf in de dierentuin bij Doncaster en overleefde dat niet. De nabestaanden van Chapman schrijven dat hij een \"slimme, warme ",
+      "url": "https://nos.nl/l/2634915",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Lichaam 'vergeten' Fransman ligt 14 jaar in mortuarium in Toulouse",
+      "beschrijving": "In het universitair ziekenhuis van Toulouse is een lichaam gevonden dat al zo'n veertien jaar in het mortuarium lag. Dat ontdekte de regionale krant La Dépêche. De man overleed in 2012 in zijn huis in het dorp Castelnau-d'Auzan. Hij was 58 jaar. \"We kregen op 1 oktober een telefoontje\", zegt de burgemeester van Castelnau-d'Auzan tegen La Dépêche. \"Ik dacht dat het een grap was.\" Na de autopsie in ",
+      "url": "https://nos.nl/l/2634900",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Boot kapseist in India: dertien kinderen omgekomen",
+      "beschrijving": "Bij een ongeluk met een boot in India zijn dertien kinderen om het leven gekomen. De boot kapseisde op de rivier de Ganges. Volgens The Times Of India waren de kinderen onderweg naar een feest. De reddingsoperatie is nog altijd in volle gang. De krant schrijft dat drie of vier mensen nog vermist zijn. Zeven andere opvarenden zijn inmiddels gered en zijn naar het ziekenhuis gebracht. Hoe het mis ko",
+      "url": "https://nos.nl/l/2634896",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Costa Rica opent megagevangenis, 'juist voedingsbodem voor drugskartels'",
       "beschrijving": "Een nieuwe megagevangenis in Costa Rica moet de georganiseerde misdaad daar gaan indammen. Het Midden-Amerikaanse land krijgt zo'n 40 procent meer detentieplekken. Costa Rica, dat lang bekendstond als het veiligste land in de regio, kampt de laatste jaren met toenemend geweld door rivaliserende drugsbendes. Vandaag opent het Center for High Containment of Organized Crime (CACCO) - zoals de gevange",
       "url": "https://nos.nl/l/2634895",
-      "datum": "1 min geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,139 +104,94 @@
       "titel": "Costa Rica opent in navolging van El Salvador strenge megagevangenis",
       "beschrijving": "De Costa Ricaanse president Fernández opent vandaag een nieuwe megagevangenis in haar land. In de gevangenis in Alajuela, op een half uur rijden van hoofdstad San José, is plek voor ruim 5000 gedetineerden. De opening van de gevangenis is een nieuwe stap in de strijd die de regering van het Midden-Amerikaanse land voert tegen de georganiseerde misdaad. Bij de bouw van de gevangenis is zeer nadrukk",
       "url": "https://nos.nl/l/2634892",
-      "datum": "53 min geleden",
+      "datum": "7 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Opname-apparaatje ontdekt in vergaderzaal OpenAI, medewerker opgepakt",
-      "beschrijving": "AI-ontwikkelaar OpenAI heeft opname-apparatuur ontdekt in een van de eigen kantoren. Het Amerikaanse bedrijf spreekt van een \"geavanceerd opname-apparaat\". Het was geplaatst in een vergaderzaal in San Francisco waar vaak bedrijfsgevoelige informatie wordt besproken. OpenAI deed de ontdekking eind september. Het apparaatje was gewikkeld in wc-papier en zat in de usb-poort van een televisie. Daar za",
-      "url": "https://nos.nl/l/2634884",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Marsrover Perseverance vestigt afstandsrecord (maar snel gaat het niet)",
-      "beschrijving": "De Marsrover Perseverance van ruimtevaartorganisatie NASA heeft vijf jaar na aankomst op Mars een record gevestigd. Nog nooit reed een door mensen gemaakt voertuig zo ver op een andere planeet dan de aarde: 45,22 kilometer. Perseverance (doorzettingsvermogen) heeft daarmee het oude record van de Marsrover Opportunity verbroken. Dat karretje legde 45,16 kilometer af tussen 2014 en 2018. De gemiddel",
-      "url": "https://nos.nl/l/2634882",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Spaans koningspaar bezoekt Ceuta 2,5 maand na stormloop, 'was hard nodig'",
-      "beschrijving": "Koning Felipe van Spanje en zijn vrouw Letizia hebben de Spaanse exclave Ceuta bezocht. Dat deden ze 2,5 maand nadat Ceuta onder de voet was gelopen door tienduizenden mensen die vanuit Marokko illegaal de grens waren overgestoken. Het leidde tot veel boosheid bij de inwoners van Ceuta, die zich in de steek gelaten voelden door de rest van Spanje. Het was de eerste keer sinds zijn aantreden in 201",
-      "url": "https://nos.nl/l/2634881",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Ambassadeur VS weg uit Griekenland na beschuldigingen van corruptie",
-      "beschrijving": "De Amerikaanse ambassadeur voor Griekenland, Kimberly Guilfoyle, is vandaag afgetreden. President Trump liet eerder deze week weten dat hij om haar ontslag had gevraagd na beschuldigingen van corruptie. Guilfoyle, voorheen presentator bij Fox News, lag onder vuur na berichten dat ze een geldschieter van Trump had gevraagd om 100.000 dollar over te maken zodat ze haar persoonlijke creditcardschulde",
-      "url": "https://nos.nl/l/2634874",
-      "datum": "8 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "40 jaar cel voor voormalig bendelid dat achter moord op Tupac Shakur zat",
-      "beschrijving": "De 63-jarige Duane Davis moet zeker 40 jaar de cel in voor de moord op de Amerikaanse hiphoplegende Tupac Shakur. Dat heeft een rechter in Las Vegas bepaald. Duane 'Keffe D' Davis werd in augustus al door een jury schuldig bevonden aan moord met voorbedachten rade met een dodelijk wapen. Volgens de jury is bewezen dat Davis de moord op de rapper in 1996 had beraamd. Hij had voor het vuurwapen gezo",
-      "url": "https://nos.nl/l/2634871",
-      "datum": "9 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Man City deserve to keep trophies despite charges, says PSG’s Luis Enrique",
-      "beschrijving": "Enrique, a friend of former Man City boss Guardiola, hopes the club can avoid the sanction of losing its titles.",
-      "url": "https://www.aljazeera.com/sports/2026/10/14/man-city-deserve-to-keep-trophies-despite-charges-says-psgs-luis-enrique?traffic_source=rss",
-      "datum": "21 min geleden",
-      "regio": "Wereld",
+      "titel": "Do any of these Israeli candidates support a Palestinian state?",
+      "beschrijving": "Do any of these Israeli candidates support a Palestinian state?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Ukrainian drones strike more than 100km into Russian territory",
-      "beschrijving": "Ukrainian drones struck the Saratov region. The regional governor reported one person was killed.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
-      "datum": "53 min geleden",
+      "titel": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
+      "beschrijving": "Settlers also attacked a boy in a separate incident in the town of Beita, south of Nablus.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
+      "beschrijving": "Israeli plans to reopen Route 463 for settlers threaten to isolate Palestinian villages and fragment Ramallah.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
+      "beschrijving": "Japanese journalist Imai Yuki arrested on Sakhalin for allegedly spying on Russian defence capabilities, says the FSB.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "China and North Korea to open New Yalu River Bridge, state media reports",
-      "beschrijving": "The long-delayed bridge will formally open on Thursday, according to China&#039;s state-run Xinhua news agency.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "UN official says ‘window of opportunity’ for peace in DR Congo",
-      "beschrijving": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israel returns 22 stolen ancient artefacts to Greece",
-      "beschrijving": "The cultural exchange comes amid strengthening ties between the two countries.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
+      "titel": "Israeli air strike kills Palestinian woman in Gaza City",
+      "beschrijving": "The woman&#039;s young daughter was rescued from a large fire inside the apartment, caused by the attack.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
-      "beschrijving": "The trial is expected to run into February and could test Germany&#039;s political stance on Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "beschrijving": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "titel": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "beschrijving": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "beschrijving": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
+      "titel": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "beschrijving": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "beschrijving": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "datum": "17 min geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Proces Nord Stream-aanslag van start: 6 vragen over ‘sabotage van de eeuw’",
-    "Wekdienst 14/10: Busstakingen door hele land • Proces Nord Stream-aanslag van start",
-    "Explosieven in huis van man die aanslag op Poolse premier zou hebben willen plegen",
-    "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-    "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-    "Costa Rica opent megagevangenis, 'juist voedingsbodem voor drugskartels'",
-    "Costa Rica opent in navolging van El Salvador strenge megagevangenis",
-    "Opname-apparaatje ontdekt in vergaderzaal OpenAI, medewerker opgepakt",
-    "Marsrover Perseverance vestigt afstandsrecord (maar snel gaat het niet)",
-    "Spaans koningspaar bezoekt Ceuta 2,5 maand na stormloop, 'was hard nodig'"
+    "Zelensky: ruim 600.000 Oekraïners zonder stroom na nieuwe Russische aanvallen",
+    "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+    "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+    "In presidentsrace Brazilië lijkt Bolsonaro op sociale media overal en Lula nergens",
+    "Vier doden bij schietpartij tijdens herdenking in Zuid-Afrika",
+    "100 jaar Winnie de Poeh: 'Zonder de Eerste Wereldoorlog was hij er niet geweest'",
+    "Slachtoffers Vietnamoorlog opnieuw begraven na poging hen te identificeren",
+    "Brit die in tijgerverblijf werd doodgebeten had mentale problemen, zegt familie",
+    "Lichaam 'vergeten' Fransman ligt 14 jaar in mortuarium in Toulouse",
+    "Boot kapseist in India: dertien kinderen omgekomen"
   ]
 }
