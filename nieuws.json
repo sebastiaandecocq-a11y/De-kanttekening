@@ -1,29 +1,101 @@
 {
-  "bijgewerkt": "14 Oct 2026 17:51 UTC",
+  "bijgewerkt": "14 Oct 2026 21:25 UTC",
   "artikelen": [
     {
-      "titel": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
-      "beschrijving": "The Six Kings Slam exhibition tournament has been pushed from October to December by Saudi organisers.",
-      "url": "https://www.aljazeera.com/sports/2026/10/14/saudi-tennis-slam-with-alcaraz-djokovic-postponed-amid-houthi-attacks?traffic_source=rss",
-      "datum": "39 min geleden",
-      "regio": "Wereld",
+      "titel": "Israeli quadcopter drone drops bomb in Lebanon",
+      "beschrijving": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
+      "datum": "37 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-      "beschrijving": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
-      "datum": "46 min geleden",
+      "titel": "Families of Trinidadian men killed in US boat strike demand accountability",
+      "beschrijving": "The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
+      "datum": "42 min geleden",
       "regio": "VS",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "Houthi attacks disrupt travel plans for Mecca pilgrims",
+      "beschrijving": "Muslim pilgrims headed to Mecca for Umrah are facing travel disruptions as Houthi attacks hit Saudi Arabia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-attacks-disrupt-travel-plans-for-mecca-pilgrims?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Russia attack hits Kyiv after reported intelligence lapse",
+      "beschrijving": "Russia attack hits Kyiv after reported intelligence lapse",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Student protesters attack government buildings in Tirana",
+      "beschrijving": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "datum": "56 min geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Gevangene (34) bevrijd door gemaskerde mannen tijdens doktersbezoek in Essen",
+      "beschrijving": "In de Duitse stad Essen is een gevangene ontsnapt tijdens een doktersbezoek. De 34-jarige Duitse gevangene werd bevrijd door twee gemaskerde mannen die twee gevangenisbewaarders overmeesterden. Rond 12.45 uur werden de twee bewakers in de gang van het gebouw aangevallen en vastgebonden. Volgens het Duitse persbureau DPA trok een van de bewakers daarbij zijn dienstwapen, maar werd dat uit zijn hand",
+      "url": "https://nos.nl/l/2635009",
+      "datum": "39 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Opnieuw Poolse rechter beëdigd zonder aanwezigheid president, protesten bij hof",
+      "beschrijving": "Het politieke conflict over de onafhankelijkheid van de Poolse rechtspraak is met de benoeming van Maciej Berek tot rechter van het Constitutioneel Hof hoger opgelopen. Berek legde vanochtend de eed af zonder dat president Nawrocki daarbij aanwezig was. De benoeming leidde tot protesten voor het hof in hoofdstad Warschau. De beëdiging van Berek is onderdeel van een jarenlange politieke strijd over",
+      "url": "https://nos.nl/l/2635007",
+      "datum": "43 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Twee schepen gezonken in Straat van Hormuz in de afgelopen 24 uur",
+      "beschrijving": "Een containerschip en een bulkschip zijn het afgelopen etmaal gezonken nadat ze in of bij de Straat van Hormuz door projectielen waren geraakt, zeggen maritieme diensten. Het is niet bekend of de schepen zijn geraakt door projectielen van Iran. Dat land heeft het aantal aanvallen in de zeestraat deze maand opgevoerd. Het kleine containerschip GFS Pride dat onder Singaporese vlag voer, zonk toen he",
+      "url": "https://nos.nl/l/2635002",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zelensky wijst naar VS na wegvallen inlichtingen en problemen met Starlink",
+      "beschrijving": "De Oekraïense president Zelensky heeft zijn teleurstelling uitgesproken over het feit dat het Oekraïense leger problemen heeft met satelliet-internetvoorziening Starlink en het verkrijgen van inlichtingen over acties van het Russische leger. Hij zinspeelt erop dat de Amerikaanse regering daarachter zit. \"Het is spijtig dat we problemen hebben met Starlink en met inlichtingen\", zei Zelensky bij een",
+      "url": "https://nos.nl/l/2634995",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Meer Russen vluchten naar Armenië: 'Ieder loopt gevaar zomaar te worden opgepakt'",
+      "beschrijving": "In het centrum van Jerevan kun je je soms even in Rusland wanen. In de hoofdstad van Armenië wordt Russisch alom gesproken en hier en daar hangen zelfs Russische uithangborden. Dat is geen wonder, want Armenië is niet alleen een geliefde bestemming voor Russische toeristen, maar vooral ook voor mensen die Rusland ontvluchten uit angst voor repressie of mobilisatie. Zoals Andrej, een 19-jarige IT'e",
+      "url": "https://nos.nl/l/2634992",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Scheepswrak uit vroege bronstijd gevonden voor Turkse kust",
       "beschrijving": "Voor de Turkse kust zijn de resten van een ongeveer 4500 jaar oud schip gevonden. Van het hout is niets meer over, maar meer dan dertig aardewerken potten en amfora's (een soort kruiken) die aan boord waren, zijn goed bewaard gebleven. Bij sommige is waarschijnlijk nog na te gaan wat erin zat. De vondst bij het eiland Kekova wordt beschouwd als het oudst gevonden scheepswrak ter wereld. \"Dit wrak ",
       "url": "https://nos.nl/l/2634987",
-      "datum": "17 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -32,7 +104,7 @@
       "titel": "Leiders Indiase Kakkerlakken-beweging veroordeeld tot vijf dagen celstraf",
       "beschrijving": "Twee leiders van de Indiase Kakkerlakken-beweging zijn veroordeeld tot een celstraf van vijf dagen. Het gaat om Ashutosh Ranka en Saurav Das, die behoren tot een groep mensen die gisteren bij een protest werden gearresteerd nadat ze over barricades waren geklommen. Dat deden ze bij de protestlocatie Jantar Mantar in het centrum van New Delhi. Doordat ze over de barricades klommen, begaven ze zich ",
       "url": "https://nos.nl/l/2634973",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +113,7 @@
       "titel": "Paus Leo herstelt goed na kankeroperatie, kan weer eten",
       "beschrijving": "Het herstel van paus Leo XIV na zijn operatie verloopt goed, meldt het Vaticaan. Leo heeft gelopen in zijn ziekenhuiskamer en eet weer normaal. Ook doet hij ademhalingsoefeningen. \"Vanochtend heeft de Heilige Vader bloedonderzoeken en een röntgenfoto van zijn borstkas ondergaan die na de operatie gepland stonden. De resultaten bevestigen dat het herstel na zijn operatie normaal verloopt\", meldt he",
       "url": "https://nos.nl/l/2634970",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +122,7 @@
       "titel": "Familie Ivana Smit krijgt geen schadevergoeding, ook geen nieuw onderzoek in Maleisië",
       "beschrijving": "De autoriteiten van Maleisië hoeven toch geen schadevergoeding te betalen aan de ouders van de in 2017 omgekomen Ivana Smit. Vorig jaar oordeelde een rechtbank dat er grote fouten zijn gemaakt in het onderzoek naar de dood van het 18-jarige Nederlandse model. Dat vonnis is nu in hoger beroep teruggedraaid. Het nieuws is hard aangekomen bij de nabestaanden van Smit. \"Er zijn ernstige tekortkomingen",
       "url": "https://nos.nl/l/2634954",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,97 +131,16 @@
       "titel": "Arrestaties en inval bij Turkse oppositiezender Halk TV: 'Zwarte dag voor Turkije'",
       "beschrijving": "De Turkse autoriteiten hebben vanochtend een inval gedaan bij het hoofdkantoor van oppositiezender Halk TV in Istanbul. Dit is vooral bij de oppositie een populaire zender. Critici zeggen dan ook dat de inval politiek gemotiveerd is. Volgens de zender vielen honderden politieagenten rond 06.30 uur lokale tijd het gebouw binnen. Op sociale media circuleren beelden waarop medewerkers de agenten film",
       "url": "https://nos.nl/l/2634951",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "In presidentsrace Brazilië lijkt Bolsonaro op sociale media overal en Lula nergens",
-      "beschrijving": "Over ruim tien dagen gaat Brazilië opnieuw naar de stembus voor de tweede en beslissende ronde tussen de linkse president Lula da Silva en zijn radicaal-rechtse tegenstander Flavio Bolsonaro. In aanloop naar die spannende race merkte het campagneteam van Lula's Arbeiderspartij (PT) dat op Instagram berichten die vanuit Lula's officiële profiel zijn geplaatst niet goed zichtbaar zijn. Pagina's van ",
-      "url": "https://nos.nl/l/2634941",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vier doden bij schietpartij tijdens herdenking in Zuid-Afrika",
-      "beschrijving": "Bij de herdenking van een overleden lokale politicus in de Zuid-Afrikaanse stad Johannesburg heeft een man gisteravond het vuur geopend. Vier mensen kwamen om het leven, onder wie ten minste één kind. Drie andere aanwezigen raakten gewond. De verdachte heeft zichzelf aangegeven, en zit nu vast. Lokale media zeggen dat meerdere slachtoffers lid zijn van de jongerenafdeling van de ANC-partij. Die is",
-      "url": "https://nos.nl/l/2634937",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "100 jaar Winnie de Poeh: 'Zonder de Eerste Wereldoorlog was hij er niet geweest'",
-      "beschrijving": "Op avontuur in het Honderd Bunderbos en altijd op zoek naar honing. Dat kan er maar één zijn: de wereldberoemde beer Winnie de Poeh. Honderd jaar geleden verscheen het eerste boek over hem, later gevolgd door vele tekenfilms van Disney. De verhalenbundel van de Britse schrijver Alan Alexander Milne verscheen op 14 oktober 1926. Milne was al een succesvol auteur, maar schreef tot dan toe vooral ton",
-      "url": "https://nos.nl/l/2634936",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Slachtoffers Vietnamoorlog opnieuw begraven na poging hen te identificeren",
-      "beschrijving": "Honderden slachtoffers van de Vietnamoorlog zijn in Ho Chi Minhstad herdacht en opnieuw begraven. Vermoedelijk werden zij gedood tijdens het Tet-offensief in 1968. De lichamen werden de afgelopen maanden opgegraven uit massagraven in de stad met als doel hen alsnog te identificeren. Bij het merendeel is dat nog niet gelukt. De ruim 700 slachtoffers zijn bijgezet op een begraafplaats. Duizenden men",
-      "url": "https://nos.nl/l/2634917",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Brit die in tijgerverblijf werd doodgebeten had mentale problemen, zegt familie",
-      "beschrijving": "De man die zaterdag in een Engelse dierentuin werd doodgebeten in het tijgerverblijf, kampte al jaren met mentale problemen. Zijn familie heeft dat bekendgemaakt in een verklaring, geciteerd door Britse media. De 23-jarige William Chapman betrad zaterdagmiddag het tijgerverblijf in de dierentuin bij Doncaster en overleefde dat niet. De nabestaanden van Chapman schrijven dat hij een \"slimme, warme ",
-      "url": "https://nos.nl/l/2634915",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Ex-UK army chef jailed for ‘terror’-related offence",
-      "beschrijving": "The former British Army member harboured &#039;extreme right-wing&#039; views and was ordering explosives components, say police.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
-      "datum": "19 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Palestinian collective uses art to connect Gaza and the West Bank",
-      "beschrijving": "A Palestinian exhibition opening simultaneously in Bethlehem and Gaza is challenging Israeli restrictions.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
-      "datum": "40 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals",
-      "beschrijving": "Officials say ability to block Russian drones restricted as Kyiv reels from second night of ballistic missile attacks.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss",
-      "datum": "48 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Suspected Israeli online operations cause alarm in Iran and Lebanon",
-      "beschrijving": "Suspected online espionage triggers intense security crackdowns and counter-intelligence measures in Iran and Lebanon.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/suspected-israeli-online-operations-cause-alarm-in-iran-and-lebanon?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "beschrijving": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "titel": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "beschrijving": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "datum": "29 min geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -158,7 +149,7 @@
       "titel": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
       "beschrijving": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
       "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,22 +158,22 @@
       "titel": "Hundreds of thousands of workers on strike across Republic of Ireland",
       "beschrijving": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
       "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
-    "Settlers attack Palestinian mosque near occupied East Jerusalem",
-    "Scheepswrak uit vroege bronstijd gevonden voor Turkse kust",
-    "Leiders Indiase Kakkerlakken-beweging veroordeeld tot vijf dagen celstraf",
-    "Paus Leo herstelt goed na kankeroperatie, kan weer eten",
-    "Familie Ivana Smit krijgt geen schadevergoeding, ook geen nieuw onderzoek in Maleisië",
-    "Arrestaties en inval bij Turkse oppositiezender Halk TV: 'Zwarte dag voor Turkije'",
-    "In presidentsrace Brazilië lijkt Bolsonaro op sociale media overal en Lula nergens",
-    "Vier doden bij schietpartij tijdens herdenking in Zuid-Afrika",
-    "100 jaar Winnie de Poeh: 'Zonder de Eerste Wereldoorlog was hij er niet geweest'"
+    "Israeli quadcopter drone drops bomb in Lebanon",
+    "Families of Trinidadian men killed in US boat strike demand accountability",
+    "Houthi attacks disrupt travel plans for Mecca pilgrims",
+    "Russia attack hits Kyiv after reported intelligence lapse",
+    "Student protesters attack government buildings in Tirana",
+    "Gevangene (34) bevrijd door gemaskerde mannen tijdens doktersbezoek in Essen",
+    "Opnieuw Poolse rechter beëdigd zonder aanwezigheid president, protesten bij hof",
+    "Twee schepen gezonken in Straat van Hormuz in de afgelopen 24 uur",
+    "Zelensky wijst naar VS na wegvallen inlichtingen en problemen met Starlink",
+    "Meer Russen vluchten naar Armenië: 'Ieder loopt gevaar zomaar te worden opgepakt'"
   ]
 }
