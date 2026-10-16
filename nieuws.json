@@ -1,29 +1,56 @@
 {
-  "bijgewerkt": "16 Oct 2026 08:52 UTC",
+  "bijgewerkt": "16 Oct 2026 13:49 UTC",
   "artikelen": [
     {
-      "titel": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
-      "beschrijving": "The review called for Norway&#039;s sovereign wealth fund to lift ethical risk limitations on its investments.",
-      "url": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
-      "datum": "16 min geleden",
+      "titel": "Gewonden bij aanval op olijfboomgaard Westelijke Jordaanoever",
+      "beschrijving": "In het dorp Abu Falah op de bezette Westelijke Jordaanoever hebben tientallen Israëlische kolonisten Palestijnen op een olijfbomengaard aangevallen. Onder meer een journalist die verslag kwam doen van de olijfoogst raakte gewond. De aanval vond plaats tijdens de jaarlijkse oogst van olijfbomen door dorpelingen. Zo'n tachtig Israëlische kolonisten gingen erheen, van wie sommige met jerrycans met br",
+      "url": "https://nos.nl/l/2635228",
+      "datum": "39 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Aanvallen op Russische datacenters legden trollenlegers niet stil",
+      "beschrijving": "Afgelopen week leek het even alsof Russische trollenlegers tot stilte waren gebracht. Oekraïense drones hadden meermaals datacentra getroffen van Yandex, een groot Russisch technologiebedrijf. President Zelensky beweerde maandag dat er op sociale media \"minder haat, minder verdeeldheid en minder provocaties\" te zien was. Op sociale media ging een grafiek van cloudbedrijf Cloudflare viraal. Daarin ",
+      "url": "https://nos.nl/l/2635201",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Grote delen van Kyiv zonder stroom na Russische drone-aanvallen, twee doden in Charkiv",
+      "beschrijving": "Oekraïne heeft afgelopen nacht wederom op meerdere plaatsen in het land te maken gehad met grootschalige Russische luchtaanvallen. Grote delen van Kyiv kwamen hierdoor zonder elektra te zitten en in het noordwesten van het land viel bij zo'n 370.000 mensen de stroom uit. Daarnaast werden door Russische drones twee mensen gedood in Charkiv, in het noordoosten van het land. Bij Oekraïense luchtaanva",
+      "url": "https://nos.nl/l/2635200",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+      "beschrijving": "Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
+      "datum": "23 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-      "beschrijving": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "titel": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "beschrijving": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "beschrijving": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "titel": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "beschrijving": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "datum": "22 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,17 +59,8 @@
       "titel": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
       "beschrijving": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
       "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "datum": "15 uur geleden",
+      "datum": "20 uur geleden",
       "regio": "VS",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "beschrijving": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-      "datum": "17 uur geleden",
-      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
@@ -50,52 +68,61 @@
       "titel": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
       "beschrijving": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
       "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "beschrijving": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
+      "titel": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "beschrijving": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Wekdienst 16/10: Kabinet maakt infrastructuurprojecten bekend • Tweede dag EU-top",
-      "beschrijving": "Goedemorgen! Vandaag laat het kabinet weten welke infrastructuurprojecten de komende jaren geld krijgen en welke niet. En in Brussel gaat de EU-top de tweede dag in. Daar wordt onder meer gepraat over steun aan Oekraïne. Eerst het weer: vanochtend is het droog met wolkenvelden en wat zon. Vanmiddag raakt het vanuit het westen bewolkt en gaat het af en toe regenen. Het wordt 18 tot 20 graden bij ee",
-      "url": "https://nos.nl/l/2635157",
-      "datum": "4 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
+      "titel": "Neanderthaler Shanidar A werd 75.000 jaar geleden verzorgd én vermoord",
+      "beschrijving": "Wetenschappers zijn gestuit op een van de oudste moordzaken in de geschiedenis van de mensachtigen. Onderzoek wijst uit dat de neanderthaler Shanidar A in de steentijd waarschijnlijk is gedood met een speer. Tegelijkertijd hebben de onderzoekers aanwijzingen gevonden dat het slachtoffer eerst jarenlang zorg heeft gehad van anderen. De mannelijke neanderthaler werd zo'n 75.000 jaar geleden begraven",
+      "url": "https://nos.nl/l/2635234",
+      "datum": "21 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "How Israel’s elections will affect Palestinians",
-      "beschrijving": "How Israel votes this month will shape the future of over 5.5 million Palestinians who have no say in the election.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "titel": "Geldschieters Trumps balzaal bekend: techgiganten en VS-ambassadeur in Nederland",
+      "beschrijving": "De Amerikaanse ambassadeur in Nederland, Joe Popolo, betaalt mee aan de bouw van de balzaal bij het Witte Huis. Ook techbedrijven als Nvidia en Apple hebben de portemonnee getrokken, schrijft de krant The Washington Post, die een overzicht in handen met daarop de belangrijkste geldschieters van het project heeft. Volgens de krant roept de gelekte donateurslijst vragen op over belangenverstrengelin",
+      "url": "https://nos.nl/l/2635191",
+      "datum": "4 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
-      "titel": "US sanctions leave Iranians facing flight cancellations and soaring costs",
-      "beschrijving": "New US aviation sanctions force Iranians to take longer, costlier journeys as international flight routes disappear.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "titel": "Nieuwe Witte Huis-woordvoerder geeft toe geen advocaat te zijn",
+      "beschrijving": "Witte Huis-woordvoerder Katie Zacharia zegt in een interview met Fox News inderdaad geen advocaat te zijn. De net aangestelde woordvoerder ligt onder vuur omdat ze haar cv zou hebben opgepoetst door de beschermde titel attorney, advocaat, te gebruiken. De 42-jarige politiek commentator Zacharia werd dit weekend aangesteld als de nieuwe woordvoerder van president Trump. Trump zei dat Zacharia voor ",
+      "url": "https://nos.nl/l/2635185",
+      "datum": "4 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Luchtverkeer Italië verstoord door storing, ook op Schiphol vertraagde vluchten",
+      "beschrijving": "Door een technische storing bij de luchtverkeersleiding in Italië is het vliegverkeer in het land verstoord. De luchtverkeersleidingsautoriteit ENAV zegt dat het daarom op halve kracht werkt en er minder vluchten gaan en vertragingen zijn. De storing werd vannacht bekend. Sinds vanochtend vroeg zijn er daarom maatregelen genomen zodat het luchtverkeer niet te hevig verstoord zou worden. De vluchte",
+      "url": "https://nos.nl/l/2635184",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Belgische tandarts opgepakt om zedendelicten, zou 71-jarige vrouw in kruis hebben betast",
       "beschrijving": "Een 46-jarige tandarts uit het Belgische Kasterlee wordt beschuldigd van seksueel grensoverschrijdend gedrag. In totaal liggen er aanklachten van zeven patiënten, zeker een van hen zegt dat ze bij haar geslachtsdeel is aangeraakt. Gisteren werd de man gearresteerd bij een huiszoeking. Inmiddels is hij weer op vrije voeten, in afwachting van gerechtelijk onderzoek. Hij is vrijgelaten onder strikte ",
       "url": "https://nos.nl/l/2635182",
-      "datum": "15 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +131,7 @@
       "titel": "Politie Las Vegas identificeert na decennia menselijke resten uit gedumpt vat",
       "beschrijving": "De politie van Las Vegas heeft na vier jaar onderzoek menselijke resten geïdentificeerd die in Lake Mead werden gevonden, gedumpt in een vat. Het gaat om een man die begin jaren 80 moet zijn vermoord. De zaak doet velen denken aan het maffiaverleden van Las Vegas. Watersporters troffen het vat in mei 2022 aan op een drooggevallen stuk van Lake Mead, het enorme stuwmeer achter de Hooverdam. Door aa",
       "url": "https://nos.nl/l/2635175",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,85 +140,58 @@
       "titel": "Helga (99) is nu oudste 'wingwalker', 97-jarige wil revanche: 'Wacht maar tot ik 100 ben'",
       "beschrijving": "Een Britse vrouw van 99 heeft het record voor oudste 'wingwalker' gebroken. Vastgebonden op de vleugel van een dubbeldekker maakte ze in Gloucestershire een vlucht om geld in te zamelen. \"Het is een eigenaardig gevoel. Bang was ik niet, omdat ik er zo'n zin in had\", reageerde Helga Duffy achteraf. \"Het zal de adrenaline zijn geweest, gemixt met iets anders.\" Ze zei tijdens de vlucht aan haar vader",
       "url": "https://nos.nl/l/2635167",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Rechter: Meta moet Braziliaanse presidentskandidaten gelijk behandelen",
-      "beschrijving": "Techgigant Meta moet er in Brazilië per direct voor zorgen dat de twee overgebleven kandidaten voor de presidentsverkiezingen gelijk worden behandeld. Dat heeft een rechter van het Braziliaanse electoraal hof bepaald na een klacht van zittend president Lula, een van de kandidaten. De linkse president neemt het op 25 oktober in de beslissende tweede ronde van de verkiezingen op tegen de radicaal-re",
-      "url": "https://nos.nl/l/2635166",
-      "datum": "3 uur geleden",
+      "titel": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
+      "beschrijving": "Spain sanctioned by FIFA after incidents at Espanyol&#039;s stadium in Barcelona, which staged the friendly with Egypt.",
+      "url": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss",
+      "datum": "36 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Relatie Trump en Zelensky op nieuw dieptepunt, Oekraïners betalen de prijs",
-      "beschrijving": "De relatie tussen de Oekraïense president Volodymyr Zelensky en de Amerikaanse president Donald Trump heeft een nieuw dieptepunt bereikt. Zelensky voelt zich verraden door Trumps dieseldeal met Rusland. Trump stelt dat het tijd wordt voor een nieuwe Oekraïense president. \"Het is het diepste punt sinds die rampzalige ontmoeting in het Witte Huis, anderhalf jaar geleden\", zegt Bob Deen, Oekraïnedesk",
-      "url": "https://nos.nl/l/2635162",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "India call up Bhuvneshwar for West Indies T20 finale with doubt over Singh",
+      "beschrijving": "Bhuvneshwar Kumar added to India squad for fifth and final T20 of series with West Indies, as Arshdeep Singh a doubt.",
+      "url": "https://www.aljazeera.com/sports/2026/10/16/india-call-up-bhuvneshwar-for-west-indies-t20-finale-with-doubt-over-singh?traffic_source=rss",
+      "datum": "39 min geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Gevecht over nieuwe Europese begroting zit muurvast",
-      "beschrijving": "Een akkoord over een nieuwe Europese begroting is nog altijd ver weg. De leiders van de 27 EU-landen deden gisteravond tijdens de Europese top in Brussel een poging om dichter bij elkaar te komen, maar zijn daar vooralsnog niet in geslaagd. \"We staan voor zeer moeilijke onderhandelingen\", zei de Duitse bondkanselier Merz voorafgaand aan de onderhandelingen. Eens in de zeven jaar moeten alle EU-lan",
-      "url": "https://nos.nl/l/2635158",
-      "datum": "4 uur geleden",
+      "titel": "Israeli settlers continue progrom amid olive harvest in occupied West Bank",
+      "beschrijving": "At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
+      "datum": "45 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Pro-Nazi chants before Ajax match slammed by Croatia leaders",
+      "beschrijving": "Croatia&#039;s Hajduk Split hosted Ajax on Thursday, but chants for pre-World War II regime precede UEFA Europa League game.",
+      "url": "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Jongen (16) schiet lerares en drie basisschoolkinderen dood in VS",
-      "beschrijving": "Op een basisschool in de Amerikaanse staat Oregon heeft een jongen van 16 drie kinderen en een lerares doodgeschoten. De dader is door een buurtbewoner die dat zag gebeuren in de school achtervolgd en doodgeschoten, zegt de politie. De slachtoffers zijn jonge kinderen van 5, 8 en 11 jaar oud; de leeftijd van de gedode lerares is niet bekendgemaakt. Twee anderen, een kind van 7 en een schoolmedewer",
-      "url": "https://nos.nl/l/2635153",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Opnieuw protest in Albanië tegen corruptie, duur onderwijs en Trump-resort",
-      "beschrijving": "In Albanië zijn studenten en andere demonstranten voor de derde avond op rij slaags geraakt met de politie. In de hoofdstad Tirana en in andere steden werd met stenen en molotovcocktails gegooid naar de oproerpolitie, die waterkanonnen en traangas inzette. Ook zijn winkels geplunderd en overheidsgebouwen met vuurwerk bekogeld. Tientallen agenten raakten de afgelopen dagen gewond en meer dan honder",
-      "url": "https://nos.nl/l/2635148",
-      "datum": "9 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "BBC: onderzoeken van Israëlische leger blijven vaak op de plank liggen",
-      "beschrijving": "Honderden onderzoeken naar dodelijke aanvallen van het Israëlische leger blijven op de plank liggen, blijkt uit onderzoek van de BBC. Ook wordt er niet of nauwelijks informatie gedeeld over de onderzoeken. Het Israëlische leger zegt al drie jaar dat vermeende oorlogsmisdaden worden \"bekeken, beoordeeld, nagegaan of onderzocht\". Dat is vaak het laatste wat er van dat soort zaken wordt vernomen, ste",
-      "url": "https://nos.nl/l/2635145",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed",
-      "beschrijving": "Asian Cup preparations continue for January, but Asian Tour delays golf&#039;s Saudi Invitational after Houthi attacks.",
-      "url": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
-      "datum": "15 min geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
-    "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+    "Gewonden bij aanval op olijfboomgaard Westelijke Jordaanoever",
+    "Aanvallen op Russische datacenters legden trollenlegers niet stil",
+    "Grote delen van Kyiv zonder stroom na Russische drone-aanvallen, twee doden in Charkiv",
+    "Palestinians, US journalist attacked in West Bank pogrom: What we know",
     "Ship attack reports near Hormuz reach record high as oil exports slow",
-    "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
     "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+    "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
     "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-    "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-    "Wekdienst 16/10: Kabinet maakt infrastructuurprojecten bekend • Tweede dag EU-top",
-    "How Israel’s elections will affect Palestinians",
-    "US sanctions leave Iranians facing flight cancellations and soaring costs"
+    "China tells Israel to stop 'forced establishment' of West Bank settlements",
+    "Neanderthaler Shanidar A werd 75.000 jaar geleden verzorgd én vermoord"
   ]
 }
