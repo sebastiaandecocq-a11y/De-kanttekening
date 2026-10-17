@@ -1,20 +1,56 @@
 {
-  "bijgewerkt": "17 Oct 2026 16:12 UTC",
+  "bijgewerkt": "17 Oct 2026 19:06 UTC",
   "artikelen": [
+    {
+      "titel": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+      "beschrijving": "Attacks hit several areas as UNICEF reports more than 340 children killed since &#039;ceasefire&#039; began a year ago.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+      "datum": "39 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+      "beschrijving": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+      "beschrijving": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
     {
       "titel": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
       "beschrijving": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
       "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Trump faces bipartisan backlash over Russia sanctions waiver",
+      "beschrijving": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "beschrijving": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -23,16 +59,34 @@
       "titel": "Brazil sees record fall in Amazon deforestation as key election looms",
       "beschrijving": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
       "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "VS wil 'war on drugs' uitbreiden naar vasteland Latijns-Amerika",
+      "beschrijving": "De Verenigde Staten mengen zich steeds meer in de anti-drugsoorlog in een aantal Latijns-Amerikaanse landen. Het begon in 2025 met aanvallen op vermeende drugsbootjes op zee. Nu verplaatst de strijd tegen drugs zich naar het vasteland in Latijns-Amerika. Er worden deze dagen honderden militairen gestuurd, in eerste instantie naar Panama, Colombia en Honduras. De Amerikanen houden gezamenlijke oefe",
+      "url": "https://nos.nl/l/2635392",
+      "datum": "35 min geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Franse regering zegt zich niet te laten intimideren door geweld op protestdag",
+      "beschrijving": "De Franse premier Lecornu zegt dat zijn regering \"zich niet laat intimideren\" door het geweld bij de betogingen van vandaag. \"Niemand zal zijn politieke agenda met geweld opleggen\", schrijft de premier op X. President Macron zegt dat er geen plaats is voor geweld in Frankrijk en dat degenen die zich hebben misdragen zullen worden vervolgd en gestraft. Volgens premier Lecornu zijn vreedzame demonst",
+      "url": "https://nos.nl/l/2635391",
+      "datum": "39 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Onrust Albanië houdt aan: betogers vijf dagen op rij slaags met de politie",
       "beschrijving": "Niet alleen in Frankrijk en België is het vandaag onrustig door protesten, ook in Albanië zijn duizenden mensen de straat op gegaan vanwege ontevredenheid over hun regering. Voor de vijfde dag op rij demonstreren Albaniërs, onder leiding van studenten, in de hoofdstad Tirana om premier Rama tot aftreden te dwingen. Het protest van vandaag begon rustig, maar liep volgens persbureau Reuters uit de h",
       "url": "https://nos.nl/l/2635379",
-      "datum": "13 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +95,7 @@
       "titel": "Paus Leo XIV ontslagen uit het ziekenhuis, kan zijn taken volledig hervatten",
       "beschrijving": "Paus Leo heeft het ziekenhuis in Rome verlaten, vier dagen na zijn operatie aan longkanker. De 71-jarige paus liep vanmiddag zonder hulp naar de auto die op hem stond te wachten en stopte even om te praten met mensen die hem buiten het Gemelli-ziekenhuis een hart onder de riem wilden te steken. De paus werd vandaag door zijn artsen ontslagen uit het ziekenhuis. Zij hadden al aangegeven dat hij vol",
       "url": "https://nos.nl/l/2635375",
-      "datum": "37 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +104,7 @@
       "titel": "Trumps schoonzoon Kushner onderhandelt over vrede, maar verdient aan oorlog",
       "beschrijving": "Jared Kushner, de schoonzoon van de Amerikaanse president Donald Trump, is betrokken bij onderhandelingen over vrede in Oekraïne, Gaza en Iran. En dat terwijl hij óók zakelijke belangen heeft in die gebieden. Recent speelde hij een sleutelrol bij de omstreden deal die Trump sloot met de Russische president Poetin over de aankoop van Russische diesel. Onderhandelt Kushner voor vrede of voor zijn ei",
       "url": "https://nos.nl/l/2635363",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +113,7 @@
       "titel": "Alberta naar de stembus: wil de rijkste provincie van Canada onafhankelijk worden?",
       "beschrijving": "De Canadese premier Carney richtte zich gisteren tijdens een pro-Canada-campagnebijeenkomst nog één keer tot de kiezers in de provincie Alberta. Maandag gaan zij naar de stembus om te stemmen over een afscheiding van Canada. Carneys boodschap aan het electoraat was helder: stem tegen afscheiding. \"Dit is geen spelletje. Dit is geen poker. Een stem tegen Canada is gevaarlijke bluf die zal leiden to",
       "url": "https://nos.nl/l/2635360",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +122,7 @@
       "titel": "Zelensky: nog altijd problemen met Starlink-verbinding, snelheid voor drones beperkt",
       "beschrijving": "Het Oekraïense leger ondervindt nog steeds problemen met Starlink, het Amerikaanse satellietnetwerk dat voor Oekraïne essentieel is voor de verdediging van het eigen luchtruim. In gesprek met journalisten zegt president Zelensky dat de snelheid waarmee Oekraïense drones kunnen vliegen nog altijd is gelimiteerd. Volgens hem staat Kyiv hierover in contact met Amerikaanse functionarissen. Die zouden ",
       "url": "https://nos.nl/l/2635355",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,16 +131,16 @@
       "titel": "Snelweg bij Luik uren versperd, man dreigde auto op te blazen",
       "beschrijving": "Bij de Belgische gemeente Sprimont, zo'n 25 kilometer ten zuiden van Luik, is een snelweg urenlang versperd geweest na een ongeluk. Een van de betrokken chauffeurs zei gewapend te zijn en dreigde zijn auto op te blazen. Dat gebeurde op snelweg E25, van Luik in de richting van Luxemburg. Het ongeluk vond plaats tussen de plaatsen Sprimont en Aywaille en werd veroorzaakt door een man die daarna drei",
       "url": "https://nos.nl/l/2635345",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Rellen bij protesten in Frankrijk, politie zet traangas en waterkanon in",
-      "beschrijving": "In verschillende Franse steden zijn protesten tegen de stijgende kosten van het levensonderhoud op rellen uitgelopen. De politie in Parijs heeft traangas en een waterkanon ingezet. Rond 15.00 uur waren in het hele land 272 mensen aangehouden. Na weken van scholierenprotesten zijn vandaag verschillende groepen de straat op gegaan in Frankrijk, zoals de gelehesjesbeweging. De protesten verlopen onru",
+      "beschrijving": "Na weken van scholierenprotesten zijn in Frankrijk vandaag ook andere groepen de straat op gegaan, zoals boeren, taxichauffeurs, verplegend personeel en de gelehesjesbeweging. Zij protesteerden tegen de stijgende kosten van het levensonderhoud. In verschillende Franse steden zijn de protesten uitgelopen op rellen. In Parijs heeft de politie traangas en een waterkanon ingezet. Rond 15.00 uur waren ",
       "url": "https://nos.nl/l/2635331",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,35 +149,26 @@
       "titel": "Gevangene laat kipnuggets, friet en drank per drone afleveren bij Canadese gevangenis",
       "beschrijving": "Een Canadese man heeft kipnuggets en frietjes van McDonald's en alcohol via een drone zijn cel in weten te krijgen. Dat heeft de Canadese vakbond voor gevangenisbewaarders UCCO-SACC-CSN bekendgemaakt, meldt omroep CBC. De drone werd door onbekenden naar het raam van de gevangene gevlogen. De man zit vast in het gevangeniscomplex bij de stad Sainte-Anne-des-Plaines, op papier een van de zwaarst bev",
       "url": "https://nos.nl/l/2635330",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Iran meldt explosie tanker, ook incidenten verderop in Perzische Golf",
-      "beschrijving": "Uit de Perzische Golf komen diverse meldingen van incidenten met vrachtschepen. Iran meldt dat in de Straat van Hormuz een supertanker op een zeemijn is gevaren. Het schip zou meer dan twee miljoen vaten ruwe olie aan boord hebben. Volgens de Islamitische Revolutionaire Garde in Iran probeerde het schip zonder toestemming door de nauwe zee-engte tussen Iran in het noorden en Oman en de Verenigde A",
-      "url": "https://nos.nl/l/2635325",
-      "datum": "7 uur geleden",
-      "regio": "Iran",
+      "titel": "Is the US Embassy in Jerusalem for Israel or America?",
+      "beschrijving": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+      "datum": "24 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Drie Mexicanen krijgen 158 ​​jaar cel voor drievoudige moord op surfers",
-      "beschrijving": "Een Mexicaanse rechter heeft drie mannen tot elk 158 jaar en negen maanden gevangenisstraf veroordeeld voor de moord op twee Australische broers en hun Amerikaanse vriend in april 2024. De drie slachtoffers waren op surfvakantie aan de Mexicaanse westkust toen ze het slachtoffer werden van een roofoverval. Toen ze zich verzetten, werden ze door het hoofd geschoten. De daders zijn door de rechtbank",
-      "url": "https://nos.nl/l/2635321",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-      "beschrijving": "Trudy is the latest in successive storms that have hit Mexico&#039;s Pacific coast this year.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "titel": "Why are Latin American countries building closer ties with Israel?",
+      "beschrijving": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -131,31 +176,22 @@
       "titel": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
       "beschrijving": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
       "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "beschrijving": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+    "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+    "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
     "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+    "Trump faces bipartisan backlash over Russia sanctions waiver",
     "Trump waives several Russia sanctions as row with Zelensky intensifies",
     "Brazil sees record fall in Amazon deforestation as key election looms",
-    "Onrust Albanië houdt aan: betogers vijf dagen op rij slaags met de politie",
-    "Paus Leo XIV ontslagen uit het ziekenhuis, kan zijn taken volledig hervatten",
-    "Trumps schoonzoon Kushner onderhandelt over vrede, maar verdient aan oorlog",
-    "Alberta naar de stembus: wil de rijkste provincie van Canada onafhankelijk worden?",
-    "Zelensky: nog altijd problemen met Starlink-verbinding, snelheid voor drones beperkt",
-    "Snelweg bij Luik uren versperd, man dreigde auto op te blazen",
-    "Rellen bij protesten in Frankrijk, politie zet traangas en waterkanon in"
+    "VS wil 'war on drugs' uitbreiden naar vasteland Latijns-Amerika",
+    "Franse regering zegt zich niet te laten intimideren door geweld op protestdag",
+    "Onrust Albanië houdt aan: betogers vijf dagen op rij slaags met de politie"
   ]
 }
