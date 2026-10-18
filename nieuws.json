@@ -1,11 +1,29 @@
 {
-  "bijgewerkt": "17 Oct 2026 22:03 UTC",
+  "bijgewerkt": "18 Oct 2026 00:44 UTC",
   "artikelen": [
+    {
+      "titel": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+      "beschrijving": "Fires reported on three tankers as masked settlers attack European politicians in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+      "datum": "43 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US ambassador urges Israel to prosecute attackers of American journalist",
+      "beschrijving": "Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a &#039;despicable act of terror&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
     {
       "titel": "Ten killed in fire at beach resort in Bangladesh",
       "beschrijving": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
@@ -14,7 +32,7 @@
       "titel": "At least 17 killed in stampede at religious gathering in India",
       "beschrijving": "Incident took place at festival in north Kolkata, in India&#039;s West Bengal state, amid big crowds and rainfall, police said.",
       "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
@@ -23,7 +41,7 @@
       "titel": "European diplomats attacked by Israeli settlers in West Bank",
       "beschrijving": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "51 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,7 +50,7 @@
       "titel": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
       "beschrijving": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
       "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -41,7 +59,7 @@
       "titel": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "beschrijving": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -50,16 +68,34 @@
       "titel": "Brazil sees record fall in Amazon deforestation as key election looms",
       "beschrijving": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
       "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "datum": "19 uur geleden",
+      "datum": "22 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Zeker negentien mensen verdrukt bij festival in Indiase stad Kolkata",
+      "beschrijving": "Bij een festival in de Indiase stad Kolkata zijn zeker negentien mensen omgekomen nadat er paniek uitbrak in de menigte. Ook raakten 25 mensen gewond. Volgens lokale media ontstond er paniek bij de uitgang nadat er volgens de premier van de deelstaat West-Bengalen een misleidende mededeling werd gegeven. Onder de slachtoffers zijn voornamelijk vrouwen en kinderen. Mogelijk stonden de mensen op dat",
+      "url": "https://nos.nl/l/2635421",
+      "datum": "40 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Stadhuis Limoges in brand gestoken bij Franse protesten, toren ingestort",
+      "beschrijving": "Bij de grootschalige protesten in Frankrijk is de toren van het stadhuis in Limoges ingestort. Het gebouw werd eerder op de dag in brand gestoken door relschoppers. Net als in veel andere Franse steden waren er in Limoges veel mensen op de been en was het onrustig. Volgens Franse media lukte het meerdere gemaskerde personen om het stadhuis binnen te dringen door een ruit in te slaan. Daarna is het",
+      "url": "https://nos.nl/l/2635418",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Israëlische kolonisten vallen Europese diplomaten aan op Westelijke Jordaanoever",
       "beschrijving": "Israëlische kolonisten hebben Palestijnen en Europese diplomaten aangevallen op de Westelijke Jordaanoever, die Israël bezet houdt. Dat melden Europese landen. De aanvallen volgen op geweld van een dag eerder, waarbij Palestijnen werden aangevallen tijdens hun jaarlijkse olijfoogst. Onder meer een Belgische vertegenwoordiger in de Palestijnse Gebieden is aangevallen, zegt de Belgische minister van",
       "url": "https://nos.nl/l/2635408",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +104,7 @@
       "titel": "VS wil 'war on drugs' uitbreiden naar vasteland Latijns-Amerika",
       "beschrijving": "De Verenigde Staten mengen zich steeds meer in de anti-drugsoorlog in een aantal Latijns-Amerikaanse landen. Het begon in 2025 met aanvallen op vermeende drugsbootjes op zee. Nu verplaatst de strijd tegen drugs zich naar het vasteland in Latijns-Amerika. Er worden deze dagen honderden militairen gestuurd, in eerste instantie naar Panama, Colombia en Honduras. De Amerikanen houden gezamenlijke oefe",
       "url": "https://nos.nl/l/2635392",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +113,7 @@
       "titel": "Franse regering zegt zich niet te laten intimideren door geweld op protestdag",
       "beschrijving": "De Franse premier Lecornu zegt dat zijn regering \"zich niet laat intimideren\" door het geweld bij de betogingen van vandaag. \"Niemand zal zijn politieke agenda met geweld opleggen\", schrijft de premier op X. President Macron zegt dat er geen plaats is voor geweld in Frankrijk en dat degenen die zich hebben misdragen zullen worden vervolgd en gestraft. Volgens premier Lecornu zijn vreedzame demonst",
       "url": "https://nos.nl/l/2635391",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +122,7 @@
       "titel": "Onrust Albanië houdt aan: betogers vijf dagen op rij slaags met de politie",
       "beschrijving": "Niet alleen in Frankrijk en België is het vandaag onrustig door protesten, ook in Albanië zijn duizenden mensen de straat op gegaan vanwege ontevredenheid over hun regering. Voor de vijfde dag op rij demonstreren Albaniërs, onder leiding van studenten, in de hoofdstad Tirana om premier Rama tot aftreden te dwingen. Het protest van vandaag begon rustig, maar liep volgens persbureau Reuters uit de h",
       "url": "https://nos.nl/l/2635379",
-      "datum": "6 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +131,7 @@
       "titel": "Paus Leo XIV ontslagen uit het ziekenhuis, kan zijn taken volledig hervatten",
       "beschrijving": "Paus Leo heeft het ziekenhuis in Rome verlaten, vier dagen na zijn operatie aan longkanker. De 71-jarige paus liep vanmiddag zonder hulp naar de auto die op hem stond te wachten en stopte even om te praten met mensen die hem buiten het Gemelli-ziekenhuis een hart onder de riem wilden te steken. De paus werd vandaag door zijn artsen ontslagen uit het ziekenhuis. Zij hadden al aangegeven dat hij vol",
       "url": "https://nos.nl/l/2635375",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +140,7 @@
       "titel": "Trumps schoonzoon Kushner onderhandelt over vrede, maar verdient aan oorlog",
       "beschrijving": "Jared Kushner, de schoonzoon van de Amerikaanse president Donald Trump, is betrokken bij onderhandelingen over vrede in Oekraïne, Gaza en Iran. En dat terwijl hij óók zakelijke belangen heeft in die gebieden. Recent speelde hij een sleutelrol bij de omstreden deal die Trump sloot met de Russische president Poetin over de aankoop van Russische diesel. Onderhandelt Kushner voor vrede of voor zijn ei",
       "url": "https://nos.nl/l/2635363",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +149,7 @@
       "titel": "Alberta naar de stembus: wil de rijkste provincie van Canada onafhankelijk worden?",
       "beschrijving": "De Canadese premier Carney richtte zich gisteren tijdens een pro-Canada-campagnebijeenkomst nog één keer tot de kiezers in de provincie Alberta. Maandag gaan zij naar de stembus om te stemmen over een afscheiding van Canada. Carneys boodschap aan het electoraat was helder: stem tegen afscheiding. \"Dit is geen spelletje. Dit is geen poker. Een stem tegen Canada is gevaarlijke bluf die zal leiden to",
       "url": "https://nos.nl/l/2635360",
-      "datum": "8 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,26 +158,8 @@
       "titel": "Zelensky: nog altijd problemen met Starlink-verbinding, snelheid voor drones beperkt",
       "beschrijving": "Het Oekraïense leger ondervindt nog steeds problemen met Starlink, het Amerikaanse satellietnetwerk dat voor Oekraïne essentieel is voor de verdediging van het eigen luchtruim. In gesprek met journalisten zegt president Zelensky dat de snelheid waarmee Oekraïense drones kunnen vliegen nog altijd is gelimiteerd. Volgens hem staat Kyiv hierover in contact met Amerikaanse functionarissen. Die zouden ",
       "url": "https://nos.nl/l/2635355",
-      "datum": "8 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Snelweg bij Luik uren versperd, man dreigde auto op te blazen",
-      "beschrijving": "Bij de Belgische gemeente Sprimont, zo'n 25 kilometer ten zuiden van Luik, is een snelweg urenlang versperd geweest na een ongeluk. Een van de betrokken chauffeurs zei gewapend te zijn en dreigde zijn auto op te blazen. Dat gebeurde op snelweg E25, van Luik in de richting van Luxemburg. Het ongeluk vond plaats tussen de plaatsen Sprimont en Aywaille en werd veroorzaakt door een man die daarna drei",
-      "url": "https://nos.nl/l/2635345",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Rellen bij protesten in Frankrijk, politie zet traangas en waterkanon in",
-      "beschrijving": "Na weken van scholierenprotesten zijn in Frankrijk vandaag ook andere groepen de straat op gegaan, zoals boeren, taxichauffeurs, verplegend personeel en de gelehesjesbeweging. Zij protesteerden tegen de stijgende kosten van het levensonderhoud. In verschillende Franse steden zijn de protesten uitgelopen op rellen. In Parijs heeft de politie traangas en een waterkanon ingezet. Rond 15.00 uur waren ",
-      "url": "https://nos.nl/l/2635331",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
@@ -149,26 +167,8 @@
       "titel": "Iranian TV airs video said to show tanker explosion in Hormuz",
       "beschrijving": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Albanian police fire rubber bullets as protests against Rama escalate",
-      "beschrijving": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama&#039;s resignation.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Will the EU come to Ukraine’s rescue in war against Russia?",
-      "beschrijving": "US support at risk as Trump-Zelenskyy relations nosedive.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -176,22 +176,22 @@
       "titel": "Anti-government protesters battle with police in Albania",
       "beschrijving": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
       "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+    "US ambassador urges Israel to prosecute attackers of American journalist",
     "Ten killed in fire at beach resort in Bangladesh",
     "At least 17 killed in stampede at religious gathering in India",
     "European diplomats attacked by Israeli settlers in West Bank",
     "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
     "Trump waives several Russia sanctions as row with Zelensky intensifies",
     "Brazil sees record fall in Amazon deforestation as key election looms",
-    "Israëlische kolonisten vallen Europese diplomaten aan op Westelijke Jordaanoever",
-    "VS wil 'war on drugs' uitbreiden naar vasteland Latijns-Amerika",
-    "Franse regering zegt zich niet te laten intimideren door geweld op protestdag",
-    "Onrust Albanië houdt aan: betogers vijf dagen op rij slaags met de politie"
+    "Zeker negentien mensen verdrukt bij festival in Indiase stad Kolkata",
+    "Stadhuis Limoges in brand gestoken bij Franse protesten, toren ingestort"
   ]
 }
