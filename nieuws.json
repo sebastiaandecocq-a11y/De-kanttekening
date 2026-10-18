@@ -1,6 +1,42 @@
 {
-  "bijgewerkt": "18 Oct 2026 14:22 UTC",
+  "bijgewerkt": "18 Oct 2026 17:54 UTC",
   "artikelen": [
+    {
+      "titel": "Tien burgerdoden in Oekraïne, dat zelf grote drone-aanval op Rusland uitvoert",
+      "beschrijving": "Russische aanvallen op Oekraïne hebben in een dag tijd tien burgerlevens geëist, meldt krant The Kyiv Independent op basis van lokale autoriteiten. Tegelijkertijd heeft het Oekraïense leger afgelopen nacht een van zijn grootste drone-aanvallen op Rusland uitgevoerd sinds het begin van de oorlog. In de Russische stad Sint-Petersburg zijn onder meer een olieterminal en een datacenter getroffen. De g",
+      "url": "https://nos.nl/l/2635507",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "French mayor attacked by settlers during occupied West Bank olive harvest",
+      "beschrijving": "Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+      "beschrijving": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "A timeline of West Bank attacks on Palestinians and foreign officials",
+      "beschrijving": "Settler pogroms have escalated, coinciding with the annual olive harvest season in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
     {
       "titel": "Oil facilities hit in deadly overnight attack on St Petersburg",
       "beschrijving": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
@@ -14,7 +50,7 @@
       "titel": "European diplomats attacked by Israeli settlers in West Bank",
       "beschrijving": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -29,28 +65,46 @@
       "bron": "BBC World"
     },
     {
-      "titel": "Several dead or injured in major fire at Canada military base",
-      "beschrijving": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "datum": "14 min geleden",
-      "regio": "Wereld",
+      "titel": "Trump endorses Netanyahu in Israeli legislative elections",
+      "beschrijving": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a &#039;Strong, Brave, and Brilliant&#039; leader.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "midden",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "beschrijving": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Priester in Ecuador overlijdt tijdens mis door vallend kruisbeeld",
+      "beschrijving": "In Ecuador is gistermiddag een katholieke priester overleden nadat tijdens de mis het kruisbeeld vol op hem was neergekomen. Het aartsbisdom van de stad Guayaquil heeft zijn overlijden bevestigd. De mis werd live uitgezonden op sociale media. Op de beelden is te zien dat priester Patricio Alfredo Sánchez Molinari achter het altaar staat wanneer de houten crucifix van de Perpetuo Socorro-kerk plots",
+      "url": "https://nos.nl/l/2635522",
+      "datum": "37 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Poolse buitenlandminister: 'Poetin komt met iets dat ons in Europa gaat verdelen'",
+      "beschrijving": "Het terugdraaien van Amerikaanse sancties tegen Rusland, de dieseldeal tussen Donald Trump en Vladimir Poetin en de problemen met Starlink; de VS laat Oekraïne vallen. En dat voelen ze ook in de buurlanden. Radosław Sikorski, de minister van Buitenlandse Zaken van Polen, waarschuwt dan ook: \"Rusland zal iets doen dat ons in Europa gaat verdelen.\" Sikorski was in Nederland op uitnodiging van Instit",
+      "url": "https://nos.nl/l/2635505",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Deense schoonmaker zit ruim drie dagen vast in ondergrondse cel",
       "beschrijving": "Een Deense schoonmaker heeft vorige maand ruim drie dagen opgesloten gezeten in een ondergrondse cel. Dat meldt de Deense krant Ekstra Bladet. De vrouw was aan het schoonmaken in het voormalig hooggerechtshof in Kopenhagen toen een celdeur in de kelder per ongeluk achter haar dichtviel. Deze deuren kunnen niet van binnenuit worden opengemaakt. Geen telefoon bij zich De vrouw, wier leeftijd niet is",
       "url": "https://nos.nl/l/2635486",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +113,7 @@
       "titel": "Zes voortvluchtige verdachten opgepakt voor neerschieten politieagent in België",
       "beschrijving": "Politieteams uit meerdere Europese landen hebben zes mannen opgepakt in verband met een schietpartij begin deze week, waarbij een Belgische agent om het leven kwam. Dat heeft de procureur van Brussel gemeld op een persconferentie. De verdachten komen allemaal uit Brussel en zijn bekend bij de politie vanwege drugszaken. Een van de verdachten is minderjarig. De zes waren op de vlucht en werden alle",
       "url": "https://nos.nl/l/2635466",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +122,7 @@
       "titel": "Frankrijk geschokt na protestdag met 'ongekend geweld' en 2000 arrestaties",
       "beschrijving": "\"Opstand\", \"chaos\", \"de republiek in brand\", kopt de Franse pers vanochtend. Frankrijk wordt wakker in een ravage na een dag met grootschalige rellen. Straten liggen bezaaid met glas, hekken, traangasgranaten, verbrande spullen en allerlei andere rommel. Opruimploegen proberen de steden weer toonbaar te maken, winkeliers vegen hun eigen stoepen schoon. De totale omvang van de schade is nog niet be",
       "url": "https://nos.nl/l/2635459",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +131,7 @@
       "titel": "Na halfjaar Iranoorlog is rust terug in de Golfstaten, maar zekerheid nog niet",
       "beschrijving": "Na maanden van strijd in het Midden-Oosten is in de steden aan de Perzische Golf een zekere rust teruggekeerd. In Dubai, Doha en Abu Dhabi draaien scholen, restaurants en kantoren grotendeels als voorheen. Inwoners voelen zich er nog altijd veilig. Toch is er onzekerheid over de toekomst. Vooral de vraag wat er na de Amerikaanse tussentijdse verkiezingen van 3 november gebeurt tussen Amerika en Ir",
       "url": "https://nos.nl/l/2635454",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +140,7 @@
       "titel": "Levenslang voor eigenaar van Chinese kinderopvang om geverfde maaltijden",
       "beschrijving": "De eigenaar van een kinderdagverblijf in Tianshui, in het noorden van China, moet levenslang de cel in voor het vergiftigen van kinderen. Dat melden Chinese staatsmedia. In juli vorig jaar werden bij 247 kinderen en personeelsleden hoge concentraties lood in het bloed aangetroffen nadat zij ziek waren geworden. Uit een rapport bleek dat de kinderen en personeelsleden loodhoudende verf hadden binne",
       "url": "https://nos.nl/l/2635449",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +149,7 @@
       "titel": "Polen onderzoekt mogelijke schending luchtruim, luchtalarm gaat af in Litouwen",
       "beschrijving": "Polen onderzoekt een mogelijke schending van het luchtruim door een onbekend object. Een zoek- en reddingsteam van het leger zoekt ten zuiden van de stad Lublin naar de mogelijke inslagplaats van het projectiel. Tot nu toe is de schending van het luchtruim niet bevestigd, meldt het Poolse leger. Rond 02.00 uur kregen de Poolse autoriteiten uit Lublin, in het oosten van Polen, meldingen binnen over",
       "url": "https://nos.nl/l/2635442",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,94 +158,40 @@
       "titel": "Wekdienst 18/10: Paus gaat weer voor in gebed na operatie • Marathon van Amsterdam",
       "beschrijving": "Goedemorgen! Paus Leo XIV is weer aan het werk en leest het zondagse angelusgebed voor. En in Amsterdam wordt de jaarlijkse marathon gelopen. Eerst het weer: vanochtend is er veel bewolking en vooral in het westen en noorden valt enige tijd regen. In de loop van de dag wordt het droger en laat de zon zich in het zuiden af en toe zien. Het wordt maximaal 11 tot 13 graden. Ga je vandaag op pad? Hier",
       "url": "https://nos.nl/l/2635431",
-      "datum": "8 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Van onze correspondent... Mustafa Marghadi (Zuidoost-Azië en daarvoor Italië)",
-      "beschrijving": "Mustafa Marghadi neemt afscheid als correspondent van de NOS. In podcast De Dag blikt hij terug op het correspondentschap en zijn jaren in Italië en vervolgens Zuidoost-Azië, waar zijn standplaats Jakarta was. Luisteren? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. Marghadi is terug in Nederland en woont tijdelijk i",
-      "url": "https://nos.nl/l/2635427",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Meerdere doden en tientallen gewonden na explosie en brand op Canadese legerbasis",
-      "beschrijving": "Bij een explosie en een daaropvolgende brand op een Canadese legerbasis in de provincie Alberta zijn meerdere doden gevallen. De autoriteiten willen nog geen uitspraak doen over het exacte aantal slachtoffers. Global News meldt op basis van militaire bronnen dat er zeker zeven mensen zijn omgekomen en tientallen mensen gewond zijn geraakt. Volgens het Canadese medium werd er bij een militaire trai",
-      "url": "https://nos.nl/l/2635426",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Auto raakt toeschouwers bij voetbalwedstijd in Kansas: 2 doden en 11 gewonden",
-      "beschrijving": "In de Amerikaanse staat Kansas heeft een auto een groep toeschouwers geraakt tijdens een voetbalwedstrijd. Daarbij vielen twee doden: een jongen van 6 en een man van 35. Elf anderen raakten gewond. Het incident gebeurde op een sportcomplex in de stad Wichita. Op dat moment waren er veel mensen aanwezig, die het ook hebben zien gebeuren. De bestuurder van de auto is een vrouw van 34. Ze reed in een",
-      "url": "https://nos.nl/l/2635422",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Sudan army accused of drone strike on livestock market",
-      "beschrijving": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
-      "datum": "45 min geleden",
+      "titel": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
+      "beschrijving": "In Adigrat, a city close to the Eritrean border, residents recall recent drone strikes by Ethiopian forces",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
+      "datum": "34 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Gaza families fear food shortages as Israel halts commercial shipments",
-      "beschrijving": "Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
+      "titel": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+      "beschrijving": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to &#039;alter the status quo&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
-      "beschrijving": "FIFA committee to assess the merits of the award after several members demand its discontinuation.",
-      "url": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Why have settler pogroms surged during olive harvest season in West Bank?",
-      "beschrijving": "France and Belgium condemn settler attack on diplomats, but critics say EU needs to act beyond words of condemnation.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "There’s a ‘New Middle East’, but not the one Israel planned",
-      "beschrijving": "Instead of redrawing the region, Israel&#039;s wars of expasion pushed the region to work together against it.",
-      "url": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
+    "Tien burgerdoden in Oekraïne, dat zelf grote drone-aanval op Rusland uitvoert",
+    "French mayor attacked by settlers during occupied West Bank olive harvest",
+    "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+    "A timeline of West Bank attacks on Palestinians and foreign officials",
     "Oil facilities hit in deadly overnight attack on St Petersburg",
     "European diplomats attacked by Israeli settlers in West Bank",
     "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-    "Several dead or injured in major fire at Canada military base",
+    "Trump endorses Netanyahu in Israeli legislative elections",
     "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    "Deense schoonmaker zit ruim drie dagen vast in ondergrondse cel",
-    "Zes voortvluchtige verdachten opgepakt voor neerschieten politieagent in België",
-    "Frankrijk geschokt na protestdag met 'ongekend geweld' en 2000 arrestaties",
-    "Na halfjaar Iranoorlog is rust terug in de Golfstaten, maar zekerheid nog niet",
-    "Levenslang voor eigenaar van Chinese kinderopvang om geverfde maaltijden"
+    "Priester in Ecuador overlijdt tijdens mis door vallend kruisbeeld"
   ]
 }
