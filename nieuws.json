@@ -1,65 +1,137 @@
 {
-  "bijgewerkt": "19 Oct 2026 12:55 UTC",
+  "bijgewerkt": "19 Oct 2026 19:09 UTC",
   "artikelen": [
     {
-      "titel": "Israëlische politie pakt verdachten op voor aanvallen Westelijke Jordaanoever",
-      "beschrijving": "De Israëlische politie heeft tien verdachten aangehouden in het onderzoek naar de aanvallen op de bezette Westelijke Jordaanoever van afgelopen weekend. Daarbij werden Palestijnen, een Amerikaanse fotojournalist en Europese diplomaten aangevallen. Vrijdag werden Palestijnen aangevallen door gemaskerde kolonisten tijdens de jaarlijkse oogst in een olijfboomgaard op de Westelijke Jordaanoever. Fotoj",
-      "url": "https://nos.nl/l/2635555",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
+      "titel": "Tientallen doden bij Houthi-aanval op legerbasis in Jemen",
+      "beschrijving": "De Houthi's in Jemen hebben drie ballistische raketten afgevuurd op een militair kamp van de Jemenitische regering. Hierbij zijn zeker 53 doden gevallen, melden de lokale autoriteiten van de zuidelijke provincie Shabwa. Ook raakten 200 militairen in opleiding gewond. De aanval was op het al-Alam-kamp in de zuidelijke provincie Shabwa. Het provinciale bestuur daar laat weten dat het dodental voorlo",
+      "url": "https://nos.nl/l/2635624",
+      "datum": "5 uur geleden",
+      "regio": "Midden-Oosten",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Al Jazeera investigation challenges Israeli account of Heidi Levine attack",
-      "beschrijving": "Analysis of map coordinates and timelines raises doubts over official Israeli accounts of West Bank settler pogrom.",
-      "url": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss",
-      "datum": "26 min geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Opnieuw honderdduizenden huishoudens zonder stroom na Russische aanvallen op Kyiv",
+      "beschrijving": "Rusland heeft vannacht raket- en droneaanvallen uitgevoerd op energiecentrales in Kyiv en omliggende regio's. Daardoor kwamen minstens 550.000 huishoudens zonder stroom te zitten. Ook zou Oekraïne opnieuw vooraf niet gewaarschuwd zijn door westerse inlichtingendiensten voor de raketaanvallen. Oekraïne ontvangt die waarschuwingen om burgers op tijd te kunnen alarmeren voor een aanval. Zonder die wa",
+      "url": "https://nos.nl/l/2635623",
+      "datum": "5 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
-      "titel": "Israeli police arrest 10 after settler attacks on journalist, diplomats",
-      "beschrijving": "US Ambassador to Israel Mike Huckabee said on X that the arrests were &#039;a very positive development&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Australian MP critically injured after being hit by car in apparent attack",
+      "beschrijving": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "beschrijving": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
     },
     {
       "titel": "Personal attacks fire up debate before Brazil's run-off vote",
       "beschrijving": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
       "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "beschrijving": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
+      "beschrijving": "Experts say Netanyahu&#039;s security doctrine and map of regional alliances serve his political ambitions ahead of elections",
+      "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
+      "datum": "48 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "midden",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "beschrijving": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "titel": "Benny Gantz drops out of Israel’s election race",
+      "beschrijving": "Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
+      "datum": "58 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Chuck Schumer urges FCC to block AI robocalls before elections",
+      "beschrijving": "Chuck Schumer urges FCC to reject petition allowing AI robocalls ahead of key November midterm elections.",
+      "url": "https://www.aljazeera.com/economy/2026/10/19/chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Keniaanse sekteleider schuldig bevonden aan het uithongeren van 190 kinderen",
+      "beschrijving": "De Keniaanse sekteleider Paul Mackenzie is door een rechtbank in Kenia schuldig bevonden aan het uithongeren van 190 kinderen en een volwassene. Dat deed hij als leider van een doomsday-beweging, een religieuze stroming die gelooft dat het einde der tijden nabij is. Hij had zijn volgelingen overgehaald hun kinderen te laten uithongeren \"zodat zij Jezus eerder konden ontmoeten\". Over drie weken wor",
+      "url": "https://nos.nl/l/2635874",
+      "datum": "39 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Avondklok in meerdere Franse steden, waaronder Parijs en Lille, na weekend vol rellen",
+      "beschrijving": "In meerdere Franse steden is vanavond een avondklok ingesteld, nadat dit weekend massaal werd gereld en geplunderd. De maatregel geldt voor delen van de hoofdstad Parijs, voor Lille in het noorden van Frankrijk, en voor de zuidelijke stad Nice. In Parijs geldt de avondklok tussen 23.00 uur en 06.00 uur in het centrum voor de Place de la République en de straten rond Les Halles, meldt de Franse omr",
+      "url": "https://nos.nl/l/2635867",
+      "datum": "2 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vier mensen omgekomen bij noodweer op Spaanse oostkust",
+      "beschrijving": "In het oosten van Spanje zijn vier mensen omgekomen als gevolg van stortregens en overstromingen die gepaard gaan met de storm Adam. Doordat rivieren buiten hun oevers traden, kolkte in plaatsen aan de Middellandse Zee het water door de straten. Inwoners werden met helikopters van de daken gehaald. Een van de doden is een vrouw die in Cabrera de Mar, bij Barcelona, werd meegesleurd door het water.",
+      "url": "https://nos.nl/l/2635865",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Honderden jongeren aangehouden na rellen in Milaan, veertien agenten gewond",
+      "beschrijving": "Bij rellen in Milaan zijn gisteren 271 jongeren aangehouden. Gemaskerde relschoppers gingen de confrontatie aan met de politie, gooiden met stenen en plunderden winkels. De Italiaanse regering heeft na twee dagen van onrust strengere veiligheidsmaatregelen aangekondigd. Op beelden is te zien dat honderden jongeren, veelal in het zwart gehuld en met bedekte gezichten, vernielingen aanrichtten in de",
+      "url": "https://nos.nl/l/2635861",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Dave De K. krijgt 30 jaar cel voor dood en ontvoering van 4-jarige Dean",
+      "beschrijving": "Dave De K. is veroordeeld tot 30 jaar cel voor de ontvoering en de dood van de 4-jarige Dean. Ook heeft de Belg 15 jaar tbs gekregen. De K. liet vier jaar geleden het lichaam van de jongen achter bij het werkeiland Neeltje Jans in Zeeland. De straf is gelijk aan de eis van het Belgische Openbaar Ministerie. Volgens het hof in Gent heeft De K. een \"onmetelijke ravage aangericht\". Het hof noemde De ",
+      "url": "https://nos.nl/l/2635679",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Cocktail van relschoppers, ultralinks en criminelen: hoe kon het zo misgaan in Frankrijk?",
+      "beschrijving": "In Frankrijk wordt er met een bittere nasmaak teruggekeken op een weekend vol protesten die uitliepen op flink geweld. De Franse regering houdt vandaag crisisoverleg en op meerdere plekken worden maatregelen genomen. Wat gebeurde er afgelopen weekend? Afgelopen zaterdag gingen honderdduizenden mensen in heel Frankrijk de straat op om te protesteren tegen het regeringsbeleid, de staat van het onder",
+      "url": "https://nos.nl/l/2635651",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Podcast De Dag: hoe de Bolsonaro-dynastie Brazilië verovert",
       "beschrijving": "Flávio Bolsonaro, de zoon oud-president Jair Bolsonaro, maakt goede kans om komend weekend bij de verkiezingen in Brazilië president te worden. Een van de eerste dingen die hij dan zal doen is gratie verlenen aan zijn vader, die in de 27 jaar celstraf kreeg voor een couppoging. Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abon",
       "url": "https://nos.nl/l/2635595",
-      "datum": "1 min geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,121 +140,58 @@
       "titel": "Landen beloofden hun natuur beter te beschermen, maar de uitvoering hapert",
       "beschrijving": "Om natuur te behouden moet 30 procent van al het land en zee op aarde beschermd gebied zijn in 2030. Dat spraken landen vier jaar geleden af in de Canadese stad Montreal. Hoe staat het nu met die belofte? Komende twee weken maken landen de balans op tijdens een zogenoemde biodiversiteitstop in de Armeense hoofdstad Yerevan. Ook minister Jaimi van Essen van Landbouw, Visserij, Voedselzekerheid en N",
       "url": "https://nos.nl/l/2635587",
-      "datum": "53 min geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Parlementslid Australië zwaargewond door aanrijding, mogelijk opzet",
-      "beschrijving": "In Australië is een parlementslid zwaargewond geraakt toen een auto op haar inreed. De autoriteiten, onder wie premier Albanese, houden rekening met een opzettelijke daad. De 65-jarige Helen Haines, een onafhankelijk parlementslid uit een district in de deelstaat Victoria, stond haar kofferbak uit te laden bij haar partijkantoor in de stad Wangaratta toen iemand op haar inreed. Ze raakte naar verl",
-      "url": "https://nos.nl/l/2635573",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vermissing Amelia Earhart blijft raadsel na 89 jaar: 'Vliegtuigwrak' blijkt boomstammen",
-      "beschrijving": "Een internationale groep onderzoekers is er niet in geslaagd de verdwijning van Amelia Earhart in de jaren 30 op te lossen. Een mysterieus voorwerp dat in 2020 was gespot op luchtfoto's van een atol in de Stille Oceaan, blijkt geen vliegtuigwrak te zijn maar een stapel boomstammen. Een atol is een ring- of hoefijzervormig eiland. \"Het is al 90 jaar een mysterie en het zal voorlopig een mysterie bl",
-      "url": "https://nos.nl/l/2635564",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "500.000 Palestijnen in Gaza voortaan zonder noodhulp van Wereldvoedselprogramma",
-      "beschrijving": "Het Wereldvoedselprogramma (WFP) van de Verenigde Naties meldt dat het de steun aan Palestijnen in Gaza drastisch moet verminderen vanwege financieringsproblemen. Hierdoor komen een half miljoen Palestijnen in de Gazastrook zonder maandelijkse voedselhulp te zitten. De bezuinigingen gaan in terwijl een grote meerderheid van de Palestijnse bevolking kampt met acute voedselonzekerheid of erger, zegt",
-      "url": "https://nos.nl/l/2635561",
-      "datum": "5 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Lula en Bolsonaro vallen elkaar aan in fel en persoonlijk tv-debat",
-      "beschrijving": "Een corrupte president die zijn land uitlevert aan narcoterroristen of een militieman die de Braziliaanse belangen verkwanselt aan de VS. Beschuldigingen vlogen over en weer in het eerste tv-debat voor de verkiezingen aanstaande zondag tussen president Lula (80) van Brazilië en zijn uitdager Flávio Bolsonaro (45). De twee zijn in een nek-aan-nekrace verwikkeld om de gunst van de Braziliaanse kieze",
-      "url": "https://nos.nl/l/2635559",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Meer dan driehonderd nieuwe arrestaties bij plunderingen in Parijs",
-      "beschrijving": "In Parijs zijn gisteren en vannacht opnieuw 351 mensen gearresteerd. Dat meldt de Franse politie. Volgens de politie gaat het om groepen jongeren die probeerden winkels te vernielen en te plunderen. Volgens de Franse nieuwssite 20minutes gooiden de demonstranten ook glazen flessen naar agenten. De ingang van een iconisch warenhuis werd ingeslagen en opengebroken, waarna plunderaars het pand binnen",
-      "url": "https://nos.nl/l/2635552",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 19/10: Canadese provincie Alberta stemt over afsplitsing • Franse ministers bijeen na rellen",
-      "beschrijving": "Goedemorgen! In de Canadese provincie Alberta wordt een referendum gehouden over een mogelijke afsplitsing en in Frankrijk komen de ministers in een crisisvergadering bijeen om te praten over de rellen van afgelopen weekend. Eerst het weer: vanochtend bewolking en in het zuiden mist. Later meer zon. Het wordt 13 tot 16 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwer",
-      "url": "https://nos.nl/l/2635548",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vlucht uit Tel Aviv naar Wenen maakt voorzorgslanding in Bulgarije na bommelding",
-      "beschrijving": "Een vlucht die vanuit de Israëlische stad Tel Aviv onderweg was naar Wenen in Oostenrijk is gisteravond uitgeweken naar het vliegveld van Sofia in Bulgarije nadat er een bommelding was gedaan. Dat melden de Bulgaarse autoriteiten. De Oostenrijkse luchtvaartmaatschappij Austrian Airlines, die de vlucht uitvoerde, meldt vanochtend dat er aan boord geen explosief is aangetroffen. De vlucht van Austri",
-      "url": "https://nos.nl/l/2635547",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "The night watch: Palestinians protecting their homes from settler pogroms",
-      "beschrijving": "Palestinians in the occupied West Bank are organising to protect themselves from settler attacks.",
-      "url": "https://www.aljazeera.com/features/2026/10/19/the-night-watch-palestinians-protecting-their-homes-from-settler-pogroms?traffic_source=rss",
-      "datum": "24 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
-      "beschrijving": "In rest of the world, the Israeli PM is often blamed for the Iran war. His opponents say he hasn&#039;t been tough enough.",
-      "url": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss",
+      "titel": "Qatar to announce a new regional defence partnership",
+      "beschrijving": "Qatar is set to announce a new regional defence partnership to strengthen its military infrastructure.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
-      "beschrijving": "There have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.",
-      "url": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
+      "titel": "Can religion help Democrats win in red states? These faith leaders hope so",
+      "beschrijving": "Roughly nine pastors, seminary students and Sunday school teachers are running as Democrats in the US midterm election.",
+      "url": "https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "beschrijving": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-      "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "beschrijving": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "datum": "45 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Exiled critic of Rwandan president found beheaded",
+      "beschrijving": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Israëlische politie pakt verdachten op voor aanvallen Westelijke Jordaanoever",
-    "Al Jazeera investigation challenges Israeli account of Heidi Levine attack",
-    "Israeli police arrest 10 after settler attacks on journalist, diplomats",
+    "Tientallen doden bij Houthi-aanval op legerbasis in Jemen",
+    "Opnieuw honderdduizenden huishoudens zonder stroom na Russische aanvallen op Kyiv",
+    "Australian MP critically injured after being hit by car in apparent attack",
+    "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
     "Personal attacks fire up debate before Brazil's run-off vote",
-    "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-    "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-    "Podcast De Dag: hoe de Bolsonaro-dynastie Brazilië verovert",
-    "Landen beloofden hun natuur beter te beschermen, maar de uitvoering hapert",
-    "Parlementslid Australië zwaargewond door aanrijding, mogelijk opzet",
-    "Vermissing Amelia Earhart blijft raadsel na 89 jaar: 'Vliegtuigwrak' blijkt boomstammen"
+    "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
+    "Benny Gantz drops out of Israel’s election race",
+    "Chuck Schumer urges FCC to block AI robocalls before elections",
+    "Keniaanse sekteleider schuldig bevonden aan het uithongeren van 190 kinderen",
+    "Avondklok in meerdere Franse steden, waaronder Parijs en Lille, na weekend vol rellen"
   ]
 }
