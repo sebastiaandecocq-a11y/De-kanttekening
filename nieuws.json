@@ -1,30 +1,21 @@
 {
-  "bijgewerkt": "19 Oct 2026 00:57 UTC",
+  "bijgewerkt": "19 Oct 2026 05:58 UTC",
   "artikelen": [
     {
       "titel": "Tien burgerdoden in Oekraïne, dat zelf grote drone-aanval op Rusland uitvoert",
       "beschrijving": "Russische aanvallen op Oekraïne hebben in een dag tijd tien burgerlevens geëist, meldt krant The Kyiv Independent op basis van lokale autoriteiten. Tegelijkertijd heeft het Oekraïense leger afgelopen nacht een van zijn grootste drone-aanvallen op Rusland uitgevoerd sinds het begin van de oorlog. In de Russische stad Sint-Petersburg zijn onder meer een olieterminal en een datacenter getroffen. De g",
       "url": "https://nos.nl/l/2635507",
-      "datum": "8 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
-      "beschrijving": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
-      "datum": "58 min geleden",
+      "titel": "Bomb threat forces Israel to Austria flight into emergency landing",
+      "beschrijving": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
       "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "beschrijving": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
-      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
@@ -32,16 +23,43 @@
       "titel": "Nog 19 mensen in kritieke toestand na fatale brand op militaire basis Canada",
       "beschrijving": "19 van de 39 mensen die zaterdag bij de brand op een militaire basis in Canada gewond raakten en naar het ziekenhuis moesten, verkeren in kritieke toestand. Dat heeft de premier van de provincie Alberta bekendgemaakt. Bij de brand in Wainwright in Alberta kwamen vier militairen om het leven. Het incident gebeurde toen er op het militaire terrein tijdens een oefening met scherp werd geschoten. Moge",
       "url": "https://nos.nl/l/2635546",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
+      "titel": "US President Donald Trump endorses Netanyahu for Israeli election",
+      "beschrijving": "US President Donald Trump endorses Netanyahu for Israeli election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss",
+      "datum": "47 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+      "beschrijving": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Fast-moving grass fire caused Canada’s military base tragedy",
+      "beschrijving": "Fast-moving grass fire caused Canada’s military base tragedy",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/fast-moving-grass-fire-caused-canadas-military-base-tragedy?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Major fire at Canada military base leaves four dead, dozens injured",
       "beschrijving": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
       "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -50,16 +68,34 @@
       "titel": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
       "beschrijving": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
       "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Wekdienst 19/10: Canadese provincie Alberta stemt over afsplitsing • Franse ministers bijeen na rellen",
+      "beschrijving": "Goedemorgen! In de Canadese provincie Alberta wordt een referendum gehouden over een mogelijke afsplitsing en in Frankrijk komen de ministers in een crisisvergadering bijeen om te praten over de rellen van afgelopen weekend. Eerst het weer: vanochtend bewolking en in het zuiden mist. Later meer zon. Het wordt 13 tot 16 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwer",
+      "url": "https://nos.nl/l/2635548",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vlucht uit Tel Aviv naar Wenen maakt voorzorgslanding in Bulgarije na bommelding",
+      "beschrijving": "Een vlucht die vanuit de Israëlische stad Tel Aviv onderweg was naar Wenen in Oostenrijk is uitgeweken naar het vliegveld van Sofia in Bulgarije nadat er een bommelding was gedaan. Dat melden de Bulgaarse autoriteiten. Het vliegtuig wordt doorzocht, het is niet bekendgemaakt of er een explosief aan boord is aangetroffen. Een speciaal team doet onderzoek naar het incident. De vlucht van de Oostenri",
+      "url": "https://nos.nl/l/2635547",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "VS dreigt met 'verwoestende' tegenmaatregelen als Europa SpaceX niet vrij baan geeft",
       "beschrijving": "Europese bedrijven krijgen te maken met \"verwoestende\" tegenmaatregelen als Brussel plannen doorzet om de toegang tot de Europese markt te beperken voor bijvoorbeeld het Amerikaanse techbedrijf SpaceX van Elon Musk. Dat zegt de Amerikaanse ambassadeur bij de Europese Unie, Andrew Puzder, tegen de Britse krant Financial Times. Wat die tegenmaatregelen zouden inhouden, zegt hij niet. Afgelopen zomer",
       "url": "https://nos.nl/l/2635538",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +104,7 @@
       "titel": "Macron haalt in tv-toespraak uit naar relschoppers terwijl rellen in Parijs doorgaan",
       "beschrijving": "Een dag na de demonstraties die in Parijs en in andere Franse steden volledig uit de hand liepen, heeft de Franse president Macron in een televisietoespraak uitgehaald naar de relschoppers. Hij zei dat degenen die vernielingen hebben aangericht \"moeten boeten\". \"We zullen geen compromissen sluiten\", voegde hij daaraan toe. Ook zei hij dat hij wil dat de schade die is aangericht wordt verhaald op d",
       "url": "https://nos.nl/l/2635534",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +113,7 @@
       "titel": "Trumps nieuwe stemwet werd in 2014 in Kansas al eens getest en het werd een chaos",
       "beschrijving": "De Amerikaanse president Trump wil dat kiezers voor de Congresverkiezingen van begin november een bewijs van staatsburgerschap en hun paspoort overleggen voordat ze hun stem mogen uitbrengen. In de staat Kansas werd dat al eens geprobeerd. Het werd een faliekante mislukking, waarvan tienduizenden stemgerechtigden de dupe werden. Toen Steven Fish uit Ottawa, Kansas, zich in 2014 wilde registreren a",
       "url": "https://nos.nl/l/2635523",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +122,7 @@
       "titel": "Priester in Ecuador overlijdt tijdens mis door vallend kruisbeeld",
       "beschrijving": "In Ecuador is gistermiddag een katholieke priester overleden nadat tijdens de mis het kruisbeeld vol op hem was neergekomen. Het aartsbisdom van de stad Guayaquil heeft zijn overlijden bevestigd. De mis werd live uitgezonden op sociale media. Op de beelden is te zien dat priester Patricio Alfredo Sánchez Molinari achter het altaar staat wanneer de houten crucifix van de Perpetuo Socorro-kerk plots",
       "url": "https://nos.nl/l/2635522",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +131,7 @@
       "titel": "Poolse buitenlandminister: 'Poetin komt met iets dat ons in Europa gaat verdelen'",
       "beschrijving": "Het terugdraaien van Amerikaanse sancties tegen Rusland, de dieseldeal tussen Donald Trump en Vladimir Poetin en de problemen met Starlink; de VS laat Oekraïne vallen. En dat voelen ze ook in de buurlanden. Radosław Sikorski, de minister van Buitenlandse Zaken van Polen, waarschuwt dan ook: \"Rusland zal iets doen dat ons in Europa gaat verdelen.\" Sikorski was in Nederland op uitnodiging van Instit",
       "url": "https://nos.nl/l/2635505",
-      "datum": "9 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,94 +140,49 @@
       "titel": "Deense schoonmaker zit ruim drie dagen vast in ondergrondse cel",
       "beschrijving": "Een Deense schoonmaker heeft vorige maand ruim drie dagen opgesloten gezeten in een ondergrondse cel. Dat meldt de Deense krant Ekstra Bladet. De vrouw was aan het schoonmaken in het voormalig hooggerechtshof in Kopenhagen toen een celdeur in de kelder per ongeluk achter haar dichtviel. Deze deuren kunnen niet van binnenuit worden opengemaakt. Geen telefoon bij zich De vrouw, wier leeftijd niet is",
       "url": "https://nos.nl/l/2635486",
-      "datum": "11 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Zes voortvluchtige verdachten opgepakt voor neerschieten politieagent in België",
-      "beschrijving": "Politieteams uit meerdere Europese landen hebben zes mannen opgepakt in verband met een schietpartij begin deze week, waarbij een Belgische agent om het leven kwam. Dat heeft de procureur van Brussel gemeld op een persconferentie. De verdachten komen allemaal uit Brussel en zijn bekend bij de politie vanwege drugszaken. Een van de verdachten is minderjarig. De zes waren op de vlucht en werden alle",
-      "url": "https://nos.nl/l/2635466",
-      "datum": "13 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Frankrijk geschokt na protestdag met 'ongekend geweld' en 2000 arrestaties",
-      "beschrijving": "\"Opstand\", \"chaos\", \"de republiek in brand\", kopt de Franse pers vanochtend. Frankrijk wordt wakker in een ravage na een dag met grootschalige rellen. Straten liggen bezaaid met glas, hekken, traangasgranaten, verbrande spullen en allerlei andere rommel. Opruimploegen proberen de steden weer toonbaar te maken, winkeliers vegen hun eigen stoepen schoon. De totale omvang van de schade is nog niet be",
-      "url": "https://nos.nl/l/2635459",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
-      "beschrijving": "Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
-      "datum": "57 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Protesters disrupt Ben-Gvir event forcing him off stage",
-      "beschrijving": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+      "titel": "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
+      "beschrijving": "Brazil&#039;s president and his opponent lob a barrage of attacks on each other in debate a week before the October 25 vote.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Venezuela opposition renews support for Maria Corina Machado as leader",
-      "beschrijving": "The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
-      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Macron condemns violence after riots lead to looting and mass arrests",
-      "beschrijving": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+      "titel": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+      "beschrijving": "The air strike, one of Ukraine&#039;s largest in the war, comes amid rising tensions between Kyiv and Washington.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
       "datum": "3 uur geleden",
-      "regio": "Wereld",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
-      "beschrijving": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "India’s crackdown on cockroaches, critics and cameras",
-      "beschrijving": "A government at war with its critics - from young protesters to the media.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
+      "titel": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "beschrijving": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
       "datum": "5 uur geleden",
-      "regio": "Wereld",
+      "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     }
   ],
   "ticker": [
     "Tien burgerdoden in Oekraïne, dat zelf grote drone-aanval op Rusland uitvoert",
-    "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
-    "Oil facilities hit in deadly overnight attack on St Petersburg",
+    "Bomb threat forces Israel to Austria flight into emergency landing",
     "Nog 19 mensen in kritieke toestand na fatale brand op militaire basis Canada",
+    "US President Donald Trump endorses Netanyahu for Israeli election",
+    "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+    "Fast-moving grass fire caused Canada’s military base tragedy",
     "Major fire at Canada military base leaves four dead, dozens injured",
     "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-    "VS dreigt met 'verwoestende' tegenmaatregelen als Europa SpaceX niet vrij baan geeft",
-    "Macron haalt in tv-toespraak uit naar relschoppers terwijl rellen in Parijs doorgaan",
-    "Trumps nieuwe stemwet werd in 2014 in Kansas al eens getest en het werd een chaos",
-    "Priester in Ecuador overlijdt tijdens mis door vallend kruisbeeld"
+    "Wekdienst 19/10: Canadese provincie Alberta stemt over afsplitsing • Franse ministers bijeen na rellen",
+    "Vlucht uit Tel Aviv naar Wenen maakt voorzorgslanding in Bulgarije na bommelding"
   ]
 }
