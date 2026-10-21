@@ -1,11 +1,38 @@
 {
-  "bijgewerkt": "21 Oct 2026 03:58 UTC",
+  "bijgewerkt": "21 Oct 2026 09:17 UTC",
   "artikelen": [
     {
-      "titel": "Man charged with attack on Australia MP to face court",
-      "beschrijving": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
-      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
+      "titel": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+      "beschrijving": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
+      "datum": "14 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Australian MP loses both legs in vehicle attack as suspect appears in court",
+      "beschrijving": "Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.",
+      "url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
+      "datum": "42 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
+      "beschrijving": "South Sudan authorities say Sudan&#039;s army launched drone attack on market, as MSF says it is treating 20 wounded people.",
+      "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
+      "datum": "51 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Australian MP loses both legs after alleged car attack, husband says",
+      "beschrijving": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -14,16 +41,70 @@
       "titel": "Swimmer, 65, killed in shark attack off South Africa's east coast",
       "beschrijving": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
       "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "17 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Gevechtsvliegtuig stort neer in noordoosten van Frankrijk, zeker één dode",
+      "beschrijving": "In Frankrijk, ten noorden van Nancy, is het lichaam geborgen van een militaire vlieger, nadat gisteravond zijn gevechtsvliegtuig was neergestort. Aan boord waren twee inzittenden. Naar de ander wordt nog gezocht, meldt de Franse luchtmacht. Die spreekt van een \"uitzonderlijk ongeluk\". Het vliegtuig kwam neer bij het dorp Rogéville, op enkele tientallen kilometers van de luchtmachtbasis bij Nancy. ",
+      "url": "https://nos.nl/l/2636053",
+      "datum": "25 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Christina Applegate heeft toch geen MS: 'Ik ben terug bij af'",
+      "beschrijving": "Actrice Christina Applegate heeft toch geen MS. Dat vertelt de 54-jarige Amerikaanse in een podcast. Applegate zegt dat ze volgens haar dokter niet de goede diagnose heeft gehad. \"Ik ben terug bij af\", zegt Applegate in de podcast \"MeSsy\", die ze samen met co-host Jamie-Lynn Sigler maakt over leven met MS. Sigler, ook een Amerikaanse actrice, bekend van onder meer The Sopranos, heeft al 25 jaar MS",
+      "url": "https://nos.nl/l/2636049",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Opvissen van miljoenen kilo's afval levert Boyan Slat Qatarese prijs op",
+      "beschrijving": "Bankstellen, etalagepoppen en zelfs menselijke resten. De Nederlandse uitvinder Boyan Slat komt de gekste dingen tegen bij zijn strijd tegen plasticvervuiling. Zijn organisatie The Ocean Cleanup heeft naar eigen zeggen al 65 miljoen kilo afval uit zee en rivieren gevist. Gisteravond ontving Slat (32) in Qatar een prijs voor zijn werk: in de hoofdstad Doha kreeg hij de International Young Energy Le",
+      "url": "https://nos.nl/l/2636048",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "VS-gezant Witkoff in Sint-Petersburg met voorstellen voor einde aan oorlog",
+      "beschrijving": "De Amerikaanse gezant Steve Witkoff is aangekomen in Sint-Petersburg. Vanuit de Noorse hoofdstad Oslo vloog hij naar Rusland om met president Poetin voorstellen te bespreken voor een einde aan de oorlog in Oekraïne. Witkoff zal onder meer een voorstel doen voor een ontmoeting tussen de presidenten Poetin, Trump en Zelensky. Hij werd op het vliegveld van Sint-Petersburg ontvangen door een vertrouwe",
+      "url": "https://nos.nl/l/2636043",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Colombia onderschept 7600 kilo cocaïne die onderweg was naar Nederland",
+      "beschrijving": "In Colombia heeft de politie zo'n 7600 kilo cocaïne in beslag genomen die bestemd was voor Nederland. In de haven van de Colombiaanse stad Cartagena werd volgens de autoriteiten de grootste partij cocaïne van de afgelopen tien jaar in beslag genomen. De drugs werden ontdekt tijdens een controle. Op beelden zijn verpakkingen met poedersuiker te zien waar de cocaïne in verstopt zat. De president van",
+      "url": "https://nos.nl/l/2636040",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 21/10: DSW maakt zorgpremie bekend • ADE begint in Amsterdam",
+      "beschrijving": "Goedemorgen! Traditiegetrouw heeft verzekeraar DSW de primeur wat betreft de hoogte van de nieuwe zorgpremie en het is de eerste dag van het Amsterdam Dance Event. Eerst het weer: het is vandaag op veel plekken bewolkt met hier en daar wat regen. De wind komt vanuit het zuiden en zuidwesten. Het wordt zo'n 13 tot 15 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkza",
+      "url": "https://nos.nl/l/2636033",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Guatemalteek krijgt in VS 30 jaar cel voor rol in dramatische mensensmokkelzaak",
       "beschrijving": "Een man uit Guatemala is in de VS veroordeeld tot 30 jaar cel voor zijn rol in een mensensmokkelzaak. Daarbij kwamen in 2022 53 migranten om het leven; ze stikten in een trailer tijdens een reis van drie uur tussen de Mexicaanse grensstad Nuevo Laredo en de Texaanse stad San Antonio. De Guatemalteek (50) had bekend dat hij reisdocumenten en accommodatie had geregeld voor twee van de migranten die ",
       "url": "https://nos.nl/l/2636030",
-      "datum": "46 min geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -32,16 +113,16 @@
       "titel": "Pakistaan opgepakt voor grootschalige oplichting Amerikaanse postdienst",
       "beschrijving": "In Pakistan is een man opgepakt in een fraudezaak die de Amerikaanse postdienst meer dan 126 miljoen dollar zou hebben gekost. De 33-jarige Faheem Akram werd na een intensieve klopjacht van een week aangehouden, aldus de Pakistaanse autoriteiten. Akram is in Florida aangeklaagd, zo werd eind september duidelijk. De man runde een website waarop hij valse labels voor postpakketjes verkocht aan duize",
       "url": "https://nos.nl/l/2636029",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "WSJ: Musk achter Starlink-beperkingen voor Oekraïne",
-      "beschrijving": "Elon Musk heeft zelf opdracht gegeven om de toegang van Oekraïne tot satellietnetwerk Starlink te beperken. Dat meldt The Wall Street Journal op basis van Amerikaanse functionarissen en andere bronnen \"die bekend zijn met de zaak\". Volgens de Amerikaanse krant leidde Musks ingreep niet alleen tot paniek in Kyiv maar ook tot verwarring binnen de regering van president Trump. Door de beperkingen die",
+      "beschrijving": "Elon Musk heeft zelf opdracht gegeven om de toegang van Oekraïne tot satellietnetwerk Starlink te beperken. Dat meldt The Wall Street Journal op basis van Amerikaanse functionarissen en andere bronnen \"die bekend zijn met de zaak\". Volgens de Amerikaanse krant leidde Musks ingreep niet alleen tot paniek in Kyiv, maar ook tot verwarring binnen de regering van president Trump. Door de beperkingen di",
       "url": "https://nos.nl/l/2636028",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,115 +131,34 @@
       "titel": "Hackers maakten ruim 400.000 AfD-mails buit, ook van partijleider Weidel",
       "beschrijving": "De Duitse politieke partij AfD is slachtoffer van een hack. Volgens de krant Bild, die het nieuws als eerste meldde, hebben onbekenden meer dan 400.000 e-mails buitgemaakt, waaronder e-mails van partijleider Alice Weidel en oprichter en ere-voorzitter Alexander Gauland. De AfD bevestigt de hack. Volgens een woordvoerder hebben de onbekende daders bij een hostingprovider data van een beperkt aantal",
       "url": "https://nos.nl/l/2636020",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Twee verdachten opnieuw opgepakt om incident bij Engelse luchtmachtbasis",
-      "beschrijving": "De Britse politie heeft twee mannen opnieuw opgepakt voor het incident bij de luchtmachtbasis Fairford eind september. Ze worden verdacht van het helpen van de Iraanse inlichtingendienst. De antiterreureenheid van de politie heeft een 24-jarige Brit opgepakt die op 27 september al was gearresteerd bij de luchtmachtbasis. De tweede verdachte is een 25-jarige Brits-Iraanse man die op 1 oktober in Lo",
-      "url": "https://nos.nl/l/2636013",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Eerste ebolabesmetting in Nigeria sinds nieuwe uitbraak in Afrika",
-      "beschrijving": "De gezondheidsautoriteiten in Nigeria hebben een ebolabesmetting vastgesteld in de hoofdstad Abuja. Het is het eerste geval van ebola in het West-Afrikaanse land sinds de recente uitbraak van het virus in het midden van het continent. De patiënt is een vrouw, die in Uganda was geweest. De autoriteiten daar verklaarden hun land eind juli nog ebola-vrij, nadat er twintig gevallen waren vastgesteld. ",
-      "url": "https://nos.nl/l/2636009",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vinted verwijdert advertenties van tijdens Franse protesten gestolen spullen",
-      "beschrijving": "Vinted heeft advertenties verwijderd van aangeboden producten die vermoedelijk zijn gestolen tijdens de grootschalige protesten in Frankrijk afgelopen zaterdag. Het verkoopplatform voor tweedehandsartikelen zegt ook de controle op verdachte advertenties te hebben aangescherpt, schrijven Franse media. Onder meer cosmeticaketen Sephora meldde dat er bij winkels was ingebroken. Ook is op beelden te z",
-      "url": "https://nos.nl/l/2636004",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "VS-gezant Witkoff naar Sint-Petersburg met voorstellen Oekraïne, Noorwegen en Finland",
-      "beschrijving": "De Amerikaanse gezant Witkoff reist morgen naar Sint-Petersburg met voorstellen om een einde te maken aan de oorlog in Oekraïne. Dat heeft de Noorse premier Store gezegd na afloop van een ontmoeting tussen Witkoff en de Oekraïense president Zelensky in Oslo. De Oekraïense president werd tijdens het gesprek bijgestaan door Store zelf en de Finse president Stubb. \"Wij proberen de dialoog tussen Oekr",
-      "url": "https://nos.nl/l/2635989",
-      "datum": "11 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Frankrijk kondigt grote politie-inzet aan bij demonstraties zaterdag, ook inzet leger",
-      "beschrijving": "De Franse autoriteiten sturen zaterdag een uitgebreide politiemacht de straat op vanwege aangekondigde demonstraties. Premier Lecornu sprak vandaag in het parlement van een \"forse\" inzet. Daarnaast wil de regering militairen inzetten om politieagenten af te lossen bij vaste bewakingstaken. De politietroepen worden dan vrijgemaakt voor ordehandhaving. Daarnaast overweegt de regering om bepaalde dem",
-      "url": "https://nos.nl/l/2635988",
       "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Indonesië stikt in rook van enorme natuurbranden, vuur kan nog maanden aanhouden",
-      "beschrijving": "Een dikke laag giftige rook hangt boven het westen van Indonesië. Op sociale media delen inwoners van Palangkaraya, in Kalimantan, beelden van hun stad gehuld in een oranje deken. Mensen op straat dragen mondmaskers, een enkeling loopt rond met een gasmasker. Bijna 2 miljoen hectare natuur ging dit jaar al in vlammen op in Indonesië. De branden begonnen in juni, zijn onvoorstelbaar groot en rookwo",
-      "url": "https://nos.nl/l/2635979",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says",
-      "beschrijving": "The report says nearby pig farms and municipal wastewater are the likely sources of contamination.",
-      "url": "https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss",
-      "datum": "56 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
-      "beschrijving": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+      "titel": "Israeli soldiers mock Lebanese home they rigged with explosives",
+      "beschrijving": "Israeli soldiers in Southern Lebanon are seen ‘jokingly’ giving a tour of a displaced family’s home.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/israeli-soldiers-mock-lebanese-home-they-rigged-with-explosives?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
-      "beschrijving": "King Charles III pays tribute to Muscat&#039;s &#039;noble efforts&#039; to help reopen the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iran war live: US warns peace deal with Tehran is extremely difficult",
-      "beschrijving": "Rubio tells US media that reaching a peace deal with Tehran is extremely difficult while Hormuz attacks continue.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "beschrijving": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "titel": "Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia",
+      "beschrijving": "Steve Witkoff has landed in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "58 min geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "titel": "Trump and Zelensky appear at loggerheads despite new optimism",
       "beschrijving": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
       "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,22 +167,22 @@
       "titel": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
       "beschrijving": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
       "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Man charged with attack on Australia MP to face court",
+    "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+    "Australian MP loses both legs in vehicle attack as suspect appears in court",
+    "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
+    "Australian MP loses both legs after alleged car attack, husband says",
     "Swimmer, 65, killed in shark attack off South Africa's east coast",
-    "Guatemalteek krijgt in VS 30 jaar cel voor rol in dramatische mensensmokkelzaak",
-    "Pakistaan opgepakt voor grootschalige oplichting Amerikaanse postdienst",
-    "WSJ: Musk achter Starlink-beperkingen voor Oekraïne",
-    "Hackers maakten ruim 400.000 AfD-mails buit, ook van partijleider Weidel",
-    "Twee verdachten opnieuw opgepakt om incident bij Engelse luchtmachtbasis",
-    "Eerste ebolabesmetting in Nigeria sinds nieuwe uitbraak in Afrika",
-    "Vinted verwijdert advertenties van tijdens Franse protesten gestolen spullen",
-    "VS-gezant Witkoff naar Sint-Petersburg met voorstellen Oekraïne, Noorwegen en Finland"
+    "Gevechtsvliegtuig stort neer in noordoosten van Frankrijk, zeker één dode",
+    "Christina Applegate heeft toch geen MS: 'Ik ben terug bij af'",
+    "Opvissen van miljoenen kilo's afval levert Boyan Slat Qatarese prijs op",
+    "VS-gezant Witkoff in Sint-Petersburg met voorstellen voor einde aan oorlog",
+    "Colombia onderschept 7600 kilo cocaïne die onderweg was naar Nederland"
   ]
 }
