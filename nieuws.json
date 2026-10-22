@@ -1,197 +1,161 @@
 {
-  "bijgewerkt": "22 Oct 2026 09:20 UTC",
+  "bijgewerkt": "22 Oct 2026 14:57 UTC",
   "artikelen": [
+    {
+      "titel": "'VS en Israël bereiden nieuwe aanvallen op Iran voor'",
+      "beschrijving": "De VS en Israël hebben plannen klaarliggen voor een nieuwe aanval op Iran, die de landen willen uitvoeren na de Amerikaanse tussentijdse verkiezingen. Dat schrijft The New York Times onder meer op basis van gesprekken met Amerikaanse functionarissen. De landen zouden afgelopen tijd hun oefeningen hebben opgevoerd, bijvoorbeeld van luchtaanvallen. Dat doen de landen boven Irak, dat tussen Israël en",
+      "url": "https://nos.nl/l/2636186",
+      "datum": "5 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Docent over aanslag school VS: 'Voor ik de deur kon sluiten, was hij er al'",
       "beschrijving": "Een lerares die zwaargewond raakte toen een 16-jarige schutter een week geleden het vuur opende op een Amerikaanse basisschool, zegt dat ze totaal geen tijd had om haar leerlingen te redden. \"Ik draaide me nog om om de deur te sluiten, maar hij was er al. Voordat ik iets kon doen, schoot hij me van dichtbij neer.\" De 54-jarige Becky Drury werd meerdere keren geraakt door de schutter. Een 25-jarige",
       "url": "https://nos.nl/l/2636183",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
       "titel": "Toenadering beloofd, maar aanvallen Rusland en Oekraïne gaan gewoon door",
-      "beschrijving": "Bij Russische aanvallen op Oekraïne zijn vannacht een dode en meerdere gewonden gevallen. Het geweld blijft dus aanhouden ondanks Russische toezeggingen onderhandelingen te overwegen. In de hoofdstad Kyiv ging het luchtalarm gistermiddag al af terwijl in Moskou nog naar buiten moest komen wat de Amerikaanse gezant Steve Witkoff die dag had besproken met het Kremlin. Ook vannacht gingen de aanvalle",
+      "beschrijving": "Bij Russische aanvallen op Oekraïne zijn de afgelopen uren twee doden en meerdere gewonden gevallen. Het geweld blijft dus aanhouden ondanks Russische toezeggingen onderhandelingen te overwegen. \"Rusland reageert op onderhandelingen met raketten\", vat president Zelensky het samen. In de hoofdstad Kyiv ging het luchtalarm gistermiddag al af terwijl in Moskou nog naar buiten moest komen wat de Ameri",
       "url": "https://nos.nl/l/2636170",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "VS haalt deel ambassadepersoneel uit Saudi-Arabië weg na dodelijke Houthi-aanvallen",
-      "beschrijving": "Het Amerikaanse ministerie van Buitenlandse Zaken heeft een deel van het diplomatieke personeel en hun familieleden opgedragen Saudi-Arabië te verlaten. Het gaat om 'niet-essentieel personeel' van de Amerikaanse ambassade in de hoofdstad Riyad en de consulaten in het land. Dit besluit volgt op een reeks dodelijke aanvallen in het land door de door Iran gesteunde Houthi-rebellen uit buurland Jemen.",
-      "url": "https://nos.nl/l/2636156",
-      "datum": "11 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "beschrijving": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "beschrijving": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Israeli elections: Is it just right wing versus right?",
-      "beschrijving": "Benjamin Netanyahu’s opponents are promising a change to Israeli politics, but are their policies really that different?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss",
-      "datum": "25 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "In Israel election, Palestinian citizens weigh fear against disillusionment",
-      "beschrijving": "With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.",
-      "url": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "How Arab parties could hold critical balance of power in Israeli election",
-      "beschrijving": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "New Mexico spant rechtszaak aan tegen Epsteins advocaat en accountant",
-      "beschrijving": "De Amerikaanse staat New Mexico spant een rechtszaak aan tegen de advocaat en accountant van zedendelinquent Jeffrey Epstein. Aanklager Raúl Torrez stelt dat zij het misbruik van meisjes door de zakenman mogelijk moeten hebben gemaakt en daarom niet van zijn erfenis zouden mogen profiteren. \"Jeffrey Epstein opereerde niet alleen en zijn dood mag niet betekenen dat de mensen die zijn misdaden mogel",
-      "url": "https://nos.nl/l/2636176",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Stemmen uit omsingeld Taiz in Jemen: 'Onze stad hapt naar adem'",
-      "beschrijving": "De Jemenitische stad Taiz is volledig omsingeld door Houthi-rebellen. Alle aanvoerwegen zijn afgesloten, mensen en goederen kunnen de stad niet in of uit. De derde stad van het land is door de strategische ligging al jaren een troef voor de strijdende partijen. Ook nu weer is dit een belangrijk front in de recent opgelaaide oorlog tussen de Houthi's en het regeringsleger van Jemen. De Verenigde Na",
-      "url": "https://nos.nl/l/2636166",
-      "datum": "4 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 22/10: Presentatie parcours Tour de France • Russische diesel naar VS",
-      "beschrijving": "Goedemorgen! De eerste lading Russische diesel gaat op weg naar de VS en een hoop Nederlandse clubs spelen vanavond Europees voetbal. Eerst het weer: in de ochtend is er veel bewolking en regen, en waait het flink vanuit het zuidwesten. In de middag gaat de wind liggen en wordt het zonniger. Het wordt 11 tot 14 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamhed",
-      "url": "https://nos.nl/l/2636165",
-      "datum": "4 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Spanningen lopen op tussen de Filipijnen en China over de Zuid-Chinese Zee",
-      "beschrijving": "De Filipijnen en China liggen op ramkoers over claims op eilandengroepen en riffen in de Zuid-Chinese Zee. China claimt bijna het hele gebied en heeft regelmatig aanvaringen met buurlanden die ook delen van het gebied claimen op basis van het zeerecht. Manilla en Peking ruziën al jaren over de Spratly-eilanden en het Scarborough-rif. En nu lijkt er een nieuw potentieel conflictgebied bij te komen:",
-      "url": "https://nos.nl/l/2636164",
-      "datum": "4 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Drie doden door noodweer en overstromingen in Zuid-Frankrijk",
-      "beschrijving": "In de omgeving van Marseille in Zuid-Frankrijk zijn drie mensen om het leven gekomen door zware regenval en overstromingen. Ook raakte iemand gewond. Dat maakten de autoriteiten van het departement Bouches-du-Rhône bekend. Het noodweer trof de regio dinsdag. Volgens de regionale autoriteiten is het waterniveau tot \"ongekende niveaus\" gestegen. De gemeenten Saint-Martin-de-Crau en Arles zijn sinds ",
-      "url": "https://nos.nl/l/2636161",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Noord-Korea waarschuwt Zuid-Korea: propaganda-luidsprekers aan grens bijna klaar",
-      "beschrijving": "Noord-Korea zegt binnen enkele dagen langs de hele grens met Zuid-Korea luidsprekers te hebben klaarstaan. Die mededeling deed Kim Yo-jong, de zus van de Noord-Koreaanse leider Kim Jong-un. De dreiging met nieuwe propaganda-speakers lijkt de vooruitgang die de Zuid-Koreaanse president heeft geboekt in het verminderen van de spanning met het buurland teniet te doen. Het verminderen van die spanning",
-      "url": "https://nos.nl/l/2636160",
       "datum": "9 uur geleden",
-      "regio": "Noord-Korea",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+      "beschrijving": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "El Salvador's president threatens Haitian gangs over military hostages",
+      "beschrijving": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Zoon mag Aung San Suu Kyi voor het eerst in vijf jaar spreken",
+      "beschrijving": "De opgesloten oud-leider van Myanmar Aung San Suu Kyi heeft voor het eerst in vijf jaar haar zoon telefonisch mogen spreken. Kim Aris schrijft op Facebook dat \"woorden niet kunnen uitdrukken hoeveel het betekent om haar stem weer te horen\". Hij mocht haar bellen op de ambassade van Myanmar in Londen, is te zien op foto's die het regime naar buiten heeft gebracht. \"Ik ben diep dankbaar voor iederee",
+      "url": "https://nos.nl/l/2636207",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Kritiek op Republikein die moeder van tegenstander inzet in campagnespot",
-      "beschrijving": "De strijd tussen de Republikeinen en de Democraten in de Verenigde Staten heeft een nieuw dieptepunt bereikt. De Republikeinse gouverneurskandidaat Vivek Ramaswamy in de staat Ohio ligt onder vuur omdat hij de biologische moeder van zijn Democratische tegenstander Amy Acton heeft ingezet om haar zwart te maken. In de video beschuldigt Donna Arthur, de moeder van Acton, haar dochter er onder meer v",
-      "url": "https://nos.nl/l/2636145",
-      "datum": "12 uur geleden",
+      "titel": "Macron verbiedt alle niet-vakbondsprotesten en haalt uit naar extreemlinks",
+      "beschrijving": "Alle protesten die komende zaterdag niet zijn georganiseerd door vakbonden, worden verboden. Dat zei de Franse president Macron na een uren durend spoedberaad met onder meer de Franse inlichtingendiensten. \"Overal waar mensen demonstreren die daar geen recht op hebben, zal worden ingegrepen\", aldus Macron. \"We willen dat de rust terugkeert.\" Ook gaf hij toe dat er \"tekortkomingen\" waren in de voor",
+      "url": "https://nos.nl/l/2636201",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Eerste mens besmet met veeziekte shamondavirus, Franse patiënt overleden",
+      "beschrijving": "In Frankrijk is voor het eerst een menselijke besmetting met het shamondavirus vastgesteld. Begin deze maand overleed een patiënt die de veeziekte had opgelopen. Er wordt nog onderzocht of dat ook de doodsoorzaak was; de gezondheid van de patiënt was al verzwakt door een andere aandoening. De Franse autoriteiten spreken van een \"uitzonderlijk geval\" bij een patiënt die al een verzwakt immuunsystee",
+      "url": "https://nos.nl/l/2636199",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Duitse WO II-onderzeeër gevonden die door tikfout verdwenen was",
+      "beschrijving": "82 jaar nadat hij door een tikfout spoorloos was verdwenen, is een Duitse onderzeeër uit de Tweede Wereldoorlog teruggevonden in Het Kanaal. Duikers uit Plymouth vonden de U-672 32 kilometer uit de kust van Devon, op 70 meter diepte. De onderzeeër raakte in juli 1944 beschadigd door een aanval van het Britse oorlogsschip HMS Balfour. D-day had net een maand eerder plaatsgevonden en Het Kanaal werd",
+      "url": "https://nos.nl/l/2636195",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Belangrijkste EU-mensenrechtenprijs voor Strafhof, dat onder zware druk van VS staat",
+      "beschrijving": "Het Europees Parlement heeft het Internationaal Strafhof (ICC) in Den Haag gekozen als de winnaar van de Sacharovprijs van dit jaar. Het hof staat onder zware druk van de Verenigde Staten. President Trump wil met sancties het hof platleggen. \"Met de toekenning van de prijs aan het Strafhof erkent het Europarlement het belangrijke werk van het hof bij het handhaven van het internationaal recht en d",
+      "url": "https://nos.nl/l/2636194",
+      "datum": "4 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
-      "beschrijving": "Yemen&#039;s government forces launched hundreds of strikes on Houthi locations, a spokesperson says.",
-      "url": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
-      "datum": "20 min geleden",
+      "titel": "Agent Florida vindt dode man en trekt in zijn huis, gepakt na dure verbouwing",
+      "beschrijving": "In de Amerikaanse staat Florida is een 35-jarige politieagent opgepakt nadat hij de identiteit van een dode man had aangenomen. In juli 2022 was de agent in de stad Lauderhill op een melding afgegaan om het welzijn van een persoon te controleren. Bij aankomst bleek dat de 71-jarige Dennis West was overleden. De agent maakte hier melding van, de lijkschouwer constateerde vervolgens dat West een nat",
+      "url": "https://nos.nl/l/2636189",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Advocaat en accountant Jeffrey Epstein voor de rechter in New Mexico",
+      "beschrijving": "De Amerikaanse staat New Mexico spant een rechtszaak aan tegen de advocaat en accountant van zedendelinquent Jeffrey Epstein. Aanklager Raúl Torrez stelt dat zij het misbruik van meisjes door de zakenman mogelijk moeten hebben gemaakt en daarom niet van zijn erfenis zouden mogen profiteren. \"Jeffrey Epstein opereerde niet alleen en zijn dood mag niet betekenen dat de mensen die zijn misdaden mogel",
+      "url": "https://nos.nl/l/2636176",
+      "datum": "8 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
+      "beschrijving": "Drone attacks on supply lines and safe cities are taking a devastating toll on civilians.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russian strikes hit Kyiv after Witkoff meets Putin",
-      "beschrijving": "Ukraine says &#039;appeasement&#039; will not end war as Russian attacks kill 1, injure 22 in its capital.",
-      "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+      "titel": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
+      "beschrijving": "With government backing and little accountability, an ominous pattern casts a shadow over the Palestinian olive harvest.",
+      "url": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Can Russia broker a new US-Iran deal?",
-      "beschrijving": "Russia’s nuclear expertise, close ties with Tehran and negotiation experience could give Moscow an edge as a mediator.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Wrong national anthems played three times at Asian Para Games in Japan",
-      "beschrijving": "The Iranian national anthem was played for athletes from Taiwan and Mongolia, prompting Nagoya&#039;s mayor to apologise.",
-      "url": "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss",
+      "titel": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+      "beschrijving": "US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Macron accuses foreign leaders of exploiting French riots",
-      "beschrijving": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "datum": "19 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Teacher in Oregon shooting said she pretended to be dead to survive",
+      "beschrijving": "The teacher said she could not help children because she was badly injured by the attacker.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
+      "datum": "47 min geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "'VS en Israël bereiden nieuwe aanvallen op Iran voor'",
     "Docent over aanslag school VS: 'Voor ik de deur kon sluiten, was hij er al'",
     "Toenadering beloofd, maar aanvallen Rusland en Oekraïne gaan gewoon door",
-    "VS haalt deel ambassadepersoneel uit Saudi-Arabië weg na dodelijke Houthi-aanvallen",
-    "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-    "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-    "Israeli elections: Is it just right wing versus right?",
-    "In Israel election, Palestinian citizens weigh fear against disillusionment",
-    "How Arab parties could hold critical balance of power in Israeli election",
-    "New Mexico spant rechtszaak aan tegen Epsteins advocaat en accountant",
-    "Stemmen uit omsingeld Taiz in Jemen: 'Onze stad hapt naar adem'"
+    "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+    "El Salvador's president threatens Haitian gangs over military hostages",
+    "Zoon mag Aung San Suu Kyi voor het eerst in vijf jaar spreken",
+    "Macron verbiedt alle niet-vakbondsprotesten en haalt uit naar extreemlinks",
+    "Eerste mens besmet met veeziekte shamondavirus, Franse patiënt overleden",
+    "Duitse WO II-onderzeeër gevonden die door tikfout verdwenen was",
+    "Belangrijkste EU-mensenrechtenprijs voor Strafhof, dat onder zware druk van VS staat"
   ]
 }
