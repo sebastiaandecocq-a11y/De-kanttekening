@@ -1,20 +1,29 @@
 {
-  "bijgewerkt": "24 Oct 2026 05:32 UTC",
+  "bijgewerkt": "24 Oct 2026 10:35 UTC",
   "artikelen": [
     {
-      "titel": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
-      "beschrijving": "Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
+      "titel": "Ilhan Omar votes as Trump renews attacks amid federal probe",
+      "beschrijving": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "regio": "VS",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+      "beschrijving": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+      "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "datum": "11 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
       "titel": "Australian MP's condition improves after alleged car attack",
-      "beschrijving": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+      "beschrijving": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
       "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,25 +32,43 @@
       "titel": "Alle hens aan dek voor Republikeinen in laatste fase voor verkiezingen",
       "beschrijving": "Met nog tien dagen te gaan tot de Congresverkiezingen neemt in de Verenigde Staten de spanning toe. Op het spel staat een meerderheid in de twee Kamers van het Congres: het Huis van Afgevaardigden en de Senaat. De Republikeinen zetten alles op alles om hun meerderheden te behouden en de Democraten gaan op hun beurt tot het uiterste om die te veroveren. En ze zien een kans: in meerdere staten lijkt",
       "url": "https://nos.nl/l/2636420",
-      "datum": "29 min geleden",
+      "datum": "5 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Trump grijpt in bij verkiezingen in Alaska vanwege naamgenoten op stembiljet",
+      "titel": "Trump grijpt in bij verkiezingen Alaska vanwege twee Dan Sullivans op stembiljet",
       "beschrijving": "Nog voordat ze überhaupt hebben plaatsgevonden, dreigen de komende verkiezingen in de VS al een staartje te krijgen. Het Amerikaanse ministerie van Justitie heeft een rechtszaak aangespannen om de uitslag in Alaska te kunnen blokkeren. President Trump zegt dat de rechtszaak er is gekomen op zijn verzoek. Op het stembiljet in Alaska hebben twee kandidaten vrijwel dezelfde naam. Het gaat om de zitte",
       "url": "https://nos.nl/l/2636407",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "NOS"
+    },
+    {
+      "titel": "Why is Israel launching a new military operation in the occupied West Bank?",
+      "beschrijving": "Netanyahu says &#039;we will destroy this place&#039; as Israeli forces begin days-long operation with raids and demolitions.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
       "beschrijving": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "beschrijving": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -50,16 +77,52 @@
       "titel": "Trump administration sues to block certification of upcoming Alaska election",
       "beschrijving": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
       "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Oekraïne meldt na ruim een week weer stabiele Starlinkverbinding",
+      "beschrijving": "Oekraïne meldt dat de verbinding met het Starlink weer stabiel is. Op 14 oktober meldde het Oekraïense leger dat ze plots problemen hadden met de satelliet-internetvoorziening Starlink. Dat leverde grote problemen op voor de Oekraïense defensie. Onder meer de snelheid van aanvals-, verdedigings- en bevoorradingsdrones werd verminderd. De drones konden ineens niet harder dan 160 kilometer per uur, ",
+      "url": "https://nos.nl/l/2636448",
+      "datum": "19 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Macklemore bij eerste optreden na exit bij Ed Sheeran: 'Niet moeilijk om mens te zijn'",
+      "beschrijving": "De Amerikaanse rapper Macklemore heeft voor het eerst opgetreden sinds hij half september uit het voorprogramma van de Britse zanger Ed Sheeran werd geschrapt wegens pro-Palestijnse uitspraken. Tijdens het concert in Colorado zei hij onder meer dat \"het niet moeilijk is om mens te zijn\". Aanleiding voor het weren van Macklemore uit de tour van Sheeran, waren uitspraken die hij deed tijdens het voo",
+      "url": "https://nos.nl/l/2636446",
+      "datum": "38 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Rita Wezenbeek vs. big tech: deze Nederlandse strijdt tegen Musk en Zuckerberg",
+      "beschrijving": "De Europese Commissie maakte deze week bekend dat ze gaat onderzoeken of Booking.com te weinig heeft gedaan tegen nepadvertenties en phishing. Het is opnieuw een poging van de Europese Unie om techgiganten als Google, Meta en Amazon te dwingen zich aan de wet te houden. Degene die het namens Europa opneemt tegen Amerikaanse techbedrijven van miljardairs als Elon Musk, Mark Zuckerberg en Jeff Bezos",
+      "url": "https://nos.nl/l/2636438",
+      "datum": "1 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Mummies om privacyredenen niet meer tentoongesteld in musea Glasgow",
+      "beschrijving": "Twee musea in het Schotse Glasgow zijn gestopt met het tentoonstellen van mummies. In het ene geval zijn de menselijke resten helemaal verwijderd uit de opstelling, bij het andere is de mummie nu bedekt met een doek. Een derde museum is ook van plan aanpassingen door te voeren. De verandering kwam aan het licht toen een bezoeker zijn dochter de mummie van priester Nekht wilde laten zien in het Kel",
+      "url": "https://nos.nl/l/2636436",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Wekdienst 24/10: Protestdag in Frankrijk • Wintertijd gaat in",
       "beschrijving": "Goedemorgen! In Frankrijk worden weer grote protesten verwacht en vannacht kun je een uurtje langer slapen, omdat de wintertijd ingaat. Om 03.00 uur 's nachts gaat de klok een uur achteruit. Daardoor wordt het 's ochtends eerder licht en 's avonds eerder donker. Eerst het weer: vanochtend zijn er eerst enkele buien, maar die trekken weg naar het noorden en daarna schijnt geregeld de zon. Vanmiddag",
       "url": "https://nos.nl/l/2636418",
-      "datum": "44 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,16 +131,16 @@
       "titel": "Pepperspray en houten platen: Parijs zet zich schrap voor nieuwe actiedag",
       "beschrijving": "Vandaag zijn er opnieuw grote protesten in Frankrijk. In Parijs, waar vorige week veel vernielingen werden aangericht, maken winkeliers zich op voor een nieuwe dag met geweld. Langs de route van de demonstratie klinkt overal het geluid van cirkelzagen en schroefmachines. Winkeliers laten hun puien bedekken met houten platen. Een vertrouwd beeld in het oosten van Parijs, waar vaak demonstraties zij",
       "url": "https://nos.nl/l/2636414",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Uitslaande brand in Adelaarsnest, voormalig theehuis van Adolf Hitler",
-      "beschrijving": "In het zuiden van Duitsland is een grote brand uitgebroken in het Adelaarsnest, het voormalige theehuis van Adolf Hitler. Op webcambeeld valt te zien dat de vlammen uit het gebouw slaan. Het gebouw staat op 1834 meter hoogte op de Kehlstein, een Alpenberg in de buurt van de stad Berchtesgaden. Volgens de Beierse omroep stond het bekende bouwwerk al in lichterlaaie toen de brandweer om 21.52 uur aa",
+      "titel": "Grote brand verwoest Adelaarsnest, voormalig theehuis van Adolf Hitler",
+      "beschrijving": "In het zuiden van Duitsland heeft een grote brand gewoed in het Adelaarsnest, het voormalige theehuis van Adolf Hitler. Inmiddels zijn aan de buitenkant van het gebouw geen vlammen meer te zien, het gebouw is voor een groot deel verwoest. Het gebouw staat op 1834 meter hoogte op de Kehlstein, een Alpenberg in de buurt van de stad Berchtesgaden. Volgens de Beierse omroep stond het bekende bouwwerk ",
       "url": "https://nos.nl/l/2636413",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,112 +149,40 @@
       "titel": "Israëlische leger valt meerdere plaatsen op Westelijke Jordaanoever binnen",
       "beschrijving": "Het leger van Israël is de afgelopen dag begonnen met invallen in meerdere plaatsen op de bezette Westelijke Jordaanoever. Volgens het leger zijn militairen op tientallen locaties actief. Israël verwacht dat de \"antiterreuroperatie\" enkele dagen gaat duren. De invallen zijn een reactie op een schietpartij gisterochtend. Daarbij kwamen twee Israëlische militairen om het leven. Volgens Israël waren ",
       "url": "https://nos.nl/l/2636411",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Dode en honderden gewonden door zware orkaan Champi bij Taiwan",
-      "beschrijving": "Taiwan is getroffen door een zware orkaan. Die heeft de naam Champi gekregen en kostte een man op het eiland het leven. Zeker 500 mensen zijn gewond geraakt. Ook kwamen 77.500 huishoudens zonder stroom te zitten. De dode is een man die op het strand was en werd meegesleurd door hoge golven. Hulpdiensten vonden hem later terug, maar toen was hij al overleden. De golven zouden zo'n 21 meter hoog zij",
-      "url": "https://nos.nl/l/2636396",
-      "datum": "9 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "KLM krijgt boete van Amerikaanse overheid wegens vliegen boven Irak",
-      "beschrijving": "KLM krijgt een boete van 320.000 dollar van het Amerikaanse ministerie van Transport omdat de luchtvaartmaatschappij honderden keren door het luchtruim boven Irak is gevlogen. Dat was in strijd met de regels die de luchtvaartmaatschappij had afgesproken met de Amerikaanse maatschappij Delta Air Lines, waarmee de KLM nauw samenwerkt. De zogenoemde codeshare-overeenkomsten zijn afspraken waarbij twe",
-      "url": "https://nos.nl/l/2636388",
       "datum": "10 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Broer Meghan Markle vindt kinderporno bij hun vader, politie start onderzoek",
-      "beschrijving": "Meghan Markle zegt dat ze \"diep bedroefd\" is door de beschuldigingen dat haar vader honderden en mogelijk zelfs duizenden beelden van kindermisbruik bezit. De politie in de Filipijnen is een onderzoek gestart naar Thomas Markle senior, nadat de autoriteiten een tip hadden gekregen van een van zijn zoons. De Britse krant The Sun schrijft dat deze 60-jarige zoon, Thomas Markle junior, in het huis va",
-      "url": "https://nos.nl/l/2636380",
-      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Gebouw in aanbouw van meer dan tien verdiepingen ingestort in centrum Nairobi",
-      "beschrijving": "In de Keniaanse hoofdstad Nairobi is een gebouw van meer dan tien verdiepingen dat in aanbouw was, ingestort. Er is vrijwel niets van over, behalve op elkaar gestapelde platen beton en puin. Gevreesd wordt dat er doden zijn. Inwoners zeggen dat ze telefonisch contact hebben gehad met mensen die vastzitten. Persbureau AP sprak met een stukadoor die op de vierde verdieping van het gebouw aan het wer",
-      "url": "https://nos.nl/l/2636363",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
-      "beschrijving": "Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.",
-      "url": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
-      "datum": "12 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
-      "beschrijving": "Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.",
-      "url": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
-      "datum": "28 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
-      "beschrijving": "Israeli military raid targets at least 15 towns in the northern West Bank, including Nablus and Jenin.",
-      "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+      "titel": "Bolivian teachers strike over wages and education reform",
+      "beschrijving": "Bolivian teachers strike over wages and education reform",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Syrians protest Israel’s incursions near occupied Golan Heights",
-      "beschrijving": "Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "beschrijving": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "beschrijving": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "beschrijving": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Argentina identifies dozens of victims killed in its ‘Dirty War’",
+    "Ilhan Omar votes as Trump renews attacks amid federal probe",
+    "Father who killed Oregon school gunman describes anguish over children he couldn't save",
     "Australian MP's condition improves after alleged car attack",
     "Alle hens aan dek voor Republikeinen in laatste fase voor verkiezingen",
-    "Trump grijpt in bij verkiezingen in Alaska vanwege naamgenoten op stembiljet",
+    "Trump grijpt in bij verkiezingen Alaska vanwege twee Dan Sullivans op stembiljet",
+    "Why is Israel launching a new military operation in the occupied West Bank?",
     "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+    "White House lifts tariffs on some Canadian goods as midterm elections loom",
     "Trump administration sues to block certification of upcoming Alaska election",
-    "Wekdienst 24/10: Protestdag in Frankrijk • Wintertijd gaat in",
-    "Pepperspray en houten platen: Parijs zet zich schrap voor nieuwe actiedag",
-    "Uitslaande brand in Adelaarsnest, voormalig theehuis van Adolf Hitler",
-    "Israëlische leger valt meerdere plaatsen op Westelijke Jordaanoever binnen"
+    "Oekraïne meldt na ruim een week weer stabiele Starlinkverbinding"
   ]
 }
