@@ -1,20 +1,38 @@
 {
-  "bijgewerkt": "24 Oct 2026 20:38 UTC",
+  "bijgewerkt": "24 Oct 2026 22:59 UTC",
   "artikelen": [
     {
       "titel": "Franse krant: aanslagpleger Parijs wilde zwarte en Arabische mensen doden",
       "beschrijving": "De opgepakte verdachte van de aanslag in de Parijse voorstad Trappes wilde zwarte mensen en mensen met een Arabisch uiterlijk aanvallen. Dat melden bronnen aan de Franse krant Le Monde. Justitie ziet in de handelswijze van de verdachte, zijn keuze van slachtoffers, zijn eerste uitspraken en de resultaten van de huiszoekingen aanwijzingen dat sprake was van een racistisch gemotiveerde terroristisch",
       "url": "https://nos.nl/l/2636481",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
+      "titel": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+      "beschrijving": "Tehran warns that even limited strikes would trigger a response &#039;several times greater&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+      "beschrijving": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden&#039;s airport and a coastguard base.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
       "beschrijving": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
       "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-      "datum": "21 uur geleden",
+      "datum": "1 dagen geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,7 +41,7 @@
       "titel": "Three released without charge after fatal arson attack in Ireland",
       "beschrijving": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
       "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-      "datum": "10 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,7 +50,7 @@
       "titel": "Australian MP's condition improves after alleged car attack",
       "beschrijving": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
       "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-      "datum": "18 uur geleden",
+      "datum": "21 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -41,16 +59,34 @@
       "titel": "Demonstraties in Europese steden: rellen in Tirana, militairen ingezet in Milaan",
       "beschrijving": "Hoewel de protesten in Frankrijk internationaal de meeste aandacht krijgen, zijn vandaag ook grote demonstraties geweest in verschillende andere Europese steden, waaronder Milaan, Madrid, Lissabon, Brussel en Tirana. De Italiaanse premier Meloni heeft vandaag 500 militairen naar Milaan gestuurd. Samen met duizenden politieagenten moeten zij voorkomen dat de ongeregeldheden van vorige week zich her",
       "url": "https://nos.nl/l/2636510",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
+      "titel": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+      "beschrijving": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "VS",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Could Israel’s military crackdown influence Tuesday’s election?",
+      "beschrijving": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
       "beschrijving": "Gunners capitalise on City&#039;s first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.",
       "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
-      "datum": "34 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
@@ -59,34 +95,16 @@
       "titel": "Thousands of Israelis rally against Netanyahu gov’t days before election",
       "beschrijving": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
       "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Serbian elections: A country where students may actually take power",
-      "beschrijving": "Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "beschrijving": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "datum": "21 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "BBC World"
-    },
-    {
       "titel": "Bijna 1000 arrestaties in Frankrijk, minister tevreden over verloop protesten",
       "beschrijving": "De Franse politie heeft vandaag bij betogingen in het hele land bijna duizend mensen opgepakt. Dat heeft de Franse minister van Binnenlandse Zaken Nuñez bekendgemaakt. Hij verwacht dat \"dit aantal zal toenemen\". In heel Frankrijk liepen volgens de minister 410.000 mensen mee in betogingen. Volgens de vakbonden gingen vandaag bijna twee keer zoveel mensen, zo'n 800.000, de straat op om te demonstre",
       "url": "https://nos.nl/l/2636520",
-      "datum": "21 min geleden",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +113,7 @@
       "titel": "'Vrije pers kun je niet censureren': duizenden Turken de straat op voor persvrijheid",
       "beschrijving": "Duizenden mensen, onder wie vele journalisten, gingen in Turkije vandaag de straat voor persvrijheid. Journalistenverenigingen en de Nieuwe Partij (een oppositiepartij) hadden opgeroepen om in tien steden in het land te demonstreren. \"Vrije pers kun je niet censureren\", riepen de demonstranten. Aanleiding voor de demonstraties is censuur, de druk op journalisten en de overname van meerdere zenders",
       "url": "https://nos.nl/l/2636513",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +122,7 @@
       "titel": "Oekraïense warenhuizen onder vuur, terwijl inwoners zich voorbereiden op winter",
       "beschrijving": "Rusland heeft het de laatste tijd niet alleen gemunt op Oekraïense energiecentrales, militaire objecten en flats. Steeds vaker is ook de economie van Oekraïne doelwit, met aanvallen op pakhuizen, distributiecentra, postkantoren en warenhuizen. Zoals die van winkelgigant Epitsentr. De laatste paar dagen alleen al zijn er vier vestigingen vernietigd. Onder meer in Kyiv, waar meerdere ballistische ra",
       "url": "https://nos.nl/l/2636491",
-      "datum": "4 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +131,7 @@
       "titel": "Kim Jong-un brengt flitsbezoek aan China om oorlogssamenwerking te vieren",
       "beschrijving": "Kim Jong-un heeft vandaag een flitsbezoek gebracht aan China. Het is een zeldzaam buitenlands bezoek van de Noord-Koreaanse leider. Kim werd ontvangen door Wang Huning van het politbureau, het allerhoogste partijorgaan van China, en een van de ideologische krachten binnen de Chinese Communistische Partij. Kim en Wang legden een krans bij het monument ter herdenking van het verzet tegen de VS en de",
       "url": "https://nos.nl/l/2636485",
-      "datum": "5 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,7 +140,7 @@
       "titel": "'Het wordt een dure stem': expats speciaal terug naar Israël om te stemmen",
       "beschrijving": "Tienduizenden Israëliërs die in het buitenland wonen, gaan in aanloop naar de verkiezingen op 27 oktober terug naar hun land om te stemmen. Niet alleen in Israël, maar ook daarbuiten is het gevoel dat er veel op het spel staat en dat juist nu elke stem telt om de koers van het land te bepalen. Volgens de wet kan je alleen stemmen als je in Israël bent. Alleen voor Israëlische militairen, diplomate",
       "url": "https://nos.nl/l/2636475",
-      "datum": "6 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -131,7 +149,7 @@
       "titel": "24/10 in Nieuwsuur: Golf van protesten in Europa • De uitdagers van Netanyahu • Paul Scheffer over de nieuwe wereldorde",
       "beschrijving": "Golf van protesten Een week na de hevige rellen in Frankrijk waren opnieuw tienduizenden demonstranten op de been. Ook in Italië en Spanje waren vandaag protesten, net als eerder in Servië en Albanië. Gemene deler van al die demonstraties: ze zijn begonnen door jongeren die zorgen hebben over hun toekomst en zich niet gehoord voelen door de politiek. De jongeren hebben de cijfers aan hun kant: rui",
       "url": "https://nos.nl/l/2636473",
-      "datum": "6 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -140,7 +158,7 @@
       "titel": "Bijna 1000 arrestaties bij demonstraties in Frankrijk, hier en daar rellen",
       "beschrijving": "In heel Frankrijk hebben vandaag ruim 400.000 mensen meegelopen in protestmarsen, zegt de Franse minister van Binnenlandse Zaken. De mars door Parijs is grotendeels rustig verlopen. De route werd verlegd van de plekken waar het vorige week uit de hand liep naar een zuidelijker deel van de stad. Volgens de politie liepen er 110.000 mensen mee in de mars door Parijs. Er is was een grote politiemacht",
       "url": "https://nos.nl/l/2636465",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -149,34 +167,16 @@
       "titel": "Verwarde man opgepakt voor verwoestende brand Hitlers Adelaarsnest",
       "beschrijving": "De Duitse politie denkt dat een verwarde man achter de verwoestende brand zit in Hitlers buitenverblijf het Adelaarsnest vannacht. Volgens het Duitse Openbaar Ministerie heeft de 33-jarige man die vannacht werd opgepakt psychische klachten. Gisteravond brak er rond 21.15 uur brand uit in het Kehlsteinhaus op de Obersalzberg, in 1938 gebouwd als plek waar Adolf Hitler (buitenlandse) gasten kon ontv",
       "url": "https://nos.nl/l/2636456",
-      "datum": "9 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Thousands gather at new Albanian antigovernment rally",
-      "beschrijving": "More than 300 protesters and police were injured in the Albanian capital Tirana&#039;s fiercest clashes in days.",
-      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+      "titel": "Severe hunger stalks people in Gaza as bakeries close down",
+      "beschrijving": "Bakeries across Gaza are struggling to find flour to make bread for people desperate for food.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Kim Jong Un crosses new bridge linking North Korea and China",
-      "beschrijving": "Kim Jong Un crosses new bridge linking North Korea and China",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
-      "beschrijving": "Palestinians in Hebron are &#039;living in fear&#039; with the city closed, while Israeli forces arrest dozens across the West Bank.",
-      "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
-      "datum": "4 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -184,14 +184,14 @@
   ],
   "ticker": [
     "Franse krant: aanslagpleger Parijs wilde zwarte en Arabische mensen doden",
+    "Iran blames US for deal failure, urges new try amid fear of new attacks",
+    "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
     "Father who killed Oregon school gunman describes anguish over children he couldn't save",
     "Three released without charge after fatal arson attack in Ireland",
     "Australian MP's condition improves after alleged car attack",
     "Demonstraties in Europese steden: rellen in Tirana, militairen ingezet in Milaan",
-    "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
-    "Thousands of Israelis rally against Netanyahu gov’t days before election",
-    "Serbian elections: A country where students may actually take power",
-    "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-    "Bijna 1000 arrestaties in Frankrijk, minister tevreden over verloop protesten"
+    "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+    "Could Israel’s military crackdown influence Tuesday’s election?",
+    "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0"
   ]
 }
