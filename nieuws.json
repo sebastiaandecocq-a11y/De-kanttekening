@@ -1,48 +1,75 @@
 {
-  "bijgewerkt": "25 Oct 2026 20:36 UTC",
+  "bijgewerkt": "25 Oct 2026 23:05 UTC",
   "artikelen": [
     {
       "titel": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
       "beschrijving": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
       "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "datum": "18 uur geleden",
+      "datum": "20 uur geleden",
       "regio": "VS",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Afgetreden president Vucic erkent nederlaag: studentenbeweging wint verkiezingen Servië",
+      "beschrijving": "De Studentenlijst in Servië heeft de meeste stemmen behaald in de parlementsverkiezingen. Dat zegt voormalig president Vucic op basis van een exitpoll. Hij erkent daarmee zijn verlies. \"We hebben nog geen definitieve uitslagen, maar op basis van een steekproef is het duidelijk dat we deze verkiezingen hebben verloren. De Studentenlijst heeft gewonnen. Zij zullen tussen de 135 en 140 zetels krijgen",
+      "url": "https://nos.nl/l/2636669",
+      "datum": "2 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Pro-Russische presidentskandidaat Bulgarije aan kop na eerste verkiezingsronde",
+      "beschrijving": "De gematigd pro-Russische president Iliana Jotova van Bulgarije heeft volgens de exitpolls de meeste stemmen gekregen in de eerste ronde van de presidentsverkiezingen. Door een historisch lage opkomst moet er een tweede stemronde aan te pas komen op 1 november. Volgens verschillende Bulgaarse prognoses brachten iets meer dan 20 procent van de stemgerechtigden hun stem uit. Jotova zou volgens versc",
+      "url": "https://nos.nl/l/2636668",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
       "titel": "25/10 in Nieuwsuur: Verkiezingen in Brazilië • De strijd om satellieten • Zoektocht naar James Bond",
       "beschrijving": "Verkiezingen in Brazilië Brazilianen gaan vandaag naar de stembus voor de presidentsverkiezingen. Blijft de zittende linkse president Lula da Silva (80) aan de macht of kiest het volk voor de radicaal-rechtse kandidaat en Trump-bondgenoot Flávio Bolsonaro (45)? Rond de start van onze uitzending wordt de eerste voorlopige uitslag verwacht. We volgen het laatste nieuws met correspondent Nina Jurna e",
       "url": "https://nos.nl/l/2636605",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Japanse justitie vervolgt Amerikaanse militair voor moord 39-jarige vrouw",
-      "beschrijving": "Een Amerikaanse militair wordt officieel aangeklaagd voor moord en beroving van een vrouw op Okinawa. De vrouw zou zijn gewurgd met een telefoonkabel, schrijven Japanse media. De 20-jarige Devin Jacob Ballard werd op zondag 4 oktober opgepakt. Hij zou de dag ervoor de 39-jarige Anna Yagi hebben gewurgd in een hotel in Naha, de hoofdstad van het Japanse eiland. Ook zou hij haar portemonnee en rugza",
-      "url": "https://nos.nl/l/2636583",
-      "datum": "8 uur geleden",
+      "titel": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+      "beschrijving": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Brazil election results 2026 live: Top court extends voting for two hours",
-      "beschrijving": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in a closely watched election.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
-      "datum": "36 min geleden",
-      "regio": "Europa",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Early reports suggest record high turnout in Serbia elections",
-      "beschrijving": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "datum": "41 min geleden",
+      "titel": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
+      "beschrijving": "Legal challenges are likely, as the voting-hour extension adds tension to Brazil&#039;s polarised political landscape.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "beschrijving": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "datum": "10 min geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Deeply divided Israel braces for pivotal election",
+      "beschrijving": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "datum": "54 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "BBC World"
     },
@@ -50,16 +77,25 @@
       "titel": "Israel to close West Bank crossings on election day as crackdown escalates",
       "beschrijving": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "datum": "15 uur geleden",
+      "datum": "17 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Stembureaus Brazilië twee uur langer open na ingrijpen Hooggerechtshof",
+      "beschrijving": "De stemlokalen in Brazilië blijven vandaag twee uur langer open voor de beslissende ronde van de presidentsverkiezingen, heeft het Hooggerechtshof besloten. De reden daarvoor zijn problemen die kiezers ondervinden met het vervoer naar de stembureaus. Oorspronkelijk zouden de stembureaus om 17.00 uur Braziliaanse tijd (21.00 uur Nederlandse tijd) sluiten. De stembusgang is nu op last van het Hoogge",
+      "url": "https://nos.nl/l/2636672",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Zoekactie naar watersporter bij Scheveningen stilgelegd vanwege duisternis",
       "beschrijving": "Rond Scheveningen en Kijkduin is een grote zoekactie geweest naar een vermiste watersporter. Het gaat vermoedelijk om een surfer of kiter. De zoekactie is aan het begin van de avond stopgezet. Even na 14.00 uur werd bij de meldkamer alarm geslagen over de vermiste watersporter. Sindsdien werd er aan land, op zee en in de lucht gezocht, in het gebied tussen Kijkduin en de pier van Scheveningen. \"On",
       "url": "https://nos.nl/l/2636664",
-      "datum": "1 uur geleden",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +104,7 @@
       "titel": "Audi bouwt eerste fabriek in Verenigde Staten, kritiek vanuit Duitsland",
       "beschrijving": "De Duitse autofabrikant Audi gaat voor 4 miljard dollar (3,6 miljard euro) een nieuwe fabriek bouwen in de staat Georgia en daarmee voor het eerst auto's produceren in de Verenigde Staten. De dochteronderneming van Volkswagen wil er jaarlijks 200.000 SUV's produceren. Dat nieuws werd aangekondigd door de Amerikaanse president Trump tijdens een Republikeinse verkiezingsbijeenkomst in de stad Perry.",
       "url": "https://nos.nl/l/2636652",
-      "datum": "2 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +113,7 @@
       "titel": "Erfprins Liechtenstein blokkeert abortuswet, demonstraties tegen vetorecht vorst",
       "beschrijving": "In Liechtenstein is gedemonstreerd tegen erfprins Alois, die zijn vetorecht heeft ingezet om een nieuwe abortuswet tegen te houden. Honderden demonstranten verzamelden zich gisteren voor zijn kasteel in de hoofdstad Vaduz. Demonstraties zijn zeldzaam in het kleine Alpenland. Betogers liepen met spandoeken met daarop \"Mijn lichaam, mijn veto\" en \"Mijn lichaam behoort niet toe aan het vorstendom\", s",
       "url": "https://nos.nl/l/2636645",
-      "datum": "3 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +122,7 @@
       "titel": "Oppositieleider María Corina Machado terug in Venezuela",
       "beschrijving": "De Venezolaanse oppositieleider María Corina Machado is teruggekeerd in Venezuela. Dat schrijft ze op X. \"Ik ben hier. Bij jullie\", schrijft Machado. De oppositieleider en tevens Nobelprijswinnaar verbleef bijna een jaar in het buitenland nadat ze stiekem naar Noorwegen was gereisd om de Nobelprijs voor de Vrede in ontvangst te nemen. De afgelopen tijd zat ze in Panama. Ze deed vervolgens een aant",
       "url": "https://nos.nl/l/2636622",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +131,7 @@
       "titel": "Gadi Eisenkot: de generaal die politicus werd en daarna Netanyahu's grootste uitdager",
       "beschrijving": "Hij zou zomaar eens de nieuwe premier van Israël kunnen worden, Gadi Eisenkot. Ondanks dat zijn partij Yashar pas een jaar oud is, is hij de grote uitdager van de zittende premier Netanyahu, met wie Eisenkot al maandenlang in een nek-aan-nekrace verkeert. Volgens de laatste peilingen verkiezen de Israëliërs hem nu boven Netanyahu. De twee zijn geen onbekenden van elkaar. Eisenkot diende decenniala",
       "url": "https://nos.nl/l/2636617",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,62 +140,17 @@
       "titel": "Gordels in aantal achtbanen VS na dodelijk ongeluk",
       "beschrijving": "Pretparkbedrijf Six Flags gaat veiligheidsgordels aanbrengen in drie achtbanen die in attractieparken van het bedrijf staan. Een van die achtbanen is de Goliath bij Atlanta in de Amerikaanse staat Georgia. Begin oktober kwam een 42-jarige man om het leven toen hij uit de achtbaan werd geslingerd. Andere mensen die in de achtbaan zaten, raakten gewond toen ze geraakt werden door de man die uit de a",
       "url": "https://nos.nl/l/2636588",
-      "datum": "7 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Kiezen Brazilianen toch voor Lula of breiden de Bolsonaro's hun macht verder uit?",
-      "beschrijving": "De tweede en beslissende verkiezingsronde vandaag in Brazilië is een spannende strijd tussen de zittende linkse president Lula da Silva (80) en de radicaal-rechtse kandidaat Flávio Bolsonaro (45), zoon van de veroordeelde ex-president Jair Bolsonaro. Maar wie na vandaag de nieuwe president van Brazilië ook wordt, de macht van de familie Bolsonaro is al fors toegenomen. Na de eerste verkiezingsrond",
-      "url": "https://nos.nl/l/2636574",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Gaan Trump, Poetin en Xi beslissen over Oekraïne? 'Alle alarmbellen moeten afgaan'",
-      "beschrijving": "Trump, Poetin en Xi die met z'n drietjes gaan onderhandelen over een Oekraïne-vredesdeal. Het is een idee van de Russische president dat in de smaak valt bij Trump, die volop de banden aanhaalt met het Kremlin. Europa- en Oekraïnegezinde geopolitieke analisten houden hun hart vast. Want een vredesdeal zonder Oekraïense handtekening eronder zal hoogstwaarschijnlijk slecht uitpakken voor Oekraïne, e",
-      "url": "https://nos.nl/l/2636566",
-      "datum": "11 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Serbia voter turnout highest in decades as students oppose longtime leader",
-      "beschrijving": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-      "beschrijving": "The Nobel laureate&#039;s homecoming follows national protests demanding free elections.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
-      "beschrijving": "Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London.",
-      "url": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
+      "titel": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+      "beschrijving": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israeli air strike on Gaza City university kills three people",
-      "beschrijving": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -167,7 +158,7 @@
       "titel": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "beschrijving": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
       "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,7 +167,7 @@
       "titel": "Gabon says access to social media restored after eight-month ban",
       "beschrijving": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
       "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -184,14 +175,14 @@
   ],
   "ticker": [
     "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+    "Afgetreden president Vucic erkent nederlaag: studentenbeweging wint verkiezingen Servië",
+    "Pro-Russische presidentskandidaat Bulgarije aan kop na eerste verkiezingsronde",
     "25/10 in Nieuwsuur: Verkiezingen in Brazilië • De strijd om satellieten • Zoektocht naar James Bond",
-    "Japanse justitie vervolgt Amerikaanse militair voor moord 39-jarige vrouw",
-    "Brazil election results 2026 live: Top court extends voting for two hours",
-    "Early reports suggest record high turnout in Serbia elections",
+    "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+    "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
+    "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+    "Deeply divided Israel braces for pivotal election",
     "Israel to close West Bank crossings on election day as crackdown escalates",
-    "Zoekactie naar watersporter bij Scheveningen stilgelegd vanwege duisternis",
-    "Audi bouwt eerste fabriek in Verenigde Staten, kritiek vanuit Duitsland",
-    "Erfprins Liechtenstein blokkeert abortuswet, demonstraties tegen vetorecht vorst",
-    "Oppositieleider María Corina Machado terug in Venezuela"
+    "Stembureaus Brazilië twee uur langer open na ingrijpen Hooggerechtshof"
   ]
 }
