@@ -1,29 +1,11 @@
 {
-  "bijgewerkt": "25 Oct 2026 17:30 UTC",
+  "bijgewerkt": "25 Oct 2026 20:36 UTC",
   "artikelen": [
-    {
-      "titel": "Jordanians mourn victims of deadly church attack",
-      "beschrijving": "Jordanians mourn victims of deadly church attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Seven killed in Gaza as Israel targets university campus and other sites",
-      "beschrijving": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
     {
       "titel": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
       "beschrijving": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
       "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "datum": "15 uur geleden",
+      "datum": "18 uur geleden",
       "regio": "VS",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,7 +14,7 @@
       "titel": "25/10 in Nieuwsuur: Verkiezingen in Brazilië • De strijd om satellieten • Zoektocht naar James Bond",
       "beschrijving": "Verkiezingen in Brazilië Brazilianen gaan vandaag naar de stembus voor de presidentsverkiezingen. Blijft de zittende linkse president Lula da Silva (80) aan de macht of kiest het volk voor de radicaal-rechtse kandidaat en Trump-bondgenoot Flávio Bolsonaro (45)? Rond de start van onze uitzending wordt de eerste voorlopige uitslag verwacht. We volgen het laatste nieuws met correspondent Nina Jurna e",
       "url": "https://nos.nl/l/2636605",
-      "datum": "2 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "NOS"
@@ -41,25 +23,25 @@
       "titel": "Japanse justitie vervolgt Amerikaanse militair voor moord 39-jarige vrouw",
       "beschrijving": "Een Amerikaanse militair wordt officieel aangeklaagd voor moord en beroving van een vrouw op Okinawa. De vrouw zou zijn gewurgd met een telefoonkabel, schrijven Japanse media. De 20-jarige Devin Jacob Ballard werd op zondag 4 oktober opgepakt. Hij zou de dag ervoor de 39-jarige Anna Yagi hebben gewurgd in een hotel in Naha, de hoofdstad van het Japanse eiland. Ook zou hij haar portemonnee en rugza",
       "url": "https://nos.nl/l/2636583",
-      "datum": "5 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Servische studenten dagen Vucic uit bij spannendste parlementsverkiezingen in jaren",
-      "beschrijving": "Maken studenten in Servië een einde aan twaalf jaar heerschappij van de autocratische leider Aleksandar Vucic? Om die vraag draait het vandaag bij de parlementsverkiezingen in het Balkanland. Het zijn de spannendste sinds Vucic en zijn Servische Progressieve Partij (SNS) aan de macht kwamen, want de Studentenlijst maakt een serieuze kans. Volgens peilingen liggen de twee kampen nek aan nek. Vucic ",
-      "url": "https://nos.nl/l/2636539",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
+      "titel": "Brazil election results 2026 live: Top court extends voting for two hours",
+      "beschrijving": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in a closely watched election.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+      "datum": "36 min geleden",
+      "regio": "Europa",
       "urgentie": "midden",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Early reports suggest record high turnout in Serbia elections",
-      "beschrijving": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "beschrijving": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
       "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "41 min geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -68,16 +50,43 @@
       "titel": "Israel to close West Bank crossings on election day as crackdown escalates",
       "beschrijving": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Zoekactie naar watersporter bij Scheveningen stilgelegd vanwege duisternis",
+      "beschrijving": "Rond Scheveningen en Kijkduin is een grote zoekactie geweest naar een vermiste watersporter. Het gaat vermoedelijk om een surfer of kiter. De zoekactie is aan het begin van de avond stopgezet. Even na 14.00 uur werd bij de meldkamer alarm geslagen over de vermiste watersporter. Sindsdien werd er aan land, op zee en in de lucht gezocht, in het gebied tussen Kijkduin en de pier van Scheveningen. \"On",
+      "url": "https://nos.nl/l/2636664",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Audi bouwt eerste fabriek in Verenigde Staten, kritiek vanuit Duitsland",
+      "beschrijving": "De Duitse autofabrikant Audi gaat voor 4 miljard dollar (3,6 miljard euro) een nieuwe fabriek bouwen in de staat Georgia en daarmee voor het eerst auto's produceren in de Verenigde Staten. De dochteronderneming van Volkswagen wil er jaarlijks 200.000 SUV's produceren. Dat nieuws werd aangekondigd door de Amerikaanse president Trump tijdens een Republikeinse verkiezingsbijeenkomst in de stad Perry.",
+      "url": "https://nos.nl/l/2636652",
+      "datum": "2 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Erfprins Liechtenstein blokkeert abortuswet, demonstraties tegen vetorecht vorst",
+      "beschrijving": "In Liechtenstein is gedemonstreerd tegen erfprins Alois, die zijn vetorecht heeft ingezet om een nieuwe abortuswet tegen te houden. Honderden demonstranten verzamelden zich gisteren voor zijn kasteel in de hoofdstad Vaduz. Demonstraties zijn zeldzaam in het kleine Alpenland. Betogers liepen met spandoeken met daarop \"Mijn lichaam, mijn veto\" en \"Mijn lichaam behoort niet toe aan het vorstendom\", s",
+      "url": "https://nos.nl/l/2636645",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Oppositieleider María Corina Machado terug in Venezuela",
       "beschrijving": "De Venezolaanse oppositieleider María Corina Machado is teruggekeerd in Venezuela. Dat schrijft ze op X. \"Ik ben hier. Bij jullie\", schrijft Machado. De oppositieleider en tevens Nobelprijswinnaar verbleef bijna een jaar in het buitenland nadat ze stiekem naar Noorwegen was gereisd om de Nobelprijs voor de Vrede in ontvangst te nemen. De afgelopen tijd zat ze in Panama. Ze deed vervolgens een aant",
       "url": "https://nos.nl/l/2636622",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "Gadi Eisenkot: de generaal die politicus werd en daarna Netanyahu's grootste uitdager",
       "beschrijving": "Hij zou zomaar eens de nieuwe premier van Israël kunnen worden, Gadi Eisenkot. Ondanks dat zijn partij Yashar pas een jaar oud is, is hij de grote uitdager van de zittende premier Netanyahu, met wie Eisenkot al maandenlang in een nek-aan-nekrace verkeert. Volgens de laatste peilingen verkiezen de Israëliërs hem nu boven Netanyahu. De twee zijn geen onbekenden van elkaar. Eisenkot diende decenniala",
       "url": "https://nos.nl/l/2636617",
-      "datum": "1 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +104,7 @@
       "titel": "Gordels in aantal achtbanen VS na dodelijk ongeluk",
       "beschrijving": "Pretparkbedrijf Six Flags gaat veiligheidsgordels aanbrengen in drie achtbanen die in attractieparken van het bedrijf staan. Een van die achtbanen is de Goliath bij Atlanta in de Amerikaanse staat Georgia. Begin oktober kwam een 42-jarige man om het leven toen hij uit de achtbaan werd geslingerd. Andere mensen die in de achtbaan zaten, raakten gewond toen ze geraakt werden door de man die uit de a",
       "url": "https://nos.nl/l/2636588",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,71 +113,53 @@
       "titel": "Kiezen Brazilianen toch voor Lula of breiden de Bolsonaro's hun macht verder uit?",
       "beschrijving": "De tweede en beslissende verkiezingsronde vandaag in Brazilië is een spannende strijd tussen de zittende linkse president Lula da Silva (80) en de radicaal-rechtse kandidaat Flávio Bolsonaro (45), zoon van de veroordeelde ex-president Jair Bolsonaro. Maar wie na vandaag de nieuwe president van Brazilië ook wordt, de macht van de familie Bolsonaro is al fors toegenomen. Na de eerste verkiezingsrond",
       "url": "https://nos.nl/l/2636574",
-      "datum": "6 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Gaan Trump, Poetin en Xi beslissen over Oekraïne? 'Alle alarmbellen moeten afgaan'",
-      "beschrijving": "Trump, Poetin en Xi die met z'n drietjes gaan onderhandelen over een Oekraïne-vredesdeal. Het is een idee van de Russische president en Trump - die volop de banden aanhaalt met het Kremlin - heeft er ook wel oren naar. Maar Europa- en Oekraïnegezinde geopolitieke analisten houden hun hart vast. Want een vredesdeal zonder Oekraïense handtekening eronder zal hoogstwaarschijnlijk slecht uitpakken voo",
+      "beschrijving": "Trump, Poetin en Xi die met z'n drietjes gaan onderhandelen over een Oekraïne-vredesdeal. Het is een idee van de Russische president dat in de smaak valt bij Trump, die volop de banden aanhaalt met het Kremlin. Europa- en Oekraïnegezinde geopolitieke analisten houden hun hart vast. Want een vredesdeal zonder Oekraïense handtekening eronder zal hoogstwaarschijnlijk slecht uitpakken voor Oekraïne, e",
       "url": "https://nos.nl/l/2636566",
-      "datum": "8 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Plunderingen en brandstichtingen in Barcelona, ruim 100 mensen opgepakt",
-      "beschrijving": "Bij een protest in het centrum van Barcelona zijn zo'n honderd mensen opgepakt na plunderingen en brandstichtingen. Iets meer dan de helft is minderjarig, schrijven Spaanse media. De ongeregeldheden gingen tot diep in de nacht door. Het protest zou een reactie zijn geweest op de demonstraties in Frankrijk. Jongeren waren via sociale media opgeroepen om mee te doen. Online ging de slogan 'institut ",
-      "url": "https://nos.nl/l/2636564",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 25/10: Le Pen lanceert presidentscampagne Frankrijk • PSV-Feyenoord in eredivisie",
-      "beschrijving": "Goedemorgen! Vannacht is de wintertijd ingegaan. De klok ging een uur achteruit en de meeste mensen hebben een uurtje langer kunnen slapen. Dit kun je verwachten vandaag: In Frankrijk lanceert Marine Le Pen haar campagne voor het presidentschap en in de eredivisie is het tijd voor de kraker PSV-Feyenoord. Eerst het weer: Vandaag is het onstuimig met een stevige zuiden- tot westenwind. Daarbij wiss",
-      "url": "https://nos.nl/l/2636538",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "beschrijving": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
-      "datum": "17 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-      "beschrijving": "The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
-      "datum": "59 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israeli soldiers beat elderly Palestinian in Hebron",
-      "beschrijving": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "UN official warns AI could ‘deepen’ global inequality",
-      "beschrijving": "UN official warns AI could ‘deepen’ global inequality",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
+      "titel": "Serbia voter turnout highest in decades as students oppose longtime leader",
+      "beschrijving": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+      "beschrijving": "The Nobel laureate&#039;s homecoming follows national protests demanding free elections.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
+      "beschrijving": "Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London.",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israeli air strike on Gaza City university kills three people",
+      "beschrijving": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -176,22 +167,31 @@
       "titel": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "beschrijving": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
       "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Gabon says access to social media restored after eight-month ban",
+      "beschrijving": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Jordanians mourn victims of deadly church attack",
-    "Seven killed in Gaza as Israel targets university campus and other sites",
     "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
     "25/10 in Nieuwsuur: Verkiezingen in Brazilië • De strijd om satellieten • Zoektocht naar James Bond",
     "Japanse justitie vervolgt Amerikaanse militair voor moord 39-jarige vrouw",
-    "Servische studenten dagen Vucic uit bij spannendste parlementsverkiezingen in jaren",
+    "Brazil election results 2026 live: Top court extends voting for two hours",
     "Early reports suggest record high turnout in Serbia elections",
     "Israel to close West Bank crossings on election day as crackdown escalates",
-    "Oppositieleider María Corina Machado terug in Venezuela",
-    "Gadi Eisenkot: de generaal die politicus werd en daarna Netanyahu's grootste uitdager"
+    "Zoekactie naar watersporter bij Scheveningen stilgelegd vanwege duisternis",
+    "Audi bouwt eerste fabriek in Verenigde Staten, kritiek vanuit Duitsland",
+    "Erfprins Liechtenstein blokkeert abortuswet, demonstraties tegen vetorecht vorst",
+    "Oppositieleider María Corina Machado terug in Venezuela"
   ]
 }
