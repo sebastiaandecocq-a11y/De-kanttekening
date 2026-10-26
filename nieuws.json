@@ -1,20 +1,47 @@
 {
-  "bijgewerkt": "25 Oct 2026 23:05 UTC",
+  "bijgewerkt": "26 Oct 2026 04:00 UTC",
   "artikelen": [
+    {
+      "titel": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+      "beschrijving": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "VS",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
+      "beschrijving": "Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+      "datum": "4 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
     {
       "titel": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
       "beschrijving": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
       "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "datum": "20 uur geleden",
+      "datum": "1 dagen geleden",
       "regio": "VS",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Lula wint verkiezingen in Brazilië, Bolsonaro erkent zijn verlies niet",
+      "beschrijving": "De verkiezingen in Brazilië zijn gewonnen door zittend president Lula. Hij kreeg ongeveer 52 procent van de stemmen, heeft de kiesraad bekend gemaakt. De verkiezingen waren een nek-aan-nekrace tussen de radicaal-rechtse Flávio Bolsonaro (45) en de linkse Lula da Silva (80). De eerste ronde werd gewonnen door Bolsonaro, hoewel Lula aan kop ging in de peilingen. Omdat beiden geen absolute meerderhei",
+      "url": "https://nos.nl/l/2636684",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
       "titel": "Afgetreden president Vucic erkent nederlaag: studentenbeweging wint verkiezingen Servië",
       "beschrijving": "De Studentenlijst in Servië heeft de meeste stemmen behaald in de parlementsverkiezingen. Dat zegt voormalig president Vucic op basis van een exitpoll. Hij erkent daarmee zijn verlies. \"We hebben nog geen definitieve uitslagen, maar op basis van een steekproef is het duidelijk dat we deze verkiezingen hebben verloren. De Studentenlijst heeft gewonnen. Zij zullen tussen de 135 en 140 zetels krijgen",
       "url": "https://nos.nl/l/2636669",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Afrika",
       "urgentie": "midden",
       "bron": "NOS"
@@ -23,7 +50,7 @@
       "titel": "Pro-Russische presidentskandidaat Bulgarije aan kop na eerste verkiezingsronde",
       "beschrijving": "De gematigd pro-Russische president Iliana Jotova van Bulgarije heeft volgens de exitpolls de meeste stemmen gekregen in de eerste ronde van de presidentsverkiezingen. Door een historisch lage opkomst moet er een tweede stemronde aan te pas komen op 1 november. Volgens verschillende Bulgaarse prognoses brachten iets meer dan 20 procent van de stemgerechtigden hun stem uit. Jotova zou volgens versc",
       "url": "https://nos.nl/l/2636668",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
@@ -32,43 +59,61 @@
       "titel": "25/10 in Nieuwsuur: Verkiezingen in Brazilië • De strijd om satellieten • Zoektocht naar James Bond",
       "beschrijving": "Verkiezingen in Brazilië Brazilianen gaan vandaag naar de stembus voor de presidentsverkiezingen. Blijft de zittende linkse president Lula da Silva (80) aan de macht of kiest het volk voor de radicaal-rechtse kandidaat en Trump-bondgenoot Flávio Bolsonaro (45)? Rond de start van onze uitzending wordt de eerste voorlopige uitslag verwacht. We volgen het laatste nieuws met correspondent Nina Jurna e",
       "url": "https://nos.nl/l/2636605",
-      "datum": "8 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-      "beschrijving": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+      "titel": "Lula thanks Brazil’s youth for historic election win",
+      "beschrijving": "Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
+      "datum": "46 min geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+      "beschrijving": "Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
-      "beschrijving": "Legal challenges are likely, as the voting-hour extension adds tension to Brazil&#039;s polarised political landscape.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+      "titel": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+      "beschrijving": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Serbia celebrates historic election win for student-backed movement",
+      "beschrijving": "Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
       "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "beschrijving": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "datum": "10 min geleden",
+      "titel": "Lula holds off far right with victory in Brazil presidential election",
+      "beschrijving": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Deeply divided Israel braces for pivotal election",
       "beschrijving": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
       "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "datum": "54 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -77,7 +122,7 @@
       "titel": "Israel to close West Bank crossings on election day as crackdown escalates",
       "beschrijving": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "datum": "17 uur geleden",
+      "datum": "22 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -86,7 +131,7 @@
       "titel": "Stembureaus Brazilië twee uur langer open na ingrijpen Hooggerechtshof",
       "beschrijving": "De stemlokalen in Brazilië blijven vandaag twee uur langer open voor de beslissende ronde van de presidentsverkiezingen, heeft het Hooggerechtshof besloten. De reden daarvoor zijn problemen die kiezers ondervinden met het vervoer naar de stembureaus. Oorspronkelijk zouden de stembureaus om 17.00 uur Braziliaanse tijd (21.00 uur Nederlandse tijd) sluiten. De stembusgang is nu op last van het Hoogge",
       "url": "https://nos.nl/l/2636672",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +140,7 @@
       "titel": "Zoekactie naar watersporter bij Scheveningen stilgelegd vanwege duisternis",
       "beschrijving": "Rond Scheveningen en Kijkduin is een grote zoekactie geweest naar een vermiste watersporter. Het gaat vermoedelijk om een surfer of kiter. De zoekactie is aan het begin van de avond stopgezet. Even na 14.00 uur werd bij de meldkamer alarm geslagen over de vermiste watersporter. Sindsdien werd er aan land, op zee en in de lucht gezocht, in het gebied tussen Kijkduin en de pier van Scheveningen. \"On",
       "url": "https://nos.nl/l/2636664",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +149,7 @@
       "titel": "Audi bouwt eerste fabriek in Verenigde Staten, kritiek vanuit Duitsland",
       "beschrijving": "De Duitse autofabrikant Audi gaat voor 4 miljard dollar (3,6 miljard euro) een nieuwe fabriek bouwen in de staat Georgia en daarmee voor het eerst auto's produceren in de Verenigde Staten. De dochteronderneming van Volkswagen wil er jaarlijks 200.000 SUV's produceren. Dat nieuws werd aangekondigd door de Amerikaanse president Trump tijdens een Republikeinse verkiezingsbijeenkomst in de stad Perry.",
       "url": "https://nos.nl/l/2636652",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +158,7 @@
       "titel": "Erfprins Liechtenstein blokkeert abortuswet, demonstraties tegen vetorecht vorst",
       "beschrijving": "In Liechtenstein is gedemonstreerd tegen erfprins Alois, die zijn vetorecht heeft ingezet om een nieuwe abortuswet tegen te houden. Honderden demonstranten verzamelden zich gisteren voor zijn kasteel in de hoofdstad Vaduz. Demonstraties zijn zeldzaam in het kleine Alpenland. Betogers liepen met spandoeken met daarop \"Mijn lichaam, mijn veto\" en \"Mijn lichaam behoort niet toe aan het vorstendom\", s",
       "url": "https://nos.nl/l/2636645",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,7 +167,7 @@
       "titel": "Oppositieleider María Corina Machado terug in Venezuela",
       "beschrijving": "De Venezolaanse oppositieleider María Corina Machado is teruggekeerd in Venezuela. Dat schrijft ze op X. \"Ik ben hier. Bij jullie\", schrijft Machado. De oppositieleider en tevens Nobelprijswinnaar verbleef bijna een jaar in het buitenland nadat ze stiekem naar Noorwegen was gereisd om de Nobelprijs voor de Vrede in ontvangst te nemen. De afgelopen tijd zat ze in Panama. Ze deed vervolgens een aant",
       "url": "https://nos.nl/l/2636622",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -131,58 +176,22 @@
       "titel": "Gadi Eisenkot: de generaal die politicus werd en daarna Netanyahu's grootste uitdager",
       "beschrijving": "Hij zou zomaar eens de nieuwe premier van Israël kunnen worden, Gadi Eisenkot. Ondanks dat zijn partij Yashar pas een jaar oud is, is hij de grote uitdager van de zittende premier Netanyahu, met wie Eisenkot al maandenlang in een nek-aan-nekrace verkeert. Volgens de laatste peilingen verkiezen de Israëliërs hem nu boven Netanyahu. De twee zijn geen onbekenden van elkaar. Eisenkot diende decenniala",
       "url": "https://nos.nl/l/2636617",
-      "datum": "7 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
-    },
-    {
-      "titel": "Gordels in aantal achtbanen VS na dodelijk ongeluk",
-      "beschrijving": "Pretparkbedrijf Six Flags gaat veiligheidsgordels aanbrengen in drie achtbanen die in attractieparken van het bedrijf staan. Een van die achtbanen is de Goliath bij Atlanta in de Amerikaanse staat Georgia. Begin oktober kwam een 42-jarige man om het leven toen hij uit de achtbaan werd geslingerd. Andere mensen die in de achtbaan zaten, raakten gewond toen ze geraakt werden door de man die uit de a",
-      "url": "https://nos.nl/l/2636588",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
-      "beschrijving": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "beschrijving": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Gabon says access to social media restored after eight-month ban",
-      "beschrijving": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+    "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
     "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+    "Lula wint verkiezingen in Brazilië, Bolsonaro erkent zijn verlies niet",
     "Afgetreden president Vucic erkent nederlaag: studentenbeweging wint verkiezingen Servië",
     "Pro-Russische presidentskandidaat Bulgarije aan kop na eerste verkiezingsronde",
     "25/10 in Nieuwsuur: Verkiezingen in Brazilië • De strijd om satellieten • Zoektocht naar James Bond",
-    "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-    "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
-    "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-    "Deeply divided Israel braces for pivotal election",
-    "Israel to close West Bank crossings on election day as crackdown escalates",
-    "Stembureaus Brazilië twee uur langer open na ingrijpen Hooggerechtshof"
+    "Lula thanks Brazil’s youth for historic election win",
+    "Brazil election results 2026: Key takeaways from Lula’s historic win",
+    "Netanyahu rival Eisenkot holds final rally before Israeli election"
   ]
 }
