@@ -1,47 +1,56 @@
 {
-  "bijgewerkt": "26 Oct 2026 04:00 UTC",
+  "bijgewerkt": "26 Oct 2026 10:50 UTC",
   "artikelen": [
     {
-      "titel": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-      "beschrijving": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "VS",
+      "titel": "Drie verdachten opgepakt na dodelijke aanslag op kerk in Jordanië",
+      "beschrijving": "De Jordaanse autoriteiten hebben drie verdachten opgepakt in verband met een aanslag op een kerk afgelopen vrijdag. Daarbij werden negen mensen gedood en raakten zo'n 40 anderen gewond. De drie verdachten werden vanochtend vroeg opgepakt na een schietpartij in de westelijke stad Karak. Daar vond vorige week ook de aanslag plaats. De mannen hielden zich schuil in een verlaten huis en weigerden zich",
+      "url": "https://nos.nl/l/2636712",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "'Nieuwe Houthi-aanvallen op internationale luchthaven in Saudi-Arabië'",
+      "beschrijving": "De Houthi's in Jemen claimen dat ze de internationale luchthaven van de Saudische hoofdstad Riyad opnieuw hebben geraakt. Er is niets bekend over mogelijke slachtoffers. Beelden van aanvallen zijn er vooralsnog niet, al kan dat ook samenhangen met de zware censuur in Saudi-Arabië. De luchthaven ging een paar uur voor de aanvallen open, nadat die ruim twee weken dicht was geweest, vanwege dodelijke",
+      "url": "https://nos.nl/l/2636705",
+      "datum": "2 uur geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
+      "beschrijving": "Asian Cup 2027 to kick off on January 7 with Saudi Arabia facing Palestine in Riyadh as the AFC announces the schedule.",
+      "url": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss",
+      "datum": "57 min geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
-      "beschrijving": "Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "beschrijving": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 dagen geleden",
-      "regio": "VS",
+      "titel": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "beschrijving": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "datum": "20 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
       "titel": "Lula wint verkiezingen in Brazilië, Bolsonaro erkent zijn verlies niet",
-      "beschrijving": "De verkiezingen in Brazilië zijn gewonnen door zittend president Lula. Hij kreeg ongeveer 52 procent van de stemmen, heeft de kiesraad bekend gemaakt. De verkiezingen waren een nek-aan-nekrace tussen de radicaal-rechtse Flávio Bolsonaro (45) en de linkse Lula da Silva (80). De eerste ronde werd gewonnen door Bolsonaro, hoewel Lula aan kop ging in de peilingen. Omdat beiden geen absolute meerderhei",
+      "beschrijving": "De verkiezingen in Brazilië zijn gewonnen door zittend president Lula. Hij kreeg ongeveer 52 procent van de stemmen, heeft de kiesraad bekendgemaakt. In een overwinningsspeech bedankte Lula zijn kiezers. Zijn uitdager Bolsonaro weigert zich neer te leggen bij het verlies. De verkiezingen waren een nek-aan-nekrace tussen de radicaal-rechtse Flávio Bolsonaro (45) en de linkse Lula da Silva (80). De ",
       "url": "https://nos.nl/l/2636684",
-      "datum": "3 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Afgetreden president Vucic erkent nederlaag: studentenbeweging wint verkiezingen Servië",
+      "titel": "Studentenbeweging wint verkiezingen Servië, president Vucic erkent nederlaag",
       "beschrijving": "De Studentenlijst in Servië heeft de meeste stemmen behaald in de parlementsverkiezingen. Dat zegt voormalig president Vucic op basis van een exitpoll. Hij erkent daarmee zijn verlies. \"We hebben nog geen definitieve uitslagen, maar op basis van een steekproef is het duidelijk dat we deze verkiezingen hebben verloren. De Studentenlijst heeft gewonnen. Zij zullen tussen de 135 en 140 zetels krijgen",
       "url": "https://nos.nl/l/2636669",
-      "datum": "7 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Afrika",
       "urgentie": "midden",
       "bron": "NOS"
@@ -50,148 +59,139 @@
       "titel": "Pro-Russische presidentskandidaat Bulgarije aan kop na eerste verkiezingsronde",
       "beschrijving": "De gematigd pro-Russische president Iliana Jotova van Bulgarije heeft volgens de exitpolls de meeste stemmen gekregen in de eerste ronde van de presidentsverkiezingen. Door een historisch lage opkomst moet er een tweede stemronde aan te pas komen op 1 november. Volgens verschillende Bulgaarse prognoses brachten iets meer dan 20 procent van de stemgerechtigden hun stem uit. Jotova zou volgens versc",
       "url": "https://nos.nl/l/2636668",
-      "datum": "7 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "25/10 in Nieuwsuur: Verkiezingen in Brazilië • De strijd om satellieten • Zoektocht naar James Bond",
-      "beschrijving": "Verkiezingen in Brazilië Brazilianen gaan vandaag naar de stembus voor de presidentsverkiezingen. Blijft de zittende linkse president Lula da Silva (80) aan de macht of kiest het volk voor de radicaal-rechtse kandidaat en Trump-bondgenoot Flávio Bolsonaro (45)? Rond de start van onze uitzending wordt de eerste voorlopige uitslag verwacht. We volgen het laatste nieuws met correspondent Nina Jurna e",
-      "url": "https://nos.nl/l/2636605",
-      "datum": "13 uur geleden",
-      "regio": "VS",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Lula thanks Brazil’s youth for historic election win",
-      "beschrijving": "Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
-      "datum": "46 min geleden",
+      "titel": "Algeria’s military deployment to Niger: What’s behind the move?",
+      "beschrijving": "This will be Algeria&#039;s first foreign troop deployment in 50 years as the country shifts its military doctrine.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss",
+      "datum": "58 min geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Brazil election results 2026: Key takeaways from Lula’s historic win",
-      "beschrijving": "Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference.",
-      "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
+      "titel": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
+      "beschrijving": "Flavio Bolsonaro is refusing to concede to Lula da Silva who won a historic 4th term in Sunday&#039;s election.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Netanyahu rival Eisenkot holds final rally before Israeli election",
-      "beschrijving": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+      "titel": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
+      "beschrijving": "After years of war, displacement and restrictions, Gazans ask whether Israel’s election will affect their future.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Serbia celebrates historic election win for student-backed movement",
-      "beschrijving": "Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
-      "datum": "3 uur geleden",
+      "titel": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "beschrijving": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Lula holds off far right with victory in Brazil presidential election",
-      "beschrijving": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
-      "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "Deeply divided Israel braces for pivotal election",
       "beschrijving": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
       "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "beschrijving": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "datum": "22 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "titel": "Twee doden in VK door omgewaaide bomen tijdens storm Boelo",
+      "beschrijving": "In het Verenigd Koninkrijk zijn gisteren twee mensen om het leven gekomen door storm Boelo. In Londen stierf een man van in de twintig nadat een omgewaaide boom op de auto terechtkwam waarin hij reed. In het zuidwesten van Schotland raakte een omgevallen boom een 60-jarige man. Beide mannen overleden ter plaatse. In Schotland zijn ook twee vrouwen overgebracht naar het ziekenhuis nadat zij door om",
+      "url": "https://nos.nl/l/2636698",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zoektocht naar nieuwe James Bond nadert climax: dit zijn de kanshebbers",
+      "beschrijving": "Fans wachten al jaren en nu lijkt er eindelijk een antwoord te komen op de vraag: wie volgt Daniel Craig op als James Bond? In de filmwereld wordt af en toe gepleit voor een vrouw of iemand van kleur, maar drie witte Britse mannen maken de meeste kans. Dit weekend waren de laatste screentests in Londen, melden de gerenommeerde filmsites Deadline, Variety en The Hollywood Reporter. De voornaamste k",
+      "url": "https://nos.nl/l/2636689",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 26/10: Debat Tweede Kamer over Belastingplan • Wie wint de Gouden Bal?",
+      "beschrijving": "Goedemorgen! Vandaag debatteert de Tweede Kamer met minister Heinen over het Belastingplan en vanavond wordt bekendgemaakt wie wordt uitgeroepen tot de beste voetballer van het jaar. Eerst het weer: in de ochtend is het overwegend droog met wat ruimte voor de zon. In de middag raakt het vanuit het zuidwesten bewolkt en volgt wat regen. De maxima liggen tussen 12 en 14 graden bij een vrij stevige z",
+      "url": "https://nos.nl/l/2636688",
+      "datum": "4 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Spaanse shuttlebus rijdt 20 meter hoge helling af, ruim tachtig gewonden",
+      "beschrijving": "Bij een zwaar busongeluk in Spanje zijn zeker 83 mensen gewond geraakt. Zeven van hen verkeren in kritieke toestand, meldt de Spaanse omroep RTVE. Het ongeluk gebeurde gisteren aan het einde van de middag bij Fogars de Montclús, ten noordoosten van Barcelona. De bus raakte door nog onbekende oorzaak van de weg en reed een 20 meter hoge helling af. Hulpverleners rukten uit met 23 ambulances en twee",
+      "url": "https://nos.nl/l/2636685",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Stembureaus Brazilië twee uur langer open na ingrijpen Hooggerechtshof",
       "beschrijving": "De stemlokalen in Brazilië blijven vandaag twee uur langer open voor de beslissende ronde van de presidentsverkiezingen, heeft het Hooggerechtshof besloten. De reden daarvoor zijn problemen die kiezers ondervinden met het vervoer naar de stembureaus. Oorspronkelijk zouden de stembureaus om 17.00 uur Braziliaanse tijd (21.00 uur Nederlandse tijd) sluiten. De stembusgang is nu op last van het Hoogge",
       "url": "https://nos.nl/l/2636672",
-      "datum": "6 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Zoekactie naar watersporter bij Scheveningen stilgelegd vanwege duisternis",
-      "beschrijving": "Rond Scheveningen en Kijkduin is een grote zoekactie geweest naar een vermiste watersporter. Het gaat vermoedelijk om een surfer of kiter. De zoekactie is aan het begin van de avond stopgezet. Even na 14.00 uur werd bij de meldkamer alarm geslagen over de vermiste watersporter. Sindsdien werd er aan land, op zee en in de lucht gezocht, in het gebied tussen Kijkduin en de pier van Scheveningen. \"On",
-      "url": "https://nos.nl/l/2636664",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Audi bouwt eerste fabriek in Verenigde Staten, kritiek vanuit Duitsland",
-      "beschrijving": "De Duitse autofabrikant Audi gaat voor 4 miljard dollar (3,6 miljard euro) een nieuwe fabriek bouwen in de staat Georgia en daarmee voor het eerst auto's produceren in de Verenigde Staten. De dochteronderneming van Volkswagen wil er jaarlijks 200.000 SUV's produceren. Dat nieuws werd aangekondigd door de Amerikaanse president Trump tijdens een Republikeinse verkiezingsbijeenkomst in de stad Perry.",
-      "url": "https://nos.nl/l/2636652",
-      "datum": "9 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Erfprins Liechtenstein blokkeert abortuswet, demonstraties tegen vetorecht vorst",
-      "beschrijving": "In Liechtenstein is gedemonstreerd tegen erfprins Alois, die zijn vetorecht heeft ingezet om een nieuwe abortuswet tegen te houden. Honderden demonstranten verzamelden zich gisteren voor zijn kasteel in de hoofdstad Vaduz. Demonstraties zijn zeldzaam in het kleine Alpenland. Betogers liepen met spandoeken met daarop \"Mijn lichaam, mijn veto\" en \"Mijn lichaam behoort niet toe aan het vorstendom\", s",
-      "url": "https://nos.nl/l/2636645",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Oppositieleider María Corina Machado terug in Venezuela",
-      "beschrijving": "De Venezolaanse oppositieleider María Corina Machado is teruggekeerd in Venezuela. Dat schrijft ze op X. \"Ik ben hier. Bij jullie\", schrijft Machado. De oppositieleider en tevens Nobelprijswinnaar verbleef bijna een jaar in het buitenland nadat ze stiekem naar Noorwegen was gereisd om de Nobelprijs voor de Vrede in ontvangst te nemen. De afgelopen tijd zat ze in Panama. Ze deed vervolgens een aant",
-      "url": "https://nos.nl/l/2636622",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Gadi Eisenkot: de generaal die politicus werd en daarna Netanyahu's grootste uitdager",
-      "beschrijving": "Hij zou zomaar eens de nieuwe premier van Israël kunnen worden, Gadi Eisenkot. Ondanks dat zijn partij Yashar pas een jaar oud is, is hij de grote uitdager van de zittende premier Netanyahu, met wie Eisenkot al maandenlang in een nek-aan-nekrace verkeert. Volgens de laatste peilingen verkiezen de Israëliërs hem nu boven Netanyahu. De twee zijn geen onbekenden van elkaar. Eisenkot diende decenniala",
-      "url": "https://nos.nl/l/2636617",
-      "datum": "12 uur geleden",
+      "titel": "Suwayda remains in stasis as US signals differences with Israel on Syria",
+      "beschrijving": "Governorate&#039;s Druze majority in deadlock with Syrian government.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
+      "datum": "13 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "If Netanyahu loses, what changes for Palestinians?",
+      "beschrijving": "AJLabs tracks how Israeli parties voted against eight Knesset bills that disfavoured Palestinians ahead of the election.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
+      "datum": "33 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Palestinians are opening their doors to the displaced of besieged Hebron",
+      "beschrijving": "Israel&#039;s assault on the West Bank city has forced thousands of people to flee their homes.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-    "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
-    "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+    "Drie verdachten opgepakt na dodelijke aanslag op kerk in Jordanië",
+    "'Nieuwe Houthi-aanvallen op internationale luchthaven in Saudi-Arabië'",
+    "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
+    "Russia to host first Olympic federation world event since Ukraine invasion",
     "Lula wint verkiezingen in Brazilië, Bolsonaro erkent zijn verlies niet",
-    "Afgetreden president Vucic erkent nederlaag: studentenbeweging wint verkiezingen Servië",
+    "Studentenbeweging wint verkiezingen Servië, president Vucic erkent nederlaag",
     "Pro-Russische presidentskandidaat Bulgarije aan kop na eerste verkiezingsronde",
-    "25/10 in Nieuwsuur: Verkiezingen in Brazilië • De strijd om satellieten • Zoektocht naar James Bond",
-    "Lula thanks Brazil’s youth for historic election win",
-    "Brazil election results 2026: Key takeaways from Lula’s historic win",
-    "Netanyahu rival Eisenkot holds final rally before Israeli election"
+    "Algeria’s military deployment to Niger: What’s behind the move?",
+    "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
+    "Do Palestinians in Gaza expect anything to change after Israel’s election?"
   ]
 }
