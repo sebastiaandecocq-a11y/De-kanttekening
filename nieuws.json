@@ -1,65 +1,47 @@
 {
-  "bijgewerkt": "29 Oct 2026 18:50 UTC",
+  "bijgewerkt": "29 Oct 2026 23:08 UTC",
   "artikelen": [
-    {
-      "titel": "Aanslagpleger Parijs erkent racistisch en islamofoob motief: 'Geen spijt'",
-      "beschrijving": "De verdachte van de terreuraanslag vorige week in de Parijse voorstad Trappes heeft toegegeven dat hij een racistisch en islamofoob motief had. Kevin T. zegt Trappes te hebben gekozen omdat het een \"toevluchtsoord voor islamisten\" zou zijn. Berouw heeft hij naar eigen zeggen niet. \"Hij geeft toe dat hij zich specifiek richtte op \"moslims en mensen met Afrikaanse of Noord-Afrikaanse afkomst\", maakt",
-      "url": "https://nos.nl/l/2637159",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Veertien doden bij Russische luchtaanval op treinperron Dnipro",
-      "beschrijving": "Bij een Russische droneaanval op een treinstation in de Oekraïense stad Dnipro zijn veertien mensen gedood, melden lokale autoriteiten. De gouverneur van de regio meldt op Telegram dat ook zeker vijf mensen gewond zijn geraakt. Een van de perrons op het treinstation werd geraakt, waar op dat moment de trein naar Zaporizja klaarstond, zegt hij. Ondanks een \"waarschuwing voor verhoogd gevaar\" stonde",
-      "url": "https://nos.nl/l/2637141",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
-      "beschrijving": "Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.",
-      "url": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
-      "datum": "20 min geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Albanian opposition storms parliament, sets off flares and smoke bombs",
-      "beschrijving": "Opposition lawmakers disrupt parliament session, accusing prime minister of downplaying ongoing antigovernment protests.",
-      "url": "https://www.aljazeera.com/news/2026/10/29/albanian-opposition-storms-parliament-sets-off-flares-and-smoke-bombs?traffic_source=rss",
-      "datum": "38 min geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "At least 14 people killed in attack on Ukraine train station",
-      "beschrijving": "A Russian drone strike killed at least 14 people at Dnipro’s main railway station in central Ukraine.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
-      "datum": "47 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
     {
       "titel": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
       "beschrijving": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
       "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Militaire helikopter uit Italië neergestort in Bosnië en Herzegovina, vier doden",
+      "beschrijving": "In Bosnië en Herzegovina is rond 16.00 uur lokale tijd een Italiaanse Chinook neergestort. Dat meldt het Italiaanse ministerie van Defensie. De crash gebeurde in de buurt van de stad Brcko, vlak bij de grens met Kroatië. Lokale media melden vier doden en 11 gewonden. Eerder sprak een lokale Bosnische burgemeester van drie doden en twaalf gewonden, van wie een persoon in kritieke toestand verkeerde",
+      "url": "https://nos.nl/l/2637205",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Israel election result shows no overall majority as vote count complete",
+      "beschrijving": "Opposition explores options to form coalition as no party secures the 61 seats required for parliamentary majority.",
+      "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "beschrijving": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
       "bron": "BBC World"
     },
     {
       "titel": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
       "beschrijving": "The defeated presidential candidate says he will lead the opposition from the US.",
       "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -68,25 +50,61 @@
       "titel": "EU chief lays out vision for new Canada partnership at Montreal summit",
       "beschrijving": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
       "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "beschrijving": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "titel": "Zware gevechten in Jemen, Houthi's beschuldigd van veroorzaken hongersnood",
+      "beschrijving": "Op verschillende plekken in Jemen is sprake van zware gevechten en bombardementen. Alleen al in de belegerde stad Taiz worden dertien doden gemeld, met name vrouwen en kinderen. De lokale autoriteiten beschuldigen de Houthi's, die de stad hebben omsingeld, van het veroorzaken van een hongersnood in de stad. \"De stad verkeert niet aan de rand van een hongersnood, maar in een hongersnood\", stelt gou",
+      "url": "https://nos.nl/l/2637233",
+      "datum": "54 min geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "In Mali gevonden meteoriet blijkt 4,1 miljard jaar oud",
+      "beschrijving": "Een marsmeteoriet die in september 2022 in de Sahara-woestijn in Mali werd gevonden door zogenoemde Sahrawi-meteorietenjagers, blijkt na onderzoek minstens 4,1 miljard jaar oud te zijn. De meteoriet is daarmee een van de drie oudste Marsmeteorieten die op aarde zijn gevonden. Dat concluderen onderzoekers van de NASA in een artikel in het wetenschappelijke tijdschrift Science. Het 800 gram wegende ",
+      "url": "https://nos.nl/l/2637228",
+      "datum": "1 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Doden door instorting rotsformatie in Turkse toeristische regio Cappadocië",
+      "beschrijving": "In Turkije zijn zeker drie mensen om het leven gekomen doordat een rotsformatie in de historische regio Cappadocië is ingestort. Ook raakten vijf anderen gewond. De instorting vond plaats bij de ingang van een openluchtmuseum van Göreme in de centrale provincie Nevsehir. Volgens Turkse media zijn de slachtoffers een Turks echtpaar en een Franse toerist. Vermoedelijk is de instorting veroorzaakt do",
+      "url": "https://nos.nl/l/2637227",
+      "datum": "1 uur geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Britse acteur Patrick Stewart (86) overleden, bekend van onder meer Star Trek",
+      "beschrijving": "De Britse acteur Patrick Stewart is gisteren op 86-jarige leeftijd overleden. Dat is op zijn sociale media bekendgemaakt. Stewart was een klassiek geschoolde acteur die zich het Shakespeare-repertoire eigen maakte. Bij het grotere publiek was hij voornamelijk bekend om zijn rol in de science-fictionserie Star Trek: The Next Generation en de superheldenfilms uit de X-Men-serie. Stewart overleed in ",
+      "url": "https://nos.nl/l/2637221",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Beslag gelegd op Franse huizen in onderzoek naar Oekraïense ex-functionaris",
+      "beschrijving": "In een Oekraïens corruptieonderzoek is beslag gelegd op vastgoed in Frankrijk. De zaak gaat over grootschalige oplichting bij de aanschaf van kogelwerende vesten voor het Oekraïense leger. Dat heeft de juridische EU-instantie Eurojust bekendgemaakt. Een voormalige functionaris van het Oekraïense ministerie van Defensie wordt verdacht van corruptie en witwassen. Hij zou een sleutelrol hebben gespee",
+      "url": "https://nos.nl/l/2637218",
+      "datum": "2 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Japan en Duitsland worden ‘premium partners’, maar botsen over bescherming auto’s",
       "beschrijving": "Met glimlachen, buigingen en afspraken over nauwere samenwerking ontvangt de Japanse premier Sanae Takaichi de Duitse bondskanselier Friedrich Merz in Tokio. De leiders schudden elkaar de hand en noemen elkaar zelfs \"premium partners\", alsof ze een handelsabonnement zonder reclames hebben afgesloten. Maar tussen de hoffelijkheden door klinkt openlijke kritiek. De Europese bescherming van de auto-i",
       "url": "https://nos.nl/l/2637198",
-      "datum": "55 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +113,7 @@
       "titel": "Italië laat gepersonaliseerde kentekenplaten toe, plan wordt bespot",
       "beschrijving": "TI-104MO (Ti Amo), AM-013RE (Amore) of MA-771EO (Matteo). Vanaf volgend jaar kunnen Italianen de kentekenplaat van hun voertuig personaliseren. De Italiaanse regering wil daarmee extra geld in het laatje brengen. Premier Meloni heeft het plan bekendgemaakt bij de presentatie van de begroting voor 2027, de laatste voor de parlementsverkiezingen. Ze moedigt Italianen aan om vooral creatief te zijn m",
       "url": "https://nos.nl/l/2637192",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +122,7 @@
       "titel": "Duizenden THC-snoepjes in beslag genomen, bestemd voor Nederland",
       "beschrijving": "De Franse douane heeft duizenden verpakkingen met THC-snoepjes onderschept die voor de Nederlandse markt waren bedoeld. THC is de belangrijkste werkzame stof in marihuana. Volgens de Europese antifraudedienst OLAF leken de snoepjes en de verpakking sprekend op producten van een bekend Europees merk. Hiermee werden de merkrechten geschonden, maar OLAF waarschuwt ook dat kinderen de THC-snoepjes hie",
       "url": "https://nos.nl/l/2637178",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,85 +131,67 @@
       "titel": "Kwetsbare Afghaanse boeren maken weer meer opium, ondanks verbod Taliban",
       "beschrijving": "Boeren in Afghanistan produceren weer fors meer opium, ondanks een verbod op de lucratieve drugsteelt die de Taliban vier jaar geleden instelden. Dat melden de Verenigde Naties (VN). De cijfers laten de kwetsbaarheid van Afghaanse boeren zien die door de slechtlopende economie nauwelijks rond kunnen komen. Binnen een jaar is het oppervlak voor de Afghaanse productie van opium bijna verviervoudigd ",
       "url": "https://nos.nl/l/2637174",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Ouwehands stuurt pandajong naar China, 'van diplomatieke druk geen sprake'",
-      "beschrijving": "In een tijd waarin de diplomatieke spanningen tussen Nederland en China af en toe oplopen, vindt morgen een bijzondere uitwisseling plaats. Pandabeer Lang Yue verhuist van Ouwehands Dierenpark naar China. De beer werd twee jaar geleden geboren in de dierentuin in Rhenen en gaat nu terug naar het geboorteland van zijn ouders. Aan de verhuizing zit een geopolitieke component: China zet panda's namel",
-      "url": "https://nos.nl/l/2637162",
-      "datum": "5 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Angst en woede heersen in Spanje, dag na weer een grote treinramp",
-      "beschrijving": "Een dag na het ernstige treinongeluk in Spanje heerst er woede en angst onder inwoners. Het was het derde dodelijke ongeluk dit jaar en Spanjaarden vragen zich af: hoe heeft dit opnieuw kunnen gebeuren? Gisterochtend botste een hogesnelheidstrein op volle snelheid op een stilstaande trein bij het dorpje Urda, zo'n 140 kilometer ten zuiden van Madrid. Zeker 69 mensen kwamen om het leven en tientall",
-      "url": "https://nos.nl/l/2637156",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Boegeroep in Berlijnse opera: Wagner-bewerking over Israël verdeelt publiek",
-      "beschrijving": "Een bewerking van de bekende Wagner-opera De Vliegende Hollander maakt veel los in Duitsland. In de Deutsche Oper in Berlijn wordt het verlossingsverhaal van een dolende schipper gekoppeld aan de Duitse omgang met Israël en schuld aan de Holocaust. Een gedurfde keuze, die voor velen te ver gaat of ongepast is. De première ging gepaard met boegeroep, buiten stond politiebewaking. Op een uitzonderin",
-      "url": "https://nos.nl/l/2637153",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Actrice Elke Sommer (85) overleden, een tijdje 'Duits antwoord op Bardot'",
-      "beschrijving": "De Duitse actrice Elke Sommer is op 85-jarige leeftijd overleden. Hoewel ze in de jaren 60 naam maakte als \"het Duitse antwoord op Brigitte Bardot\", wist ze nooit dezelfde roem te vergaren als de Franse filmster. Vroege successen betaalden zich niet uit in blijvende bekendheid. Als twintiger acteerde Sommer tegenover gevestigde namen als Paul Newman, Dean Martin, Michael York en Peter Sellers. Vaa",
-      "url": "https://nos.nl/l/2637146",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
-      "beschrijving": "Couple say they are &#039;prisoners of conscience&#039; being made an example of by Pakistan&#039;s military-backed authorities.",
-      "url": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
+      "beschrijving": "Stewart died in Los Angeles after living with Alzheimer&#039;s disease and Lewy body dementia.",
+      "url": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
+      "datum": "32 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "UAE sentences eight people to life over arms supplies to Sudan’s army",
-      "beschrijving": "Defendants handed ⁠life sentences amid tensions between Khartoum and Abu Dhabi over Sudan&#039;s war and the RSF.",
-      "url": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss",
+      "titel": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+      "beschrijving": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.",
+      "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "France football chief backs Real Madrid’s Mbappe after China apology",
-      "beschrijving": "Real Madrid&#039;s Kylian Mbappe should be allowed to move on after apology to China, says French football federation chief.",
-      "url": "https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss",
+      "titel": "Israel bans travel for Brad Lander after detention in occupied West Bank",
+      "beschrijving": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Palestinians injured, arrested in Israeli raids across West Bank",
+      "beschrijving": "This comes as more than 3,300 Palestinians are forced from homes in Hebron as Israel&#039;s military offensive continues.",
+      "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "China/Taiwan",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Does Russia offer African countries an equal partnership?",
+      "beschrijving": "President Vladimir Putin hosts African leaders at a summit in Moscow.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Aanslagpleger Parijs erkent racistisch en islamofoob motief: 'Geen spijt'",
-    "Veertien doden bij Russische luchtaanval op treinperron Dnipro",
-    "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
-    "Albanian opposition storms parliament, sets off flares and smoke bombs",
-    "At least 14 people killed in attack on Ukraine train station",
     "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+    "Militaire helikopter uit Italië neergestort in Bosnië en Herzegovina, vier doden",
+    "Israel election result shows no overall majority as vote count complete",
+    "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
     "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
     "EU chief lays out vision for new Canada partnership at Montreal summit",
-    "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-    "Japan en Duitsland worden ‘premium partners’, maar botsen over bescherming auto’s"
+    "Zware gevechten in Jemen, Houthi's beschuldigd van veroorzaken hongersnood",
+    "In Mali gevonden meteoriet blijkt 4,1 miljard jaar oud",
+    "Doden door instorting rotsformatie in Turkse toeristische regio Cappadocië",
+    "Britse acteur Patrick Stewart (86) overleden, bekend van onder meer Star Trek"
   ]
 }
