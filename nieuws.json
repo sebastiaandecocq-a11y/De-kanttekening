@@ -1,83 +1,110 @@
 {
-  "bijgewerkt": "29 Oct 2026 05:01 UTC",
+  "bijgewerkt": "29 Oct 2026 12:34 UTC",
   "artikelen": [
     {
-      "titel": "Meisje (8) zwaargewond bij aanval door wolf in Duits dierenpark",
-      "beschrijving": "In een wildpark in de Oost-Duitse deelstaat Brandenburg heeft een wolf een 8-jarig meisje aangevallen. Dat bevestigt de lokale politie aan het Duitse persbureau DPA. Het kind raakte bij de aanval zwaargewond en is per helikopter naar een ziekenhuis gevlogen. De aanval vond vanochtend plaats in een van de dierenverblijven in het wildpark Johannismühle. Het wildpark ligt in de gemeente Baruth/Mark, ",
-      "url": "https://nos.nl/l/2637048",
-      "datum": "13 uur geleden",
+      "titel": "Dertien doden bij Russische luchtaanval op treinperron Dnipro",
+      "beschrijving": "Bij een Russische droneaanval op een treinstation in de Oekraïense stad Dnipro zijn dertien mensen gedood, melden lokale autoriteiten. De gouverneur van de regio meldt op Telegram dat ook zeker vijf mensen gewond zijn geraakt. Een van de perrons op het treinstation werd geraakt, waar op dat moment de trein naar Zaporizja klaarstond, zegt hij. Ondanks een \"waarschuwing voor verhoogd gevaar\" stonden",
+      "url": "https://nos.nl/l/2637141",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-      "beschrijving": "Women and children killed as witnesses say attack struck civilian shopkeepers, RSF fighters.",
-      "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israeli settlers savagely attack journalists in occupied West Bank",
-      "beschrijving": "Videos circulating on social media show Israeli settlers assaulting three foreign journalists in the West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Girl seriously injured in wolf attack at German wildlife park",
-      "beschrijving": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "titel": "Noord-Korea vuurt ballistische raketten af richting zee",
+      "beschrijving": "Noord-Korea heeft ongeveer tien ballistische raketten voor korte afstand afgevuurd richting de zee voor de oostkust, meldt de Zuid-Koreaanse legerleiding. De raketten zijn rond 12.30 uur gelanceerd uit de buurt van de kustplaats Wonsan. Zeker een projectiel is neergekomen in de Japanse Zee, buiten Japanse wateren, bevestigt het Japanse persbureau Kyodo. Noord-Korea heeft zeker tien keer eerder dit",
+      "url": "https://nos.nl/l/2637107",
       "datum": "6 uur geleden",
-      "regio": "Wereld",
+      "regio": "Noord-Korea",
       "urgentie": "hoog",
-      "bron": "BBC World"
+      "bron": "NOS"
     },
     {
-      "titel": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "beschrijving": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "datum": "18 uur geleden",
+      "titel": "Israel’s election rhetoric: What candidates said, and how they performed",
+      "beschrijving": "From Netanyahu to Ben-Gvir, campaign boasts and attacks on Arab parties have been met with a deadlocked result.",
+      "url": "https://www.aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "El Salvador stuurt militairen naar Haïti, maar missies hebben nog weinig effect",
-      "beschrijving": "El Salvador, tien jaar geleden nog een van de gevaarlijkste landen ter wereld, gaat meer dan tweeduizend militairen naar Haïti sturen. Aanleiding is de vermissing van vier Salvadoraanse leden van een veiligheidsmissie, die tien dagen geleden aan de rand van hoofdstad Port-au-Prince in een hinderlaag liepen. Veel is onduidelijk over de militaire operatie, die eerder deze week door de Salvadoraanse ",
-      "url": "https://nos.nl/l/2637101",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
       "urgentie": "midden",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "beschrijving": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "beschrijving": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
       "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "How could Israel break election deadlock? Here are four scenarios",
-      "beschrijving": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Carney to push for closer ties at Canada-EU summit in Montreal",
+      "beschrijving": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "datum": "7 min geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
+    },
+    {
+      "titel": "Actrice Elke Sommer (85) overleden, een tijdje 'Duits antwoord op Bardot'",
+      "beschrijving": "De Duitse actrice Elke Sommer is op 85-jarige leeftijd overleden. Hoewel ze in de jaren 60 naam maakte als \"het Duitse antwoord op Brigitte Bardot\", wist ze nooit dezelfde roem te vergaren als de Franse filmster. Vroege successen betaalden zich niet uit in blijvende bekendheid. Als twintiger acteerde Sommer tegenover gevestigde namen als Paul Newman, Dean Martin, Michael York en Peter Sellers. Vaa",
+      "url": "https://nos.nl/l/2637146",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Gezochte Tefaf-rovers zitten vermoedelijk in Servië, politie publiceert namen en foto's",
+      "beschrijving": "De politie lijkt precies te weten wie er verantwoordelijk zijn voor de roof op kunstbeurs Tefaf in Maastricht ruim vier jaar geleden. De namen van vijf Serviërs zijn op de Europese lijst van meest gezochte voortvluchtigen gezet. De politie houdt ze verantwoordelijk voor de spectaculaire roof van uiterst kostbare juwelen in de zomer van 2022. De buit is zo'n 40 miljoen euro waard, schrijft de Europ",
+      "url": "https://nos.nl/l/2637140",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Spanningen tussen Korea’s lopen op, steeds meer landen betrokken",
+      "beschrijving": "Noord-Korea heeft volgens het Zuid-Koreaanse leger ongeveer tien ballistische raketten afgevuurd richting de Japanse Zee. Deze lanceringen staan niet op zichzelf. De spanningen op het Koreaanse schiereiland lopen al maanden op. Pyongyang moderniseert in hoog tempo zijn strijdkrachten en zoekt steeds nadrukkelijker de confrontatie met Zuid-Korea. Daarbij lijkt ook de militaire samenwerking met Rusl",
+      "url": "https://nos.nl/l/2637133",
+      "datum": "2 uur geleden",
+      "regio": "Noord-Korea",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Hackers zetten data 41.000 medewerkers Binnenlandse Veiligheid VS online",
+      "beschrijving": "Activistische hackers hebben de gegevens online gezet van ruim 41.000 medewerkers van het Amerikaanse ministerie van Binnenlandse Veiligheid. Het gaat om namen, telefoonnummers, e-mailadressen en andere gegevens van het personeel van diensten als de douane en immigratiepolitie ICE, onder wie ook medewerkers in gevoelige functies. \"Zij hebben onze gegevens, dus het is eerlijk als wij die van hen he",
+      "url": "https://nos.nl/l/2637129",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Call of Duty-maker onder vuur in Zuid-Korea door gebruik beelden Seoul-ramp",
+      "beschrijving": "In Zuid-Korea is met afschuw gereageerd op een fragment in het schietspel Call of Duty: Modern Warfare 4. Daarin zijn beelden te zien die afkomstig lijken te zijn van het dodelijke halloweendrama in Seoul in 2022, vandaag vier jaar geleden. Nabestaanden van de ramp willen dat de beelden worden verwijderd. In de korte filmpjes zijn beelden te zien van iemand die wordt gereanimeerd. Ook worden rijen",
+      "url": "https://nos.nl/l/2637118",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "'Verder op normale snelheid': opnames wijzen op menselijke fout treinramp Spanje",
+      "beschrijving": "Audiofragmenten die de krant El País in handen heeft, lijken erop te wijzen dat een menselijke fout een grote rol heeft gespeeld bij de Spaanse treinramp van gisteren. Er valt te horen hoe de verkeersleiding een hogesnelheidstrein toestemming geeft op volle snelheid verder te rijden, hoewel dat tegen het protocol is. El País zette drie gesprekken van enkele minuten online tussen de treinverkeersle",
+      "url": "https://nos.nl/l/2637111",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Activist en vakbondsleider Dolores Huerta (96) overleden, vrouw achter slogan Obama",
       "beschrijving": "De invloedrijke Amerikaanse vakbondsleider en feminist Dolores Huerta is woensdag in haar woning in Bakersfield, Californië, overleden aan de gevolgen van kanker. Ze werd 96 jaar oud. Huerta stond bekend als een van de meest invloedrijke vakbondsleiders, iconen van de burgerrechtenbeweging en feministische activisten van het land. Haar Spaanstalige slogan was \"Sí, se puede!\", vrij vertaald \"Ja, he",
       "url": "https://nos.nl/l/2637105",
-      "datum": "2 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,79 +113,52 @@
       "titel": "Rechter Alvin Hellerstein (92) overleden, bekend van 9/11, Maduro en zwijggeld Trump",
       "beschrijving": "De Amerikaanse rechter Alvin Hellerstein is op 92-jarige leeftijd overleden. Als federale rechter in Manhattan was hij betrokken bij meerdere prestigieuze zaken, zoals de aanslagen van 11 september 2001, de zwijggeldaffaire van president Trump en recentelijk de aanklachten tegen de voormalige Venezolaanse president Maduro. Hellerstein, geboren in New York en afgestudeerd aan de Columbia Law School",
       "url": "https://nos.nl/l/2637104",
-      "datum": "5 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "'Democraten manipuleerden stembiljetten Alaska', Trump eist terugtrekking kandidaat",
-      "beschrijving": "De Amerikaanse president Trump wil dat Mary Peltola, een Democratische senaatskandidaat voor de staat Alaska, van de kieslijst wordt geschrapt. Dat schrijft Trump op sociale media, na een artikel van The New York Times. De krant schrijft dat Peltola en het landelijke Democratische campagneteam de herverkiezing van de zittende Republikeinse senator wilden bemoeilijken op een manier die valt te betw",
-      "url": "https://nos.nl/l/2637097",
-      "datum": "6 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Bolsonaro wil oppositie Brazilië leiden vanuit VS, noemt zich gekozen president",
-      "beschrijving": "De naar de Verenigde Staten vertrokken Flávio Bolsonaro, die de presidentsverkiezingen in Brazilië verloor, zegt vanuit de VS de oppositie te willen leiden. Hoewel hij de verkiezingen verloor, noemde hij zichzelf de gekozen president. Kort nadat hij de tekst had gedeeld op socialemediakanalen, verwijderde hij die. In plaats van gekozen president, noemde hij zichzelf in een nieuwe versie \"leider va",
-      "url": "https://nos.nl/l/2637088",
-      "datum": "8 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Gezin uit bezet Oekraïens stadje moest kiezen: hongerdood of reis tussen mijnen en drones",
-      "beschrijving": "Het was een bijna onmogelijke keuze: thuis sterven van de honger of een levensgevaarlijke reis ondernemen. Het werd het laatste, want \"als je over met mijnen bezaaide wegen loopt, onder alle drones die vliegen, dan heb je nog enige hoop\", zegt Vitali. Samen met zijn vrouw Irina en hun 13-jarige zoon vluchtte hij vorige maand uit Olesjky, een bezet stadje in het zuiden van Oekraïne waar inwoners ve",
-      "url": "https://nos.nl/l/2637078",
-      "datum": "10 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Nieuwe celstraf voor Iraanse filmmaker en dissident Jafar Panahi",
-      "beschrijving": "Filmmaker Jafar Panahi is in Iran veroordeeld tot vijf jaar en een maand cel. Dat meldt zijn advocaat aan Iraanse media. Het is onduidelijk waarvan hij precies wordt beschuldigd. Of de Iraanse regisseur in Iran of in het buitenland verblijft is niet duidelijk. Behalve de celstraf worden ook alle bezittingen van Panahi in beslag genomen. Hij krijgt een reisverbod van twee jaar en hij mag twee jaar ",
-      "url": "https://nos.nl/l/2637069",
-      "datum": "11 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Restaurants Sardinië verbieden telefoons aan tafel: 'Gesprek ouder-kind stimuleren'",
-      "beschrijving": "Een groep van vijftien restaurants op het Italiaanse eiland Sardinië gaat het gebruik van telefoons en andere schermen aan tafel tijdelijk verbieden. Daarover schrijft de Italiaanse regionale krant L'Unione Sarda. Het initiatief is bedoeld als proef om onder meer schermgebruik door kinderen terug te dringen en kletsen aan tafel aan te moedigen. De kinderombudsman van het Italiaanse eiland leidt he",
-      "url": "https://nos.nl/l/2637065",
-      "datum": "11 uur geleden",
+      "titel": "England and Al-Ahli striker Ivan Toney pleads not guilty to club assault",
+      "beschrijving": "Footballer Ivan Toney pleads not guilty to allegations he headbutted and punched a man at a London nightclub.",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/england-and-al-ahli-striker-ivan-toney-pleads-not-guilty-to-club-assault?traffic_source=rss",
+      "datum": "23 min geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'Wintersteunpakket' voor Oekraïne: Nederland geeft 500 miljoen voor luchtafweer",
-      "beschrijving": "Nederland geeft Oekraïne 500 miljoen euro aan militaire steun. Dit 'wintersteunpakket' is bedoeld voor luchtverdediging en drones. Dat zei premier Jetten op een persconferentie na zijn ontmoeting met de Oekraïense president Zelensky op het Catshuis in Den Haag. Het kabinet had dit geld al gereserveerd voor Oekraïne. Zelensky uitte zijn dankbaarheid voor alle steun die hij krijgt uit Nederland, en ",
-      "url": "https://nos.nl/l/2637052",
-      "datum": "13 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Activists accuse Israeli settlers of assault in occupied West Bank",
-      "beschrijving": "Footage shows men, some armed, beating a US journalist and an Israeli-Russian activist in Umm al-Khair.",
-      "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Al Jazeera speaks to El-Sayed as religion becomes flashpoint in Senate race",
-      "beschrijving": "Democratic candidate Abdul El-Sayed is pushing back against attacks over his Muslim faith.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/al-jazeera-speaks-to-el-sayed-as-religion-becomes-flashpoint-in-senate-race?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "King Charles on Caribbean tour as calls grow for slavery reparations",
+      "beschrijving": "UK’s King Charles joined a Junkanoo street parade during a visit to the Bahamas ahead of the Commonwealth summit.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss",
+      "datum": "24 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
+      "beschrijving": "Letter to Iran&#039;s security chief reportedly pushes for swift return to peace talks, with Vance leading US delegation.",
+      "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss",
+      "datum": "52 min geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
+      "beschrijving": "With five days to go before the US midterms, analysts say the war could affect how people vote.",
+      "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-says-iran-war-has-cost-us-taxpayers-47bn-what-that-means?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Protest at India university where no students’ union vote held for 20 years",
+      "beschrijving": "Jamia Millia Islamia campus in Indian capital has seen weeks of protests, with several students holding a hunger strike.",
+      "url": "https://www.aljazeera.com/news/2026/10/29/unrest-at-india-university-where-no-students-union-polls-held-for-20-years?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
@@ -167,22 +167,31 @@
       "titel": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
       "beschrijving": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
       "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Details of thousands of US immigration agents leaked in major hack",
+      "beschrijving": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "datum": "11 uur geleden",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Meisje (8) zwaargewond bij aanval door wolf in Duits dierenpark",
-    "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-    "Israeli settlers savagely attack journalists in occupied West Bank",
-    "Girl seriously injured in wolf attack at German wildlife park",
-    "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-    "El Salvador stuurt militairen naar Haïti, maar missies hebben nog weinig effect",
+    "Dertien doden bij Russische luchtaanval op treinperron Dnipro",
+    "Noord-Korea vuurt ballistische raketten af richting zee",
+    "Israel’s election rhetoric: What candidates said, and how they performed",
     "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-    "How could Israel break election deadlock? Here are four scenarios",
-    "Activist en vakbondsleider Dolores Huerta (96) overleden, vrouw achter slogan Obama",
-    "Rechter Alvin Hellerstein (92) overleden, bekend van 9/11, Maduro en zwijggeld Trump"
+    "Carney to push for closer ties at Canada-EU summit in Montreal",
+    "Actrice Elke Sommer (85) overleden, een tijdje 'Duits antwoord op Bardot'",
+    "Gezochte Tefaf-rovers zitten vermoedelijk in Servië, politie publiceert namen en foto's",
+    "Spanningen tussen Korea’s lopen op, steeds meer landen betrokken",
+    "Hackers zetten data 41.000 medewerkers Binnenlandse Veiligheid VS online",
+    "Call of Duty-maker onder vuur in Zuid-Korea door gebruik beelden Seoul-ramp"
   ]
 }
