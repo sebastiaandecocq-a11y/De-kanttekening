@@ -1,20 +1,20 @@
 {
-  "bijgewerkt": "31 Oct 2026 15:38 UTC",
+  "bijgewerkt": "31 Oct 2026 19:47 UTC",
   "artikelen": [
     {
-      "titel": "US approves sale of 500 Patriot missiles to Ukraine",
-      "beschrijving": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+      "beschrijving": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
+      "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
       "titel": "Ethiopian PM puts ministers through military training",
       "beschrijving": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
       "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -23,16 +23,34 @@
       "titel": "Spain train disaster clouds Sánchez chances of re-election",
       "beschrijving": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
       "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Protestmarsen gaande in Franse steden, deelnemers volop verkleed",
-      "beschrijving": "In tientallen Franse steden wordt voor het derde weekend op rij gedemonstreerd. Onder meer in Parijs, Lyon en Marseille zijn protestmarsen gaande. Voor zover bekend zijn enkele tientallen mensen opgepakt. De situatie is volgens de landelijke autoriteiten beheersbaar. Uit vrees voor nieuwe onlusten zijn er tienduizenden agenten op de been. Een protestmars door het centrum van de Franse hoofdstad is",
+      "titel": "Rood of toch blauw? Republikeinen doen aan koorddansen om kiezers te behouden",
+      "beschrijving": "Van Alaska en Texas tot grote delen van het Amerikaanse midwesten; drie keer op rij wist Donald Trump er zonder al te veel moeite te winnen. Toch lijken dieprode Republikeinse staten nu Democratisch blauw te kunnen kleuren. In de laatste dagen voor de Congres-verkiezingen moeten Republikeinen alle zeilen bijzetten. \"Dit zijn de cruciaalste verkiezingen van ons leven\", zegt Ashley Hinson, Congresli",
+      "url": "https://nos.nl/l/2637494",
+      "datum": "47 min geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Macht van Vucic neemt af: huisbank van Servische staat valt om",
+      "beschrijving": "De gestage afname van de macht van de kliek rond voormalig president Aleksandar Vucic van Servië heeft ook de financiële sector bereikt. De centrale bank van Servië (NBS) heeft vannacht de vergunning ingetrokken van de Alta Banka, tot vandaag de huisbank van de Servische staat. De liquiditeit van de Alta Banka was ondanks recente ingrepen onvoldoende, schrijft toezichthouder NBS, ofwel de bank hee",
+      "url": "https://nos.nl/l/2637491",
+      "datum": "1 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Protest in tientallen Franse en Duitse steden, rellen in Parijs en Keulen",
+      "beschrijving": "In tientallen Franse steden is voor het derde weekend op rij gedemonstreerd. Veruit de grootste betoging was in Parijs, met volgens de politie zo'n 70.000 deelnemers. In verschillende steden is inmiddels sprake van rellen en zet de politie traangas in. Daarnaast zijn er ook in zeker dertig Duitse steden jongerenprotesten geweest. Verspreid over Duitsland waren er vele duizenden deelnemers. Zo ware",
       "url": "https://nos.nl/l/2637459",
-      "datum": "10 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +59,7 @@
       "titel": "Mexico daagt Panamakanaal uit met spoorlijn over smalste stukje Mexico",
       "beschrijving": "In Mexico is een nieuwe handelsroute over land bijna af. Een spoorlijn in het zuiden van het land moet als alternatief dienen voor het Panamakanaal, de populairste handelsroute door Latijns-Amerika. Als een enorme bruine slang staat een trein in het zuiden van Mexico langs een kade, terwijl een krachtige zeewind vanaf de Stille Oceaan onafgebroken tegen de coupés beukt. Op de achtergrond wordt een",
       "url": "https://nos.nl/l/2637452",
-      "datum": "38 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +68,7 @@
       "titel": "Porno op gehackte reclameborden langs snelweg in Egypte",
       "beschrijving": "Hackers hebben deze week pornografische beelden afgespeeld op digitale reclameborden langs een grote snelweg in de Egyptische stad Gizeh, een voorstad van Caïro. Inmiddels zijn de beelden offline gehaald. Op de billboards waren oorspronkelijk advertenties te zien voor een internationaal bedrijf, schrijft het Egyptische ministerie van Binnenlandse Zaken. De website van dat internationale bedrijf we",
       "url": "https://nos.nl/l/2637435",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +77,7 @@
       "titel": "Ongekende situatie Polen: president duwt zichzelf naar binnen bij Constitutioneel Hof",
       "beschrijving": "De president van Polen is vannacht fysiek in aanraking gekomen met rechters van het Constitutioneel Hof. Die ongekende situatie deed zich voor toen president Nawrocki het gebouw van het hof probeerde binnen te komen. Hij werd tegengehouden door onder anderen rechters die onlangs zijn aangesteld door de regering. Uiteindelijk wist hij zichzelf naar binnen te forceren. Daarmee kwam een langlopend co",
       "url": "https://nos.nl/l/2637433",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "Lufthansa-bemanningslid overleden na electrocutie in zwembad India",
       "beschrijving": "Een 57-jarig bemanningslid van de Duitse luchtvaartmaatschappij Lufthansa is gisteren overleden toen hij in een hotelzwembad in de Indiase stad Bengaluru werd geëlektrocuteerd. Ook een tweede persoon kwam daarbij om het leven. Rond 17.30 uur lokale tijd kwam het zwembad op de derde verdieping van het Conrad Hotel onder stroom te staan. Er wordt nog onderzocht hoe dat precies heeft kunnen gebeuren.",
       "url": "https://nos.nl/l/2637427",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Geëvacueerde Oekraïners uit Olesjky via omweg weer terug in Oekraïne",
       "beschrijving": "De mensen die uit de Zuid-Oekraïense stad Olesjky zijn geëvacueerd, zijn via een omweg weer aangekomen in Oekraïne. Dat meldt president Zelensky op sociale media. De inwoners van Olesjky zaten vast in hun stad. Die werd op de eerste dag van de Russische invasie in 2022 bezet en lag sindsdien zwaar onder vuur. Van de oorspronkelijk 20.000 inwoners waren er naar schatting nog 2000 in de stad. Wegkom",
       "url": "https://nos.nl/l/2637420",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +104,7 @@
       "titel": "Impasse over VN-vredesmissie Westelijke Sahara: Rusland en VS vetoën elkaars voorstel",
       "beschrijving": "Rusland en de Verenigde Staten hebben een veto uitgesproken over elkaars resolutie over de verlenging van de VN-vredesmissie in de Westelijke Sahara. Hiermee dreigt een einde te komen aan de aanwezigheid van VN-militairen en waarnemers in het gebied. Het mandaat voor de missie loopt officieel vandaag af. Normaal gesproken werd de missie sinds 1991 vrij routinematig verlengd, maar dit keer verliep ",
       "url": "https://nos.nl/l/2637410",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,70 +113,43 @@
       "titel": "Frankrijk zet zich schrap voor 'Halloween'-protesten",
       "beschrijving": "In Frankrijk zetten de aanhoudende protesten de toch al diepe kloof tussen radicaal-links en radicaal-rechts verder op scherp. Terwijl het land zich vandaag opmaakt voor het derde grote protestweekend op rij, verandert de dynamiek van de demonstraties. Naast de onvrede over het onderwijs en de stijgende levenskosten is er voor een deel van de demonstranten een nieuwe aanleiding om de straat op te ",
       "url": "https://nos.nl/l/2637409",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Hebron al ruim een week grotendeels afgesloten, duizenden Palestijnen verdreven",
-      "beschrijving": "De stad Hebron op de bezette Westelijke Jordaanoever is al ruim een week grotendeels afgesloten door het Israëlische leger. Duizenden Palestijnen zijn verdreven en het leger sloopt er woningen. Het is een reactie op de schietpartij bij een checkpoint in de buurt van de stad waarbij vorige week twee Israëlische militairen werden gedood. \"Sommige inwoners verblijven bij vrienden of familie, anderen ",
-      "url": "https://nos.nl/l/2637408",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 31/10: Anti-regeringsdemonstraties in meerdere landen • Vijf Eredivisieduels, waaronder Ajax-AZ",
-      "beschrijving": "Goedemorgen! In meerdere landen wordt vandaag weer gedemonstreerd tegen het beleid van de landelijke regering. Ook in Nederland is daartoe opgeroepen op sociale media. Verder wordt vandaag gevoetbald: in de Eredivisie staan vijf wedstrijden op het programma. Koploper Feyenoord speelt tegen Fortuna Sittard en de nummer 2 Ajax ontvangt nummer 5 AZ. Eerst het weer: bewolkt en wat mist. In het zuiden ",
-      "url": "https://nos.nl/l/2637405",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-      "beschrijving": "Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn&#039;t rule out attack, is ‘prepared for all scenarios’.",
-      "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
+      "titel": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "beschrijving": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Iran",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-      "beschrijving": "Despite genocide, regional war and isolation, Israel&#039;s election revealed little appetite for political alternatives.",
-      "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+      "titel": "Jerusalem Daily: Who will form Israel’s next government?",
+      "beschrijving": "Netanyahu and Eisenkot are locked in a struggle to form a governing coalition in the Knesset.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "On the Norway-Russia border, the Sámi people face a growing divide",
-      "beschrijving": "As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions.",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+      "beschrijving": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "datum": "24 min geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
-      "titel": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
-      "beschrijving": "Artists in Sudan are working to save culture and traditions amid the country&#039;s war.",
-      "url": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-      "beschrijving": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+      "titel": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "beschrijving": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "datum": "44 min geleden",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -167,31 +158,22 @@
       "titel": "G20 'family photo' cancelled after protests over presence of Russian minister",
       "beschrijving": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "datum": "17 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "beschrijving": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "datum": "18 uur geleden",
+      "datum": "21 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "US approves sale of 500 Patriot missiles to Ukraine",
+    "At least four Palestinians killed in Gaza as Israeli attacks continue",
     "Ethiopian PM puts ministers through military training",
     "Spain train disaster clouds Sánchez chances of re-election",
-    "Protestmarsen gaande in Franse steden, deelnemers volop verkleed",
+    "Rood of toch blauw? Republikeinen doen aan koorddansen om kiezers te behouden",
+    "Macht van Vucic neemt af: huisbank van Servische staat valt om",
+    "Protest in tientallen Franse en Duitse steden, rellen in Parijs en Keulen",
     "Mexico daagt Panamakanaal uit met spoorlijn over smalste stukje Mexico",
     "Porno op gehackte reclameborden langs snelweg in Egypte",
     "Ongekende situatie Polen: president duwt zichzelf naar binnen bij Constitutioneel Hof",
-    "Lufthansa-bemanningslid overleden na electrocutie in zwembad India",
-    "Geëvacueerde Oekraïners uit Olesjky via omweg weer terug in Oekraïne",
-    "Impasse over VN-vredesmissie Westelijke Sahara: Rusland en VS vetoën elkaars voorstel"
+    "Lufthansa-bemanningslid overleden na electrocutie in zwembad India"
   ]
 }
