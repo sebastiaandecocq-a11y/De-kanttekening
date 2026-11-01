@@ -1,11 +1,38 @@
 {
-  "bijgewerkt": "01 Nov 2026 05:13 UTC",
+  "bijgewerkt": "01 Nov 2026 12:55 UTC",
   "artikelen": [
+    {
+      "titel": "Oekraïense aanvallen op olielocaties diep in Rusland hervat",
+      "beschrijving": "Ondanks berichten dat Oekraïne droneaanvallen op olieproductielocaties in Rusland had gestaakt, zijn er de afgelopen dagen toch nieuwe aanvallen geweest. Zo is vannacht in de Russische regio Nizjni Novgorod door een droneaanval brand ontstaan in een olieraffinaderij. Volgens de gouverneur is er aanzienlijke schade aan de faciliteit die in het district Kstovo ligt, melden Russische staatsmedia. De ",
+      "url": "https://nos.nl/l/2637570",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Rusland voert aanvallen Oekraïne op: 'Ze willen ons bewegen naar capitulatie'",
+      "beschrijving": "Niet eerder in de oorlog in Oekraïne zijn er zoveel burgers gewond geraakt of omgekomen als de afgelopen weken, met uitzondering van de beginperiode na de invasie in 2022. Rusland voert het aantal aanvallen verder op en de Amerikanen zetten de Oekraïense president Volodymyr Zelensky ondertussen stevig onder druk. Deze maand worden in Abu Dhabi wellicht mogelijkheden voor een vredesakkoord besproke",
+      "url": "https://nos.nl/l/2637549",
+      "datum": "6 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Democraten profiteren van zorgen om corruptie: 'We moeten de hebzucht stoppen'",
+      "beschrijving": "Overheidscorruptie is in korte tijd uitgegroeid tot een van de belangrijkste thema's van de Amerikaanse Congresverkiezingen komende dinsdag. Kiezers maken zich zorgen over politici die zichzelf verrijken ten koste van de burger. In sommige peilingen staat het thema corruptie zelfs boven de hoge kosten van boodschappen en brandstof. Democratische kandidaten proberen nu stemmen te winnen door een ve",
+      "url": "https://nos.nl/l/2637561",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
     {
       "titel": "FBI: Noord-Korea achter miljardenroof bij cryptoplatform Binance",
       "beschrijving": "De FBI houdt Noord-Korea verantwoordelijk voor de roof van meer dan 6 miljard dollar aan cryptovaluta bij handelsplatform Binance. Volgens de Amerikaanse veiligheidsdienst heeft een door Noord-Korea aangestuurde hackerseenheid de gestolen bitcoins omgezet in ethereum, een andere cryptomunt, en kunnen er nog \"verdere witwasfasen\" volgen om sporen uit te wissen. Begin vorig jaar wees de FBI ook al e",
       "url": "https://nos.nl/l/2637541",
-      "datum": "5 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Noord-Korea",
       "urgentie": "midden",
       "bron": "NOS"
@@ -14,43 +41,70 @@
       "titel": "Premier Abiy van Ethiopië stuurt ministers naar militaire training",
       "beschrijving": "Voor de regering van Ethiopië was het vandaag even niet vergaderen maar push-ups doen. Premier Abiy Ahmed had zijn kabinet op militaire training gestuurd. Hij deed zelf ook mee, is te zien op foto's die de premier heeft gedeeld op sociale media. Bij leiderschap hoort ijzeren discipline, aldus de premier van het Oost-Afrikaanse land. De ministers en staatssecretarissen moeten daarom een \"intensieve",
       "url": "https://nos.nl/l/2637522",
-      "datum": "7 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Afrika",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "beschrijving": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "titel": "Thousands rally in New Delhi to demand India’s election chief resign",
+      "beschrijving": "Hundreds of police, some carrying batons and shields, are deployed around the rally site.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "VS",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "India's opposition holds mega rally seeking election chief's resignation",
+      "beschrijving": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
       "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
       "datum": "5 uur geleden",
-      "regio": "Wereld",
+      "regio": "VS",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Ethiopian PM puts ministers through military training",
-      "beschrijving": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
+      "titel": "Judge orders Trump administration to stop threatening US election officials",
+      "beschrijving": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "datum": "12 uur geleden",
+      "regio": "VS",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Spain train disaster clouds Sánchez chances of re-election",
-      "beschrijving": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "datum": "23 uur geleden",
+      "titel": "NASA-vrijwilligers weer thuis na jaar op nagebootste Mars-missie",
+      "beschrijving": "Ruim een jaar zaten ze opgesloten in een NASA-gebouwtje van maar 160 vierkante meter in het Johnson Space Center in de Texaanse stad Houston en gisteren kwamen ze naar buiten. Ross Elder, Matthew Montgomery, James Spicer en Ellen Ellis deden vrijwillig mee aan een experiment waarin het leven op Mars werd nagebootst. Op 19 oktober 2025 stapten ze de ruimte binnen en waren vervolgens vrijwel afgeslo",
+      "url": "https://nos.nl/l/2637569",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nacht vol plunderingen en branden in Frankfurt na dag met vreedzame protesten",
+      "beschrijving": "In meerdere Duitse steden zijn grootschalige vreedzame protesten gisteren aan het eind van de dag uitgelopen op gewelddadigheden. Vooral in Frankfurt liep het behoorlijk uit de hand. Daar werden ruiten ingeslagen, winkels geplunderd en branden gesticht. Volgens Die Welt werd zelfs een wapenwinkel leeggeroofd. Ook werden agenten bekogeld, onder meer met molotovcocktails. De ruim een kilometer lange",
+      "url": "https://nos.nl/l/2637552",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 1/11: Kunstwerk in Amsterdam voor kindslachtoffers Gaza • Eerste marathon van Den Haag",
+      "beschrijving": "Goedemorgen! Het kunstwerk Wall of Tears is de komende tijd te zien in Amsterdam. Het is een gedenkteken voor de kindslachtoffers in Gaza. En de marathon van Den Haag beleeft zijn vuurdoop. De lopers starten en finishen op het Malieveld. Eerst het weer: het is een grijze dag met soms een spatje motregen. Daarbij wordt het 10 tot 12 graden met een zwakke tot matige noordenwind. Ga je vandaag op pad",
+      "url": "https://nos.nl/l/2637550",
+      "datum": "6 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Rechter wijst Trumps miljardenclaim om verjaardagsbrief aan Epstein af",
       "beschrijving": "Een Amerikaanse rechter heeft de rechtszaak die president Trump voor 10 miljard dollar had aangespannen tegen The Wall Street Journal en mediamagnaat Rupert Murdoch onherroepelijk afgewezen. De federale rechter oordeelde dat de aanklacht \"een wanhoopspoging\" was van de president. De zaak draaide om een artikel dat vorig jaar werd gepubliceerd en ging over een briefje dat Trump in 2003 aan Jeffrey ",
       "url": "https://nos.nl/l/2637543",
-      "datum": "1 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,107 +113,44 @@
       "titel": "'Schijtland' Noorwegen slaat terug met toilethumor na sneer van Trump",
       "beschrijving": "Na publiekelijk te kakken te zijn gezet door president Trump slaat Noorwegen terug met een ludieke campagne rond de mooiste openbare toiletten in het land. Met idyllische plaatjes van toiletgebouwen te midden van fjorden en besneeuwde bergen wil het Noorse toerismebureau een positieve draai geven aan de weinig vleiende woorden van de Amerikaanse president. Trump kon zijn frustratie over het opnieu",
       "url": "https://nos.nl/l/2637542",
-      "datum": "3 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Rood of toch blauw? Republikeinen doen aan koorddansen om kiezers te behouden",
-      "beschrijving": "Van Alaska en Texas tot grote delen van het Amerikaanse midwesten; drie keer op rij wist Donald Trump er zonder al te veel moeite te winnen. Toch lijken dieprode Republikeinse staten nu Democratisch blauw te kunnen kleuren. In de laatste dagen voor de Congres-verkiezingen moeten Republikeinen alle zeilen bijzetten. \"Dit zijn de cruciaalste verkiezingen van ons leven\", zegt Ashley Hinson, Congresli",
-      "url": "https://nos.nl/l/2637494",
-      "datum": "10 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Macht van Vucic neemt af: huisbank van Servische staat valt om",
-      "beschrijving": "De gestage afname van de macht van de kliek rond voormalig president Aleksandar Vucic van Servië heeft ook de financiële sector bereikt. De centrale bank van Servië (NBS) heeft vannacht de vergunning ingetrokken van de Alta Banka, tot vandaag de huisbank van de Servische staat. De liquiditeit van de Alta Banka was ondanks recente ingrepen onvoldoende, schrijft toezichthouder NBS, ofwel de bank hee",
-      "url": "https://nos.nl/l/2637491",
       "datum": "11 uur geleden",
-      "regio": "Afrika",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Protest in tientallen Franse en Duitse steden, rellen in Parijs en Frankfurt",
-      "beschrijving": "In tientallen Franse steden is voor het derde weekend op rij gedemonstreerd. Veruit de grootste betoging was in Parijs, met volgens de politie zo'n 70.000 deelnemers. In verschillende steden ontstonden in de loop van de middag en begin van de avond rellen. De politie zette traangas in en pakte mensen op. Daarnaast zijn er ook in zeker dertig Duitse steden jongerenprotestmarsen geweest. Verspreid o",
-      "url": "https://nos.nl/l/2637459",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Mexico daagt Panamakanaal uit met spoorlijn over smalste stukje Mexico",
-      "beschrijving": "In Mexico is een nieuwe handelsroute over land bijna af. Een spoorlijn in het zuiden van het land moet als alternatief dienen voor het Panamakanaal, de populairste handelsroute door Latijns-Amerika. Als een enorme bruine slang staat een trein in het zuiden van Mexico langs een kade, terwijl een krachtige zeewind vanaf de Stille Oceaan onafgebroken tegen de coupés beukt. Op de achtergrond wordt een",
-      "url": "https://nos.nl/l/2637452",
-      "datum": "14 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Porno op gehackte reclameborden langs snelweg in Egypte",
-      "beschrijving": "Hackers hebben deze week pornografische beelden afgespeeld op digitale reclameborden langs een grote snelweg in de Egyptische stad Gizeh, een voorstad van Caïro. Inmiddels zijn de beelden offline gehaald. Op de billboards waren oorspronkelijk advertenties te zien voor een internationaal bedrijf, schrijft het Egyptische ministerie van Binnenlandse Zaken. De website van dat internationale bedrijf we",
-      "url": "https://nos.nl/l/2637435",
-      "datum": "15 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vreemde situatie in Polen: president duwt zichzelf naar binnen bij Constitutioneel Hof",
-      "beschrijving": "Rechters hebben vannacht geprobeerd om de president van Polen tegen te houden bij het naar binnengaan van het Constitutioneel Hof. De ongekende situatie deed zich voor toen president Nawrocki bij het gebouw van het hof in Warschau naar binnen wilde. Bij de ingang ontstond een opstootje, waarbij ook rechters probeerden om de president naar buiten te duwen. Uiteindelijk wist Nawrocki met een groepje",
-      "url": "https://nos.nl/l/2637433",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Ukrainian evacuees from Russian-occupied Oleshky reunite with family",
-      "beschrijving": "Starved and exhausted residents of Oleshky arrive in Ukraine after months of isolation, but some stay behind.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "What we know about latest efforts to end US war on Iran",
-      "beschrijving": "The foreign ministers of the US and Iran say a diplomatic end to the war is still possible.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+      "titel": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+      "beschrijving": "Trump says latest talks &#039;going fine&#039;; Iranian leaders say they favour diplomacy but are ready to respond to US attacks.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "India’s largest dam planned to counter China faces Indigenous revolt",
-      "beschrijving": "Indigenous people of Arunachal Pradesh are protesting a mega dam planned to counter China&#039;s upstream hydropower project.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
+      "titel": "Bulgarians vote in presidential run-off amid Black Sea tensions",
+      "beschrijving": "Voters in Bulgaria weigh economic challenges and attacks on ships in a race marked by record low turnout.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss",
       "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Is China’s ‘dark tourism’ turning disaster education into entertainment?",
+      "beschrijving": "China is seeing growing interest in ‘dark tourism’, where visitors flock to attractions that recreate natural disasters.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/is-chinas-dark-tourism-turning-disaster-education-into-entertainment?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "China/Taiwan",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "The murder of Javits Frimpong, a bullied schoolboy in The Bronx",
-      "beschrijving": "Thousands of people have held vigils for a 15-year-old Ghanaian boy who was chased down and killed in New York.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/the-murder-of-javits-frimpong-a-bullied-schoolboy-in-the-bronx?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
-      "beschrijving": "In a counterprotest, Netanyahu supporters demand that Israel should not have a government with &#039;terrorists&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Yemeni government forces seize strategic positions in al-Jawf",
+      "beschrijving": "Weapons and ammunition depots are seized after a counteroffensive.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -167,7 +158,7 @@
       "titel": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
       "beschrijving": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
       "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "17 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,22 +167,31 @@
       "titel": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "beschrijving": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
+      "datum": "19 uur geleden",
       "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "beschrijving": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "datum": "12 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Oekraïense aanvallen op olielocaties diep in Rusland hervat",
+    "Rusland voert aanvallen Oekraïne op: 'Ze willen ons bewegen naar capitulatie'",
+    "Democraten profiteren van zorgen om corruptie: 'We moeten de hebzucht stoppen'",
     "FBI: Noord-Korea achter miljardenroof bij cryptoplatform Binance",
     "Premier Abiy van Ethiopië stuurt ministers naar militaire training",
-    "India's opposition set to hold mega rally seeking election chief's resignation",
-    "Ethiopian PM puts ministers through military training",
-    "Spain train disaster clouds Sánchez chances of re-election",
-    "Rechter wijst Trumps miljardenclaim om verjaardagsbrief aan Epstein af",
-    "'Schijtland' Noorwegen slaat terug met toilethumor na sneer van Trump",
-    "Rood of toch blauw? Republikeinen doen aan koorddansen om kiezers te behouden",
-    "Macht van Vucic neemt af: huisbank van Servische staat valt om",
-    "Protest in tientallen Franse en Duitse steden, rellen in Parijs en Frankfurt"
+    "Thousands rally in New Delhi to demand India’s election chief resign",
+    "India's opposition holds mega rally seeking election chief's resignation",
+    "Judge orders Trump administration to stop threatening US election officials",
+    "NASA-vrijwilligers weer thuis na jaar op nagebootste Mars-missie",
+    "Nacht vol plunderingen en branden in Frankfurt na dag met vreedzame protesten"
   ]
 }
