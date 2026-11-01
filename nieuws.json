@@ -1,65 +1,74 @@
 {
-  "bijgewerkt": "01 Nov 2026 12:55 UTC",
+  "bijgewerkt": "01 Nov 2026 18:18 UTC",
   "artikelen": [
+    {
+      "titel": "Piraten kapen Iraans schip bij Somalië, mogelijk met meer aanvallen als doel",
+      "beschrijving": "Somalische piraten hebben een Iraans vissersschip aangevallen en overmeesterd. Er zijn 23 bemanningsleden aan boord van het schip. Dat meldt de EU-missie die moet bijdragen aan de veiligheid op de West-Indische Oceaan en de Rode Zee. Het schip werd donderdag gekaapt ten noordoosten van Somalië, tussen de kustplaatsen Bandar Bayla en Hafun. Volgens het veiligheidscentrum zijn de piraten gewapend en",
+      "url": "https://nos.nl/l/2637625",
+      "datum": "1 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Israëlische aanvallen kosten zeker acht Palestijnen in Gaza het leven",
+      "beschrijving": "Door Israëlische aanvallen zijn zeker acht Palestijnen om het leven gekomen. Dat melden ziekenhuismedewerkers aan Al Jazeera. In Gaza-stad kwamen drie mensen om het leven bij een droneaanval, onder wie een vader en zijn 4-jarig zoontje. Bij een droneaanval in Khan Younis, in het zuiden van Gaza, werden vijf politieagenten gedood. Daarbij raakten ook mensen gewond. Volgens een journalist van Al Jaz",
+      "url": "https://nos.nl/l/2637590",
+      "datum": "4 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Oekraïense aanvallen op olielocaties diep in Rusland hervat",
       "beschrijving": "Ondanks berichten dat Oekraïne droneaanvallen op olieproductielocaties in Rusland had gestaakt, zijn er de afgelopen dagen toch nieuwe aanvallen geweest. Zo is vannacht in de Russische regio Nizjni Novgorod door een droneaanval brand ontstaan in een olieraffinaderij. Volgens de gouverneur is er aanzienlijke schade aan de faciliteit die in het district Kstovo ligt, melden Russische staatsmedia. De ",
       "url": "https://nos.nl/l/2637570",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Rusland voert aanvallen Oekraïne op: 'Ze willen ons bewegen naar capitulatie'",
-      "beschrijving": "Niet eerder in de oorlog in Oekraïne zijn er zoveel burgers gewond geraakt of omgekomen als de afgelopen weken, met uitzondering van de beginperiode na de invasie in 2022. Rusland voert het aantal aanvallen verder op en de Amerikanen zetten de Oekraïense president Volodymyr Zelensky ondertussen stevig onder druk. Deze maand worden in Abu Dhabi wellicht mogelijkheden voor een vredesakkoord besproke",
-      "url": "https://nos.nl/l/2637549",
-      "datum": "6 uur geleden",
+      "titel": "Russia detains minor over alleged Moscow attack plot after US warning",
+      "beschrijving": "Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "beschrijving": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "datum": "21 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "1/11 in Nieuwsuur: Einde staakt-het-vuren Olesjky • Alle ogen op midterms Michigan",
+      "beschrijving": "Einde staakt-het-vuren Olesjky Het staakt-het-vuren in de Oekraïense stad Olesjky loopt vanavond af. Sinds het begin van de Russische invasie in 2022 zaten inwoners van de stad als ratten in de val. In de laatste paar maanden raakte Olesjky helemaal afgesloten van de buitenwereld. Wat zorgde voor een humanitaire ramp voor de tweeduizend overgebleven inwoners. Dinsdag ging een meerdaags staakt-het-",
+      "url": "https://nos.nl/l/2637620",
+      "datum": "2 uur geleden",
+      "regio": "Europa",
+      "urgentie": "midden",
       "bron": "NOS"
     },
     {
       "titel": "Democraten profiteren van zorgen om corruptie: 'We moeten de hebzucht stoppen'",
       "beschrijving": "Overheidscorruptie is in korte tijd uitgegroeid tot een van de belangrijkste thema's van de Amerikaanse Congresverkiezingen komende dinsdag. Kiezers maken zich zorgen over politici die zichzelf verrijken ten koste van de burger. In sommige peilingen staat het thema corruptie zelfs boven de hoge kosten van boodschappen en brandstof. Democratische kandidaten proberen nu stemmen te winnen door een ve",
       "url": "https://nos.nl/l/2637561",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "FBI: Noord-Korea achter miljardenroof bij cryptoplatform Binance",
-      "beschrijving": "De FBI houdt Noord-Korea verantwoordelijk voor de roof van meer dan 6 miljard dollar aan cryptovaluta bij handelsplatform Binance. Volgens de Amerikaanse veiligheidsdienst heeft een door Noord-Korea aangestuurde hackerseenheid de gestolen bitcoins omgezet in ethereum, een andere cryptomunt, en kunnen er nog \"verdere witwasfasen\" volgen om sporen uit te wissen. Begin vorig jaar wees de FBI ook al e",
-      "url": "https://nos.nl/l/2637541",
-      "datum": "13 uur geleden",
-      "regio": "Noord-Korea",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Premier Abiy van Ethiopië stuurt ministers naar militaire training",
-      "beschrijving": "Voor de regering van Ethiopië was het vandaag even niet vergaderen maar push-ups doen. Premier Abiy Ahmed had zijn kabinet op militaire training gestuurd. Hij deed zelf ook mee, is te zien op foto's die de premier heeft gedeeld op sociale media. Bij leiderschap hoort ijzeren discipline, aldus de premier van het Oost-Afrikaanse land. De ministers en staatssecretarissen moeten daarom een \"intensieve",
-      "url": "https://nos.nl/l/2637522",
-      "datum": "15 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Thousands rally in New Delhi to demand India’s election chief resign",
-      "beschrijving": "Hundreds of police, some carrying batons and shields, are deployed around the rally site.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "VS",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
       "titel": "India's opposition holds mega rally seeking election chief's resignation",
       "beschrijving": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
       "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -68,25 +77,43 @@
       "titel": "Judge orders Trump administration to stop threatening US election officials",
       "beschrijving": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
       "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "17 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Wintertijd in Canada, maar in steeds minder provincies wordt de klok verzet",
+      "beschrijving": "Miljoenen Canadezen zetten vanwege de wintertijd de klok dit weekend een uur terug, maar miljoenen andere Canadezen laten de klok ongemoeid. Steeds meer Canadese provincies schaffen de wintertijd af. In British Columbia, in het westen van Canada, is onlangs gekozen voor de zomertijd als standaardtijd en dat betekent dat inwoners dit weekend voor het eerst de klok niet terugzetten. Ook Alberta, Man",
+      "url": "https://nos.nl/l/2637599",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Weer honderden mensen opgepakt bij protest Palestine Action in VK",
+      "beschrijving": "De Britse politie heeft bij een protest van Palestine Action in Londen gisteren 325 mensen opgepakt. De actiegroep is door de Britse regering bestempeld als een terroristische organisatie en is sinds juli vorig jaar verboden. Regelmatig worden bij protesten mensen aangehouden. Dat gebeurde ook gisteren in het zuidwesten van Londen, voor de deur van de Amerikaanse ambassade. Demonstranten droegen d",
+      "url": "https://nos.nl/l/2637585",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "NASA-vrijwilligers weer thuis na jaar op nagebootste Mars-missie",
       "beschrijving": "Ruim een jaar zaten ze opgesloten in een NASA-gebouwtje van maar 160 vierkante meter in het Johnson Space Center in de Texaanse stad Houston en gisteren kwamen ze naar buiten. Ross Elder, Matthew Montgomery, James Spicer en Ellen Ellis deden vrijwillig mee aan een experiment waarin het leven op Mars werd nagebootst. Op 19 oktober 2025 stapten ze de ruimte binnen en waren vervolgens vrijwel afgeslo",
       "url": "https://nos.nl/l/2637569",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Nacht vol plunderingen en branden in Frankfurt na dag met vreedzame protesten",
-      "beschrijving": "In meerdere Duitse steden zijn grootschalige vreedzame protesten gisteren aan het eind van de dag uitgelopen op gewelddadigheden. Vooral in Frankfurt liep het behoorlijk uit de hand. Daar werden ruiten ingeslagen, winkels geplunderd en branden gesticht. Volgens Die Welt werd zelfs een wapenwinkel leeggeroofd. Ook werden agenten bekogeld, onder meer met molotovcocktails. De ruim een kilometer lange",
+      "beschrijving": "In meerdere Duitse steden zijn grootschalige vreedzame protesten gisteren aan het eind van de dag uitgelopen op gewelddadigheden. Vooral in Frankfurt liep het behoorlijk uit de hand. Daar werden ruiten ingeslagen, winkels geplunderd en branden gesticht. Volgens Die Welt werd zelfs een wapenwinkel leeggeroofd. Ook werden agenten bekogeld, onder meer met molotovcocktails. Meer dan 100 agenten zijn g",
       "url": "https://nos.nl/l/2637552",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,79 +122,43 @@
       "titel": "Wekdienst 1/11: Kunstwerk in Amsterdam voor kindslachtoffers Gaza • Eerste marathon van Den Haag",
       "beschrijving": "Goedemorgen! Het kunstwerk Wall of Tears is de komende tijd te zien in Amsterdam. Het is een gedenkteken voor de kindslachtoffers in Gaza. En de marathon van Den Haag beleeft zijn vuurdoop. De lopers starten en finishen op het Malieveld. Eerst het weer: het is een grijze dag met soms een spatje motregen. Daarbij wordt het 10 tot 12 graden met een zwakke tot matige noordenwind. Ga je vandaag op pad",
       "url": "https://nos.nl/l/2637550",
-      "datum": "6 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Rechter wijst Trumps miljardenclaim om verjaardagsbrief aan Epstein af",
-      "beschrijving": "Een Amerikaanse rechter heeft de rechtszaak die president Trump voor 10 miljard dollar had aangespannen tegen The Wall Street Journal en mediamagnaat Rupert Murdoch onherroepelijk afgewezen. De federale rechter oordeelde dat de aanklacht \"een wanhoopspoging\" was van de president. De zaak draaide om een artikel dat vorig jaar werd gepubliceerd en ging over een briefje dat Trump in 2003 aan Jeffrey ",
-      "url": "https://nos.nl/l/2637543",
-      "datum": "9 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'Schijtland' Noorwegen slaat terug met toilethumor na sneer van Trump",
-      "beschrijving": "Na publiekelijk te kakken te zijn gezet door president Trump slaat Noorwegen terug met een ludieke campagne rond de mooiste openbare toiletten in het land. Met idyllische plaatjes van toiletgebouwen te midden van fjorden en besneeuwde bergen wil het Noorse toerismebureau een positieve draai geven aan de weinig vleiende woorden van de Amerikaanse president. Trump kon zijn frustratie over het opnieu",
-      "url": "https://nos.nl/l/2637542",
-      "datum": "11 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
-      "beschrijving": "Trump says latest talks &#039;going fine&#039;; Iranian leaders say they favour diplomacy but are ready to respond to US attacks.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
+      "titel": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+      "beschrijving": "Hebron&#039;s economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
+      "datum": "47 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Bulgarians vote in presidential run-off amid Black Sea tensions",
-      "beschrijving": "Voters in Bulgaria weigh economic challenges and attacks on ships in a race marked by record low turnout.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Is China’s ‘dark tourism’ turning disaster education into entertainment?",
-      "beschrijving": "China is seeing growing interest in ‘dark tourism’, where visitors flock to attractions that recreate natural disasters.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/is-chinas-dark-tourism-turning-disaster-education-into-entertainment?traffic_source=rss",
+      "titel": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
+      "beschrijving": "Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "China/Taiwan",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Yemeni government forces seize strategic positions in al-Jawf",
-      "beschrijving": "Weapons and ammunition depots are seized after a counteroffensive.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "titel": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "beschrijving": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
       "beschrijving": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
       "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "datum": "17 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "beschrijving": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "datum": "19 uur geleden",
+      "datum": "22 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -176,22 +167,22 @@
       "titel": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
       "beschrijving": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
       "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "datum": "17 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Piraten kapen Iraans schip bij Somalië, mogelijk met meer aanvallen als doel",
+    "Israëlische aanvallen kosten zeker acht Palestijnen in Gaza het leven",
     "Oekraïense aanvallen op olielocaties diep in Rusland hervat",
-    "Rusland voert aanvallen Oekraïne op: 'Ze willen ons bewegen naar capitulatie'",
+    "Russia detains minor over alleged Moscow attack plot after US warning",
+    "Armed police start patrols in Sydney after Bondi Beach attack",
+    "1/11 in Nieuwsuur: Einde staakt-het-vuren Olesjky • Alle ogen op midterms Michigan",
     "Democraten profiteren van zorgen om corruptie: 'We moeten de hebzucht stoppen'",
-    "FBI: Noord-Korea achter miljardenroof bij cryptoplatform Binance",
-    "Premier Abiy van Ethiopië stuurt ministers naar militaire training",
-    "Thousands rally in New Delhi to demand India’s election chief resign",
     "India's opposition holds mega rally seeking election chief's resignation",
     "Judge orders Trump administration to stop threatening US election officials",
-    "NASA-vrijwilligers weer thuis na jaar op nagebootste Mars-missie",
-    "Nacht vol plunderingen en branden in Frankfurt na dag met vreedzame protesten"
+    "Wintertijd in Canada, maar in steeds minder provincies wordt de klok verzet"
   ]
 }
