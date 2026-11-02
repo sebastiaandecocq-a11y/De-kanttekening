@@ -1,29 +1,47 @@
 {
-  "bijgewerkt": "01 Nov 2026 22:37 UTC",
+  "bijgewerkt": "02 Nov 2026 02:11 UTC",
   "artikelen": [
+    {
+      "titel": "App die Oekraïners waarschuwt, verstuurt 'door hack' nepbericht over nucleaire aanval",
+      "beschrijving": "Een app die Oekraïners waarschuwt voor op handen zijnde Russische luchtaanvallen, heeft gisteravond nepberichten verstuurd waarin werd gewaarschuwd voor een chemische of nucleaire aanval en voor dreigende gevechten op straat. Volgens de Oekraïense luchtmacht was de app gehackt, waardoor meerdere valse waarschuwingen verstuurd werden, meldt Oekraïens nieuwsmedium Kyiv Independent. In een van de ber",
+      "url": "https://nos.nl/l/2637683",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Piraten kapen Iraans schip bij Somalië, mogelijk met meer aanvallen als doel",
       "beschrijving": "Somalische piraten hebben een Iraans vissersschip aangevallen en overmeesterd. Er zijn 23 bemanningsleden aan boord van het schip. Dat meldt de EU-missie die moet bijdragen aan de veiligheid op de West-Indische Oceaan en de Rode Zee. Het schip werd donderdag gekaapt ten noordoosten van Somalië, tussen de kustplaatsen Bandar Bayla en Hafun. Volgens het veiligheidscentrum zijn de piraten gewapend en",
       "url": "https://nos.nl/l/2637625",
-      "datum": "5 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Afrika",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Israëlische aanvallen kosten zeker acht Palestijnen in Gaza het leven",
-      "beschrijving": "Door Israëlische aanvallen zijn zeker acht Palestijnen om het leven gekomen. Dat melden ziekenhuismedewerkers aan Al Jazeera. In Gaza-stad kwamen drie mensen om het leven bij een droneaanval, onder wie een vader en zijn 4-jarig zoontje. Bij een droneaanval in Khan Younis, in het zuiden van Gaza, werden vijf politieagenten gedood. Daarbij raakten ook mensen gewond. Volgens een journalist van Al Jaz",
-      "url": "https://nos.nl/l/2637590",
-      "datum": "8 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Bollywood star greets fans in bulletproof glass after bomb threat",
+      "beschrijving": "Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "beschrijving": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
     },
     {
       "titel": "Armed police start patrols in Sydney after Bondi Beach attack",
       "beschrijving": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
       "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,7 +50,7 @@
       "titel": "Na de verkiezingen en een verbijsterende week in Brazilië, hoe nu verder?",
       "beschrijving": "Een week na de spannende verkiezingen in Brazilië, die verrassend werden gewonnen door zittend president Lula da Silva, volgen de spectaculaire gebeurtenissen elkaar in razend tempo op. Brazilianen blijven in verbijstering achter, alsof ze in een soap terecht zijn gekomen. Flávio Bolsonaro, van de radicaal rechtse PL-partij, vluchtte naar de Verenigde Staten en noemde zichzelf de gekozen president",
       "url": "https://nos.nl/l/2637669",
-      "datum": "46 min geleden",
+      "datum": "4 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "NOS"
@@ -41,7 +59,7 @@
       "titel": "Eerlijke verkiezingen? Amerikaanse kiezers vrezen vooral wat erna komt",
       "beschrijving": "Gegevens van kiezers opvragen, stembiljetten innemen, kiesdistricten hertekenen en rechtszaken aanspannen. Het is slechts een greep uit de acties die president Trump heeft ondernomen in de aanloop naar de tussentijdse verkiezingen. Daaraan voegde hij afgelopen week toe dat hij de uitslag van de verkiezingen enkel zou accepteren \"als ze eerlijk verlopen\". Dinsdag stemmen de Amerikaanse kiezers voor",
       "url": "https://nos.nl/l/2637659",
-      "datum": "3 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "NOS"
@@ -50,16 +68,25 @@
       "titel": "1/11 in Nieuwsuur: Einde staakt-het-vuren Olesjky • Alle ogen op midterms Michigan",
       "beschrijving": "Einde staakt-het-vuren Olesjky Het staakt-het-vuren in de Oekraïense stad Olesjky loopt vanavond af. Sinds het begin van de Russische invasie in 2022 zaten inwoners van de stad als ratten in de val. In de laatste paar maanden raakte Olesjky helemaal afgesloten van de buitenwereld. Wat zorgde voor een humanitaire ramp voor de tweeduizend overgebleven inwoners. Dinsdag ging een meerdaags staakt-het-",
       "url": "https://nos.nl/l/2637620",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Europa",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
+      "titel": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+      "beschrijving": "Election body says deadlocked result won&#039;t be undermined even if foreign interference claims are found to be true.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
       "beschrijving": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
       "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "datum": "42 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "BBC World"
@@ -68,25 +95,34 @@
       "titel": "India's opposition holds mega rally seeking election chief's resignation",
       "beschrijving": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
       "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "datum": "15 uur geleden",
+      "datum": "19 uur geleden",
       "regio": "VS",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
-      "titel": "Judge orders Trump administration to stop threatening US election officials",
-      "beschrijving": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "datum": "22 uur geleden",
-      "regio": "VS",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "titel": "Vijf personen gered na drie maanden rondzwerven in Stille Oceaan",
+      "beschrijving": "Vijf personen zijn in de buurt van de eilandenrepubliek Kiribati gered nadat hun boot drie maanden geleden vermist raakte in de Stille Oceaan. De vijf, twee jongens en drie mannen, maakten deel uit van een groep van negen personen die op 30 juli een korte reis wilde afleggen tussen de eilanden Murilo en Ruo, die deel uitmaken van Micronesië. Zij raakten in de problemen door een storm, meldt ABC Ne",
+      "url": "https://nos.nl/l/2637684",
+      "datum": "19 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Privéjet stort neer in woonwijk in Florida, alle negen inzittenden omgekomen",
+      "beschrijving": "In de Amerikaanse staat Florida is een privévliegtuig met negen inzittenden neergestort. Alle mensen aan boord zijn daarbij om het leven gekomen, meldt de minister van Transport Sean Duffy. De identiteit van de slachtoffers is niet bekendgemaakt. Het toestel, een Learjet 60, was opgestegen in Texas en was onderweg naar de Bahama's, voor de kust van Florida. Ook is de exacte oorzaak van de crash no",
+      "url": "https://nos.nl/l/2637682",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Bulgarije krijgt met Jotova pro-Russische president, steun voor premier Radev",
       "beschrijving": "Bulgarije krijgt voor het eerst een gekozen vrouwelijke president. De pro-Russische Iliana Jotova heeft volgens de exitpolls 56 tot 58 procent van de stemmen behaald. Haar tegenstander, de pro-Europese Andrej Gjoerov, die 38 tot 40 procent krijgt, heeft haar gefeliciteerd met de overwinning. De officiële uitslag wordt morgen verwacht, als alle stemmen zijn geteld. Jotova (62) is momenteel interim-",
       "url": "https://nos.nl/l/2637672",
-      "datum": "31 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +131,7 @@
       "titel": "VN trekt vredesmissie terug uit Westelijke Sahara, conflict nog niet voorbij",
       "beschrijving": "Er komt een einde aan de vredesmissie Minurso in de Westelijke Sahara. Dat hebben de Verenigde Naties aangekondigd. De VN-troepen en het materieel keren de komende weken terug naar de landen die deelnamen aan de missie. Vrijdag sprak Rusland zijn veto uit over een Amerikaans voorstel voor het verlengen van het mandaat van Minurso. Daardoor komt er na 35 jaar een einde aan de vredesoperatie, zonder",
       "url": "https://nos.nl/l/2637661",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,67 +140,58 @@
       "titel": "Suriname zet groep mennonieten na illegale ontbossing het land uit",
       "beschrijving": "Een groep van 63 mennonieten, een religieuze gemeenschap, is dit weekend Suriname uitgezet. Ze zijn voornamelijk afkomstig uit Bolivia en Mexico en hielden zich bezig met illegale ontbossing. De uitzetting volgt na een slepend juridisch conflict. De ultraconservatieve christelijke landbouwers verbleven sinds 2024 in Suriname zonder verblijfsvergunning. Ze kapten bossen met als doel om grootschalig",
       "url": "https://nos.nl/l/2637647",
-      "datum": "4 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Wintertijd in Canada, maar in steeds minder provincies wordt de klok verzet",
-      "beschrijving": "Miljoenen Canadezen zetten vanwege de wintertijd de klok dit weekend een uur terug, maar miljoenen andere Canadezen laten de klok ongemoeid. Steeds meer Canadese provincies schaffen de wintertijd af. In British Columbia, in het westen van Canada, is onlangs gekozen voor de zomertijd als standaardtijd en dat betekent dat inwoners dit weekend voor het eerst de klok niet terugzetten. Ook Alberta, Man",
-      "url": "https://nos.nl/l/2637599",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Weer honderden mensen opgepakt bij protest Palestine Action in VK",
-      "beschrijving": "De Britse politie heeft bij een protest van Palestine Action in Londen gisteren 325 mensen opgepakt. De actiegroep is door de Britse regering bestempeld als een terroristische organisatie en is sinds juli vorig jaar verboden. Regelmatig worden bij protesten mensen aangehouden. Dat gebeurde ook gisteren in het zuidwesten van Londen, voor de deur van de Amerikaanse ambassade. Demonstranten droegen d",
-      "url": "https://nos.nl/l/2637585",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Thousands displaced from Hebron as Israel carries on siege",
-      "beschrijving": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Ukraine blames Russia after air alert app sends out false warnings",
+      "beschrijving": "Russian Emergencies Ministry also says its mobile app suffered a &#039;massive cyberattack&#039;, leading to &#039;false information&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+      "datum": "30 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Carney signals progress on Canada-US trade deal talks as midterms loom",
-      "beschrijving": "Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday&#039;s US midterm elections.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "beschrijving": "US president warns Iran to make a deal, as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why governors’ races are important in the 2026 US midterms",
+      "beschrijving": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "beschrijving": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
-      "regio": "Gaza/Israël",
+      "titel": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+      "beschrijving": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     }
   ],
   "ticker": [
+    "App die Oekraïners waarschuwt, verstuurt 'door hack' nepbericht over nucleaire aanval",
     "Piraten kapen Iraans schip bij Somalië, mogelijk met meer aanvallen als doel",
-    "Israëlische aanvallen kosten zeker acht Palestijnen in Gaza het leven",
+    "Bollywood star greets fans in bulletproof glass after bomb threat",
+    "France launches attempted murder investigation after petrol bomb thrown at police",
     "Armed police start patrols in Sydney after Bondi Beach attack",
     "Na de verkiezingen en een verbijsterende week in Brazilië, hoe nu verder?",
     "Eerlijke verkiezingen? Amerikaanse kiezers vrezen vooral wat erna komt",
     "1/11 in Nieuwsuur: Einde staakt-het-vuren Olesjky • Alle ogen op midterms Michigan",
-    "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-    "India's opposition holds mega rally seeking election chief's resignation",
-    "Judge orders Trump administration to stop threatening US election officials",
-    "Bulgarije krijgt met Jotova pro-Russische president, steun voor premier Radev"
+    "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+    "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends"
   ]
 }
