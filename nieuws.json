@@ -1,20 +1,29 @@
 {
-  "bijgewerkt": "03 Nov 2026 23:53 UTC",
+  "bijgewerkt": "04 Nov 2026 05:33 UTC",
   "artikelen": [
     {
       "titel": "Dodental na aanval in regio Zaporizja loopt op, VN veroordeelt aanval op burgers",
       "beschrijving": "Het dodental van de Russische aanval van gisteren op een voormalig schoolgebouw in Oekraïne is opgelopen tot meer dan 30 en er worden zeker 50 mensen vermist. Reddingswerkers zijn nog op zoek naar overlevenden. Er werden zeker negen bommen gedropt op het gebouw in Komysjoevacha, in de regio Zaporizja, waar humanitaire hulp werd uitgedeeld. Het gebouw fungeerde ook als schuilplaats. Het dorp ligt v",
       "url": "https://nos.nl/l/2637930",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
+      "titel": "N Korea fires multiple missiles, denies US claims on Binance hack",
+      "beschrijving": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
+      "datum": "22 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Seven flights across Europe targeted by suspected bomb threats",
       "beschrijving": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
       "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -23,7 +32,7 @@
       "titel": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
       "beschrijving": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
       "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "datum": "9 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,79 +41,43 @@
       "titel": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
       "beschrijving": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
       "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "beschrijving": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Where have there been technical issues so far during US midterm elections?",
-      "beschrijving": "Some polling stations have experienced vote-delaying issues that officials describe as being minor.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
-      "datum": "10 min geleden",
-      "regio": "Wereld",
+      "titel": "Democratic Party flips US Senate in 2026 midterm elections",
+      "beschrijving": "The outcome is widely seen as a rebuke to Trump&#039;s Republican Party, which won control of the chamber in 2024.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
+      "datum": "56 min geleden",
+      "regio": "VS",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "First polls close in pivotal US midterm elections",
-      "beschrijving": "With control of the US Congress on the line, results from Tuesday&#039;s races will have marked implications for the country.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
-      "datum": "49 min geleden",
+      "titel": "Enorme winst Democraten bij midterms, Republikeinen verliezen Huis en Senaat",
+      "beschrijving": "President Trump is keihard afgestraft bij de tussentijdse verkiezingen in de Verenigde Staten. De Republikeinen verliezen niet alleen hun meerderheid in het Huis van Afgevaardigden, zoals verwacht, maar ook in de Senaat. Dat betekent een gigantische overwinning voor de Democraten en maakt regeren voor de president een stuk moeilijker. Liveblog en -stream Volg de laatste ontwikkelingen in ons liveb",
+      "url": "https://nos.nl/l/2637958",
+      "datum": "45 min geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vermoedelijke opdrachtgever van Starlink-sabotage Polen opgepakt",
+      "beschrijving": "De Duitse politie denkt de opdrachtgever te hebben aangehouden van een brandstichting eind september bij een Starlink-station in Polen. De Turkse man werd aangehouden in Reutlingen, ten zuiden van Stuttgart. Vorige maand werden in dezelfde omgeving al twee andere Turken aangehouden. Zij worden ervan verdacht dat ze de sabotage hebben uitgevoerd. De twee werden gearresteerd op verzoek van Polen en ",
+      "url": "https://nos.nl/l/2637951",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US midterm election results live: Polls start closing in some states",
-      "beschrijving": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "President Zelenskyy says US elections will impact war in Ukraine",
-      "beschrijving": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US astronauts vote from space in 2026 midterm elections",
-      "beschrijving": "NASA astronaut Anil Menon demonstrated on social media how he cast his ballot for Harris County in Texas, from space.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US strikes Iranian island ahead of midterm elections",
-      "beschrijving": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Iran",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Opnieuw duizenden Tsjechen de straat op tegen hervorming publieke omroep",
       "beschrijving": "In Tsjechië zijn opnieuw duizenden mensen de straat op gegaan uit solidariteit met de publieke omroep. Radio- en tv-medewerkers staakten vandaag uit protest tegen de hervormingsplannen van de regering voor de publieke omroep en trokken in het zwart gekleed door het centrum van Praag. Zij waarschuwen dat die plannen de onafhankelijkheid van de omroep ondermijnen. De regering van de populistische pr",
       "url": "https://nos.nl/l/2637936",
-      "datum": "1 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,7 +86,7 @@
       "titel": "Spaanse minister van Transport stapt alsnog op na treinramp",
       "beschrijving": "De Spaanse minister van Transport Puente treedt af na de dodelijke treinramp van vorige week in Urda. Daar kwamen 69 mensen om het leven toen een hogesnelheidstrein op een stilstaande regionale trein inreed. Het was de tweede dodelijke treinbotsing dit jaar met tientallen doden, waardoor Puentes positie als minister van Transport onder druk kwam te staan. \"Een minister van Transport in een land al",
       "url": "https://nos.nl/l/2637929",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,7 +95,7 @@
       "titel": "Duitse supermarkten ook getroffen door hack",
       "beschrijving": "Ook supermarkten in Duitsland zijn slachtoffer geworden van een aanval op hun koel- en vriesinstallaties. Supermarktketens Edeka, CAP en REWE melden dat hun koelsystemen door hackers waren overgenomen. Gisteren werden supermarkten in onder andere Zweden, België en Italië getroffen. Ook in Nederland werden bedrijven getroffen: de temperatuur van de vries- en koelsystemen van ten minste zeventien be",
       "url": "https://nos.nl/l/2637928",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -131,16 +104,16 @@
       "titel": "Indonesië arresteert drie hoge politiemensen op verdenking van aftappen president",
       "beschrijving": "In Indonesië zijn drie hoge politiefunctionarissen opgepakt op verdenking van het illegaal afluisteren van president Prabowo en tal van andere prominente Indonesiërs. Over het mogelijke motief van de drie is nog niets bekendgemaakt. Volgens de regering zijn er vooralsnog geen aanwijzingen voor landverraad. Het politieonderzoek richt zich op het illegaal onderscheppen van communicatie. Dat zou zijn",
       "url": "https://nos.nl/l/2637922",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Stream, blog, kaart: zo volg je de uitslagen uit Amerika bij de NOS",
-      "beschrijving": "De uitslagen van de Congresverkiezingen in de Verenigde Staten zijn vannacht live te volgen bij de NOS. Om 01.00 uur sluiten in de eerste staten de stemlokalen. Gedurende de nacht komen daar steeds meer staten bij en ontstaat vermoedelijk een eerste beeld van de uitslag. We houden alle ontwikkelingen bij in een liveblog op NOS.nl en in de NOS-app. Vanaf 03.00 uur zijn we er maar liefst 6,5 uur lan",
+      "beschrijving": "De uitslagen van de Congresverkiezingen in de Verenigde Staten zijn vannacht live te volgen bij de NOS. Om 01.00 uur gingen in de eerste staten de stemlokalen dicht. Gedurende de nacht komen daar steeds meer staten bij en ontstaat een eerste beeld van de uitslag. We houden alle ontwikkelingen bij in een liveblog op NOS.nl en in de NOS-app. Vanaf 03.00 uur zijn we er maar liefst 6,5 uur lang met ee",
       "url": "https://nos.nl/l/2637920",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -149,7 +122,7 @@
       "titel": "Koning Charles noemt slavernij 'beschamend hoofdstuk', maar zegt geen sorry",
       "beschrijving": "De Britse rol in de slavernij is een \"beschamend hoofdstuk uit de geschiedenis, dat me vervult met afgrijzen en me diep verdriet doet\". Met deze woorden zei koning Charles vandaag meer dan ooit, maar het zijn nog net geen excuses voor de Britse rol in de slavenhandel. Wel zou er achter de schermen worden gewerkt aan een officieel excuus van de Britse regering. Premier Burnham zou samen met voormal",
       "url": "https://nos.nl/l/2637916",
-      "datum": "5 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -158,40 +131,67 @@
       "titel": "Polen stuurt extra politie naar de grens met Rusland na 'provocatie'",
       "beschrijving": "Polen schroeft de politieaanwezigheid in het grensgebied met Rusland op, zegt de Poolse premier Tusk. Het gaat om het gebied in de buurt van de Russische exclave Kaliningrad, nadat een mogelijke Russische \"provocatie\" vannacht werd afgeslagen. Tusk zou kort na middernacht zijn ingelicht dat personen met zaklampen in het grensgebied waren gezien. \"We zijn erin geslaagd pogingen tot provocatie te vo",
       "url": "https://nos.nl/l/2637910",
-      "datum": "6 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Bommeldingen bij zeven vluchten in Europa, geen explosieven aangetroffen",
-      "beschrijving": "Bij zeker zeven passagiersvluchten in Europa zijn vandaag bommeldingen gedaan. Toestellen in Polen, Spanje, Bulgarije en Italië werden daarop onderzocht. Voor zover bekend zijn daarbij geen explosieven aangetroffen. Een van de opvallendste incidenten betrof een vlucht van LOT Polish Airlines van Londen naar Warschau. Het toestel week uit naar luchthaven Warschau-Modlin, waar het vliegverkeer tijde",
-      "url": "https://nos.nl/l/2637895",
-      "datum": "7 uur geleden",
-      "regio": "Europa",
+      "titel": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+      "beschrijving": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
+      "datum": "53 min geleden",
+      "regio": "Iran",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "3/11 in Nieuwsuur: Debat over Belastingplan nadert • Midterms in Michigan",
-      "beschrijving": "Vrijdag debat over Belastingplan Het kabinet krijgt bij de behandeling van het Belastingplan te maken met drie oppositieblokken, die ieder op hun eigen manier naar de voorstellen kijken. Hoe reageren de verschillende blokken op de plannen van het kabinet? En welke punten vinden zij belangrijk in aanloop naar het debat van morgen? Nieuwsuur blikt vooruit op de politieke behandeling. ChristenUnie-le",
-      "url": "https://nos.nl/l/2637884",
-      "datum": "8 uur geleden",
+      "titel": "Kansas elects first Democratic senator in almost a century",
+      "beschrijving": "Adam Hamilton beat Republican Roger Marshall in a highly competitive race.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
+      "datum": "56 min geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "South Carolina elects Democratic senator for first time in almost three decades",
+      "beschrijving": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Spanish transport minister resigns days after deadly train crash",
+      "beschrijving": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "beschrijving": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "BBC World"
     }
   ],
   "ticker": [
     "Dodental na aanval in regio Zaporizja loopt op, VN veroordeelt aanval op burgers",
+    "N Korea fires multiple missiles, denies US claims on Binance hack",
     "Seven flights across Europe targeted by suspected bomb threats",
     "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
     "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-    "Indian tourist killed after two helicopters collide near Everest base camp",
-    "Where have there been technical issues so far during US midterm elections?",
-    "First polls close in pivotal US midterm elections",
-    "US midterm election results live: Polls start closing in some states",
-    "President Zelenskyy says US elections will impact war in Ukraine",
-    "US astronauts vote from space in 2026 midterm elections"
+    "Democratic Party flips US Senate in 2026 midterm elections",
+    "Enorme winst Democraten bij midterms, Republikeinen verliezen Huis en Senaat",
+    "Vermoedelijke opdrachtgever van Starlink-sabotage Polen opgepakt",
+    "Opnieuw duizenden Tsjechen de straat op tegen hervorming publieke omroep",
+    "Spaanse minister van Transport stapt alsnog op na treinramp"
   ]
 }
