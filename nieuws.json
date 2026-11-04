@@ -1,65 +1,101 @@
 {
-  "bijgewerkt": "04 Nov 2026 05:33 UTC",
+  "bijgewerkt": "04 Nov 2026 14:00 UTC",
   "artikelen": [
     {
-      "titel": "Dodental na aanval in regio Zaporizja loopt op, VN veroordeelt aanval op burgers",
-      "beschrijving": "Het dodental van de Russische aanval van gisteren op een voormalig schoolgebouw in Oekraïne is opgelopen tot meer dan 30 en er worden zeker 50 mensen vermist. Reddingswerkers zijn nog op zoek naar overlevenden. Er werden zeker negen bommen gedropt op het gebouw in Komysjoevacha, in de regio Zaporizja, waar humanitaire hulp werd uitgedeeld. Het gebouw fungeerde ook als schuilplaats. Het dorp ligt v",
-      "url": "https://nos.nl/l/2637930",
-      "datum": "8 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
+      "titel": "Trump accepteert verkiezingsnederlaag, maar dreigt ook meteen met veto's",
+      "beschrijving": "President Trump zegt dat hij de resultaten van de Congresverkiezingen van gisteren zal accepteren. Zijn Republikeinse partij boekte nog slechtere resultaten dan verwacht, maar Trump zei te hopen dat hij kan samenwerken met de Democraten in het Huis van Afgevaardigden en de Senaat. \"Ik ben er absoluut toe bereid om die uitslagen te accepteren\", zei hij in een interview met The New York Times. \"We z",
+      "url": "https://nos.nl/l/2637974",
+      "datum": "7 uur geleden",
+      "regio": "VS",
+      "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "N Korea fires multiple missiles, denies US claims on Binance hack",
-      "beschrijving": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
-      "datum": "22 min geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Seven flights across Europe targeted by suspected bomb threats",
-      "beschrijving": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-      "beschrijving": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "datum": "15 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "beschrijving": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Democratic Party flips US Senate in 2026 midterm elections",
-      "beschrijving": "The outcome is widely seen as a rebuke to Trump&#039;s Republican Party, which won control of the chamber in 2024.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
-      "datum": "56 min geleden",
-      "regio": "VS",
+      "titel": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
+      "beschrijving": "Israeli settlers have expanded in Hebron&#039;s Old City, with Palestinian residents&#039; presence under threat.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
+      "datum": "19 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Enorme winst Democraten bij midterms, Republikeinen verliezen Huis en Senaat",
-      "beschrijving": "President Trump is keihard afgestraft bij de tussentijdse verkiezingen in de Verenigde Staten. De Republikeinen verliezen niet alleen hun meerderheid in het Huis van Afgevaardigden, zoals verwacht, maar ook in de Senaat. Dat betekent een gigantische overwinning voor de Democraten en maakt regeren voor de president een stuk moeilijker. Liveblog en -stream Volg de laatste ontwikkelingen in ons liveb",
+      "titel": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
+      "beschrijving": "Democrats can block Trump&#039;s legislative agenda, launch investigations but don&#039;t have the numbers to override his veto.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "beschrijving": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+      "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Deense acteur maandenlang voorgelogen over droomproject en stiekem gefilmd",
+      "beschrijving": "De Deense acteur en komiek Rasmus Wallbridge was dolblij dat hij een film mocht maken. Zijn droom ging in vervulling, dacht hij. Maar na maandenlang werken aan de 'film' kreeg Wallbridge te horen dat hij genept was. Hij was nietsvermoedend de hoofdrolspeler geweest van een verborgen tv-show. Tv-programma Alle elsker Rasmus (Iedereen houdt van Rasmus) heeft in Denemarken tot een storm van kritiek g",
+      "url": "https://nos.nl/l/2638021",
+      "datum": "12 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Epstein-files, afzetting of corruptie aanpakken, wat gaan Democraten doen met hun macht?",
+      "beschrijving": "Een blue wave is over Amerika gespoeld. De Democraten hebben zowel de meerderheid in de Senaat als het Huis van Afgevaardigden behaald. In januari worden de nieuwe leden beëdigd en de Democraten hebben grootse plannen om Trump in de laatste twee jaar van zijn presidentschap te dwarsbomen. Wat kunnen de Democraten eigenlijk doen als ze straks het Congres domineren? Eerst een stapje terug, want wat ",
+      "url": "https://nos.nl/l/2638019",
+      "datum": "25 min geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wereld reageert op verlies Republikeinen: optimisme in Europa, Moskou haalt schouders op",
+      "beschrijving": "Veel buitenlandse leiders hebben positief gereageerd op de overwinning van de Democraten bij de Amerikaanse tussentijdse verkiezingen, waarbij de partij de controle kreeg over zowel het Huis van Afgevaardigden als de Senaat. Rusland en China reageerden terughoudend. De Spaanse sociaaldemocratische premier Pedro Sánchez stelde op X dat de Amerikaanse kiezer zich heeft uitgesproken \"tegen beleid dat",
+      "url": "https://nos.nl/l/2638016",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "'Ondergrondse bankier' uit Rotterdam verdacht van witwassen van miljoenen naar Turkije",
+      "beschrijving": "Bij een actie van Europol tegen een internationaal witwasnetwerk hebben Duitse en Nederlandse rechercheurs vijf verdachten aangehouden, onder wie een 55-jarige man uit Rotterdam. Hij wordt verdacht van betrokkenheid bij de ontvangst en verzending van contant geld ter waarde van circa 60 miljoen euro. De verdachte is volgens de politie vermoedelijk een illegale financieel intermediair, in de volksm",
+      "url": "https://nos.nl/l/2638013",
+      "datum": "1 uur geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Klimaatfinanciering voor kwetsbare landen blijft tekortschieten, terwijl probleem groeit",
+      "beschrijving": "De geldstromen die bedoeld zijn om arme landen minder kwetsbaar te maken voor klimaatverandering blijven met vele miljarden tekortschieten. En dat terwijl de kans dat de opwarming van de aarde onder de 1,5 graad Celsius blijft voorlopig is verkeken. Dat staat in een nieuw rapport van het milieuprogramma van de Verenigde Naties. De achterblijvende financiën beloven opnieuw een twistpunt te worden o",
+      "url": "https://nos.nl/l/2638000",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "In Amerikaanse midterms wordt geschiedenis geschreven, dit zijn de primeurs",
+      "beschrijving": "De Senaatszetel van Kansas die na 94 jaar naar de Democraten is gegaan en de staat Georgia die de eerste zwarte vrouwelijke gouverneur ooit heeft verkozen. In de Amerikaanse tussentijdse verkiezingen, die resulteren in een zogenoemde blue wave voor de Democratische partij, wordt geschiedenis geschreven. We zetten een aantal primeurs op een rij: In zijn overwinningsspeech in New Hampshire bedankte ",
+      "url": "https://nos.nl/l/2637982",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Amerikaanse kiezer rekent af met Trump: Democratische meerderheid in Huis en Senaat",
+      "beschrijving": "President Trump en zijn beleid zijn hard afgestraft bij de tussentijdse verkiezingen in de Verenigde Staten. De uitslagen lopen nog binnen, maar duidelijk is dat de Republikeinen niet alleen zoals verwacht hun meerderheid in het Huis van Afgevaardigden verliezen, maar ook in de Senaat. Dat betekent dat de Democraten een gigantische overwinning hebben geboekt. Een blauwe golf werd van tevoren als m",
       "url": "https://nos.nl/l/2637958",
-      "datum": "45 min geleden",
+      "datum": "9 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +104,7 @@
       "titel": "Vermoedelijke opdrachtgever van Starlink-sabotage Polen opgepakt",
       "beschrijving": "De Duitse politie denkt de opdrachtgever te hebben aangehouden van een brandstichting eind september bij een Starlink-station in Polen. De Turkse man werd aangehouden in Reutlingen, ten zuiden van Stuttgart. Vorige maand werden in dezelfde omgeving al twee andere Turken aangehouden. Zij worden ervan verdacht dat ze de sabotage hebben uitgevoerd. De twee werden gearresteerd op verzoek van Polen en ",
       "url": "https://nos.nl/l/2637951",
-      "datum": "3 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,121 +113,85 @@
       "titel": "Opnieuw duizenden Tsjechen de straat op tegen hervorming publieke omroep",
       "beschrijving": "In Tsjechië zijn opnieuw duizenden mensen de straat op gegaan uit solidariteit met de publieke omroep. Radio- en tv-medewerkers staakten vandaag uit protest tegen de hervormingsplannen van de regering voor de publieke omroep en trokken in het zwart gekleed door het centrum van Praag. Zij waarschuwen dat die plannen de onafhankelijkheid van de omroep ondermijnen. De regering van de populistische pr",
       "url": "https://nos.nl/l/2637936",
-      "datum": "7 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Spaanse minister van Transport stapt alsnog op na treinramp",
-      "beschrijving": "De Spaanse minister van Transport Puente treedt af na de dodelijke treinramp van vorige week in Urda. Daar kwamen 69 mensen om het leven toen een hogesnelheidstrein op een stilstaande regionale trein inreed. Het was de tweede dodelijke treinbotsing dit jaar met tientallen doden, waardoor Puentes positie als minister van Transport onder druk kwam te staan. \"Een minister van Transport in een land al",
-      "url": "https://nos.nl/l/2637929",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
+      "titel": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
+      "beschrijving": "Egyptian-American surgeon Adam Hamawy has won New Jersey’s 12th Congressional District.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
+      "datum": "27 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Duitse supermarkten ook getroffen door hack",
-      "beschrijving": "Ook supermarkten in Duitsland zijn slachtoffer geworden van een aanval op hun koel- en vriesinstallaties. Supermarktketens Edeka, CAP en REWE melden dat hun koelsystemen door hackers waren overgenomen. Gisteren werden supermarkten in onder andere Zweden, België en Italië getroffen. Ook in Nederland werden bedrijven getroffen: de temperatuur van de vries- en koelsystemen van ten minste zeventien be",
-      "url": "https://nos.nl/l/2637928",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
+      "titel": "Jerusalem Daily: Mass arrests across occupied West Bank",
+      "beschrijving": "Israeli forces bomb Gaza displacement camps and arrest 45 people in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
+      "datum": "30 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Indonesië arresteert drie hoge politiemensen op verdenking van aftappen president",
-      "beschrijving": "In Indonesië zijn drie hoge politiefunctionarissen opgepakt op verdenking van het illegaal afluisteren van president Prabowo en tal van andere prominente Indonesiërs. Over het mogelijke motief van de drie is nog niets bekendgemaakt. Volgens de regering zijn er vooralsnog geen aanwijzingen voor landverraad. Het politieonderzoek richt zich op het illegaal onderscheppen van communicatie. Dat zou zijn",
-      "url": "https://nos.nl/l/2637922",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Stream, blog, kaart: zo volg je de uitslagen uit Amerika bij de NOS",
-      "beschrijving": "De uitslagen van de Congresverkiezingen in de Verenigde Staten zijn vannacht live te volgen bij de NOS. Om 01.00 uur gingen in de eerste staten de stemlokalen dicht. Gedurende de nacht komen daar steeds meer staten bij en ontstaat een eerste beeld van de uitslag. We houden alle ontwikkelingen bij in een liveblog op NOS.nl en in de NOS-app. Vanaf 03.00 uur zijn we er maar liefst 6,5 uur lang met ee",
-      "url": "https://nos.nl/l/2637920",
-      "datum": "10 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Koning Charles noemt slavernij 'beschamend hoofdstuk', maar zegt geen sorry",
-      "beschrijving": "De Britse rol in de slavernij is een \"beschamend hoofdstuk uit de geschiedenis, dat me vervult met afgrijzen en me diep verdriet doet\". Met deze woorden zei koning Charles vandaag meer dan ooit, maar het zijn nog net geen excuses voor de Britse rol in de slavenhandel. Wel zou er achter de schermen worden gewerkt aan een officieel excuus van de Britse regering. Premier Burnham zou samen met voormal",
-      "url": "https://nos.nl/l/2637916",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Polen stuurt extra politie naar de grens met Rusland na 'provocatie'",
-      "beschrijving": "Polen schroeft de politieaanwezigheid in het grensgebied met Rusland op, zegt de Poolse premier Tusk. Het gaat om het gebied in de buurt van de Russische exclave Kaliningrad, nadat een mogelijke Russische \"provocatie\" vannacht werd afgeslagen. Tusk zou kort na middernacht zijn ingelicht dat personen met zaklampen in het grensgebied waren gezien. \"We zijn erin geslaagd pogingen tot provocatie te vo",
-      "url": "https://nos.nl/l/2637910",
-      "datum": "11 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
-      "beschrijving": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
-      "datum": "53 min geleden",
+      "titel": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
+      "beschrijving": "Iranian officials see Republican midterm losses in a positive light, but supreme leader says US policy will not shift.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
+      "datum": "33 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Kansas elects first Democratic senator in almost a century",
-      "beschrijving": "Adam Hamilton beat Republican Roger Marshall in a highly competitive race.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
-      "datum": "56 min geleden",
-      "regio": "Europa",
+      "titel": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
+      "beschrijving": "US President Donald Trump has admitted that the war on Iran contributed to Republican losses in the midterm elections.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "South Carolina elects Democratic senator for first time in almost three decades",
-      "beschrijving": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "VS",
+      "titel": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+      "beschrijving": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+      "url": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Europa",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "Spanish transport minister resigns days after deadly train crash",
-      "beschrijving": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-      "beschrijving": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+      "titel": "Iran's chief negotiator says Americans voted 'no to war'",
+      "beschrijving": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
       "datum": "1 uur geleden",
-      "regio": "China/Taiwan",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "ANC under pressure to reverse South Africa decline",
+      "beschrijving": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Dodental na aanval in regio Zaporizja loopt op, VN veroordeelt aanval op burgers",
-    "N Korea fires multiple missiles, denies US claims on Binance hack",
-    "Seven flights across Europe targeted by suspected bomb threats",
-    "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-    "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-    "Democratic Party flips US Senate in 2026 midterm elections",
-    "Enorme winst Democraten bij midterms, Republikeinen verliezen Huis en Senaat",
-    "Vermoedelijke opdrachtgever van Starlink-sabotage Polen opgepakt",
-    "Opnieuw duizenden Tsjechen de straat op tegen hervorming publieke omroep",
-    "Spaanse minister van Transport stapt alsnog op na treinramp"
+    "Trump accepteert verkiezingsnederlaag, maar dreigt ook meteen met veto's",
+    "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
+    "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
+    "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+    "Deense acteur maandenlang voorgelogen over droomproject en stiekem gefilmd",
+    "Epstein-files, afzetting of corruptie aanpakken, wat gaan Democraten doen met hun macht?",
+    "Wereld reageert op verlies Republikeinen: optimisme in Europa, Moskou haalt schouders op",
+    "'Ondergrondse bankier' uit Rotterdam verdacht van witwassen van miljoenen naar Turkije",
+    "Klimaatfinanciering voor kwetsbare landen blijft tekortschieten, terwijl probleem groeit",
+    "In Amerikaanse midterms wordt geschiedenis geschreven, dit zijn de primeurs"
   ]
 }
