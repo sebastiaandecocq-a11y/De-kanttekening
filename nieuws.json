@@ -1,47 +1,110 @@
 {
-  "bijgewerkt": "04 Nov 2026 21:06 UTC",
+  "bijgewerkt": "05 Nov 2026 02:03 UTC",
   "artikelen": [
     {
       "titel": "Franse bloedbanken ontsnappen aan schade na cyberaanval op koelinstallaties",
       "beschrijving": "Bij drie Franse bloedbanken is begin deze week via een cyberaanval geprobeerd de temperatuur van koelinstallaties te verhogen. Het gebeurde op dezelfde dag dat koelinstallaties van winkels in vier Europese landen werden gehackt, van de Carrefour in België tot de Coop in Zweden. De aanval op de bloedbanken werd echter verijdeld voordat schade kon ontstaan, waardoor geen bloed verloren is gegaan. Of",
       "url": "https://nos.nl/l/2638045",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Will the US resume its attacks on Iran?",
-      "beschrijving": "Tehran says it&#039;s ready with a maximum deterrence plan.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-      "datum": "40 min geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
       "titel": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
       "beschrijving": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
       "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "datum": "43 min geleden",
+      "datum": "3 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
+      "titel": "Historic firsts redraw US political map in 2026 midterm elections",
+      "beschrijving": "The 2026 US midterms delivered a wave of historic firsts for women, Black, Muslim, gay and Native American politicians.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
+      "beschrijving": "President Trump admits Iran war &#039;largely&#039; caused Republicans&#039; US election wipeout, but says he &#039;had to do it&#039;.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Democratic Socialists of America see record wins in US midterm elections",
+      "beschrijving": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
       "titel": "Israel's president begins consultations with parties after election deadlock",
       "beschrijving": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
       "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "NASA-telescoop na ruim twintig jaar vergaan in atmosfeer",
+      "beschrijving": "Het zat er al aan te komen en nu is het gebeurd. Een ruimtetelescoop van NASA is na ruim twintig jaar vergaan in de dampkring, nadat een reddingsmissie om de satelliet naar een hogere baan te duwen eerder op een mislukking was uitgelopen. De onbemande ruimtetelescoop Neil Gehrels Swift Observatory, kortweg Swift, viel boven het Indonesische eiland Sumatra terug in de aarde, zegt de Amerikaanse rui",
+      "url": "https://nos.nl/l/2638084",
+      "datum": "26 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "WO II-bom ontmanteld in Duitse stad Bochum",
+      "beschrijving": "In de Duitse stad Bochum in het Ruhrgebied is een bom uit de Tweede Wereldoorlog op een begraafplaats onschadelijk gemaakt. Vanwege de ontmanteling moesten ongeveer duizend mensen in de directe omgeving hun woning verlaten. Ook werd een deel van de snelweg A40 afgesloten. Begraafplaatsmedewerkers ontdekten de Britse bom van 250 kilo gedurende het graven van een nieuw graf. Bij de ontmanteling ware",
+      "url": "https://nos.nl/l/2638083",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Dirigent Herbert Blomstedt (99) overleden",
+      "beschrijving": "De Zweedse dirigent Herbert Blomstedt is op 99-jarige leeftijd overleden. Dat heeft zijn management bekendgemaakt. Blomstedt leidde tussen 1983 en 2023 tientallen keren het Concertgebouworkest. \"We zullen zijn bescheidenheid, zijn grote muzikale toewijding en zijn warme persoonlijkheid missen\", schrijft het Concertgebouworkest over de dirigent die in 1927 als kind van Zweedse ouders in de Verenigd",
+      "url": "https://nos.nl/l/2638081",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Hongarije maakt namen van informanten die burgers spioneerden openbaar",
+      "beschrijving": "Hongarije heeft tienduizenden documenten van de geheime politie uit de communistische tijd openbaar gemaakt. In die documenten staan onder meer namen, aliassen en andere gegevens van bijna 60.000 voormalige informanten die tijdens het bewind burgers bespioneerden. Met het openbaar maken van de documenten hoopt de Hongaarse regering dat het land in het reine komt met zijn verleden. Tussen 1945 en 1",
+      "url": "https://nos.nl/l/2638073",
+      "datum": "4 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wereldgezondheidsorganisatie staat gebruik van twee nieuwe ebolavaccins toe",
+      "beschrijving": "De Wereldgezondheidsorganisatie (WHO) heeft twee nieuwe ebolavaccins goedgekeurd, die nu kunnen worden gebruikt bij de grootschalige ebola-uitbraak in de Democratische Republiek Congo. Er is groen licht gegeven om de vaccinaties te gaan testen binnen de besmettingshaarden in het land. De twee vaccinaties zijn de eerste middelen die specifiek ontwikkeld zijn voor de dodelijke Bundibugyo-variant van",
+      "url": "https://nos.nl/l/2638072",
+      "datum": "4 uur geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Van Oekraïne tot Iran: overwinning Democraten zal wereldwijd impact hebben",
       "beschrijving": "De klinkende verkiezingsoverwinning van de Democraten bij de Congresverkiezingen zal niet alleen in de VS, maar ook in het buitenland veel teweegbrengen. Zo'n drastische omkering van de machtsverhoudingen in Washington kan niet onopgemerkt blijven in landen als Oekraïne, Iran en Israël. Het verschil wordt pas duidelijk nadat de nieuw gekozen Amerikaanse Congresleden echt beginnen. Dat gebeurt op 3",
       "url": "https://nos.nl/l/2638064",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +113,7 @@
       "titel": "Oekraïense onderscheiding voor Melania Trump voor bemiddeling bij bestand in Olesjky",
       "beschrijving": "De Oekraïense president Zelensky heeft de Amerikaanse first lady Melania Trump de hoogste Oekraïense onderscheiding voor vrouwen toegekend. Aanleiding is haar bemiddelende rol bij het tot stand brengen van het bestand van de door Rusland bezette stad Olesjky. In het Oekraïense presidentiële decreet wordt verwezen naar Trumps \"aanzienlijke persoonlijke bijdrage\" aan humanitaire steun voor Oekraïne ",
       "url": "https://nos.nl/l/2638056",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +122,7 @@
       "titel": "Censuur of broodnodige bescherming? Australisch hof toetst verbod sociale media",
       "beschrijving": "Het Australische socialemediaverbod voor kinderen tot 16 jaar is \"censuur\", \"slecht doordacht\" en een \"ernstige inperking van het politieke debat\". Hoewel het een jaar na de invoering inmiddels bekende kritiek is, worden deze argumenten nu voor het eerst bij de hoogste Australische rechtbank van het land voorgelegd. De Australische regering wordt aangeklaagd door het socialemediaplatform Reddit en",
       "url": "https://nos.nl/l/2638048",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,80 +131,44 @@
       "titel": "Podcast De Dag: de problemen van Trump",
       "beschrijving": "De Amerikaanse president Trump is flink afgestraft in de tussentijdse verkiezingen, de midterms. De Democraten krijgen door de blauwe tsunami nu zowel een meerderheid in het Huis als de Senaat. Wat betekent deze gigantische overwinning van de Democraten voor Donald Trump? Luister hier: Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet",
       "url": "https://nos.nl/l/2638044",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Filipijnse politie bevestigt: kinderporno op apparaten vader Meghan Markle",
-      "beschrijving": "Op apparaten van Thomas Markle, de vader van Meghan Markle, staat inderdaad kinderporno. Dat heeft de Filipijnse politie bevestigd na een onderzoek, schrijft South China Morning Post. Vorige maand schreef de Britse krant The Sun dat Meghans broer in het huis van hun vader, op de Filipijnen, op zoek was naar een telefoon. Bij die zoektocht vond Thomas Markle junior een telefoon met daarop een video",
-      "url": "https://nos.nl/l/2638039",
-      "datum": "5 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Deense acteur maandenlang voorgelogen over droomproject en stiekem gefilmd",
-      "beschrijving": "De Deense acteur en komiek Rasmus Wallbridge was dolblij dat hij een film mocht maken. Zijn droom ging in vervulling, dacht hij. Maar na maandenlang werken aan de 'film' kreeg Wallbridge te horen dat hij genept was. Hij was nietsvermoedend de hoofdrolspeler geweest van een verborgen tv-show. Tv-programma Alle elsker Rasmus (Iedereen houdt van Rasmus) heeft in Denemarken tot een storm van kritiek g",
-      "url": "https://nos.nl/l/2638021",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Epstein-files, afzetting of corruptie aanpakken, wat gaan Democraten doen met hun macht?",
-      "beschrijving": "Een blue wave is over Amerika gespoeld. De Democraten hebben zowel de meerderheid in de Senaat als het Huis van Afgevaardigden behaald. In januari worden de nieuwe leden beëdigd en de Democraten hebben grootse plannen om Trump in de laatste twee jaar van zijn presidentschap te dwarsbomen. Wat kunnen de Democraten eigenlijk doen als ze straks het Congres domineren? Eerst een stapje terug, want wat ",
-      "url": "https://nos.nl/l/2638019",
-      "datum": "7 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wereld reageert op verlies Republikeinen: optimisme in Europa, Moskou haalt schouders op",
-      "beschrijving": "Veel buitenlandse leiders hebben positief gereageerd op de overwinning van de Democraten bij de Amerikaanse tussentijdse verkiezingen, waarbij de partij de controle kreeg over zowel het Huis van Afgevaardigden als de Senaat. Rusland en China reageerden terughoudend. De Spaanse sociaaldemocratische premier Pedro Sánchez stelde op X dat de Amerikaanse kiezer zich heeft uitgesproken \"tegen beleid dat",
-      "url": "https://nos.nl/l/2638016",
-      "datum": "8 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'Ondergrondse bankier' uit Rotterdam verdacht van witwassen van miljoenen naar Turkije",
-      "beschrijving": "Bij een actie van Europol tegen een internationaal witwasnetwerk hebben Duitse en Nederlandse rechercheurs vijf verdachten aangehouden, onder wie een 55-jarige man uit Rotterdam. Hij wordt verdacht van betrokkenheid bij de ontvangst en verzending van contant geld ter waarde van circa 60 miljoen euro. De verdachte is volgens de politie vermoedelijk een illegale financieel intermediair, in de volksm",
-      "url": "https://nos.nl/l/2638013",
-      "datum": "8 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-      "beschrijving": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-      "datum": "34 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iranians celebrate Democrat victory in US midterms",
-      "beschrijving": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+      "titel": "Democrats won Congress. But can they deliver on their promises?",
+      "beschrijving": "Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
       "datum": "1 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "WHO approves trials for two new Ebola vaccines",
-      "beschrijving": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Afrika",
+      "titel": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
+      "beschrijving": "Move comes after Sudan lodged official complaints against Ethiopia, accusing Addis Ababa of supporting the RSF group.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
+      "beschrijving": "A giant banner depicting US President Donald Trump and Israel’s Prime Minister Benjamin Netanyahu was burnt in Tehran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Trump blames Iran war for midterms losses",
+      "beschrijving": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
@@ -149,24 +176,6 @@
       "titel": "'Most difficult days of my life' for keeper Owono",
       "beschrijving": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Iran's chief negotiator says Americans voted 'no to war'",
-      "beschrijving": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "ANC under pressure to reverse South Africa decline",
-      "beschrijving": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
       "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
@@ -175,14 +184,14 @@
   ],
   "ticker": [
     "Franse bloedbanken ontsnappen aan schade na cyberaanval op koelinstallaties",
-    "Will the US resume its attacks on Iran?",
     "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+    "Historic firsts redraw US political map in 2026 midterm elections",
+    "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
+    "Democratic Socialists of America see record wins in US midterm elections",
     "Israel's president begins consultations with parties after election deadlock",
-    "Van Oekraïne tot Iran: overwinning Democraten zal wereldwijd impact hebben",
-    "Oekraïense onderscheiding voor Melania Trump voor bemiddeling bij bestand in Olesjky",
-    "Censuur of broodnodige bescherming? Australisch hof toetst verbod sociale media",
-    "Podcast De Dag: de problemen van Trump",
-    "Filipijnse politie bevestigt: kinderporno op apparaten vader Meghan Markle",
-    "Deense acteur maandenlang voorgelogen over droomproject en stiekem gefilmd"
+    "NASA-telescoop na ruim twintig jaar vergaan in atmosfeer",
+    "WO II-bom ontmanteld in Duitse stad Bochum",
+    "Dirigent Herbert Blomstedt (99) overleden",
+    "Hongarije maakt namen van informanten die burgers spioneerden openbaar"
   ]
 }
