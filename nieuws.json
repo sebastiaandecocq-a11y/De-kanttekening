@@ -1,56 +1,110 @@
 {
-  "bijgewerkt": "05 Nov 2026 18:34 UTC",
+  "bijgewerkt": "05 Nov 2026 23:57 UTC",
   "artikelen": [
     {
-      "titel": "Jordanian officer killed in stabbing attack in Amman",
-      "beschrijving": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Hoax bomb threats force emergency landings, evacuations across Europe",
+      "beschrijving": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "Saudi coalition intercepts missile fired towards Medina",
+      "beschrijving": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "beschrijving": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "datum": "6 uur geleden",
+      "regio": "Europa",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Eight killed in series of shootings in western Turkey",
+      "beschrijving": "Victims are found in several locations in three separate vehicles, according to local reports.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Who could be behind hoax bomb threats to European air travel?",
+      "beschrijving": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
       "titel": "Britse zender stopt definitief met Married at First Sight na verkrachtingsmeldingen",
       "beschrijving": "Het Britse Channel 4 stopt definitief met het uitzenden van het populaire tv-programma Married at First Sight UK. Dat meldt de zender na onderzoek naar de welzijnsvoorschriften van de show, die bedoeld zijn om een veilige plek te creëren voor deelnemers. Uit het onderzoek blijkt dat de richtlijnen prima zijn, maar dat er wel aanpassingen nodig zijn om de show op een verantwoorde manier voort te ze",
       "url": "https://nos.nl/l/2638179",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "AI stocks plunge after US election, driving down markets",
-      "beschrijving": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
-      "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
-      "datum": "38 min geleden",
-      "regio": "Wereld",
+      "titel": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "beschrijving": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Bishara: US election deals a blow to warmongers",
-      "beschrijving": "Al Jazeera&#039;s senior political analyst Marwan Bishara says the US election is a setback for warmongers.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_us-election-deals-a-blow-to-warmongers-051126?traffic_source=rss",
+      "titel": "Bergbeklimmer (21) laat 17-jarige achter op berg, Oostenrijkse politie doet onderzoek",
+      "beschrijving": "Op de hoogste berg van Duitsland heeft een man van 21 een meisje van 17 achtergelaten. De twee maakten een nachttocht naar de top van de Zugspitze, op de grens van Duitsland en Oostenrijk. Ze wilden daar de zonsopgang bekijken. Toen ze door vanwege barre omstandigheden niet verder konden, liet de man het meisje op de berg alleen. Zelf begon hij aan de afdaling. Waarom de twee uit elkaar zijn gegaa",
+      "url": "https://nos.nl/l/2638222",
+      "datum": "49 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Baby overleden aan mazelen in VS, eerste sterfgeval in Wisconsin in 36 jaar",
+      "beschrijving": "In de Amerikaanse staat Wisconsin is een baby overleden aan de mazelen. Het is voor het eerst sinds 1990 dat iemand in de staat aan de besmettelijke infectieziekte overlijdt. Het hoofd van de gezondheidsdienst CDC leeft mee met de nabestaanden. \"Het overlijden van een kind is altijd een tragedie, maar het is extra schrijnend omdat de mazelen met een vaccinatie kunnen worden voorkomen.\" In Wisconsi",
+      "url": "https://nos.nl/l/2638221",
+      "datum": "59 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Gouverneur Californië zet doodstraffen van ruim 500 veroordeelden om in levenslang",
+      "beschrijving": "De gouverneur van de Amerikaanse staat Californië, Gavin Newsom, gaat de doodstraffen van 548 gevangenen omzetten in levenslange gevangenisstraffen zonder uitzicht op vervroegde vrijlating. Het besluit komt op een moment dat de Democraat aankomende januari, na twee termijnen als gouverneur, zijn ambt moet neerleggen. De maatregel is grotendeels symbolisch: de laatste keer dat in de staat een gevan",
+      "url": "https://nos.nl/l/2638217",
       "datum": "1 uur geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
-      "titel": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "beschrijving": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-      "datum": "14 uur geleden",
-      "regio": "Iran",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "titel": "Van rode naar blauwe golf: welke kiezers in de VS maakten het verschil?",
+      "beschrijving": "De tussentijdse verkiezingen in de Verenigde Staten hebben geleid tot een opvallende verschuiving van Republikeins rood naar Democratisch blauw. Republikeinen verloren de macht in staten waar zij decennia lang de senator leverden. Uit onvrede over het beleid van president Trump keerden velen hem de rug toe, is daarbij de uitleg. Wie zijn deze mensen? Uit voorlopige analyses blijkt dat kiezers van ",
+      "url": "https://nos.nl/l/2638199",
+      "datum": "4 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
-      "titel": "Paraguayaanse president Peña stapt op, na massale protesten",
-      "beschrijving": "De president van Paraguay, Santiago Peña, is opgestapt. Dat laat hij weten in een video op X. Zijn vertrek komt niet als een verrassing. Peña ligt onder vuur vanwege de financiële en politieke crisis waar het land in verkeert, nadat de Paraguayaanse Centrale Bank begin deze week de digitale bank Ueno onder toezicht heeft geplaatst. Miljoenen inwoners kunnen daardoor niet bij hun geld. Daardoor gin",
+      "titel": "Paraguayaanse president Peña stapt op na massale protesten om bankblokkade",
+      "beschrijving": "Na dagen van massale protesten is president Peña van Paraguay opgestapt. Paraguayanen gingen begin deze week woedend de straat op nadat de digitale bank Ueno onder toezicht werd geplaatst. Sindsdien kunnen miljoenen inwoners niet bij hun geld. De 47-jarige Peña lag onder vuur vanwege zijn banden met de bank. Zo was hij tot vorig jaar nog aandeelhouder. Inwoners eisten daarom zijn aftreden, een opr",
       "url": "https://nos.nl/l/2638186",
-      "datum": "47 min geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +113,7 @@
       "titel": "Amerikaanse luchtvaart draait nog op stokoude floppydisks, miljarden nodig voor vervanging",
       "beschrijving": "De Amerikaanse luchtvaartautoriteit FAA trekt miljarden uit voor nieuwe computersystemen, waaronder cruciale radars. Het overgrote deel van de digitale systemen dat moet zorgen voor de veiligheid van het Amerikaanse luchtverkeer, is naar computermaatstaven stokoud. Zo draait het zogenoemde bulletin board, dat wordt gebruikt voor de uitwisseling van belangrijke informatie, nog met behulp van floppy",
       "url": "https://nos.nl/l/2638171",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,16 +122,16 @@
       "titel": "Britse komiek Russell Brand schuldig bevonden aan verkrachting en aanranding",
       "beschrijving": "De Britse komiek Russell Brand is schuldig bevonden aan verkrachting en aanranding. Dat heeft de rechtbank in Londen zojuist geoordeeld. Het gaat om één geval van verkrachting en drie gevallen van seksuele aanranding. Naar verwachting wacht Brand een gevangenisstraf, maandag doet de rechter uitspraak. Hij is in voorlopige hechtenis genomen. De 51-jarige Brand werd beschuldigd van zeven seksuele mi",
       "url": "https://nos.nl/l/2638164",
-      "datum": "3 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Frankrijk demonstreert opnieuw voor hogere lonen, regering wil onrust voorkomen",
-      "beschrijving": "Op de grote landelijke protestdag in Frankrijk heeft de oproerpolitie in Lyon charges uitgevoerd tegen demonstranten en traangas ingezet. Sommige betogers riepen anti-politieleuzen. Een deel van hen was in het zwart gekleed en droeg gezichtsbedekking. Bij Toulouse is een middelbare school in brand gestoken. In Parijs stonden scholieren en andere demonstranten tegenover de politie nadat ze een stra",
+      "titel": "Honderdduizenden de straat op bij opnieuw nationale protestdag in Frankrijk",
+      "beschrijving": "Honderdduizenden Fransen, van scholieren tot gepensioneerden, zijn vandaag de straat opgegaan om te demonstreren voor onder meer hogere lonen, lagere kosten van levensonderhoud en betere publieke voorzieningen zoals onderwijs. Ook de gele hesjes sloten zich aan bij de demonstraties. Volgens CGT, een van de grootste vakbonden in Frankrijk, bracht de protestdag landelijk 1,6 miljoen mensen op de bee",
       "url": "https://nos.nl/l/2638145",
-      "datum": "5 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,94 +140,58 @@
       "titel": "Bank onder curatele, president onder vuur: miljoenen Paraguayanen kunnen niet bij geld",
       "beschrijving": "Paraguay is in een grote financiële en politieke crisis terechtgekomen nadat de Centrale Bank van het land begin deze week de digitale bank Ueno onder toezicht heeft geplaatst. Miljoenen Paraguayanen kunnen hierdoor niet bij hun geld. De oppositie is woedend en eist het aftreden van president Peña vanwege zijn banden met de bank. De bank is onder curatele geplaatst vanwege ernstige financiële prob",
       "url": "https://nos.nl/l/2638134",
-      "datum": "6 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Grootschalige legerinzet in Jakarta vanwege afluisterschandaal en machtsstrijd",
-      "beschrijving": "Te midden van een groot afluisterschandaal zijn vele duizenden militairen gemobiliseerd in de Indonesische hoofdstad Jakarta. De spanningen zijn hoog opgelopen door wat lijkt op een machtsstrijd tussen president Prabowo Subianto en zijn voorganger Joko Widodo. Het leger brengt 21.000 militairen in verhoogde staat van paraatheid. Militaire voertuigen staan onder meer op het plein voor het president",
-      "url": "https://nos.nl/l/2638133",
-      "datum": "6 uur geleden",
+      "titel": "South Africa’s ANC on track for new lows in local polls",
+      "beschrijving": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "'Belediging van mijn cultuur': chef vecht ontslag aan na weigering ananas op pizza",
-      "beschrijving": "Voor sommige Italianen is ananas op een pizza leggen alsof je een snor op de Mona Lisa tekent. Een diepe belediging van een nationaal symbool. Maar mag een pizzabakker een klant die erom vraagt 'nee' verkopen? In Australië is de eeuwige discussie over de omstreden pizzatopping opnieuw opgelaaid. Een bevredigend antwoord kwam er helaas niet. De Italiaanse chef-kok Davide Tamburella van restaurant L",
-      "url": "https://nos.nl/l/2638128",
-      "datum": "7 uur geleden",
+      "titel": "Spanish footballer Jesus de Miguel mourned by family and friends",
+      "beschrijving": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Opnieuw bommeldingen Europese vluchten, vliegtuig breekt vlucht naar Rome af",
-      "beschrijving": "Net als eerder deze week is opnieuw een reeks Europese vluchten getroffen door bommeldingen. Een vliegtuig dat onderweg was van Dublin naar Rome heeft na een bommelding een tussenlanding gemaakt op een Franse militaire basis in Évreux. Het toestel, van de Ierse luchtvaartmaatschappij Aer Lingus, is veilig geland. De 115 passagiers en zes bemanningsleden maken het goed, zeggen de Franse autoriteite",
-      "url": "https://nos.nl/l/2638119",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hongkongse activist Wong veroordeeld tot 10 jaar cel, kritiek op vonnis",
-      "beschrijving": "De pro-democratie-activist Joshua Wong is vandaag door de rechtbank in Hongkong veroordeeld tot tien jaar gevangenisstraf. Dat is de maximale straf voor het strafbare feit dat hij zou hebben gepleegd. Wong zat al vast voor een andere zaak en zou op 1 januari vrijkomen, maar twee maanden geleden werd al duidelijk dat dat niet zou gebeuren. Toen kwam naar buiten dat hij schuld had bekend aan een nie",
-      "url": "https://nos.nl/l/2638102",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
-      "beschrijving": "The final of Gaza’s ‘Thousand Martyrs’ Cup marks the return of organised football after nearly three years of war.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Israeli demolitions displace more than 100 Palestinians in Biddu",
+      "beschrijving": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "French protests see numbers surge as unions join strikes over high cost of living",
-      "beschrijving": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "datum": "34 min geleden",
+      "titel": "Why are wealthy countries failing developing nations?",
+      "beschrijving": "UN report warns climate adaptation funding is falling far short of needs.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
+      "datum": "3 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-      "beschrijving": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "beschrijving": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
-      "datum": "16 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     }
   ],
   "ticker": [
-    "Jordanian officer killed in stabbing attack in Amman",
+    "Hoax bomb threats force emergency landings, evacuations across Europe",
+    "Saudi coalition intercepts missile fired towards Medina",
+    "Hoax bomb threats target European airlines and airports for second time in a week",
+    "Eight killed in series of shootings in western Turkey",
+    "Who could be behind hoax bomb threats to European air travel?",
     "Britse zender stopt definitief met Married at First Sight na verkrachtingsmeldingen",
-    "AI stocks plunge after US election, driving down markets",
-    "Bishara: US election deals a blow to warmongers",
-    "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-    "Paraguayaanse president Peña stapt op, na massale protesten",
-    "Amerikaanse luchtvaart draait nog op stokoude floppydisks, miljarden nodig voor vervanging",
-    "Britse komiek Russell Brand schuldig bevonden aan verkrachting en aanranding",
-    "Frankrijk demonstreert opnieuw voor hogere lonen, regering wil onrust voorkomen",
-    "Bank onder curatele, president onder vuur: miljoenen Paraguayanen kunnen niet bij geld"
+    "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+    "Bergbeklimmer (21) laat 17-jarige achter op berg, Oostenrijkse politie doet onderzoek",
+    "Baby overleden aan mazelen in VS, eerste sterfgeval in Wisconsin in 36 jaar",
+    "Gouverneur Californië zet doodstraffen van ruim 500 veroordeelden om in levenslang"
   ]
 }
