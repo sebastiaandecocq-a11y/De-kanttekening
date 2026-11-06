@@ -1,74 +1,83 @@
 {
-  "bijgewerkt": "06 Nov 2026 14:51 UTC",
+  "bijgewerkt": "06 Nov 2026 20:44 UTC",
   "artikelen": [
     {
       "titel": "33 doden bij aanval rebellengroep Oost-Congo, ebola-patiënten op de vlucht",
       "beschrijving": "Bij een aanval van gewapende militanten van de Allied Democratic Forces (ADF) in een dorp in het oosten van Congo zijn minstens 33 mensen om het leven gekomen. Volgens een lokale maatschappelijke organisatie werden daarbij huizen in brand gestoken en geplunderd. \"We hoorden kogelschoten en huizen op zo'n 50 meter afstand werden in brand gestoken\", zegt de directeur van een lokaal ziekenhuis. De aa",
       "url": "https://nos.nl/l/2638311",
-      "datum": "8 min geleden",
+      "datum": "6 uur geleden",
       "regio": "Afrika",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Stroomuitval in zeven Oekraïense regio's na Russische aanvallen",
-      "beschrijving": "Door Russische aanvallen op de energie-infrastructuur is in delen van zeven Oekraïense regio's de stroom uitgevallen. Dat meldt het Oekraïense ministerie van Energie. Het gaat om de regio's Kyiv, Vinnytsja, Dnipropetrovsk, Zjytomyr, Zaporizja, Charkiv en Tsjernihiv. Deze regio's liggen verspreid over Oekraïne en het zijn dus niet alleen gebieden dicht bij het front. Er zou sprake zijn van aanzienl",
-      "url": "https://nos.nl/l/2638265",
-      "datum": "5 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "‘Message to the West’ bomb threats target European newsrooms, travel",
+      "beschrijving": "Newsrooms in Ireland and Bulgaria received bomb threats from someone identifying themself as ‘Mikhail Andropov’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Europa",
       "urgentie": "hoog",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "New wave of bomb threats hit European airlines",
+      "beschrijving": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "datum": "5 uur geleden",
+      "regio": "Europa",
+      "urgentie": "hoog",
+      "bron": "BBC World"
     },
     {
       "titel": "Russian extremist group denies sending hoax bomb threats",
       "beschrijving": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
       "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "beschrijving": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
       "datum": "7 uur geleden",
-      "regio": "Iran",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
-      "beschrijving": "A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "beschrijving": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "titel": "Akkoord in Duitse coalitie: Ilse Aigner wordt de volgende bondspresident",
+      "beschrijving": "De Duitse regeringspartijen dragen Ilse Aigner (CSU) voor als nieuwe bondspresident. De voordracht wordt maandag formeel bekend, maar is via vrijwel alle Duitse media uitgelekt. Het zou voor het eerst zijn dat een vrouw het hoogste ambt in Duitsland bekleedt. Aigner kon al langer op steun van de CSU en SPD rekenen, maar bondskanselier Merz (CDU) heeft haar voordracht tot nu toe tegengehouden. Hij ",
+      "url": "https://nos.nl/l/2638352",
+      "datum": "54 min geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
-      "titel": "Somalia's top court rejects president's term extension amid political crisis",
-      "beschrijving": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "midden",
-      "bron": "BBC World"
+      "titel": "Stafchef Witte Huis weg, Trump kiest hardliner Stephen Miller als opvolger",
+      "beschrijving": "Stafchef Susie Wiles van het Witte Huis vertrekt. De belangrijke vertrouweling van president Trump wordt opgevolgd door hardliner Stephen Miller. \"Susie Wiles heeft uitstekend werk geleverd\", schrijft president Trump in het bericht waarmee hij haar vertrek bekendmaakt. \"Ik dank haar voor haar werk als chef-staf.\" Miller (41) prijst hij als \"een van mijn meest vertrouwde adviseurs\". Hij was tot nu ",
+      "url": "https://nos.nl/l/2638348",
+      "datum": "1 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Duits parlement stemt voor celstraf van vijf jaar bij toedienen verkrachtingsdrugs",
+      "beschrijving": "In Duitsland worden de straffen voor het toedienen van zogenoemde verkrachtingsdrugs, zoals GHB, zwaarder. Een meerderheid van de Duitse Bondsdag heeft voor een voorstel gestemd om de minimumgevangenisstraffen daarvoor te verhogen van drie naar vijf jaar. Het wetsvoorstel gaat over het toedienen van drugs die erop gericht zijn om iemand buiten bewustzijn te brengen en vervolgens (seksueel) te misb",
+      "url": "https://nos.nl/l/2638330",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vader Meghan Markle opgepakt door FBI vanwege bezit van beelden van kindermisbruik",
+      "beschrijving": "De vader van Meghan Markle (82) is door de FBI aangehouden in een verzorgingshuis in de Verenigde Staten. Dat meldt het kantoor van de openbaar aanklager in Florida. Hij is aangeklaagd voor het bezit van beeldmateriaal van seksueel misbruik van kinderen. Daarbij waren volgens de aanklager ook seksueel expliciete foto's van hemzelf met jonge meisjes. Het materiaal is gevonden in twee opslagruimtes ",
+      "url": "https://nos.nl/l/2638319",
+      "datum": "4 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Keniaanse sekteleider krijgt 200 jaar cel voor uithongeren 190 kinderen",
       "beschrijving": "De Keniaanse sekteleider Paul Mackenzie is veroordeeld tot een gevangenisstraf van 200 jaar voor de moord op 190 kinderen en een volwassene. De kinderen werden op zijn bevel uitgehongerd en begraven in een bos. Mackenzie wordt gelinkt aan de massamoord op meer dan 400 mensen. Ook 28 andere leden van de sekte van Mackenzie zijn veroordeeld. Dit zijn onder meer bewakers die zijn regels handhaafden e",
       "url": "https://nos.nl/l/2638303",
-      "datum": "42 min geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +86,7 @@
       "titel": "Ouders in auto omgekomen door noodweer op Corsica, haalden dochter op van vliegveld",
       "beschrijving": "Op het Franse eiland Corsica is afgelopen nacht door noodweer een echtpaar om het leven gekomen. Dat gebeurde toen hun auto werd meegesleurd door een overstroming die was ontstaan door hevige regenval, melden de lokale autoriteiten. Hun dochter kon uit de auto worden gered. Zij is per helikopter naar het ziekenhuis gebracht. De auto kwam rond 01.00 uur tussen Bonifacio en Porto-Vecchio in de probl",
       "url": "https://nos.nl/l/2638290",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +95,7 @@
       "titel": "België neemt omstreden wet aan over binnengaan woningen van ongedocumenteerden",
       "beschrijving": "Het Belgische parlement heeft na een urenlang nachtelijk debat een wetsvoorstel goedgekeurd waar veel om te doen is. Door de wet kan de politie privéwoningen binnengaan van mensen die geen geldige verblijfspapieren hebben, om ze te arresteren. Daartegen werd deze week nog op tientallen plekken in het land gedemonstreerd. De regering-De Wever wil een manier vinden om mensen die niet terug willen na",
       "url": "https://nos.nl/l/2638288",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,70 +104,52 @@
       "titel": "Belgische koning accepteert ontslag regering niet, onderhandeling over begroting hervat",
       "beschrijving": "De Belgische koning Filip heeft het ontslag van het kabinet van premier De Wever geweigerd. Maandag bood de premier zijn ontslag aan nadat maandenlange coalitieonderhandelingen over de begroting waren mislukt. Toen zei de koning het ontslag \"in beraad te nemen\". Wat hem betreft kon België \"zich geen langdurige politieke crisis veroorloven\". Na een overleg van zo'n twee uur werd De Wever vanochtend",
       "url": "https://nos.nl/l/2638286",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Bommeldingen over vluchten in Europa, pand Ierse omroep ontruimd om dreiging",
-      "beschrijving": "Voor de derde keer deze week is een reeks bommeldingen gedaan over vluchten in Europa. Ook media in Ierland en het Verenigd Koninkrijk kregen dreigingen binnen over explosieven. Voor zover bekend is er in geen enkel geval een bom aangetroffen. Er was ook een bommelding binnengekomen over een KLM-vlucht van Praag naar Amsterdam. Het vliegtuig is geland op Schiphol en gecontroleerd. Er zijn geen exp",
+      "beschrijving": "Voor de derde keer deze week is een reeks bommeldingen gedaan over vluchten in Europa. Ook media in Ierland en het Verenigd Koninkrijk kregen dreigingen binnen over explosieven. Voor zover bekend is er in geen enkel geval een bom aangetroffen. Het is onduidelijk wie er voor de meldingen verantwoordelijk is. De Ierse regering zegt over de bommeldingen bij media dat het gaat om een \"gecoördineerde a",
       "url": "https://nos.nl/l/2638285",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Europa",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "2026 schiet vrijwel zeker door 1,5 graad opwarming na recordwarme oktober",
-      "beschrijving": "Afgelopen maand was wereldwijd de warmste oktober ooit gemeten en het is nu vrijwel zeker dat 2026 door de 1,5 graad opwarming gaat. Dat blijkt uit de nieuwste gegevens van het Europese aardobservatieprogramma Copernicus. Daarmee lijkt het erop dat 2026 het tweede kalenderjaar wordt waarin die symbolisch belangrijke 1,5 graad wordt overschreden. De vorige keer was in 2024. Hoewel het langjarig gem",
-      "url": "https://nos.nl/l/2638283",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Turkse oud-minister Kaya aangehouden in groot beursschandaal",
-      "beschrijving": "In een onderzoek naar koersmanipulatie in Turkije is oud-minister Fatma Betül Sayan Kaya aangehouden. Ze was jarenlang minister van Familiezaken. Bijna tien jaar geleden werd Kaya in Nederland tot 'ongewenst vreemdeling' verklaard en door agenten uit het land geleid. Dit leidde tot een grote diplomatieke rel tussen Den Haag en Ankara. Kaya is gearresteerd op verdenking van overtreding van de kapit",
-      "url": "https://nos.nl/l/2638271",
-      "datum": "4 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Twee doden bij busongeluk met scholieren in Frankrijk, meerdere gewonden",
-      "beschrijving": "In Frankrijk zijn bij een ongeluk met een bus twee doden gevallen. Lokale autoriteiten melden dat er ook zestien mensen gewond zijn geraakt, van wie vier ernstig. De twee doden zijn een meisje van 7 en een man van 18. De vier ernstig gewonden zijn tussen de 18 en 45 jaar oud. Het ongeluk gebeurde bij de plaats Lent, in het oosten van Frankrijk tegen de Zwitserse grens. Lokale krant La Voix de l'Ai",
-      "url": "https://nos.nl/l/2638267",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-      "beschrijving": "Ukrainian officials say DNA tests are being used to identify bodies while up to 39 remain trapped under rubble.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
+      "titel": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
+      "beschrijving": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
-      "beschrijving": "Iran launches diplomatic offensive as US mulls resumption of war.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
+      "titel": "AI stocks climb after trillions wiped from market values",
+      "beschrijving": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "datum": "1 uur geleden",
-      "regio": "Oekraïne",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Four midterms takeaways for 2028 White House race",
+      "beschrijving": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
     },
     {
       "titel": "Two dead after bus crashes in France, officials say",
       "beschrijving": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
       "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "datum": "18 min geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -166,14 +157,14 @@
   ],
   "ticker": [
     "33 doden bij aanval rebellengroep Oost-Congo, ebola-patiënten op de vlucht",
-    "Stroomuitval in zeven Oekraïense regio's na Russische aanvallen",
+    "‘Message to the West’ bomb threats target European newsrooms, travel",
+    "New wave of bomb threats hit European airlines",
     "Russian extremist group denies sending hoax bomb threats",
-    "Major construction ongoing near Iran missile bases, satellite images suggest",
-    "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
-    "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-    "Somalia's top court rejects president's term extension amid political crisis",
+    "Akkoord in Duitse coalitie: Ilse Aigner wordt de volgende bondspresident",
+    "Stafchef Witte Huis weg, Trump kiest hardliner Stephen Miller als opvolger",
+    "Duits parlement stemt voor celstraf van vijf jaar bij toedienen verkrachtingsdrugs",
+    "Vader Meghan Markle opgepakt door FBI vanwege bezit van beelden van kindermisbruik",
     "Keniaanse sekteleider krijgt 200 jaar cel voor uithongeren 190 kinderen",
-    "Ouders in auto omgekomen door noodweer op Corsica, haalden dochter op van vliegveld",
-    "België neemt omstreden wet aan over binnengaan woningen van ongedocumenteerden"
+    "Ouders in auto omgekomen door noodweer op Corsica, haalden dochter op van vliegveld"
   ]
 }
