@@ -1,56 +1,137 @@
 {
-  "bijgewerkt": "07 Nov 2026 13:48 UTC",
+  "bijgewerkt": "07 Nov 2026 18:31 UTC",
   "artikelen": [
+    {
+      "titel": "Zeker 25 mensen gedood bij luchtaanval in de buurt van hoofdstad Jemen",
+      "beschrijving": "Bij luchtaanvallen in de buurt van de Jemenitische hoofdstad Sanaa zijn zeker 25 mensen om het leven gekomen, voornamelijk vrouwen en kinderen. Dat meldt een woordvoerder van het ministerie van Volksgezondheid dat door de Houthi's wordt geleid. De woordvoerder zei dat Saudi-Arabië achter de aanvallen zit. Dat land heeft de verantwoordelijkheid niet opgeëist. Op beelden op sociale media is de nasle",
+      "url": "https://nos.nl/l/2638459",
+      "datum": "2 uur geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "VS voert eerste aanval na verkiezingen op Iran uit",
       "beschrijving": "Het Amerikaanse leger heeft gisteravond een aanval uitgevoerd op Iran, de eerste sinds de tussentijdse verkiezingen in de VS afgelopen dinsdag. President Trump heeft de actie bevestigd. Volgens hem was het \"een kleine aanval\". Iraanse staatsmedia melden op basis van getuigen dat twee projectielen zijn ingeslagen in het gebied Suza op het eiland Qeshm. Dat eiland ligt op een strategische positie in",
       "url": "https://nos.nl/l/2638392",
-      "datum": "7 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-      "beschrijving": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
-      "datum": "23 min geleden",
-      "regio": "Oekraïne",
+      "titel": "Houthis report 25 killed in Yemen strikes",
+      "beschrijving": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+      "datum": "52 min geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-      "beschrijving": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
-      "url": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
-      "datum": "41 min geleden",
-      "regio": "Gaza/Israël",
+      "titel": "Guatemalan lawmaker and three police officers killed in armed attack",
+      "beschrijving": "It happened in a region of the country known to have drug trafficking activity.",
+      "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "New wave of bomb threats hit European airlines",
-      "beschrijving": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "datum": "22 uur geleden",
-      "regio": "Europa",
+      "titel": "Five killed and at least 10 injured in Krakow shooting",
+      "beschrijving": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US offers $20m reward for information about Iran's nuclear programme",
+      "beschrijving": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "datum": "17 min geleden",
+      "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
+    },
+    {
+      "titel": "Houthis say at least 25 killed in Saudi air strike",
+      "beschrijving": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "'Topman chipgigant Nvidia had intieme relatie met Chinese spion'",
+      "beschrijving": "De topman van chipgigant Nvidia had een intieme relatie met een Chinese spion, vermoeden Amerikaanse inlichtingendiensten. Dat zeggen bronnen tegen de Britse zakenkrant Financial Times, nadat The New York Times daar vorige week voor het eerst over had bericht. De affaire draait rond Nvidia-CEO Jensen Huang en Alice Huang, ook wel bekend als Huang Le, een leidinggevende bij Megaspeed. Dat is een Si",
+      "url": "https://nos.nl/l/2638442",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
     },
     {
       "titel": "Verkiezingen Nieuw-Zeeland nek-aan-nekrace, mogelijk sleutelrol voor nieuwkomer",
       "beschrijving": "De parlementsverkiezingen in Nieuw-Zeeland zijn uitgelopen op een nek-aan-nekrace. De centrumrechtse National-partij van premier Chris Luxon gaat gelijk op met de grootste oppositiepartij Labour van Chris Hipkins. Met ruim 95 procent van de stemmen geteld schommelen beide partijen net onder de 30 procent. Enkele duizenden stemmen scheiden de twee. \"Nieuw-Zeeland heeft gesproken, maar het duurt mis",
       "url": "https://nos.nl/l/2638420",
-      "datum": "1 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Israel builds 90km network of military roads across southern Lebanon",
+      "beschrijving": "Israel is building roads and military outposts across southern Lebanon.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "No clear winner after tight New Zealand general election",
+      "beschrijving": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Noodtoestand op Canarisch eiland El Hierro: 3000 migranten in een week",
+      "beschrijving": "Het Spaanse eiland El Hierro heeft de noodtoestand uitgeroepen. Het eilandbestuur zegt de toestroom aan migranten niet aan te kunnen en vraagt de landelijke regering en de regioregering om hulp. Met 3000 nieuwe migranten in een week tijd en 8000 sinds het einde van de zomer, staan de publieke diensten op het eiland onder druk. De eilandraad waarschuwt ook met oog op de toekomst. Verwacht wordt dat",
+      "url": "https://nos.nl/l/2638481",
+      "datum": "1 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Man opent vanuit auto het vuur op centraal plein Krakau: 6 doden, 15 gewonden",
+      "beschrijving": "Bij een schietpartij in het historische centrum van de Poolse stad Krakau zijn zes doden gevallen, het gaat om vier vrouwen en twee mannen. Ook zijn er vijftien mensen gewond geraakt, onder wie drie politieagenten. De schutter is door agenten neergeschoten en naar een ziekenhuis gebracht, meldt de politie. Een van de agenten is drie keer geraakt en verkeert in kritieke toestand, aldus minister Kie",
+      "url": "https://nos.nl/l/2638449",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "EU-onderzoek naar mogelijke fraude subsidies voor spooronderhoud Spanje na ongeluk",
+      "beschrijving": "Het Europees Openbaar Ministerie (EOM) heeft een tweede onderzoek geopend naar mogelijke fraude met EU-subsidies, die bedoeld waren voor de renovatie en modernisering van de beveiligings-, sein- en communicatiesystemen op de hogesnelheidslijn Madrid-Sevilla. Op dit traject botste vorige week een hogesnelheidstrein nabij het dorpje Urda, 140 kilometer ten zuiden van Madrid, met volle vaart op een s",
+      "url": "https://nos.nl/l/2638429",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Ook Democratische sheriffs, aanklagers en regiobestuurders gekozen, wat doen ze?",
       "beschrijving": "\"Blue, blue, blue, blue\", kleurde de landkaart van de VS met de uitslagen van de tussentijdse verkiezingen. De Democraten wisten niet alleen in het Congres zetels van de Republikeinen over te nemen, ook op lokaal niveau versloegen ze hun tegenstanders. Bij de tussentijdse verkiezingen wordt ook altijd gestemd voor bestuursfuncties in de Amerikaanse staten. Zo worden er gouverneurs, sheriffs, hoofd",
       "url": "https://nos.nl/l/2638414",
-      "datum": "3 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +140,7 @@
       "titel": "Politie Mexico schiet meisje (7) dood bij protest tegen arrestatie drugscrimineel",
       "beschrijving": "Bij een actie tegen drugscriminaliteit in Mexico heeft de politie een meisje van 7 doodgeschoten. Dat gebeurde in de stad Matamoros, die aan de Amerikaanse grens met Texas ligt. Het doodgeschoten meisje heeft de Amerikaanse nationaliteit. In delen van de stad was het al dagen onrustig. Vorige week hield de politie een plaatselijke drugscrimineel aan en uit protest daartegen hielden gewapende manne",
       "url": "https://nos.nl/l/2638404",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,130 +149,49 @@
       "titel": "Verdachte met meerdere vuurwapens in auto aangehouden nabij Witte Huis",
       "beschrijving": "De Secret Service, verantwoordelijk voor de beveiliging van president Trump, heeft donderdagavond lokale tijd nabij het Witte Huis een man gearresteerd die drie wapens in zijn auto had liggen, waaronder een semiautomatisch geweer. De verdachte verklaarde tegenover agenten dat stemmen in zijn hoofd hem opdracht hadden gegeven naar de Amerikaanse hoofdstad te reizen om de president te doden. De man ",
       "url": "https://nos.nl/l/2638384",
-      "datum": "9 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Alliana nieuwe president van Paraguay, Peña officieel afgezet na bankcrisis",
-      "beschrijving": "Pedro Alliana is beëdigd als president van Paraguay. Hij volgt Santiago Peña op, die kort daarvoor officieel door het parlement werd afgezet. Peña wordt verantwoordelijk gehouden voor een bankcrisis waardoor bijna 3 miljoen van de 6,5 miljoen Paraguayanen niet bij hun spaargeld kunnen. De 52-jarige Alliana was jarenlang vicepresident onder Peña en blijft interim-president tot de volgende verkiezin",
-      "url": "https://nos.nl/l/2638382",
-      "datum": "13 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Kiest Mississippi een Democraat als senator of net niet? Race blijft spannend",
-      "beschrijving": "De laatste Democratische senator uit Mississippi werd gekozen in 1947: John C. Stennis, als 'Dixiecrat' fel voorstander van de rassenscheiding. Nu heeft een zwarte partijgenoot een significante kans om te winnen in de conservatieve staat. Openbaar aanklager Scott Colom staat momenteel 2010 stemmen voor op zittend Republikeins senator Cindy Hyde-Smith; het is 49,1 tegen 48,8 procent. Een lichtblauw",
-      "url": "https://nos.nl/l/2638369",
-      "datum": "16 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Groen licht voor Trumps triomfboog, maar rechter legt bouw direct stil",
-      "beschrijving": "Een Amerikaanse rechter heeft de bouw stilgelegd van de triomfboog die president Trump in Washington wil laten plaatsen. Dat gebeurde een uur nadat een commissie juist toestemming had gegeven voor het bouwwerk. Die sprak van een passend eerbetoon voor de Amerikaanse geschiedenis en veteranen van het land. De triomfboog moet 76 meter hoog worden, groter dan de Arc de Triomphe in Parijs. De boog moe",
-      "url": "https://nos.nl/l/2638361",
-      "datum": "16 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Akkoord in Duitse coalitie: Ilse Aigner wordt de volgende bondspresident",
-      "beschrijving": "De Duitse regeringspartijen dragen Ilse Aigner (CSU) voor als nieuwe bondspresident. De voordracht wordt maandag formeel bekend, maar is via vrijwel alle Duitse media uitgelekt. Het zou voor het eerst zijn dat een vrouw het hoogste ambt in Duitsland bekleedt. Aigner kon al langer op steun van de CSU en SPD rekenen, maar bondskanselier Merz (CDU) heeft haar voordracht tot nu toe tegengehouden. Hij ",
-      "url": "https://nos.nl/l/2638352",
-      "datum": "17 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Stafchef Witte Huis weg, Trump kiest hardliner Stephen Miller als opvolger",
-      "beschrijving": "Stafchef Susie Wiles van het Witte Huis vertrekt. De belangrijke vertrouweling van president Trump wordt opgevolgd door hardliner Stephen Miller. \"Susie Wiles heeft uitstekend werk geleverd\", schrijft president Trump in het bericht waarmee hij haar vertrek bekendmaakt. \"Ik dank haar voor haar werk als chef-staf.\" Miller (41) prijst hij als \"een van mijn meest vertrouwde adviseurs\". Hij was tot nu ",
-      "url": "https://nos.nl/l/2638348",
-      "datum": "18 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
-      "beschrijving": "The hard-left leader has transformed into a real contender in next year presidential elections.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss",
-      "datum": "12 min geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Gaza displacement camps collapse under rainwater",
-      "beschrijving": "Rainwater is inundating displacement camps across Gaza as makeshift shelters collapse. Al Jazeera’s Nour Khaled reports.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
-      "datum": "33 min geleden",
+      "titel": "Lebanese footballer refuses to give up after injuries from Israeli strike",
+      "beschrijving": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Heavy rains flood displacement camps across Gaza",
-      "beschrijving": "Heavy rains and strong winds have flooded and damaged displacement tents across Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss",
-      "datum": "43 min geleden",
+      "titel": "Jerusalem Daily: Heavy rains flood Gaza",
+      "beschrijving": "Jerusalem Daily: Heavy rains flood Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
-      "beschrijving": "The prime minister blames pro-Russian hackers for the leak, as her top diplomat says the cyberthreat was ongoing.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
-      "beschrijving": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-      "beschrijving": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Iran’s IRGC says building underground sites for weapons production, storage",
+      "beschrijving": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
+      "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Ukraine's power network suffers further damage after fresh Russian strikes",
-      "beschrijving": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "datum": "58 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Zeker 25 mensen gedood bij luchtaanval in de buurt van hoofdstad Jemen",
     "VS voert eerste aanval na verkiezingen op Iran uit",
-    "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-    "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-    "New wave of bomb threats hit European airlines",
+    "Houthis report 25 killed in Yemen strikes",
+    "Guatemalan lawmaker and three police officers killed in armed attack",
+    "Five killed and at least 10 injured in Krakow shooting",
+    "US offers $20m reward for information about Iran's nuclear programme",
+    "Houthis say at least 25 killed in Saudi air strike",
+    "'Topman chipgigant Nvidia had intieme relatie met Chinese spion'",
     "Verkiezingen Nieuw-Zeeland nek-aan-nekrace, mogelijk sleutelrol voor nieuwkomer",
-    "Ook Democratische sheriffs, aanklagers en regiobestuurders gekozen, wat doen ze?",
-    "Politie Mexico schiet meisje (7) dood bij protest tegen arrestatie drugscrimineel",
-    "Verdachte met meerdere vuurwapens in auto aangehouden nabij Witte Huis",
-    "Alliana nieuwe president van Paraguay, Peña officieel afgezet na bankcrisis",
-    "Kiest Mississippi een Democraat als senator of net niet? Race blijft spannend"
+    "Israel builds 90km network of military roads across southern Lebanon"
   ]
 }
