@@ -1,56 +1,38 @@
 {
-  "bijgewerkt": "07 Nov 2026 18:31 UTC",
+  "bijgewerkt": "07 Nov 2026 22:33 UTC",
   "artikelen": [
     {
       "titel": "Zeker 25 mensen gedood bij luchtaanval in de buurt van hoofdstad Jemen",
       "beschrijving": "Bij luchtaanvallen in de buurt van de Jemenitische hoofdstad Sanaa zijn zeker 25 mensen om het leven gekomen, voornamelijk vrouwen en kinderen. Dat meldt een woordvoerder van het ministerie van Volksgezondheid dat door de Houthi's wordt geleid. De woordvoerder zei dat Saudi-Arabië achter de aanvallen zit. Dat land heeft de verantwoordelijkheid niet opgeëist. Op beelden op sociale media is de nasle",
       "url": "https://nos.nl/l/2638459",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Midden-Oosten",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "VS voert eerste aanval na verkiezingen op Iran uit",
-      "beschrijving": "Het Amerikaanse leger heeft gisteravond een aanval uitgevoerd op Iran, de eerste sinds de tussentijdse verkiezingen in de VS afgelopen dinsdag. President Trump heeft de actie bevestigd. Volgens hem was het \"een kleine aanval\". Iraanse staatsmedia melden op basis van getuigen dat twee projectielen zijn ingeslagen in het gebied Suza op het eiland Qeshm. Dat eiland ligt op een strategische positie in",
-      "url": "https://nos.nl/l/2638392",
-      "datum": "11 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Houthis report 25 killed in Yemen strikes",
-      "beschrijving": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-      "datum": "52 min geleden",
+      "titel": "Who is behind Europe’s suspected hybrid attacks?",
+      "beschrijving": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Guatemalan lawmaker and three police officers killed in armed attack",
-      "beschrijving": "It happened in a region of the country known to have drug trafficking activity.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "What we know so far after Krakow gun attack",
+      "beschrijving": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "datum": "5 min geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Five killed and at least 10 injured in Krakow shooting",
-      "beschrijving": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "BBC World"
     },
     {
       "titel": "US offers $20m reward for information about Iran's nuclear programme",
       "beschrijving": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
       "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "datum": "17 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -59,7 +41,7 @@
       "titel": "Houthis say at least 25 killed in Saudi air strike",
       "beschrijving": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
       "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -68,7 +50,7 @@
       "titel": "'Topman chipgigant Nvidia had intieme relatie met Chinese spion'",
       "beschrijving": "De topman van chipgigant Nvidia had een intieme relatie met een Chinese spion, vermoeden Amerikaanse inlichtingendiensten. Dat zeggen bronnen tegen de Britse zakenkrant Financial Times, nadat The New York Times daar vorige week voor het eerst over had bericht. De affaire draait rond Nvidia-CEO Jensen Huang en Alice Huang, ook wel bekend als Huang Le, een leidinggevende bij Megaspeed. Dat is een Si",
       "url": "https://nos.nl/l/2638442",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
@@ -77,43 +59,70 @@
       "titel": "Verkiezingen Nieuw-Zeeland nek-aan-nekrace, mogelijk sleutelrol voor nieuwkomer",
       "beschrijving": "De parlementsverkiezingen in Nieuw-Zeeland zijn uitgelopen op een nek-aan-nekrace. De centrumrechtse National-partij van premier Chris Luxon gaat gelijk op met de grootste oppositiepartij Labour van Chris Hipkins. Met ruim 95 procent van de stemmen geteld schommelen beide partijen net onder de 30 procent. Enkele duizenden stemmen scheiden de twee. \"Nieuw-Zeeland heeft gesproken, maar het duurt mis",
       "url": "https://nos.nl/l/2638420",
-      "datum": "6 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "Israel builds 90km network of military roads across southern Lebanon",
-      "beschrijving": "Israel is building roads and military outposts across southern Lebanon.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
       "titel": "No clear winner after tight New Zealand general election",
       "beschrijving": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
       "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "BBC World"
     },
     {
+      "titel": "Twee vrouwen en een man dood gevonden in huis schutter Krakau, vermoedelijk familie",
+      "beschrijving": "In het huis van de 25-jarige schutter die vanmiddag in Krakau zes mensen doodschoot, zijn twee vrouwen en een man dood aangetroffen. Dat meldt de Poolse premier Donald Tusk op een persconferentie met de veiligheidsdiensten in Krakau. Waarschijnlijk gaat het om naaste familieleden van de man. Poolse media melden dat het om de vader, moeder en zus van de schutter gaat. Tusk zei ervan overtuigd te zi",
+      "url": "https://nos.nl/l/2638496",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Oppositieleider Eisenkot mag Israëlische regering vormen, maar staat voor lastige puzzel",
+      "beschrijving": "In Israël mag oppositieleider Gadi Eisenkot (Yashar) als eerste proberen om een nieuwe regering te vormen. President Herzog heeft hem aangewezen als eerste formateur. De Likud-partij van Netanyahu was bij de verkiezingen dan wel de grootste, maar Eisenkot kreeg meer aanbevelingen van de partijen. Er zijn meerdere wegen die naar een regering kunnen leiden, maar eenvoudig wordt het niet. De Arabisch",
+      "url": "https://nos.nl/l/2638495",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "In Liechtenstein is de publieke omroep ingeruild voor goedkopere AI-radio",
+      "beschrijving": "Het is bijna als bij zoveel andere radiostations in Europa en in de rest van de wereld: elk uur of halfuur klinkt een deuntje en leest een presentator het radionieuws voor. Zo ook in het kleine Alpenland Liechtenstein. \"Elf uur, met nu: het nieuws\", klinkt het op Radio Vaterland. Maar de eerste zin van het radiobulletin verraadt het al: \"Dit is met kunstmatige intelligentie de stem van Nicky Stett",
+      "url": "https://nos.nl/l/2638489",
+      "datum": "2 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Hevige regen treft tentenkampen in Gaza, hulpvraag neemt toe",
+      "beschrijving": "Door hevige regenval zijn tienduizenden tenten voor ontheemden in Gaza onder water komen te staan. De verwachting is dat de situatie verder zal verslechteren, omdat het regenseizoen net is begonnen. Jonathan Veitch, de Unicef-vertegenwoordiger voor Palestina, zegt tegen de BBC dat de \"wanhopige\" situatie wordt verergerd door Israëlische beperkingen op de invoer van bijvoorbeeld zware machines. Het",
+      "url": "https://nos.nl/l/2638483",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Noodtoestand op Canarisch eiland El Hierro: 3000 migranten in een week",
       "beschrijving": "Het Spaanse eiland El Hierro heeft de noodtoestand uitgeroepen. Het eilandbestuur zegt de toestroom aan migranten niet aan te kunnen en vraagt de landelijke regering en de regioregering om hulp. Met 3000 nieuwe migranten in een week tijd en 8000 sinds het einde van de zomer, staan de publieke diensten op het eiland onder druk. De eilandraad waarschuwt ook met oog op de toekomst. Verwacht wordt dat",
       "url": "https://nos.nl/l/2638481",
-      "datum": "1 min geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
       "titel": "Man opent vanuit auto het vuur op centraal plein Krakau: 6 doden, 15 gewonden",
-      "beschrijving": "Bij een schietpartij in het historische centrum van de Poolse stad Krakau zijn zes doden gevallen, het gaat om vier vrouwen en twee mannen. Ook zijn er vijftien mensen gewond geraakt, onder wie drie politieagenten. De schutter is door agenten neergeschoten en naar een ziekenhuis gebracht, meldt de politie. Een van de agenten is drie keer geraakt en verkeert in kritieke toestand, aldus minister Kie",
+      "beschrijving": "Bij een aanslag in het historische centrum van de Poolse stad Krakau zijn zes mensen doodgeschoten, het gaat om vier vrouwen en twee mannen. Ook zijn er vijftien mensen gewond geraakt, onder wie drie politieagenten. De schutter is door agenten neergeschoten en naar een ziekenhuis gebracht, meldt de politie. Een van de agenten is drie keer geraakt en verkeert in kritieke toestand, aldus minister Ki",
       "url": "https://nos.nl/l/2638449",
-      "datum": "3 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -122,76 +131,67 @@
       "titel": "EU-onderzoek naar mogelijke fraude subsidies voor spooronderhoud Spanje na ongeluk",
       "beschrijving": "Het Europees Openbaar Ministerie (EOM) heeft een tweede onderzoek geopend naar mogelijke fraude met EU-subsidies, die bedoeld waren voor de renovatie en modernisering van de beveiligings-, sein- en communicatiesystemen op de hogesnelheidslijn Madrid-Sevilla. Op dit traject botste vorige week een hogesnelheidstrein nabij het dorpje Urda, 140 kilometer ten zuiden van Madrid, met volle vaart op een s",
       "url": "https://nos.nl/l/2638429",
-      "datum": "4 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Ook Democratische sheriffs, aanklagers en regiobestuurders gekozen, wat doen ze?",
-      "beschrijving": "\"Blue, blue, blue, blue\", kleurde de landkaart van de VS met de uitslagen van de tussentijdse verkiezingen. De Democraten wisten niet alleen in het Congres zetels van de Republikeinen over te nemen, ook op lokaal niveau versloegen ze hun tegenstanders. Bij de tussentijdse verkiezingen wordt ook altijd gestemd voor bestuursfuncties in de Amerikaanse staten. Zo worden er gouverneurs, sheriffs, hoofd",
-      "url": "https://nos.nl/l/2638414",
       "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Politie Mexico schiet meisje (7) dood bij protest tegen arrestatie drugscrimineel",
-      "beschrijving": "Bij een actie tegen drugscriminaliteit in Mexico heeft de politie een meisje van 7 doodgeschoten. Dat gebeurde in de stad Matamoros, die aan de Amerikaanse grens met Texas ligt. Het doodgeschoten meisje heeft de Amerikaanse nationaliteit. In delen van de stad was het al dagen onrustig. Vorige week hield de politie een plaatselijke drugscrimineel aan en uit protest daartegen hielden gewapende manne",
-      "url": "https://nos.nl/l/2638404",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
+      "titel": "Mélenchon promises action against Israeli annexation if elected President",
+      "beschrijving": "Mélenchon promises action against Israeli annexation if elected President",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Verdachte met meerdere vuurwapens in auto aangehouden nabij Witte Huis",
-      "beschrijving": "De Secret Service, verantwoordelijk voor de beveiliging van president Trump, heeft donderdagavond lokale tijd nabij het Witte Huis een man gearresteerd die drie wapens in zijn auto had liggen, waaronder een semiautomatisch geweer. De verdachte verklaarde tegenover agenten dat stemmen in zijn hoofd hem opdracht hadden gegeven naar de Amerikaanse hoofdstad te reizen om de president te doden. De man ",
-      "url": "https://nos.nl/l/2638384",
-      "datum": "14 uur geleden",
+      "titel": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+      "beschrijving": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-      "beschrijving": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Jerusalem Daily: Heavy rains flood Gaza",
-      "beschrijving": "Jerusalem Daily: Heavy rains flood Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iran’s IRGC says building underground sites for weapons production, storage",
-      "beschrijving": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+      "titel": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+      "beschrijving": "Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister.",
+      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "Iran",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "More than 140,000 rally as new protests against rising costs sweep France",
+      "beschrijving": "Tear gas fired in Paris and Lyon as interior minister warns authorities are &#039;ready and waiting&#039; for rioters and looters.",
+      "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+      "beschrijving": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     }
   ],
   "ticker": [
     "Zeker 25 mensen gedood bij luchtaanval in de buurt van hoofdstad Jemen",
-    "VS voert eerste aanval na verkiezingen op Iran uit",
-    "Houthis report 25 killed in Yemen strikes",
-    "Guatemalan lawmaker and three police officers killed in armed attack",
-    "Five killed and at least 10 injured in Krakow shooting",
+    "Who is behind Europe’s suspected hybrid attacks?",
+    "What we know so far after Krakow gun attack",
     "US offers $20m reward for information about Iran's nuclear programme",
     "Houthis say at least 25 killed in Saudi air strike",
     "'Topman chipgigant Nvidia had intieme relatie met Chinese spion'",
     "Verkiezingen Nieuw-Zeeland nek-aan-nekrace, mogelijk sleutelrol voor nieuwkomer",
-    "Israel builds 90km network of military roads across southern Lebanon"
+    "No clear winner after tight New Zealand general election",
+    "Twee vrouwen en een man dood gevonden in huis schutter Krakau, vermoedelijk familie",
+    "Oppositieleider Eisenkot mag Israëlische regering vormen, maar staat voor lastige puzzel"
   ]
 }
