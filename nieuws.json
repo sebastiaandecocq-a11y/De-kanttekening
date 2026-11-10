@@ -1,179 +1,197 @@
 {
-  "bijgewerkt": "10 Nov 2026 09:28 UTC",
+  "bijgewerkt": "10 Nov 2026 17:33 UTC",
   "artikelen": [
     {
-      "titel": "Khor Mor drone attack raises fears over Iraq’s energy security",
-      "beschrijving": "Drone strike disrupts electricity supply in Iraq&#039;s semi-autonomous Kurdish region, renewing concerns about armed groups.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Trump says more US attacks on Iran 'highly unlikely'",
-      "beschrijving": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Gesprekken over oorlog in Oekraïne van start in Abu Dhabi, Europa aan de zijlijn",
-      "beschrijving": "In Abu Dhabi zijn de gesprekken begonnen over een einde aan de oorlog in Oekraïne. In een eerste ronde sprak Oekraïne vanmorgen de Europese vertegenwoordigers samen met de Amerikaanse gezanten. Daarna volgde de hoofdontmoeting met alleen Rusland en de VS. Tussendoor liet de Amerikaanse gezant Witkoff in een verklaring weten dat \"nauwe coördinatie\" tussen de VS, Oekraïne en Europese bondgenoten moe",
-      "url": "https://nos.nl/l/2638826",
-      "datum": "38 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Miljoen Fransen eisen ingrijpen tegen invloedrijke nieuwszender CNews",
-      "beschrijving": "Een petitie om een van de best bekeken nieuwszenders van Frankrijk van de buis te halen, heeft ruim 1 miljoen handtekeningen opgehaald. CNews is volgens de ondertekenaars een spreekbuis voor radicaal- en extreemrechtse politici. En opiniemakers hebben zich daar geregeld racistisch uitgelaten. CNews is \"geen nieuwszender, maar een propagandamachine\", zo staat in de petitie. \"Wij hebben in de VS gez",
-      "url": "https://nos.nl/l/2638817",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'Vliegtuigen VS weg van tweede Britse basis om dreiging Iran'",
-      "beschrijving": "De VS haalt vliegtuigen weg van een tweede Britse luchtmachtbasis, schrijft The Wall Street Journal. Bronnen zeggen tegen de Amerikaanse krant dat de beslissing is genomen vanwege de dreiging van Iran. Het gaat om de RAF-basis Mildenhall, in de buurt van Cambridge. Tankvliegtuigen die daar gestationeerd zijn, worden weggehaald. Twee zullen vanmorgen al vertrekken naar bases in Duitsland, andere vo",
-      "url": "https://nos.nl/l/2638811",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 10/11: Onderhandelingen in Abu Dhabi • Kamer discussieert over belastingplan",
-      "beschrijving": "Goedemorgen! In Abu Dhabi spreken gezanten uit de VS, Rusland en Oekraïne vandaag en morgen over een einde aan de oorlog in Oekraïne. En de Tweede Kamer buigt zich opnieuw over het belastingplan, daar is nog steeds geen meerderheid voor. Eerst het weer: Vanochtend komt op veel plaatsen (dichte) mist en lage bewolking voor die vanaf eind van de ochtend vanuit het zuiden langzaam oplost, waarna de z",
-      "url": "https://nos.nl/l/2638810",
-      "datum": "3 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Kiezers Californië stemmen tegen eenmalige vermogensbelasting voor miljardairs",
-      "beschrijving": "Californië krijgt niet als eerste Amerikaanse staat een eenmalige belasting voor miljardairs. Kiezers hebben bij een referendum het voorstel verworpen om 5 procent van het nettovermogen van superrijken te belasten. De tegenstanders van 'Proposition 40' voerden flink campagne. Ze haalden in totaal 333 miljoen dollar op, tien keer zoveel geld als de voorstanders. Vooral techmiljardairs trokken de po",
-      "url": "https://nos.nl/l/2638806",
-      "datum": "4 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran-oorlog leidt tot dipje in uitstoot fossiele brandstoffen",
-      "beschrijving": "Hoge prijzen aan de pomp, zorgen over het lage peil van de gasvoorraden en politieke onrust. De Iran-oorlog veroorzaakte een ongekende verstoring van de energiemarkten. Mede door die schok gaat de wereld dit jaar iets minder CO2 uitstoten door het verbranden van steenkool, olie en aardgas. Dat meldt het Global Carbon Project, een groep wetenschappers. De wetenschappers verwachten geen trendbreuk m",
-      "url": "https://nos.nl/l/2638804",
-      "datum": "8 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran-oorlog buigt verwachte daling om naar nieuw recordjaar steenkool",
-      "beschrijving": "Steenkool verbranden leidt tot ongezonde luchtvervuiling en het stoot broeikasgassen uit die de aarde opwarmen, nog meer dan olie en aardgas. Wanneer mensen plannen maken om klimaatverandering aan te pakken, willen ze eerst van steenkool af. Toch blijkt dat in de praktijk lastig. Nooit eerder gebruikte de wereld zoveel steenkool als vorig jaar. Dit jaar lijkt het record weer te sneuvelen. Steenkoo",
-      "url": "https://nos.nl/l/2638803",
-      "datum": "8 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Republikein dient voorstel in voor afzetten Amerikaanse defensieminister Hegseth",
-      "beschrijving": "Het Republikeinse Congreslid Thomas Massie wil de Amerikaanse minister van Defensie Pete Hegseth afzetten. Hij had al aangekondigd een impeachment-procedure te willen starten tegen een van de meest prominente mensen in de regering-Trump. Of het voorstel ook gaat leiden tot het vertrek van Hegseth, is nog maar de vraag. Massie las zijn resolutie voor in het Huis van Afgevaardigden, dat voor het eer",
-      "url": "https://nos.nl/l/2638802",
-      "datum": "8 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Vermist meisje (13) uit Berlijn dood gevonden in huis naast zwaargewonde 22-jarige man",
-      "beschrijving": "Een 13-jarig meisje uit Berlijn dat sinds vorige week dinsdag werd vermist, is gisteren dood gevonden in een leegstaand huis in het dorpje Altglietzen, dicht bij de grens met Polen. De politie trof daar ook een zwaargewonde 22-jarige man aan. Hij is in kritieke toestand naar het ziekenhuis gebracht en wordt daar bewaakt door de politie. De politie in Berlijn zegt ervan uit te gaan dat de man veran",
-      "url": "https://nos.nl/l/2638794",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Opnieuw migrantenbootje voor Belgische kust, elf mensen hielden zich vast aan boei",
-      "beschrijving": "Voor de tweede dag op rij is een boot met migranten voor de kust van België gesignaleerd. Dat melden Belgische media. Twee mensen zaten in een boot voor de kust van Oostende. Elf andere migranten hadden zich vastgeklampt aan een grote boei in de Noordzee. Het Maritiem Reddings- en Coördinatiecentrum, het meldpunt voor ongevallen op zee, kreeg volgens de Vlaamse omroep VRT rond 17.40 uur een meldin",
-      "url": "https://nos.nl/l/2638791",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "What powers does Netanyahu have as Israel’s interim PM?",
-      "beschrijving": "As Israel faces political gridlock, Netanyahu wields caretaker powers to manage security and disrupt his rivals.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss",
-      "datum": "50 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US moves aircraft from second UK base over ‘threat from Iran’",
-      "beschrijving": "Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
+      "titel": "At least 12 people killed in Bulgaria motorway pile-up",
+      "beschrijving": "At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
       "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+      "beschrijving": "Israel has killed more than 1,600 people in Gaza since last year&#039;s &#039;ceasefire&#039;, the enclave&#039;s Health Ministry says.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Mantelzorg bij dementie is zwaar: 'Je draagt heel veel alleen'",
+      "beschrijving": "Mensen die vrijwillig zorgen voor iemand met dementie ervaren meer eenzaamheid, psychische problemen en lichamelijke problemen. Dat concludeert Alzheimer Nederland na een peiling. Een ruime meerderheid ervaart één of meerdere van deze klachten door het verlenen van mantelzorg. Eenzaamheid, aan dat woord denkt Monique Docter (55) bij de mantelzorg die ze verleent aan haar man. Ronald (57) heeft de ",
+      "url": "https://nos.nl/l/2638901",
+      "datum": "17 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Klant beloont vertrouwensband met taxichauffeur met huis van een half miljoen",
+      "beschrijving": "\"In al die jaren heb ik duizenden mensen vervoerd. Voor mij maakte het nooit uit wie er instapte, iedereen verdiende dezelfde zorg, aandacht en respect.\" Aan het woord is Joeri Cools (53), voormalige taxichauffeur in de Belgische stad Gent. De krant Het Laatste Nieuws (HLN) sprak met hem omdat zijn zorg, aandacht en respect voor zijn klanten hem een bijzondere erfenis heeft opgeleverd. Een vrouw d",
+      "url": "https://nos.nl/l/2638895",
+      "datum": "39 min geleden",
+      "regio": "Afrika",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Extreme luchtvervuiling piekt weer in Indiase steden, ondanks maatregelen",
+      "beschrijving": "Sinds deze week ligt er weer een dikke laag witte smog over de Indiase hoofdstad New Delhi. Het is een jaarlijks terugkerend fenomeen. Wanneer het kouder wordt, duikt de luchtkwaliteit van veel Noord-Indiase steden diep in het rood. Inwoners kampen daardoor steeds vaker met luchtwegklachten, geïrriteerde ogen en migraine. Longarts Nikhil Modi ziet veel van dit soort klachten voorbij komen op zijn ",
+      "url": "https://nos.nl/l/2638892",
+      "datum": "49 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "10/11 in Nieuwsuur: Onderhandelingen oorlog Oekraïne • Debat belastingplan",
+      "beschrijving": "Vredesgesprekken Rusland-Oekraïne Vandaag spraken gezanten van de Verenigde Staten, Rusland en Oekraïne over \"een alomvattend, duurzaam vredesakkoord\" voor de oorlog in Oekraïne. De partijen hebben al meerdere gesprekken gevoerd, zonder succes. Amerikaanse buitenlandminister Marco Rubio noemde het gesprek van vandaag erg productief, maar benadrukte dat er nog veel moet gebeuren. Morgenochtend gaan",
+      "url": "https://nos.nl/l/2638879",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Farmaceuten krijgen oog voor ontwikkelingslanden: dure medicijnen goedkoper aangeboden",
+      "beschrijving": "De farmaceutische industrie probeert in toenemende mate nieuwe levensreddende medicijnen betaalbaar aan te bieden in economisch zwakkere regio's van de wereld, zoals in Afrika, Latijns-Amerika en delen van Azië. Dit blijkt uit onderzoeken over de afgelopen twintig jaar van de onderzoeks-ngo Access to Medicine Foundation. Vandaag is de tiende index gepubliceerd, een toonaangevend tweejaarlijks onde",
+      "url": "https://nos.nl/l/2638876",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "'Spionageaffaire Nvidia geeft Nederland troef in strijd om ASML'",
+      "beschrijving": "Het lijkt wel een filmplot: een spionne die een steenrijke ondernemer verleidt om hem bedrijfsgeheimen te ontfutselen in opdracht van haar overheid. De topman van chipgigant Nvidia lijkt slachtoffer te zijn geworden van deze spionagetactiek. Volgens Amerikaanse inlichtingendiensten had hij een affaire met een vrouw die werkte voor de Chinese geheime dienst. Of zij daadwerkelijk gevoelige informati",
+      "url": "https://nos.nl/l/2638851",
+      "datum": "5 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Dode pasgeboren baby gevonden in vuilniszak in Belgisch weiland",
+      "beschrijving": "Aan de rand van een weiland in het Belgische Weerst, net over de grens bij Maastricht, is een dode baby gevonden. Het lichaam van het pasgeboren meisje zat in een vuilniszak, en haar navelstreng zat er nog aan, schrijft het Franstalige medium Sudinfo. Het levenloze meisje werd zondagmiddag in de bosjes gevonden in een deelgemeente van Dalhem in de provincie Luik. Volgens de burgemeester van Dalhem",
+      "url": "https://nos.nl/l/2638846",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Singapore legt beslag op Amerikaans cruiseschip dat 'eeuwig' zou varen",
+      "beschrijving": "Het Amerikaans cruiseschip dat bezig was met een \"jarenlange wereldreis\" is in beslag genomen door de Singaporese havenautoriteiten. Door de opgelopen brandstofkosten kon de rederij de cruise niet vervolgen. Vorige maand moesten gasten in Cambodja van boord gaan. Het schip is op rechterlijk bevel aan de ketting gelegd, liet de havenautoriteit (MPA) weten in een verklaring aan de Singaporese media.",
+      "url": "https://nos.nl/l/2638845",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "12 doden, tientallen gewonden bij enorme kettingbotsing in mist Bulgarije",
+      "beschrijving": "In Bulgarije zijn zeker twaalf mensen omgekomen bij een grote kettingbotsing op een snelweg. In dichte mist botsten bij de plaats Zimnitsa tientallen auto's op elkaar. \"Er waren meer dan zeventig voertuigen betrokken bij deze tragedie\", zei een regionale gouverneur ter plekke. \"De ravage is niet te beschrijven, ik heb nog nooit zoiets gezien.\" Zeker vijftig mensen zijn opgenomen in het ziekenhuis.",
+      "url": "https://nos.nl/l/2638843",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Ook zonder kabinet kan de Israëlische oppositie al haar stempel drukken",
+      "beschrijving": "Het nieuwe Israëlische parlement, de Knesset, wordt vanmiddag geïnstalleerd. Terwijl de coalitieonderhandelingen onder leiding van oppositieleider Gadi Eisenkot nog maar net zijn begonnen, kan hij de nieuwe machtsverhoudingen in het parlement al benutten voordat een nieuwe regering is gevormd. De partijen die tegenover Netanyahu staan, hebben namelijk met 67 van de 120 zetels in het nieuwe parleme",
+      "url": "https://nos.nl/l/2638837",
+      "datum": "6 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+      "beschrijving": "Nayef Al-Nabet discusses the Qatari prime minister’s visit to Washington.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
+      "datum": "54 min geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
-      "beschrijving": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+      "titel": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
+      "beschrijving": "Suspect in deadly November 7 Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+      "beschrijving": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "beschrijving": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
+      "titel": "‘Positive momentum’: Is the US war on Iran about to end?",
+      "beschrijving": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
+      "beschrijving": "India has influence with both sides, but shipping security and Russia’s cooperation remain major obstacles.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "First day of Ukraine peace talks constructive, Zelensky says",
+      "beschrijving": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
       "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "datum": "21 min geleden",
+      "datum": "4 min geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-      "beschrijving": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
-      "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
-      "datum": "49 min geleden",
-      "regio": "Afrika",
+      "titel": "Israel's new parliament sworn in as leaders compete to form government",
+      "beschrijving": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "datum": "30 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "France accuses Iran of supermarket fridge hacking",
-      "beschrijving": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "datum": "13 uur geleden",
-      "regio": "Iran",
+      "titel": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "beschrijving": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
+      "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Khor Mor drone attack raises fears over Iraq’s energy security",
-    "Trump says more US attacks on Iran 'highly unlikely'",
-    "Gesprekken over oorlog in Oekraïne van start in Abu Dhabi, Europa aan de zijlijn",
-    "Miljoen Fransen eisen ingrijpen tegen invloedrijke nieuwszender CNews",
-    "'Vliegtuigen VS weg van tweede Britse basis om dreiging Iran'",
-    "Wekdienst 10/11: Onderhandelingen in Abu Dhabi • Kamer discussieert over belastingplan",
-    "Kiezers Californië stemmen tegen eenmalige vermogensbelasting voor miljardairs",
-    "Iran-oorlog leidt tot dipje in uitstoot fossiele brandstoffen",
-    "Iran-oorlog buigt verwachte daling om naar nieuw recordjaar steenkool",
-    "Republikein dient voorstel in voor afzetten Amerikaanse defensieminister Hegseth"
+    "At least 12 people killed in Bulgaria motorway pile-up",
+    "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+    "Mantelzorg bij dementie is zwaar: 'Je draagt heel veel alleen'",
+    "Klant beloont vertrouwensband met taxichauffeur met huis van een half miljoen",
+    "Extreme luchtvervuiling piekt weer in Indiase steden, ondanks maatregelen",
+    "10/11 in Nieuwsuur: Onderhandelingen oorlog Oekraïne • Debat belastingplan",
+    "Farmaceuten krijgen oog voor ontwikkelingslanden: dure medicijnen goedkoper aangeboden",
+    "'Spionageaffaire Nvidia geeft Nederland troef in strijd om ASML'",
+    "Dode pasgeboren baby gevonden in vuilniszak in Belgisch weiland",
+    "Singapore legt beslag op Amerikaans cruiseschip dat 'eeuwig' zou varen"
   ]
 }
