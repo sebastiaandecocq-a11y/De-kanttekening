@@ -1,11 +1,20 @@
 {
-  "bijgewerkt": "11 Nov 2026 02:42 UTC",
+  "bijgewerkt": "11 Nov 2026 10:31 UTC",
   "artikelen": [
+    {
+      "titel": "Vier beren gedood in Canada na dodelijke, 'roofdierachtige' aanval op wandelaars",
+      "beschrijving": "In Canada zijn een moederbeer en haar drie welpen afgemaakt omdat ze verantwoordelijk worden gehouden voor een recente dodelijke aanval op twee vrouwen. De beren werden afgelopen weekend gevangen in de Canadese provincie British Columbia. Uit forensisch onderzoek, waaronder DNA-analyse van de dieren, bleek dat zij verantwoordelijk waren voor de aanval, meldden lokale natuurautoriteiten. Uit het on",
+      "url": "https://nos.nl/l/2638957",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
     {
       "titel": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
       "beschrijving": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
       "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Iran",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -14,7 +23,7 @@
       "titel": "Amerikaanse militair opgepakt in VK voor spionage voor Rusland",
       "beschrijving": "Een militair van het Amerikaanse leger is in het Verenigd Koninkrijk gearresteerd vanwege mogelijke spionage. Dat meldt de Britse politie. Het gaat om een 41-jarige man. Volgens de politie deed hij dit voor Rusland. De arrestatie volgde na een samenwerking tussen de Britse en Amerikaanse autoriteiten, het Amerikaanse leger en de FBI. FBI-directeur Patel zegt dat de man beschuldigd wordt van spiona",
       "url": "https://nos.nl/l/2638925",
-      "datum": "7 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "midden",
       "bron": "NOS"
@@ -23,16 +32,61 @@
       "titel": "VN-chef haalt op klimaattop uit naar megawinsten die oliebedrijven 'binnenharken'",
       "beschrijving": "Fossiele brandstoffen zijn niet alleen de drijvende kracht achter klimaatverandering, onze afhankelijkheid ervan heeft ook hoge economische en veiligheidsgerelateerde kosten. Met die boodschap sprak secretaris-generaal António Guterres van de Verenigde Naties de klimaattop in Turkije toe. De afzwaaiend leider van de VN was fel over de recordwinsten die oliebedrijven sinds de Iranoorlog maken. \"Sin",
       "url": "https://nos.nl/l/2638922",
-      "datum": "7 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Iran",
       "urgentie": "midden",
       "bron": "NOS"
     },
     {
+      "titel": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+      "beschrijving": "Iran is said to have geo-located Bessent&#039;s $12.5m mansion in Washington, DC after a photo of it was published.",
+      "url": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
+      "datum": "14 min geleden",
+      "regio": "Iran",
+      "urgentie": "midden",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US warns Madagascar over growing military ties with Russia",
+      "beschrijving": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
+      "url": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "midden",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Rusland en Oekraïne bestoken elkaar terwijl in Abu Dhabi wordt onderhandeld",
+      "beschrijving": "Rusland en Oekraïne hebben afgelopen nacht en vanmorgen luchtaanvallen uitgevoerd op elkaar. Het Russische leger bombardeerde onder meer energiecentrales en Oekraïense drones troffen een Russische haven aan de Oostzee. In de Baltische staten klonk kort het luchtalarm. Ondertussen wordt vandaag in Abu Dhabi verder onderhandeld over een einde aan de Russische invasie van Oekraïne. De eerste dag van ",
+      "url": "https://nos.nl/l/2638975",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vijf jaar The Kyiv Independent: hoe bedrijf je journalistiek in een land in oorlog?",
+      "beschrijving": "Terwijl in Abu Dhabi opnieuw wordt onderhandeld over het verloop van de oorlog, kijkt de redactie van The Kyiv Independent vandaag terug op bijna vijf jaar oorlogsverslaggeving. Toen Rusland begin 2022 zijn grootschalige invasie in Oekraïne begon, bestond de Engelstalige nieuwssite pas drie maanden. Inmiddels vormt de site voor ruim 2 miljoen maandelijkse lezers, met name buiten Oekraïne, een bela",
+      "url": "https://nos.nl/l/2638954",
+      "datum": "4 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 11/11: Elfde van de Elfde en Sint-Maarten gevierd • Online misbruikzaak voor de rechter",
+      "beschrijving": "Goedemorgen! Het is de Elfde van de Elfde, de traditionele opening van het carnavalsseizoen. Ook wordt in delen van Nederland Sint-Maarten gevierd. In Spanje wordt in heel het land gestaakt. In bijna alle grote steden zijn demonstraties aangekondigd. Eerst het weer Vanochtend is het bewolkt met in de zuidelijke helft perioden met regen. In het Waddengebied komt mist voor. Vanmiddag schijnt in het ",
+      "url": "https://nos.nl/l/2638953",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Voorlopig geen afzettingsprocedure tegen Amerikaanse defensieminister Hegseth",
-      "beschrijving": "De Amerikaanse minister van Defensie Pete Hegseth blijft voorlopig aan. De Republikeinen in het Huis van Afgevaardigden hebben een poging tot een afzettingsprocedure tegengehouden. Hegseth ligt onder vuur na de door de Republikeinen verloren tussentijdse verkiezingen van vorige week. Onder zijn leiding begonnen de Verenigde Staten een oorlog tegen Iran. Het Republikeinse Congreslid Thomas Massie h",
+      "beschrijving": "De Amerikaanse minister Hegseth van Defensie blijft voorlopig aan. De Republikeinen in het Huis van Afgevaardigden hebben een poging tot een afzettingsprocedure tegengehouden. Hegseth ligt onder vuur na de door de Republikeinen verloren tussentijdse verkiezingen van vorige week. Onder zijn leiding begonnen de Verenigde Staten begin dit jaar samen met Israël een oorlog tegen Iran. Het Republikeinse",
       "url": "https://nos.nl/l/2638946",
-      "datum": "2 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
@@ -41,7 +95,7 @@
       "titel": "Oud-president Biden (83) bekogeld bij verrassingsbezoek aan Ierland",
       "beschrijving": "Joe Biden, voormalig president van de Verenigde Staten, is tijdens een verrassingsbezoek aan Ierland belaagd en bekogeld. Er zijn zeker twee mensen aangehouden. De 83-jarige Biden was in de hoofdstad Dublin voor een bezoek aan het Trinity College. Zijn zoon Hunter werd daar door studentendebatvereniging The Hist onderscheiden met een gouden medaille \"voor zijn uitzonderlijke bijdrage aan het publi",
       "url": "https://nos.nl/l/2638940",
-      "datum": "4 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -50,7 +104,7 @@
       "titel": "Meer en snellere treinen: Nederland en Duitsland sluiten spoorakkoord",
       "beschrijving": "Het internationale treinverkeer tussen Nederland en Duitsland moet de komende jaren flink verbeteren. Er moeten meer treinen gaan rijden, ook van nieuwe aanbieders, en de reistijd moet worden verkort. Staatssecretaris Bertram (CDA) heeft hierover in Berlijn een akkoord gesloten met de Duitse verkeersminister Bilger. Veelzeggend is dat de staatssecretaris zelf niet met de trein naar de Duitse hoofd",
       "url": "https://nos.nl/l/2638924",
-      "datum": "7 uur geleden",
+      "datum": "15 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,139 +113,85 @@
       "titel": "Britse komiek David Walliams beschuldigd van seksueel wangedrag bij jonge vrouwen",
       "beschrijving": "Meerdere vrouwen beschuldigen de Britse komiek, acteur en kinderboekenschrijver David Walliams van seksueel wangedrag. Dat blijkt uit een gezamenlijk onderzoek van The Guardian en ITV News. De 55-jarige Walliams weerspreekt de beschuldigingen en heeft tevergeefs geprobeerd de publicatie van de Britse media tegen te houden. Walliams, bekend van het komedieprogramma Little Britain, gebruikte zijn ma",
       "url": "https://nos.nl/l/2638918",
-      "datum": "8 uur geleden",
+      "datum": "16 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Oproep tot ingrijpen tegen Franse zender CNews krijgt geen politiek vervolg",
-      "beschrijving": "Er komt geen debat in het Franse parlement over de nieuwszender CNews. Dat heeft de commissie die daarover gaat, besloten. Daarmee wordt er geen vervolg gegeven aan een petitie die door een miljoen Fransen werd ondertekend. In de petitie werd opgeroepen om CNews, de best bekeken 24-uurszender van Frankrijk, van de buis te halen. Volgens de ondertekenaars is de zender een \"propagandamachine\" en de ",
-      "url": "https://nos.nl/l/2638915",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Eerste gesprekken over einde aan oorlog in Oekraïne 'productief', aldus VS",
-      "beschrijving": "De eerste dag van gesprekken over een einde aan de oorlog in Oekraïne was \"zeer productief\", zegt de Amerikaanse minister van Buitenlandse Zaken Rubio. Hij zat zelf niet aan tafel in Abu Dhabi bij de gesprekken tussen Oekraïne, Rusland en de VS. Hij erkent dat er nog veel werk aan de winkel is. Het is voor het eerst sinds februari dat Rusland direct met Oekraïne spreekt. De verwachtingen voor een ",
-      "url": "https://nos.nl/l/2638905",
-      "datum": "9 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Mantelzorg bij dementie is zwaar: 'Je draagt heel veel alleen'",
-      "beschrijving": "Mensen die vrijwillig zorgen voor iemand met dementie ervaren meer eenzaamheid, psychische problemen en lichamelijke problemen. Dat concludeert Alzheimer Nederland na een peiling. Een ruime meerderheid ervaart één of meerdere van deze klachten door het verlenen van mantelzorg. Eenzaamheid, aan dat woord denkt Monique Docter (55) bij de mantelzorg die ze verleent aan haar man. Ronald (57) heeft de ",
-      "url": "https://nos.nl/l/2638901",
-      "datum": "9 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Klant beloont vertrouwensband met taxichauffeur met huis van een half miljoen",
-      "beschrijving": "\"In al die jaren heb ik duizenden mensen vervoerd. Voor mij maakte het nooit uit wie er instapte, iedereen verdiende dezelfde zorg, aandacht en respect.\" Aan het woord is Joeri Cools (53), voormalige taxichauffeur in de Belgische stad Gent. De krant Het Laatste Nieuws (HLN) sprak met hem omdat zijn zorg, aandacht en respect voor zijn klanten hem een bijzondere erfenis heeft opgeleverd. Een vrouw d",
-      "url": "https://nos.nl/l/2638895",
-      "datum": "9 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
-      "beschrijving": "Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
-      "datum": "30 min geleden",
+      "titel": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
+      "beschrijving": "Winter weather has continued to wreak havoc in Gaza, with flooding and strong winds.",
+      "url": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
+      "datum": "18 min geleden",
       "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
-      "beschrijving": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
-      "datum": "58 min geleden",
-      "regio": "Iran",
+      "titel": "Gaza Grad: A Palestinian-Russian family’s longing for home",
+      "beschrijving": "Forced from Gaza, a Palestinian-Russian family rebuilds their lives across Russia and Egypt, longing to return home.",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/11/gaza-grad-a-palestinian-russian-familys-longing-for-home?traffic_source=rss",
+      "datum": "52 min geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Republicans block Hegseth impeachment motion",
-      "beschrijving": "Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
-      "datum": "58 min geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Tigray displaced families fear renewed war as hopes of returning home fade",
-      "beschrijving": "Displaced families face renewed uncertainty as fighting returns to Tigray.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+      "titel": "What do Kyiv residents think about giving up territory to Russia?",
+      "beschrijving": "US President Donald Trump says post-war Ukraine will have a &#039;different shape&#039; ahead of peace talks in Abu Dhabi.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
-      "beschrijving": "Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Fire contained on platform in Iran’s South Pars gas field",
-      "beschrijving": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Massive fire as Israeli settlers burn down business near Nablus",
-      "beschrijving": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
-      "datum": "3 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "US Army soldier suspected of spying for Russia arrested in UK",
-      "beschrijving": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "beschrijving": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "titel": "Putin is not ready to make peace in Abu Dhabi",
+      "beschrijving": "The Russian leader still believes he can outlast Western support for Ukraine.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "How are Pakistan’s imports from India growing again despite tensions?",
+      "beschrijving": "Formally, they&#039;re not trading at all. But Pakistan&#039;s imports from India are back to pre-war levels. Is a thaw next?",
+      "url": "https://www.aljazeera.com/news/2026/11/11/how-are-pakistans-imports-from-india-growing-again-despite-tensions?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Why China’s $1 trillion trade surplus isn’t all good news for its economy",
+      "beschrijving": "Booming exports mask a thriftiness among the Chinese that could undermine long-term growth.",
+      "url": "https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "beschrijving": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "datum": "7 uur geleden",
+      "regio": "VS",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
+    "Vier beren gedood in Canada na dodelijke, 'roofdierachtige' aanval op wandelaars",
     "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
     "Amerikaanse militair opgepakt in VK voor spionage voor Rusland",
     "VN-chef haalt op klimaattop uit naar megawinsten die oliebedrijven 'binnenharken'",
-    "Voorlopig geen afzettingsprocedure tegen Amerikaanse defensieminister Hegseth",
-    "Oud-president Biden (83) bekogeld bij verrassingsbezoek aan Ierland",
-    "Meer en snellere treinen: Nederland en Duitsland sluiten spoorakkoord",
-    "Britse komiek David Walliams beschuldigd van seksueel wangedrag bij jonge vrouwen",
-    "Oproep tot ingrijpen tegen Franse zender CNews krijgt geen politiek vervolg",
-    "Eerste gesprekken over einde aan oorlog in Oekraïne 'productief', aldus VS",
-    "Mantelzorg bij dementie is zwaar: 'Je draagt heel veel alleen'"
+    "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+    "US warns Madagascar over growing military ties with Russia",
+    "Rusland en Oekraïne bestoken elkaar terwijl in Abu Dhabi wordt onderhandeld",
+    "Vijf jaar The Kyiv Independent: hoe bedrijf je journalistiek in een land in oorlog?",
+    "Wekdienst 11/11: Elfde van de Elfde en Sint-Maarten gevierd • Online misbruikzaak voor de rechter",
+    "Voorlopig geen afzettingsprocedure tegen Amerikaanse defensieminister Hegseth"
   ]
 }
