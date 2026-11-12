@@ -1,188 +1,197 @@
 {
-  "bijgewerkt": "12 Nov 2026 01:23 UTC",
+  "bijgewerkt": "12 Nov 2026 09:30 UTC",
   "artikelen": [
     {
-      "titel": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
-      "beschrijving": "Israel orders military to step up preparations for possible attack on Iran as Tehran says it will retaliate if attacked.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+      "titel": "Russische militair gedood door explosief onder auto in Sint-Petersburg",
+      "beschrijving": "Een Russische militair is gedood door een explosief dat was afgegaan onder zijn auto. De explosie gebeurde vanochtend vroeg op een weg in het zuiden van Sint-Petersburg. Het explosief werd onder het voertuig geplaatst en op afstand tot ontploffing gebracht, schrijft de Russische nieuwssite Fontanka. De man reed op dat moment weg bij zijn woning. De identiteit van de militair is niet bekendgemaakt.",
+      "url": "https://nos.nl/l/2639121",
+      "datum": "34 min geleden",
+      "regio": "Wereld",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Zes doden bij aanval Israël op ziekenhuis in zuiden van Gaza",
+      "beschrijving": "Bij een Israëlische luchtaanval op het Nasser-ziekenhuis in Khan Younis in het zuiden van Gaza zijn vanochtend vroeg zeker zes mensen omgekomen, onder wie een chirurg. Ook zijn er twintig mensen gewond geraakt, meldt de reddingsdienst van Gaza. Het leger van Israël verklaarde na de aanval dat die gericht was op een hooggeplaatst Hamas-lid en andere leden van de gewapende tak van de beweging. Volge",
+      "url": "https://nos.nl/l/2639115",
       "datum": "1 uur geleden",
       "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+      "beschrijving": "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+      "datum": "54 min geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "beschrijving": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "hoog",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Wereldleiders eenstemmig bezorgd, maar conflicten drukken stempel op klimaattop",
-      "beschrijving": "Op de klimaattop in Turkije was het een komen en gaan van wereldleiders. Oproepen tot het nakomen van klimaatafspraken, de ramp in Nepal, weersextremen, El Niño en ook geopolitieke spanningen drukten een stempel op hun toespraken. In het geval van premier Jetten was het de nationale politiek die zijn inbreng op de top kleurde: hij bleef geheel weg uit Antalya vanwege de problemen die hij thuis hee",
-      "url": "https://nos.nl/l/2639050",
-      "datum": "7 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "US election results could be positive for Lebanon, Hezbollah chief says",
-      "beschrijving": "Naim Qassem says Republican losses and Israel&#039;s election result could help Lebanon maintain sovereignty.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "midden",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Ook historische uitslag in Mississippi, Democraat wint Senaatszetel in dieprode staat",
-      "beschrijving": "In de zeer conservatieve Amerikaanse staat Mississippi hebben de Democraten een historische overwinning behaald. Een week na de tussentijdse verkiezingen is door persbureau AP bekendgemaakt dat de zwarte Democraat Scott Colom in de Amerikaanse Senaat is gekozen. Colom (43) versloeg de Republikeinse kandidaat Cindy Hyde-Smith (67) met enkele duizenden stemmen verschil, meldt AP. Dat betekent dat de",
-      "url": "https://nos.nl/l/2639091",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iconisch schip dat beroemde Amerikanen vervoerde moet populaire duikattractie worden",
-      "beschrijving": "Een iconisch Amerikaans passagiersschip wordt tot zinken gebracht in de Golf van Mexico, voor de kust bij Florida. Jarenlang was er discussie over wat er moest gebeuren met het schip, dat al in 1969 uit de vaart werd genomen. Uiteindelijk werd besloten dat het schip het grootste kunstmatige rif ter wereld moest worden. Rond 20.40 uur Nederlandse tijd werd begonnen aan het laten vollopen van de 'S.",
-      "url": "https://nos.nl/l/2639086",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Lid van Italiaanse terreurgroep (74) ontsnapt met touw van balkon van vijf hoog",
-      "beschrijving": "De 74-jarige Leonardo Bertulazzi, voormalig lid van de Italiaanse terreurgroep Rode Brigades, is ontsnapt terwijl hij onder huisarrest stond. De man wist jarenlang uit handen van de autoriteiten te blijven, terwijl hem in Italië een celstraf van 27 jaar wachtte. Toen hij in Argentinië toch werd opgepakt en uitlevering naar Italië dreigde, besloot hij een ontsnapping op touw te zetten Bertulazzi de",
-      "url": "https://nos.nl/l/2639071",
+      "titel": "'Nvidia neemt snel besluit over ontslag topman Huang na nieuws over tweede affaire'",
+      "beschrijving": "De raad van bestuur van chipbedrijf Nvidia beslist op zeer korte termijn of de in opspraak geraakte topman Jensen Huang ontslagen wordt of niet. Dat melden onder meer de persbureaus Bloomberg en Reuters na berichtgeving door The Wall Street Journal. Aanleiding is een nieuwe affaire die aan het licht is gekomen. Volgens Amerikaanse media gaat het deze keer om een werknemer van Nvidia. Eerder bleek ",
+      "url": "https://nos.nl/l/2639095",
       "datum": "4 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "laag",
+      "regio": "Wereld",
+      "urgentie": "midden",
       "bron": "NOS"
     },
     {
-      "titel": "El Salvador bestookt vermoedelijk bendehoofdkwartier in Haïti, premier bedankt Bukele",
-      "beschrijving": "\"We hebben onze belofte gehouden\". Met die woorden kondigde de Salvadoraanse president Bukele aan het vermoedelijke hoofdkwartier van een van de grootste criminele bendes in Haïti te hebben verwoest. Het zou gaan om het huis van Wilson Joseph, ook bekend als Lanmò San Jou, de leider van de 400 Mawozo-bende. \"De meesten renden weg zonder ook maar terug te vechten,\" schrijft Bukele op X. \"Wat een la",
-      "url": "https://nos.nl/l/2639052",
-      "datum": "7 uur geleden",
+      "titel": "Australische jongen (17) overleeft zes dagen in de bush op chips en water",
+      "beschrijving": "In Australië heeft een vermist geraakte 17-jarige jongen zes dagen weten te overleven in de wildernis op niet veel meer dan een zak chips en water. Niet ver van de plek waar hij had willen kamperen was hij vorige week verdwaald geraakt en vast komen te zitten. De tiener uit de plaats Morwell zou afgelopen weekend met een vriend kamperen in een natuurgebied in de staat Victoria. Toen de jongen de l",
+      "url": "https://nos.nl/l/2639120",
+      "datum": "54 min geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Aardverschuivingen en overstromingen in Portugal door Charles, vluchten geschrapt",
-      "beschrijving": "In het zuiden van Portugal en in de regio van Lissabon heeft storm Charles tot problemen geleid. Er is sprake van zware regenval en krachtige windstoten. De Portugese publieke omroep RTP meldt dat er honderden incidenten zijn gemeld, waaronder aardverschuivingen, overstromingen en omgewaaide bomen. Er zijn vooralsnog geen berichten van slachtoffers of vermisten. Door de weersomstandigheden is ook ",
-      "url": "https://nos.nl/l/2639051",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Asielminister teruggefloten: hoe nu verder met Syrische asielzoekers?",
-      "beschrijving": "Een tegenvaller voor asielminister Bart van den Brink: zijn nieuwe asielbeleid voor Syrische vluchtelingen is \"onvoldoende gemotiveerd\", oordeelt de Raad van State vandaag. Na de val van het gewelddadige Assad-regime in 2024 stelde het toenmalige Nederlandse kabinet dat veel Syriërs weer terug kunnen. Het land zou namelijk een stuk veiliger zijn. Maar de hoogste bestuursrechter van ons land vindt ",
-      "url": "https://nos.nl/l/2639032",
-      "datum": "9 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Oekraïne en Rusland eens over gevangenenruil, maar doorbraak blijft uit",
-      "beschrijving": "Na de tweede dag van onderhandelingen tussen Oekraïne en Rusland over het beëindigen van de oorlog lijkt er geen doorbraak te zijn bereikt. Alleen over het uitwisselen van gevangenen lijkt overeenstemming te zijn. De gesprekken begonnen gisteren in Abu Dhabi en werden geleid door de Verenigde Staten. Vooraf waren de verwachtingen over het bereiken van concrete resultaten al niet erg hoog. Het is v",
-      "url": "https://nos.nl/l/2639029",
-      "datum": "9 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "EU wil verplichte knop om verslavende functies sociale media uit te zetten",
-      "beschrijving": "Eindeloos scrollen door je tijdlijn op sociale media. Of die online aanbieding waarbij de verkoper doet alsof er nog maar een paar tickets, kamers of producten over zijn. Steeds meer consumenten krijgen online te maken met oneerlijke of verslavende praktijken. De Europese Commissie wil dat aanpakken. De Europese Commissie wil het voor gebruikers van sociale media makkelijker maken om los te komen ",
-      "url": "https://nos.nl/l/2639021",
-      "datum": "10 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "11/11 in Nieuwsuur: Deal over belastingplan, hoe nu verder? • Hoe (on)veilig is Syrië? • Bedrijven willen minder thuiswerkers",
-      "beschrijving": "Deal met Pro en Volt rond belastingplan Coalitiepartijen D66 en CDA hebben een deal gesloten met oppositiepartijen Pro en Volt over een belastingverhoging voor vermogenden en een belastingverlaging op loon. \"Dit is een doorbraak\", zegt Pro-leider Klaver. Het is nog niet duidelijk of dit de coalitie uit de impasse haalt en of hiermee het belastingplan in zowel de Tweede als Eerste Kamer een meerder",
-      "url": "https://nos.nl/l/2639013",
-      "datum": "11 uur geleden",
-      "regio": "Midden-Oosten",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hegseth scolded by security at Tomb of the Unknown Soldier",
-      "beschrijving": "An army sentinel guarding the Tomb of the Unknown Soldier in the Arlington National Cemetery has reprimanded Hegseth.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+      "titel": "Duitse politie onderschept busje vol illegaal vuurwerk op weg naar Nederland",
+      "beschrijving": "De Duitse douane heeft een busje met 1260 kilo zwaar vuurwerk onderschept bij een controle op de snelweg bij Dresden, niet ver van de grens met Tsjechië. De bestuurder was een 44-jarige Tsjech, die onderweg was naar Nederland om het vuurwerk te verkopen. Hij zit vast op verdenking van het vervoeren van explosieve stoffen en zou een gedeeltelijke bekentenis hebben afgelegd. De lading bevatte 85 doz",
+      "url": "https://nos.nl/l/2639118",
       "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
-      "titel": "Barcelona erupts in violence after general strike",
-      "beschrijving": "Protesters hurled fireworks at police and set rubbish bins ablaze in Barcelona after Spain’s general strike.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
-      "beschrijving": "The historic victory flips an eighth US Senate seat for Democrats after last week&#039;s pivotal midterm election.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+      "titel": "Gebouw ingestort in New York: twee doden en zeker zeventien gewonden",
+      "beschrijving": "In de wijk Brooklyn in New York zijn twee mensen omgekomen en zeker zeventien gewond geraakt nadat een gebouw was ingestort. Van de gewonden verkeren er vier in kritieke toestand. Autoriteiten waarschuwen dat het aantal slachtoffers waarschijnlijk nog oploopt. Reddingswerkers weten niet hoeveel mensen er nog vermist zijn. Bouwvakkers waren bezig met graafwerkzaamheden op het naastgelegen terrein t",
+      "url": "https://nos.nl/l/2639108",
       "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Wekdienst 12/11: Erop of eronder voor kabinet • Hoger beroep tegen Erasmusschutter",
+      "beschrijving": "Goedemorgen! De toekomst van het minderheidskabinet hangt aan een zijden draadje, in Den Haag wordt vandaag gestemd over het belastingplan. In Rotterdam begint het hoger beroep tegen Erasmusschutter Fouad L. Eerst het weer: De dag start met vrij veel bewolking en enkele buien. In de middag wisselen zon en wolken elkaar af en is het overwegend droog. Bij een matige tot vrij krachtige noordwestenwin",
+      "url": "https://nos.nl/l/2639103",
+      "datum": "3 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Europese onderhandelaar Oekraïne gezocht: 'Anders dreigen we irrelevant te worden'",
+      "beschrijving": "Wie o wie moet namens Europa meepraten over een einde aan de oorlog in Oekraïne? Die vraag dringt zich steeds meer op nu het continent een plek aan de onderhandelingstafel probeert veilig te stellen naast de Amerikanen, Oekraïners en Russen. Ook president Zelensky dringt aan: nog deze maand moet duidelijk worden wie Europa gaat vertegenwoordigen. Tal van namen komen langs. De Finse president Stubb",
+      "url": "https://nos.nl/l/2639094",
+      "datum": "5 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Veteranen roepen minister Hegseth ter verantwoording: 'Hij is een oorlogscrimineel'",
+      "beschrijving": "Een eerste poging om een afzettingsprocedure tegen de Amerikaanse minister Hegseth te starten, mislukte in het Huis van Afgevaardigden. Maar een groeiende groep veteranen is niet blij met hem. \"Ik ben enorm teleurgesteld dat hij voorlopig niet wordt afgezet\", vertelt Alice Mascitti. Ze diende 26 jaar in het medische korps van het Amerikaanse leger. Nu staat ze met een Amerikaanse vlag en een prote",
+      "url": "https://nos.nl/l/2639092",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Ook historische uitslag Mississippi, Democraat wint Senaatszetel in dieprode staat",
+      "beschrijving": "In de zeer conservatieve Amerikaanse staat Mississippi hebben de Democraten een historische overwinning behaald. Een week na de tussentijdse verkiezingen meldt persbureau AP dat de zwarte Democraat Scott Colom in de Senaat is gekozen. Colom (43) versloeg de Republikeinse kandidaat Cindy Hyde-Smith (67) met enkele duizenden stemmen verschil. Hyde-Smith feliciteerde Colom in een video op sociale med",
+      "url": "https://nos.nl/l/2639091",
+      "datum": "9 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+      "beschrijving": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+      "datum": "28 min geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "beschrijving": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
-      "regio": "VS",
+      "titel": "India bypasses own rules to buy Israeli phone-hacking tech",
+      "beschrijving": "India&#039;s expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
+      "url": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+      "datum": "50 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
-      "bron": "BBC World"
+      "bron": "Al Jazeera"
     },
     {
-      "titel": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "beschrijving": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "datum": "7 uur geleden",
+      "titel": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+      "beschrijving": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+      "datum": "55 min geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Mississippi elects first Black Senator since 1874",
+      "beschrijving": "Democrat Scott Colom has won Mississippi’s Senate race, becoming the state’s first Black senator since 1874.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Photos: Protesters clash with police after housing cost rallies in Spain",
+      "beschrijving": "Anger over housing affordability and purchasing power leads to clashes amid Spain&#039;s first general strike in 14 years.",
+      "url": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
+      "beschrijving": "Iran’s chief negotiator says Iran is open to a deal if the US refrains from creating distrust and excessive demands.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
+      "beschrijving": "Netanyahu&#039;s fight for political survival turns the parliament&#039;s opening into a scene of insults and acrimony.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "beschrijving": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "beschrijving": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "Iran",
+      "titel": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "beschrijving": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "datum": "29 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
-    "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-    "Wereldleiders eenstemmig bezorgd, maar conflicten drukken stempel op klimaattop",
-    "US election results could be positive for Lebanon, Hezbollah chief says",
-    "Ook historische uitslag in Mississippi, Democraat wint Senaatszetel in dieprode staat",
-    "Iconisch schip dat beroemde Amerikanen vervoerde moet populaire duikattractie worden",
-    "Lid van Italiaanse terreurgroep (74) ontsnapt met touw van balkon van vijf hoog",
-    "El Salvador bestookt vermoedelijk bendehoofdkwartier in Haïti, premier bedankt Bukele",
-    "Aardverschuivingen en overstromingen in Portugal door Charles, vluchten geschrapt",
-    "Asielminister teruggefloten: hoe nu verder met Syrische asielzoekers?"
+    "Russische militair gedood door explosief onder auto in Sint-Petersburg",
+    "Zes doden bij aanval Israël op ziekenhuis in zuiden van Gaza",
+    "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+    "'Nvidia neemt snel besluit over ontslag topman Huang na nieuws over tweede affaire'",
+    "Australische jongen (17) overleeft zes dagen in de bush op chips en water",
+    "Duitse politie onderschept busje vol illegaal vuurwerk op weg naar Nederland",
+    "Gebouw ingestort in New York: twee doden en zeker zeventien gewonden",
+    "Wekdienst 12/11: Erop of eronder voor kabinet • Hoger beroep tegen Erasmusschutter",
+    "Europese onderhandelaar Oekraïne gezocht: 'Anders dreigen we irrelevant te worden'",
+    "Veteranen roepen minister Hegseth ter verantwoording: 'Hij is een oorlogscrimineel'"
   ]
 }
