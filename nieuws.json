@@ -1,21 +1,12 @@
 {
-  "bijgewerkt": "12 Nov 2026 17:59 UTC",
+  "bijgewerkt": "12 Nov 2026 23:30 UTC",
   "artikelen": [
     {
-      "titel": "Ook België heeft aanwijzingen dat Iran achter cyberaanval op koelsystemen zit",
-      "beschrijving": "In navolging van Frankrijk heeft ook België aanwijzingen dat Iran betrokken was bij de recente cyberaanvallen op koelsystemen in meerdere Europese landen. Tientallen Belgische winkels moesten daardoor begin deze maand voor grote bedragen aan voedsel weggooien. Volgens minister Quintin van Binnenlandse Zaken en Veiligheid hebben de Belgische veiligheidsdiensten aanwijzingen dat aan Iran verbonden h",
-      "url": "https://nos.nl/l/2639146",
-      "datum": "7 uur geleden",
-      "regio": "Iran",
-      "urgentie": "hoog",
-      "bron": "NOS"
-    },
-    {
-      "titel": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-      "beschrijving": "Officials say a driver lost control of his truck, causing a collision and fire involving 23 vehicles.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
+      "titel": "Regional security dominates European talks in Dublin amid hybrid attacks",
+      "beschrijving": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
@@ -23,7 +14,7 @@
       "titel": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
       "beschrijving": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
       "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "datum": "5 uur geleden",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
@@ -32,25 +23,34 @@
       "titel": "Eight killed in Colombian air strike targeting Gulf Clan gang",
       "beschrijving": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
       "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "beschrijving": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Drummer Roger Taylor van popband Duran Duran stopt vanwege oorsuizen",
+      "beschrijving": "Roger Taylor stopt als drummer van Duran Duran. De 66-jarige Britse muzikant heeft te veel last van tinnitus, oftewel een piep of ruis in het oor, om nog door te gaan. \"Ik heb het punt bereikt dat ik moet luisteren naar mijn lichaam en dokters\", zegt Taylor in een verklaring die de band op sociale media heeft gezet. Hij noemt het een van de moeilijkste besluiten van zijn leven. De rest van de band",
+      "url": "https://nos.nl/l/2639219",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
       "urgentie": "midden",
-      "bron": "BBC World"
+      "bron": "NOS"
+    },
+    {
+      "titel": "NOS-artikelen over ontvoerde Insiya door Google geblokkeerd in India",
+      "beschrijving": "NOS-artikelen over het naar India ontvoerde meisje Insiya zullen door Google binnenkort worden geblokkeerd in de zoekresultaten voor gebruikers in India. Google zegt dit te doen op last van een gerechtelijk bevel van een rechter in New Delhi. Het gaat om in totaal zeventien artikelen. Tien jaar geleden werd de 2-jarige Insiya op klaarlichte dag ontvoerd door vier mannen in Amsterdam-Oost. Ze namen",
+      "url": "https://nos.nl/l/2639209",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
     },
     {
       "titel": "Vicepresident Indonesië stapt op na diplomaschandaal en oplopende spanningen",
       "beschrijving": "De vicepresident van Indonesië heeft ontslag genomen. De 39-jarige Gibran Rakabuming Raka is verwikkeld in een schandaal over de echtheid van zijn middelbareschooldiploma. Het is de eerste keer in 28 jaar tijd dat de vicepresident van het land is opgestapt. President Prabowo Subianto zei dat hij het ontslag van Gibran \"met pijn in het hart\" heeft geaccepteerd. Ze omhelsden elkaar en Prabowo prees ",
       "url": "https://nos.nl/l/2639193",
-      "datum": "2 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,25 +59,25 @@
       "titel": "Ruim 1800 Italiaanse scholen opnieuw opgeschrikt door bommeldingen",
       "beschrijving": "Voor de tweede dag op rij zijn er bommeldingen naar Italiaanse scholen gestuurd. Het gaat om ruim 1800 scholen door het hele land. De politie heeft geen explosieven gevonden. Het ministerie van Onderwijs zegt dat er geen bewijs is gevonden dat de scholen gevaar lopen. Scholen wordt geadviseerd het lesprogramma weer op te starten. Als een school denkt dat er toch een dreiging is, kunnen ze bij loka",
       "url": "https://nos.nl/l/2639192",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Finland gaat Russische sporters toegang tot het land weigeren",
-      "beschrijving": "Russische sporters mogen Finland niet meer in. Dat heeft het Finse ministerie voor Buitenlandse Zaken bekendgemaakt. Met ingang van komende maandag gelden strengere regels voor werkvergunningen voor korte periodes, die topsporters ook nodig hebben. \"Zolang de Russische agressie-oorlog voortduurt, hebben Russische sporters niets te zoeken in Finland\", laat de Finse minister van Buitenlandse Zaken E",
+      "titel": "Finland gaat Russische sporters toegang tot het land weigeren, Noorwegen volgt",
+      "beschrijving": "Russische sporters mogen Finland niet meer in. Dat heeft het Finse ministerie voor Buitenlandse Zaken bekendgemaakt. Met ingang van komende maandag gelden strengere regels voor werkvergunningen voor korte periodes, die topsporters ook nodig hebben. Ook Noorwegen liet vervolgens weten atleten uit Rusland en Belarus te weten. \"Zolang de Russische agressie-oorlog voortduurt, hebben Russische sporters",
       "url": "https://nos.nl/l/2639191",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
+      "datum": "8 uur geleden",
+      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Een dode, vier gewonden bij schietpartij Washington D.C",
-      "beschrijving": "In Washington D.C. zijn zeker vijf mensen neergeschoten bij een schietpartij op ongeveer anderhalve kilometer van het Witte Huis. Daarbij is zeker een persoon gedood. Drie anderen zijn gewond maar verkeren buiten levensgevaar. Een persoon verkeert in kritieke toestand. Alle vier de gewonden zijn naar ziekenhuizen gebracht. De vermeende schutter is inmiddels overleden, melden verschillende Amerikaa",
+      "titel": "Doden bij schietpartij Washington D.C., schutter had huurgeschil",
+      "beschrijving": "In Washington D.C. zijn vijf mensen neergeschoten bij een schietpartij. De schutter was verwikkeld in een juridisch conflict met gebouwbeheer, melden Amerikaanse media. De politie bevestigt dit ook als het meest aannemelijke motief te zien. De schietpartij was bij een sportschool in de wijk Logan Circle, op zo'n anderhalve kilometer van het Witte Huis. De sportschool is deel van een appartementenc",
       "url": "https://nos.nl/l/2639190",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +86,7 @@
       "titel": "Na 'blue wave' in de VS komen migrantenkaravanen uit Midden-Amerika weer in beweging",
       "beschrijving": "Een stoet met zo'n 1500 voornamelijk Midden-Amerikaanse migranten is woensdag vertrokken vanuit het verre zuiden van Mexico richting de Verenigde Staten. Belangrijke reden voor hun vertrek is de uitslag van de tussentijds verkiezingen in de VS, waarbij Democraten onder meer in grensstaten grote overwinningen boekten. In migrantengemeenschappen gaan, mede aangespoord door mensensmokkelaars, gerucht",
       "url": "https://nos.nl/l/2639187",
-      "datum": "2 uur geleden",
+      "datum": "8 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,7 +95,7 @@
       "titel": "Slapen in de spits komt bestuurder van zelfrijdende auto op boete te staan",
       "beschrijving": "Een vrouw die tijdens de ochtendspits slapend achter het stuur van haar zelfrijdende auto werd betrapt, is door de Canadese politie op de bon geslingerd. De auto bevond zich op Highway 417, die dwars door de hoofdstad Ottawa voert, tussen langzaam rijdend verkeer. Een politieagent kreeg de vrouw in het oog en ging dicht bij haar auto rijden om met een bodycam vast te leggen dat ze met gesloten oge",
       "url": "https://nos.nl/l/2639175",
-      "datum": "4 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -104,7 +104,7 @@
       "titel": "Britse vrouw aan boord van cruiseschip vermist, mogelijk overboord geslagen",
       "beschrijving": "Een Britse vrouw die aan boord was van een cruiseschip op de Atlantische Oceaan is spoorloos verdwenen. De vrouw van 72 werd maandag voor het laatst gezien, meldt reisorganisatie TUI. Vermoed wordt dat zij overboord is geslagen. Het schip, de Marella Voyager, is onderweg naar het Caribisch gebied en heeft sinds maandag bijna 900 kilometer afgelegd. Het is niet duidelijk wanneer de vrouw precies is",
       "url": "https://nos.nl/l/2639167",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -113,85 +113,85 @@
       "titel": "Amerikaanse voetballers om veiligheidsredenen niet naar WK onder 17 in Qatar",
       "beschrijving": "De voetbalbond van de Verenigde Staten trekt zijn onder 17-ploeg terug van het WK, dat vanaf volgende week in Qatar wordt gehouden. De spelers zijn op de hoogte gebracht via een brief van de bond. \"Wij schrijven u om u op de hoogte te stellen van de moeilijke beslissing om ons WK-voorbereidingskamp en onze geplande deelname aan het wereldkampioenschap af te gelasten\", staat in de brief aan de jeug",
       "url": "https://nos.nl/l/2639163",
-      "datum": "5 uur geleden",
+      "datum": "10 uur geleden",
       "regio": "VS",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Tijdelijke verstoring Eurostar door bommelding treinstation Calais",
-      "beschrijving": "Door een inmiddels opgeheven bommelding bij treinstation Calais-Fréthun in Frankrijk zijn vertragingen ontstaan bij de internationale treinen van Eurostar. Het treinverkeer op het station werd vanochtend om 09.40 uur stilgelegd om veiligheidscontroles uit te voeren. Dat meldden lokale autoriteiten op X. Dit leidde niet alleen tot vertragingen van Franse treinen, maar ook van internationaal treinve",
-      "url": "https://nos.nl/l/2639157",
-      "datum": "6 uur geleden",
+      "titel": "Deadly shooting in Washington DC",
+      "beschrijving": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+      "beschrijving": "The baby&#039;s father said he died of hypothermia overnight in their family&#039;s tent in southern Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+      "datum": "3 uur geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "laag",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+      "beschrijving": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "datum": "2 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "beschrijving": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "beschrijving": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "datum": "10 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "beschrijving": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "NOS"
+      "bron": "BBC World"
     },
     {
-      "titel": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
-      "beschrijving": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
-      "url": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
-      "datum": "41 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-      "beschrijving": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Prominent Israeli settler denied entry into France",
-      "beschrijving": "Israel criticises Yossi Dagan&#039;s entry ban, labelling it &#039;unacceptable&#039; amid tensions over illegal settlement policies.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "BDS claims win as energy giants quit Israeli gas project off Gaza",
-      "beschrijving": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "UK court finds two Iranian men guilty of spying for Iran",
-      "beschrijving": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a &#039;violent attack&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "beschrijving": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "datum": "4 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "beschrijving": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "datum": "8 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Ook België heeft aanwijzingen dat Iran achter cyberaanval op koelsystemen zit",
-    "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+    "Regional security dominates European talks in Dublin amid hybrid attacks",
     "Suspected bomb hoax threats force fresh evacuations of Italian schools",
     "Eight killed in Colombian air strike targeting Gulf Clan gang",
-    "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+    "Drummer Roger Taylor van popband Duran Duran stopt vanwege oorsuizen",
+    "NOS-artikelen over ontvoerde Insiya door Google geblokkeerd in India",
     "Vicepresident Indonesië stapt op na diplomaschandaal en oplopende spanningen",
     "Ruim 1800 Italiaanse scholen opnieuw opgeschrikt door bommeldingen",
-    "Finland gaat Russische sporters toegang tot het land weigeren",
-    "Een dode, vier gewonden bij schietpartij Washington D.C",
+    "Finland gaat Russische sporters toegang tot het land weigeren, Noorwegen volgt",
+    "Doden bij schietpartij Washington D.C., schutter had huurgeschil",
     "Na 'blue wave' in de VS komen migrantenkaravanen uit Midden-Amerika weer in beweging"
   ]
 }
