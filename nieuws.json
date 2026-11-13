@@ -1,197 +1,170 @@
 {
-  "bijgewerkt": "13 Nov 2026 14:16 UTC",
+  "bijgewerkt": "13 Nov 2026 21:17 UTC",
   "artikelen": [
     {
-      "titel": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
-      "beschrijving": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
-      "url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
+      "titel": "Wolven doden 35 schapen in België, dodelijkste aanval sinds terugkeer roofdier",
+      "beschrijving": "In een natuurgebied in België zijn vorige maand bij een wolvenaanval zeker 35 schapen doodgebeten. Het gaat om de dodelijkste wolvenaanval sinds de wolf is teruggekeerd in Vlaanderen in 2018, schrijft het dagblad Gazet van Antwerpen. De schapen werden op 4 oktober door herder Bert Plasmans aangetroffen, maar de aanval wordt nu pas gemeld. De dieren behoorden tot een kudde van 450 schapen die werde",
+      "url": "https://nos.nl/l/2639327",
+      "datum": "6 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
-      "titel": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-      "beschrijving": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
-      "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+      "titel": "At least 10 killed in Guinea clashes over gold mining ban",
+      "beschrijving": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
+      "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
       "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "UN watchdog 'increasingly concerned' over Iran nuclear site",
-      "beschrijving": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
-      "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
+      "titel": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "beschrijving": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "datum": "8 uur geleden",
+      "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "BBC World"
     },
     {
-      "titel": "Na historische verkiezingswinst begint nu het echte werk voor de Democraten",
-      "beschrijving": "Met de grootste overwinning bij de tussentijdse verkiezingen in vijftig jaar hebben de Democraten alle reden voor een feestje. Begin volgend jaar hebben ze beide kamers van het Congres in handen en dat is mede gelukt door flink te winnen in traditioneel Republikeinse gebieden. Nu de overwinningsroes begint uit te werken, proberen Democratische Congresleden, donateurs en strategen in Denver in de s",
-      "url": "https://nos.nl/l/2639293",
-      "datum": "3 uur geleden",
+      "titel": "Alle vliegtuigen in VS aan grond gehouden",
+      "beschrijving": "De Amerikaanse luchtvaartautoriteit FAA houdt alle vliegtuigen aan de grond vanwege \"buitengewone omstandigheden\" en \"om veiligheidsredenen\". Voor inkomende internationale vluchten wordt per geval bekeken hoe ze kunnen landen. Later meer",
+      "url": "https://nos.nl/l/2639391",
+      "datum": "7 min geleden",
       "regio": "Wereld",
-      "urgentie": "midden",
+      "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Opgestapte Nvidia-topman moet getuigen voor Senaat om affaires",
-      "beschrijving": "Jensen Huang, voormalig topman van chipgigant Nvidia, is opgeroepen om te getuigen voor een Amerikaanse Senaatscommissie. Huang stapte gisteren op na een nieuwe onthulling over een buitenechtelijke relatie. The New York Times schreef dat Huang een affaire had gehad met een directe medewerker binnen Nvidia. Persbureau Reuters berichtte daarna op basis van twee ingewijden dat er sprake was van een d",
-      "url": "https://nos.nl/l/2639261",
+      "titel": "Aanvaring vrachtschip met cruiseschip op Mississippi, mensen in het water",
+      "beschrijving": "Op de Mississippi in New Orleans is een vrachtschip op een riviercruiseschip gevaren. Het cruiseschip American Heritage met zeker 129 mensen aan boord is gekapseisd en deels gezonken. Door het ongeluk op de rivier in de Amerikaanse staat Louisiana is een onbekend aantal mensen in het water terechtgekomen. Er werden tijdens het kapseizen mensen met reddingsvesten in het water gezien en bij de raili",
+      "url": "https://nos.nl/l/2639389",
+      "datum": "21 min geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Politie opent zaak naar komiek David Wallliams wegens 'ernstige seksuele misdrijven'",
+      "beschrijving": "De politie in het Verenigd Koninkrijk is een onderzoek begonnen naar de Britse komiek, acteur en kinderboekenschrijver David Walliams, vanwege meldingen van \"ernstige seksuele misdrijven\". Dat meldt de BBC. De nieuwe meldingen staan los van de beschuldigingen die eerder deze week boven water kwamen, in een gezamenlijk onderzoek van The Guardian en ITV News. Daaruit bleek dat Walliams, bekend van h",
+      "url": "https://nos.nl/l/2639381",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Twee vrouwen aangeklaagd voor medeplichtigheid aan dodelijke schietpartij in Stade",
+      "beschrijving": "In Duitsland zijn twee vrouwen aangeklaagd voor moord of medeplichtigheid aan moord vanwege een schietpartij in een jeugdinstelling in Stade, ten westen van Hamburg. Bij de schietpartij op klaarlichte dag kwamen zes mensen om het leven. De partner van de inmiddels overleden schutter wordt beschuldigd van zesvoudige moord. Volgens justitie was zij op de hoogte van de plannen van haar man. De vrouw ",
+      "url": "https://nos.nl/l/2639361",
+      "datum": "2 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Vijf Europese landen en EU vertegenwoordigen Europa bij vredesgesprekken met Oekraïne",
+      "beschrijving": "Vertegenwoordigers van de EU en de E5-landen zullen namens Europa deelnemen aan de volgende ronde gesprekken tussen Oekraïne, Rusland en de Verenigde Staten. Dat heeft voorzitter van de Europese Raad António Costa gezegd op een persconferentie na afloop van een informele top van EU-leiders in Dublin. De E-5 landen zijn het Verenigd Koninkrijk, Frankrijk, Duitsland, Italië en Polen. Zijkamer De gro",
+      "url": "https://nos.nl/l/2639360",
+      "datum": "3 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Nederlandse influencer opgepakt door Amerikaanse immigratiedienst ICE",
+      "beschrijving": "De Nederlandse influencer Vera Dijkmans is opgepakt door de Amerikaanse immigratiedienst ICE, meldt RTL Nieuws. Ze is woensdagavond aangehouden nadat ze was geland op het Newark-vliegveld in New Jersey. Dijkmans was naar de Verenigde Staten afgereisd, omdat ze zou zijn uitgenodigd voor een sportevenement door vechtsportbond UFC. \"Ze werkt heel veel in Amerika en heeft hier een B2-visum. Daarmee ma",
+      "url": "https://nos.nl/l/2639356",
+      "datum": "3 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Na Trumps deal met Poetin nog geen druppel Russische diesel aangekomen in de VS",
+      "beschrijving": "Met veel tamtam kondigde Trump vorige maand aan dat Rusland diesel ging leveren aan de Verenigde Staten. In ruil voor sanctieverlichting zou president Poetin tankers vol diesel naar Amerika sturen. Uit openbare data blijkt echter dat die schepen nooit zijn aangekomen. De Agioi Fanendes was sinds 22 oktober met zo'n 300.000 vaten diesel vanuit de havenstad Primorsk onderweg naar New York. De aankom",
+      "url": "https://nos.nl/l/2639350",
+      "datum": "4 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Kansen van Klaas Knot slinken, volgende week duidelijk wie ECB-president wordt",
+      "beschrijving": "De kansen van Klaas Knot om de nieuwe voorzitter van de Europese Centrale Bank te worden, slinken. Dat bevestigen bronnen in Brussel en Dublin aan de NOS. Voor Knot is steun van Duitsland essentieel, maar de Duitsers zijn er nog niet uit wie ze willen steunen. Bondskanselier Merz zegt op een bijeenkomst van EU-leiders in Dublin nog een paar dagen nodig te hebben om de knoop door te hakken. Twee ka",
+      "url": "https://nos.nl/l/2639342",
+      "datum": "4 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "23 doden onder wie drie kinderen bij botsing bus en vrachtwagen in India",
+      "beschrijving": "Bij een ongeluk waarbij een vrachtwagen en een passagiersbus op elkaar inreden in India zijn 23 mensen om het leven gekomen. Onder de omgekomen slachtoffers zijn drie kinderen, meldt persbureau AFP. De politie verwacht dat het dodental nog verder zal oplopen. Het ongeluk gebeurde op een snelweg in de buurt van het Nationaal Park Kaziranga in de noordelijke deelstaat Assam. Zeven mensen zijn naar h",
+      "url": "https://nos.nl/l/2639324",
       "datum": "6 uur geleden",
-      "regio": "Afrika",
-      "urgentie": "midden",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Kremlin: Europa mag meepraten over Oekraïne 'als het bijdraagt aan vredesproces'",
-      "beschrijving": "Een deelname van Europese landen aan de vredesonderhandelingen over Oekraïne is wat Rusland betreft nog niet zeker. Het land heeft gezegd ervoor open te staan, mits blijkt dat Europa bereid is \"een bijdrage te leveren aan het vredesproces\", meldt het Kremlin. \"Zodra we hun oprechte intenties en hun bereidheid zien om bij te dragen aan het vredesproces, kunnen we besluiten of we een dialoog over ee",
-      "url": "https://nos.nl/l/2639309",
-      "datum": "1 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Olie-export krabbelt op richting niveau van voor Iran-oorlog, benzineprijzen dalen",
-      "beschrijving": "In september en oktober was er een overschot aan ruwe olie op de wereldwijde oliemarkt. Dat meldt het Internationaal Energieagentschap (IEA). Het aanbod steeg onder meer doordat de olie-export uit de Golfregio weer toeneemt. Op dit moment is die export 74 procent van het niveau van voor de Iran-oorlog eind februari. In september was er sprake van een overschot van 600.000 vaten per dag, waar er ee",
-      "url": "https://nos.nl/l/2639306",
-      "datum": "2 uur geleden",
       "regio": "Iran",
       "urgentie": "laag",
       "bron": "NOS"
-    },
-    {
-      "titel": "Pro-Russische Oekraïense journalist gewond door autobom in Rusland",
-      "beschrijving": "In Rusland is net als gisteren een bom onder een auto ontploft. Daarbij is een Russisch-gezinde Oekraïense journalist en politicus zwaargewond geraakt. De explosie was in de zuidelijke wijk Tsjertanovo in Moskou. Volgens Russische media reed Sergej Zavorotny in het voertuig. De 72-jarige Zavorotny is naar het ziekenhuis gebracht. Volgens het persbureau Moscow City News Agency is hij zijn linkerarm",
-      "url": "https://nos.nl/l/2639302",
-      "datum": "2 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Weer gebouw in aanbouw ingestort in Nairobi: zes doden",
-      "beschrijving": "In de Keniaanse hoofdstad Nairobi zijn zeker zes mensen omgekomen nadat een gebouw met acht verdiepingen was ingestort. Reddingswerkers zoeken nog naar overlevenden onder het puin. Het gebouw was nog in aanbouw. Het stortte rond 10.00 uur lokale tijd plotseling in, terwijl bouwvakkers op het terrein aanwezig waren. Zij kwamen vast te zitten onder het puin. Uit voorlopig onderzoek blijkt dat de bov",
-      "url": "https://nos.nl/l/2639301",
-      "datum": "2 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'Vermist' zeiljacht Luna meldt zich, niemand gewond na storm",
-      "beschrijving": "Het zeiljacht Luna, dat eerder als vermist werd opgegeven, heeft zich gemeld bij de Kustwacht. De vier opvarenden kwamen in de problemen door de storm. Niemand is gewond geraakt. Gisteravond begonnen de Koninklijke Nederlandse Redding Maatschappij (KNRM) en de Kustwacht een grootschalige zoekactie, nadat iemand alarm had geslagen. Die had al ongeveer 24 uur niets meer van de opvarenden vernomen. D",
-      "url": "https://nos.nl/l/2639287",
-      "datum": "3 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Iran meldt vernietiging Amerikaanse radar in Bahrein, leger VS ontkent",
-      "beschrijving": "De Iraanse Revolutionaire Garde (IRG) zegt een Amerikaans radarsysteem in Bahrein te hebben vernietigd. Het leger van de VS zegt dat er geen schade is. Het Iraanse persbureau Tasnim citeert een verklaring van de IRG, waarin staat dat de aanval een reactie is op een Amerikaanse luchtaanval op een telecommunicatietoren in Sirik. De vannacht geraakte installatie is een vroegwaarschuwingsradar, een kr",
-      "url": "https://nos.nl/l/2639264",
-      "datum": "5 uur geleden",
-      "regio": "Iran",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Schiphol geeft 29 passagiersbussen aan Oekraïne, 'essentieel voor onderwijs'",
-      "beschrijving": "Oekraïne heeft passagiersbussen gekregen van luchthaven Schiphol. Het gaat om 29 elektrische bussen die tot nu toe werden gebruikt om gelande passagiers van het vliegtuig naar de gate te brengen. De voertuigen worden naar Oekraïne gebracht om daar kinderen van en naar school te brengen en voor stadsvervoer. Gisteren werden de bussen overgedragen aan de ambassade van Oekraïne. Schiphol-topman Piete",
-      "url": "https://nos.nl/l/2639248",
-      "datum": "8 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Wekdienst 13/11: Hoe nu verder in Den Haag? • Oranje treft Griekenland in Nations League",
-      "beschrijving": "Goedemorgen! In Den Haag komen premier Jetten en de vicepremiers samen om te praten over hoe het nu verder moet met het minderheidskabinet. In de avond treft het Nederlands elftal Griekenland in de Nations League. Eerst het weer: Vandaag vooral in de kustgebieden buien, afgewisseld door zonnige perioden. Het wordt 9 of 10 graden bij een matige en aan zee krachtige noordwestenwind. De verwachting v",
-      "url": "https://nos.nl/l/2639245",
-      "datum": "8 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "China warns against fresh US chip curbs",
-      "beschrijving": "China has warned the US against imposing additional export controls on AI chips.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
-      "datum": "33 min geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
-      "beschrijving": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
-      "datum": "56 min geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
-      "beschrijving": "Israel&#039;s move came after France banned a prominent Israeli settler from entering the country.",
-      "url": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
     },
     {
       "titel": "Watch: How a server outage took down Microsoft Teams and Outlook",
       "beschrijving": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
       "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "datum": "9 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "beschrijving": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "beschrijving": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Democratic Senate leader Schumer set to face leadership challenge",
+      "beschrijving": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
       "datum": "2 uur geleden",
+      "regio": "Europa",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Rosalía scoops historic third best album award at Latin Grammys",
+      "beschrijving": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "beschrijving": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "beschrijving": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "datum": "19 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "beschrijving": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "datum": "18 uur geleden",
-      "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
-    "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-    "UN watchdog 'increasingly concerned' over Iran nuclear site",
-    "Na historische verkiezingswinst begint nu het echte werk voor de Democraten",
-    "Opgestapte Nvidia-topman moet getuigen voor Senaat om affaires",
-    "Kremlin: Europa mag meepraten over Oekraïne 'als het bijdraagt aan vredesproces'",
-    "Olie-export krabbelt op richting niveau van voor Iran-oorlog, benzineprijzen dalen",
-    "Pro-Russische Oekraïense journalist gewond door autobom in Rusland",
-    "Weer gebouw in aanbouw ingestort in Nairobi: zes doden",
-    "'Vermist' zeiljacht Luna meldt zich, niemand gewond na storm"
+    "Wolven doden 35 schapen in België, dodelijkste aanval sinds terugkeer roofdier",
+    "At least 10 killed in Guinea clashes over gold mining ban",
+    "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+    "Alle vliegtuigen in VS aan grond gehouden",
+    "Aanvaring vrachtschip met cruiseschip op Mississippi, mensen in het water",
+    "Politie opent zaak naar komiek David Wallliams wegens 'ernstige seksuele misdrijven'",
+    "Twee vrouwen aangeklaagd voor medeplichtigheid aan dodelijke schietpartij in Stade",
+    "Vijf Europese landen en EU vertegenwoordigen Europa bij vredesgesprekken met Oekraïne",
+    "Nederlandse influencer opgepakt door Amerikaanse immigratiedienst ICE",
+    "Na Trumps deal met Poetin nog geen druppel Russische diesel aangekomen in de VS"
   ]
 }
