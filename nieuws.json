@@ -1,56 +1,74 @@
 {
-  "bijgewerkt": "21 Nov 2026 01:12 UTC",
+  "bijgewerkt": "21 Nov 2026 09:24 UTC",
   "artikelen": [
     {
       "titel": "Denemarken zet Russische gezant uit na verijdelde aanslag op Oekraïense rapper",
       "beschrijving": "De Deense inlichtingendienst PET verdenkt Rusland ervan dat het een criminele organisatie in Denemarken in de arm heeft genomen om een bekende Oekraïense rapper op Deens grondgebied te liquideren. Vanwege de kwestie zet Denemarken de defensieattaché op de Russische ambassade in Kopenhagen het land uit. De man krijgt van de Deense autoriteiten zeven dagen om het land te verlaten, zei minister Rasmu",
       "url": "https://nos.nl/l/2640346",
-      "datum": "4 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Iran war live: Saudi-led coalition downs Houthi missiles",
-      "beschrijving": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Iran",
+      "titel": "Swimmer braves tanker attacks to expose Hormuz contamination",
+      "beschrijving": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+      "datum": "45 min geleden",
+      "regio": "Gaza/Israël",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-      "beschrijving": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
-      "datum": "4 uur geleden",
+      "titel": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
+      "beschrijving": "The blaze erupted at the Hartha power station and spread to nearby houses.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+      "datum": "1 uur geleden",
       "regio": "Wereld",
       "urgentie": "hoog",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "beschrijving": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "hoog",
-      "bron": "BBC World"
+      "titel": "Wekdienst 21/11: Klimaattop Turkije loopt uit • Groot Dictee op NPO Radio 1",
+      "beschrijving": "Goedemorgen! Vandaag zijn landen nog steeds niet uitgepraat op de klimaattop in Turkije, hoewel die eigenlijk gisteren al afgerond had moeten zijn. En het Groot Dictee der Nederlandse Taal is weer te horen op NPO Radio 1. Eerst het weer: Vandaag wisselen zon, wolken en enkele buien elkaar af. Het wordt 8 tot 10 graden bij een matige westenwind. De komende dagen is het een stuk kouder, met begin vo",
+      "url": "https://nos.nl/l/2640381",
+      "datum": "2 uur geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "midden",
+      "bron": "NOS"
     },
     {
-      "titel": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-      "beschrijving": "EU warns COP31 risks turning into a &#039;fossil summit&#039; as critical climate commitments are omitted from the draft deal.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
-      "datum": "2 uur geleden",
+      "titel": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
+      "beschrijving": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support.",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
+      "datum": "50 min geleden",
       "regio": "Wereld",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
+      "titel": "'Internationaal Strafhof dreigt lege huls te worden door concessies aan VS'",
+      "beschrijving": "Experts maken zich zorgen over de toekomst van het internationaal recht als de Verenigde Staten concessies weten af te dwingen bij het Internationaal Strafhof ICC. \"Als je toegeeft, reduceer je het ICC tot een lege huls\", waarschuwt Iva Vukusic, historicus en genocide-deskundige aan de Universiteit Utrecht. \"De Amerikaanse eisen zijn totaal niet legitiem.\" De laatste dagen wordt er druk gespeculee",
+      "url": "https://nos.nl/l/2640368",
+      "datum": "3 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Man schuldig bevonden aan verwoestende bosbranden Los Angeles",
+      "beschrijving": "In de Verenigde Staten is een man door een rechtbankjury schuldig bevonden aan het aansteken van wat uiteindelijk een van de meest verwoestende bosbranden in de geschiedenis van Californië zou worden. Bij de brand, die wekenlang niet de blussen was, kwamen vorig jaar twaalf mensen om het leven. Complete wijken in Los Angeles en Malibu werden verwoest, bijna 7000 gebouwen brandden af. De 30-jarige ",
+      "url": "https://nos.nl/l/2640359",
+      "datum": "8 uur geleden",
+      "regio": "VS",
+      "urgentie": "laag",
+      "bron": "NOS"
+    },
+    {
       "titel": "Amerikaanse rechter keurt miljardenschikking Bayer over Roundup goed",
       "beschrijving": "Een Amerikaanse rechter heeft een schikking ter waarde van 7,25 miljard dollar goedgekeurd in een zaak over het onkruidverdelgingsmiddel Roundup. Het Duitse chemieconcern Bayer schikt daarmee tienduizenden claims van Amerikaanse kankerpatiënten. De schikking geldt voor mensen die stellen dat ze door het gebruik van Roundup non-hodgkinlymfoom, een verzamelnaam voor lymfeklierkanker, hebben gekregen",
       "url": "https://nos.nl/l/2640358",
-      "datum": "1 uur geleden",
+      "datum": "9 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -59,7 +77,7 @@
       "titel": "Franse senaat keurt wet goed die schietende politieagenten beschermt",
       "beschrijving": "De Franse senaat heeft een wet goedgekeurd die politieagenten automatisch beschermt nadat zij hun vuurwapen hebben gebruikt. Het uitgangspunt in de nieuwe wet is dat agenten binnen de wettelijke kaders hebben gehandeld wanneer zij hun wapen trekken. Minister Nuñez van Binnenlandse Zaken zegt dat de wet nodig is om te voorkomen dat \"het veeleisende werk van de veiligheidsdiensten in twijfel wordt g",
       "url": "https://nos.nl/l/2640354",
-      "datum": "3 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -68,7 +86,7 @@
       "titel": "Oud-president Bolsonaro van Brazilië weer in het ziekenhuis",
       "beschrijving": "Oud-president Bolsonaro van Brazilië is met ernstige pijn in zijn buik opgenomen in een ziekenhuis in Brasilia. Zijn zoon Carlos heeft dat bekendgemaakt op X. De 71-jarige oud-president heeft huisarrest. Vorig jaar september werd hij veroordeeld tot 27 jaar cel, omdat hij probeerde een staatsgreep te plegen nadat hij de presidentsverkiezingen van 2022 had verloren van zijn tegenstander Lula. Vanwe",
       "url": "https://nos.nl/l/2640351",
-      "datum": "3 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -77,7 +95,7 @@
       "titel": "Muziekicoon Rudy Plaate (89) overleden, de man die Curaçao een muzikale stem gaf",
       "beschrijving": "Hij schreef het lied dat iedere Curaçaoënaar kent. Hij bezong de schoonheid van zijn eiland, maar ook de kleine ergernissen, de politiek en de mensen op straat. Rudy Plaate, de zingende groenteboer die uitgroeide tot een van de belangrijkste componisten van de Nederlandse Caribische eilanden, is op 89-jarige leeftijd overleden. Vakgenoten herinneren zich een man die generaties muzikanten heeft gev",
       "url": "https://nos.nl/l/2640344",
-      "datum": "4 uur geleden",
+      "datum": "12 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -86,7 +104,7 @@
       "titel": "Zuid-Korea betrapt 111 studenten op spieken bij cruciaal examen",
       "beschrijving": "Zuid-Korea is in rep en roer door onthullingen over fraude tijdens het belangrijkste schoolexamen in het land. Ondanks scherpe maatregelen van de overheid zijn 111 Zuid-Koreanen betrapt op spieken; een absolute doodzonde in het land en al helemaal tijdens de Suneung, het toelatingsexamen voor de universiteit. Voor de half miljoen Koreanen die elk jaar examen doen, komt het hele land doorgaans tot ",
       "url": "https://nos.nl/l/2640342",
-      "datum": "5 uur geleden",
+      "datum": "13 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
@@ -95,80 +113,53 @@
       "titel": "Genocide-uitspraak over Rohingya schept precedent: 'Slecht nieuws voor Israël'",
       "beschrijving": "De veroordeling van Myanmar voor genocide gisteren door het Internationaal Gerechtshof in Den Haag kan volgens experts grote gevolgen hebben voor andere genocidezaken die bij het hof lopen. Die uitspraak ging over het lot van de Rohingya, maar het schept een precedent. Het hof behandelt momenteel drie genocidezaken. Oekraïne en Rusland beschuldigen elkaar van genocide, Zuid-Afrika houdt Israël aan",
       "url": "https://nos.nl/l/2640335",
-      "datum": "5 uur geleden",
+      "datum": "14 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Dreigende taal vanuit Rusland aan Nederlandse diplomaten na drone-inslag",
-      "beschrijving": "Rusland heeft dreigende taal geuit richting Nederlandse diplomaten in Oekraïne. \"Nederland kan beter het advies aan alle buitenlandse diplomaten serieus nemen om Kyiv te verlaten\", meldt het officiële Russische persbureau Tass. Over de aanleiding wordt niets gezegd, maar de timing, kort na de drone-inslag bij de Nederlandse ambassade in Kyiv, is opvallend. Dit soort dreigementen zijn niet nieuw. H",
-      "url": "https://nos.nl/l/2640333",
-      "datum": "6 uur geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Extreemrechtse Britse activist veroordeeld voor leksteken migrantenboot",
-      "beschrijving": "In het Verenigd Koninkrijk is de Britse anti-immigratieactivist Daniel Thomas veroordeeld tot vijftien maanden celstraf vanwege het leksteken van een migrantenboot in het Kanaal. In september werd een rubberboot met migranten door hulpdiensten geëvacueerd. Op beelden van zijn eigen livestream is te zien hoe Thomas naar de boot vaart en die leksteekt terwijl er alleen nog een Franse hulpverlener aa",
-      "url": "https://nos.nl/l/2640325",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Strafrechtelijk onderzoek naar acteur Depardieu voor verkrachting op filmset",
-      "beschrijving": "Een paar dagen nadat de Franse acteur Gérard Depardieu zijn hoger beroep had ingetrokken tegen zijn veroordeling voor de aanranding van twee vrouwen, is hij opnieuw in opspraak geraakt. Het Franse onderzoeksplatform Mediapart schrijft dat een actrice hem beschuldigt van verkrachting op de filmset van de Franse komedie Thalasso, eind 2018. De actrice zou in mei 2025 aangifte tegen Depardieu hebben ",
-      "url": "https://nos.nl/l/2640317",
-      "datum": "7 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-      "beschrijving": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+      "titel": "Can mediation succeed in a war-torn world? | Episode 1",
+      "beschrijving": "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.",
+      "url": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
       "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-      "beschrijving": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+      "titel": "Emergency crews in Ukraine hit by a double-tap strike",
+      "beschrijving": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
       "datum": "2 uur geleden",
-      "regio": "China/Taiwan",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Trump threatens tax on US tech firms building AI data centres abroad",
-      "beschrijving": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
-      "datum": "4 uur geleden",
-      "regio": "VS",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Trump defends Putin relationship, warns AI data centres must stay in US",
-      "beschrijving": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
-      "datum": "4 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "beschrijving": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "datum": "12 uur geleden",
+      "titel": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "beschrijving": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
       "regio": "Oekraïne",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Man convicted of starting Palisades fire in Los Angeles",
+      "beschrijving": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "datum": "4 uur geleden",
+      "regio": "Wereld",
+      "urgentie": "laag",
+      "bron": "BBC World"
+    },
+    {
+      "titel": "Trafalgar Square Christmas tree felled in Norway",
+      "beschrijving": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+      "datum": "1 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
       "bron": "BBC World"
     },
@@ -176,7 +167,7 @@
       "titel": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
       "beschrijving": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
       "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "datum": "3 uur geleden",
+      "datum": "11 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
@@ -184,14 +175,14 @@
   ],
   "ticker": [
     "Denemarken zet Russische gezant uit na verijdelde aanslag op Oekraïense rapper",
-    "Iran war live: Saudi-led coalition downs Houthi missiles",
-    "Two Salvadoran soldiers killed in Haiti while handling explosives",
-    "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-    "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+    "Swimmer braves tanker attacks to expose Hormuz contamination",
+    "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
+    "Wekdienst 21/11: Klimaattop Turkije loopt uit • Groot Dictee op NPO Radio 1",
+    "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
+    "'Internationaal Strafhof dreigt lege huls te worden door concessies aan VS'",
+    "Man schuldig bevonden aan verwoestende bosbranden Los Angeles",
     "Amerikaanse rechter keurt miljardenschikking Bayer over Roundup goed",
     "Franse senaat keurt wet goed die schietende politieagenten beschermt",
-    "Oud-president Bolsonaro van Brazilië weer in het ziekenhuis",
-    "Muziekicoon Rudy Plaate (89) overleden, de man die Curaçao een muzikale stem gaf",
-    "Zuid-Korea betrapt 111 studenten op spieken bij cruciaal examen"
+    "Oud-president Bolsonaro van Brazilië weer in het ziekenhuis"
   ]
 }
