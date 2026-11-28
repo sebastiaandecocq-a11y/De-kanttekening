@@ -1,188 +1,152 @@
 {
-  "bijgewerkt": "27 Nov 2026 17:57 UTC",
+  "bijgewerkt": "28 Nov 2026 01:19 UTC",
   "artikelen": [
     {
-      "titel": "Gewonde bij droneaanval in Sint-Petersburg, ook explosies ten zuiden van Moskou",
-      "beschrijving": "Bij een droneaanval op de Russische stad Sint-Petersburg is vannacht volgens de lokale autoriteiten een vrouw gewond geraakt. Ook zou een energiecentrale zijn bestookt in de regio Toela, ten zuiden van Moskou. Volgens het stadsbestuur van Sint-Petersburg, de op een na grootste stad van Rusland, vlogen 55 drones in de richting van de stad. Brokstukken van neergehaalde drones zouden zijn neergekomen",
-      "url": "https://nos.nl/l/2641212",
-      "datum": "8 uur geleden",
+      "titel": "Bewakers Artsen zonder Grenzen gedood in Gaza, Israël spreekt van Hamas-leden",
+      "beschrijving": "Artsen zonder Grenzen (AzG) heeft vol afschuw gereageerd op een Israëlische aanval op de Gazastrook waarbij twee medewerkers zijn gedood. De hulporganisatie is diep bedroefd en woedend over de dood van de mannen en wil dat Israël ter verantwoording wordt geroepen. Het Israëlische leger erkent de luchtaanval in Gaza-Stad, maar zegt dat de twee in werkelijkheid leden van de gewapende vleugel van Ham",
+      "url": "https://nos.nl/l/2641333",
+      "datum": "7 min geleden",
+      "regio": "Gaza/Israël",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Britse ITV News toont beelden van live aangestuurde aanslag in VK vanuit Irak",
+      "beschrijving": "Er zijn beelden opgedoken waarop te zien is hoe een aanslag in Londen, waarbij brand werd gesticht, live wordt aangestuurd vanuit een loods in de Iraakse hoofdstad Bagdad. De Britse televisiezender ITV News heeft de beelden in handen gekregen. Op de beelden is te zien hoe een man via een videogesprek instructies geeft voor de brandstichting. De jongen die de brand sticht, filmt zijn handelingen. O",
+      "url": "https://nos.nl/l/2641328",
+      "datum": "2 uur geleden",
+      "regio": "Midden-Oosten",
+      "urgentie": "hoog",
+      "bron": "NOS"
+    },
+    {
+      "titel": "Polen wil sneller Russische drones en raketten kunnen neerhalen: 'We kunnen niet wachten'",
+      "beschrijving": "Maar liefst drie Russische raketten kwamen een week geleden neer in het zuidoosten van Polen. En dat op de dag dat internationale media waren uitgenodigd bij een oefening van Europese bondgenoten niet ver van de grens met Oekraïne. \"Dat was zeker geen toeval\", reageerde de Poolse minister van Defensie tegenover de NOS. En voor Polen is de maat nu vol. Na alle Russische schendingen van het luchtrui",
+      "url": "https://nos.nl/l/2641325",
+      "datum": "3 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "hoog",
       "bron": "NOS"
     },
     {
-      "titel": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
-      "beschrijving": "Prime Minister Pedro Sanchez makes last bid to beat right-wing parties before Spanish vote on Sunday.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
-      "datum": "41 min geleden",
+      "titel": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+      "beschrijving": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+      "datum": "1 uur geleden",
+      "regio": "Iran",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+      "beschrijving": "Voters will decide on Saturday whether to scrap the country&#039;s &#039;nuclear-free homeland&#039; policy.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "China/Taiwan",
+      "urgentie": "hoog",
+      "bron": "Al Jazeera"
+    },
+    {
+      "titel": "Van loze beloftes tot torenhoge huren: woningcrisis domineert Spaanse verkiezingen",
+      "beschrijving": "De regering is erover gevallen en het is een van de belangrijkste thema's tijdens de verkiezingscampagne: de woningcrisis in Spaanse steden. Vooral jongeren en mensen met een laag inkomen hebben moeite om een betaalbare woning te vinden. Zondag gaat het bij de Spaanse verkiezingen tussen grofweg twee oplossingen. Rechts wil meer bouwen en private partijen inzetten. Links richt zich op meer en bete",
+      "url": "https://nos.nl/l/2641306",
+      "datum": "5 uur geleden",
       "regio": "Wereld",
+      "urgentie": "midden",
+      "bron": "NOS"
+    },
+    {
+      "titel": "US military says it disabled merchant ship trying to breach Iran blockade",
+      "beschrijving": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+      "datum": "2 uur geleden",
+      "regio": "Iran",
       "urgentie": "midden",
       "bron": "Al Jazeera"
     },
     {
-      "titel": "Leaders clash in final Spain election debate as housing dominates run-in",
-      "beschrijving": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-      "datum": "11 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "midden",
-      "bron": "BBC World"
-    },
-    {
-      "titel": "Podcast De Dag: de negen levens van de Spaanse premier",
-      "beschrijving": "Komende zondag gaat Spanje naar de stembus. Blijft de Spaanse socialistische premier Pedro Sánchez aan de macht of maakt Spanje een ruk naar rechts? De peilingen laten een nek-aan-nekrace zien. Ook na de uitslag gaat het moeilijk worden om een coalitie te smeden voor Sanchez, maar deze kat met negen levens is al vaker opnieuw opgestaan. Luister hier; Deze aflevering van De Dag luister je via NPO L",
-      "url": "https://nos.nl/l/2641282",
-      "datum": "1 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Man vergeet sleutelkaart van hotel en klopt naakt aan bij Duitse politie",
-      "beschrijving": "De Duitse politie in Lübeck is afgelopen nacht verrast door een wel erg schaars geklede toerist. Een man met enkel een boodschappentas om zijn onderlichaam klopte vannacht aan bij het politiebureau in de Noord-Duitse stad. Volgens de politie vertelde de man dat hij even zijn hotelkamer had verlaten om zijn auto te controleren. Hij had daarbij geen kleren aangetrokken. Vervolgens bleek dat hij zijn",
-      "url": "https://nos.nl/l/2641270",
+      "titel": "25 jaar cel geëist tegen Canadees die gif verzond aan kwetsbare mensen",
+      "beschrijving": "Aanklagers in Canada hebben 25 jaar cel geëist tegen een man die wereldwijd gif verkocht aan mensen die een einde aan hun leven wilden maken. Kenneth Law (61) heeft bekend dat hij de zelfdodingspakketten verstuurde. Law werd al in de zomer van 2023 opgepakt. Volgens de aanklagers was hij puur uit op financieel gewin. Ze omschreven hem als een gewetenloze crimineel die misbruik maakte van kwetsbare",
+      "url": "https://nos.nl/l/2641330",
       "datum": "2 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Ontsnapping moordverdachte in Sri Lanka mislukt door botsing met olifant",
-      "beschrijving": "In Sri Lanka is een misdadiger tijdens zijn ontsnapping op een scooter op een olifant gebotst. De man (49) wordt ervan verdacht dat hij een vrouw heeft doodgestoken in haar huis. Na de botsing met het dier werd de man gearresteerd, zegt de Sri Lankaanse politie tegen persbureau AFP. De olifant liep plotseling vanuit de jungle de weg op. Getuigen verklaarden dat het dier na de botsing ongedeerd lee",
-      "url": "https://nos.nl/l/2641262",
-      "datum": "3 uur geleden",
+      "titel": "Servische Studentenlijst schuift scheikundehoogleraar naar voren als presidentskandidaat",
+      "beschrijving": "Een Servische scheikundeprofessor is in de race om president van Servië te worden. De Studentenlijst, de partij die in oktober de parlementsverkiezingen won, heeft Radomir Saicic (65) naar voren geschoven als presidentskandidaat. Hij kan hierdoor mogelijk de in september opgestapte president Vucic opvolgen. Gisteren werd bekend dat Serviërs op 27 december, over een maand, naar de stembus mogen van",
+      "url": "https://nos.nl/l/2641315",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Botsing met 37 voertuigen op Zwitserse snelweg, geen ernstig gewonden",
-      "beschrijving": "Vanochtend vroeg was er op de Zwitserse snelweg A1 een massale kettingbotsing. Rond 05.45 uur botsten ten oosten van Zürich en in de richting van de stad Winterthur 37 voertuigen op elkaar. Volgens de lokale politie waren het 23 personenauto's, 6 bestelbusjes en 8 vrachtwagens. Tien mensen raakten gewond, maar niemand ernstig. Wat de oorzaak is van het ongeluk is nog onduidelijk en wordt onderzoch",
-      "url": "https://nos.nl/l/2641254",
-      "datum": "3 uur geleden",
+      "titel": "Na commotie eert Margraten zwarte bevrijders opnieuw: 'Nu nog op begraafplaats zelf'",
+      "beschrijving": "In Margraten is vandaag een nieuw informatiepaneel onthuld voor zwarte Amerikaanse militairen die Nederland hebben bevrijd in de Tweede Wereldoorlog. Het paneel werd niet geplaatst in het bezoekerscentrum van de Amerikaanse begraafplaats, waar vorig jaar twee panelen verdwenen, maar vlak bij het gemeentehuis van het Zuid-Limburgse dorp. Met de onthulling heeft de gemeente antwoord gegeven op de fl",
+      "url": "https://nos.nl/l/2641314",
+      "datum": "4 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "Rechter: Staat hoeft Gazanen niet te helpen om naar Nederland te komen",
-      "beschrijving": "De Nederlandse staat hoeft 111 eisers uit Gaza niet te helpen bij het ophalen van een visum waarmee zij toegang krijgen tot Nederland. Dat heeft de rechtbank in Den Haag bepaald in een kort geding. Omdat er geen Nederlandse diplomatieke vertegenwoordiging is in Gaza, moeten de Palestijnen naar de Nederlandse ambassade in Jordanië. Daar kunnen zij een machtiging tot kort verblijf afhalen, waarmee z",
-      "url": "https://nos.nl/l/2641243",
-      "datum": "5 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'Hackers breken in bij clouddienst Amerikaanse luchtmacht'",
-      "beschrijving": "Hackers hebben toegang gekregen tot het belangrijkste cloudplatform van de Amerikaanse luchtmacht. Dat meldt persbureau Reuters op basis van bronnen. Het gaat om Cloud One, waar onder meer data worden verzameld over radarsystemen en munitievoorraden op Amerikaanse luchtmachtbases. Een aantal bronnen zegt dat het systeem niet meer naar behoren werkt, maar het is volgens Reuters nog onduidelijk hoe ",
-      "url": "https://nos.nl/l/2641242",
-      "datum": "5 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "'Meer Russische sabotage in Europa, brandstichting en explosieven vaker ingezet'",
-      "beschrijving": "Het aantal Russische sabotageacties in Europa is in een jaar tijd met 16 procent gestegen, schrijft het International Institute for Strategic Studies (IISS) in een rapport. Die Britse denktank turfde het aantal meldingen over mogelijke Russische acties in de periode van september 2025 tot september 2026. Dat waren er rond de honderd. In die maanden is het gebruik van brandstichting en explosieven ",
-      "url": "https://nos.nl/l/2641236",
-      "datum": "5 uur geleden",
-      "regio": "Europa",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Hond van Zwitser blijkt wolf, dier in beslag genomen",
-      "beschrijving": "De Zwitserse autoriteiten hebben een wolf in beslag genomen die als huisdier in een tuin werd gehouden. Het dier was geregistreerd als hond en bleek als pup illegaal Zwitserland binnengebracht. De veterinaire dienst van het kanton Bern kreeg begin deze maand een melding. Die ging over een vermoedelijk illegale invoer van de wolf. Genetisch onderzoek wees uit dat het inderdaad om een wolf ging. Het",
-      "url": "https://nos.nl/l/2641230",
+      "titel": "Verkoop memoires Joe Biden valt vies tegen: slechts 21.000 exemplaren in eerste week",
+      "beschrijving": "De memoires van Joe Biden (84), Promise Me, America, is in de eerste week 21.000 keer verkocht. In het boek, dat op 17 november verscheen, beschrijft de voormalige Amerikaanse president zijn herinneringen aan zijn tijd in het Witte Huis. De verkoopcijfers vallen tegen, zeker in vergelijking met eerder verschenen memoires van Amerikaanse presidenten. Zo werden van A Promised Land van Barack Obama i",
+      "url": "https://nos.nl/l/2641301",
       "datum": "6 uur geleden",
-      "regio": "Wereld",
-      "urgentie": "laag",
-      "bron": "NOS"
-    },
-    {
-      "titel": "Politie vindt handboeien en bivakmuts bij omstreden De Slimste Mens-deelnemer El Hadri",
-      "beschrijving": "De Belgische politie heeft het huis doorzocht van de Belgische influencer en voormalig De Slimste Mens-deelnemer Mehdi El Hadri. Bij de huiszoeking zijn verschillende laptops en een mobiele telefoon in beslag genomen. Ook stuitte de politie in de woning op handboeien en een bivakmuts. Daarnaast is er een nieuwe aanklacht tegen El Hadri ingediend, schrijven meerdere Belgische media. Begin deze maan",
-      "url": "https://nos.nl/l/2641220",
-      "datum": "7 uur geleden",
       "regio": "Afrika",
       "urgentie": "laag",
       "bron": "NOS"
     },
     {
-      "titel": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
-      "beschrijving": "Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
-      "datum": "43 min geleden",
-      "regio": "Oekraïne",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
-      "beschrijving": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
-      "beschrijving": "Passengers advised to seek refunds via bankruptcy process, though guarantees are not assured, warns Norse Atlantic.",
-      "url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
-      "datum": "1 uur geleden",
+      "titel": "Doden en gewonden op migrantenboot onderweg naar Canarisch eiland",
+      "beschrijving": "Reddingswerkers hebben op een boot ruim 60 kilometer voor de kust van het Canarische eiland El Hierro zeker acht doden en zes migranten in kritieke toestand aangetroffen. De reddingsdienst rukte uit na een melding over een op drift geraakte boot. De boot, die stuurloos was geraakt, was ruim een week geleden met veel meer mensen aan boord vertrokken vanuit de Gambiaanse hoofdstad Banjul, schrijft 2",
+      "url": "https://nos.nl/l/2641292",
+      "datum": "7 uur geleden",
       "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
-      "titel": "Trump backs Iraqi PM’s oil smuggling crackdown",
-      "beschrijving": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "VS",
+      "titel": "Podcast De Dag: de negen levens van de Spaanse premier",
+      "beschrijving": "Komende zondag gaat Spanje naar de stembus. Blijft de Spaanse socialistische premier Pedro Sánchez aan de macht of maakt Spanje een ruk naar rechts? De peilingen laten een nek-aan-nekrace zien. Ook na de uitslag gaat het moeilijk worden om een coalitie te smeden voor Sanchez, maar deze kat met negen levens is al vaker opnieuw opgestaan. Luister hier; Deze aflevering van De Dag luister je via NPO L",
+      "url": "https://nos.nl/l/2641282",
+      "datum": "9 uur geleden",
+      "regio": "Wereld",
       "urgentie": "laag",
-      "bron": "Al Jazeera"
-    },
-    {
-      "titel": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
-      "beschrijving": "As Gaza remains under Israeli bombardment, US envoy Jared Kushner calls its reconstruction a ‘huge act of kindness&#039;.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
-      "datum": "1 uur geleden",
-      "regio": "Gaza/Israël",
-      "urgentie": "laag",
-      "bron": "Al Jazeera"
+      "bron": "NOS"
     },
     {
       "titel": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "beschrijving": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "datum": "8 uur geleden",
+      "datum": "7 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     },
     {
-      "titel": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+      "titel": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
       "beschrijving": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
       "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "datum": "2 uur geleden",
+      "datum": "6 uur geleden",
       "regio": "Oekraïne",
       "urgentie": "laag",
       "bron": "BBC World"
     }
   ],
   "ticker": [
-    "Gewonde bij droneaanval in Sint-Petersburg, ook explosies ten zuiden van Moskou",
-    "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
-    "Leaders clash in final Spain election debate as housing dominates run-in",
-    "Podcast De Dag: de negen levens van de Spaanse premier",
-    "Man vergeet sleutelkaart van hotel en klopt naakt aan bij Duitse politie",
-    "Ontsnapping moordverdachte in Sri Lanka mislukt door botsing met olifant",
-    "Botsing met 37 voertuigen op Zwitserse snelweg, geen ernstig gewonden",
-    "Rechter: Staat hoeft Gazanen niet te helpen om naar Nederland te komen",
-    "'Hackers breken in bij clouddienst Amerikaanse luchtmacht'",
-    "'Meer Russische sabotage in Europa, brandstichting en explosieven vaker ingezet'"
+    "Bewakers Artsen zonder Grenzen gedood in Gaza, Israël spreekt van Hamas-leden",
+    "Britse ITV News toont beelden van live aangestuurde aanslag in VK vanuit Irak",
+    "Polen wil sneller Russische drones en raketten kunnen neerhalen: 'We kunnen niet wachten'",
+    "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+    "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+    "Van loze beloftes tot torenhoge huren: woningcrisis domineert Spaanse verkiezingen",
+    "US military says it disabled merchant ship trying to breach Iran blockade",
+    "25 jaar cel geëist tegen Canadees die gif verzond aan kwetsbare mensen",
+    "Servische Studentenlijst schuift scheikundehoogleraar naar voren als presidentskandidaat",
+    "Na commotie eert Margraten zwarte bevrijders opnieuw: 'Nu nog op begraafplaats zelf'"
   ]
 }
